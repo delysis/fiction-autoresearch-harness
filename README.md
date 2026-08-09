@@ -1,4 +1,4 @@
-# Juicy Chastity Fiction Lab
+# Fiction Autoresearch Harness
 
 This directory is the durable local mirror of the project workspace. Its folder
 numbers match the Google Drive project structure.
@@ -75,7 +75,7 @@ manuscript editor paths now stop with an error. `05_releases` remains empty.
    psychological explanations, evidence discipline, prayer, confession, and
    institutional transformation.
 
-## Local Gemma 4 fiction harness
+## Local Gemma 4 fiction harness (Rust)
 
 `fiction_harness` implements the controlled S01 comparison:
 
