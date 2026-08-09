@@ -1,0 +1,25 @@
+{
+  "query_id": "charged-restraint.v1",
+  "query_text": "Two adults move from wary conversation into mutually chosen touch and a kiss that stops while desire remains active; restraint changes trust and future possibility, with subtext, humor, physical clarity, and reciprocal initiative.",
+  "stage": "charged-restraint",
+  "required_facets": ["adult", "romantic-charge"],
+  "preferred_facets": ["choice-and-agency", "dialogue-rich", "social-constraint", "sensory-dense", "plot-coupled"],
+  "excluded_facets": ["coercive", "counterexample", "explicit-intimacy"],
+  "desired_features": {
+    "dialogue_ratio": 0.28,
+    "romance_density": 0.022,
+    "conflict_density": 0.012,
+    "agency_density": 0.022,
+    "sensory_channels": 4,
+    "interiority_density": 0.009,
+    "intimacy_action_density": 0.010,
+    "explicit_intimacy_density": 0.0,
+    "sentence_length_mean": 16,
+    "sentence_length_variation": 10
+  },
+  "maximum_scenes": 10,
+  "maximum_per_work": 3,
+  "source_token_budget": 24000,
+  "mmr_lambda": 0.72,
+  "minimum_stage_heat": 0.12
+}

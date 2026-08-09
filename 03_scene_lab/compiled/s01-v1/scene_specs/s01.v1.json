@@ -1,0 +1,58 @@
+{
+  "aftermath": "Jonah recognizes what she did. Their first real connection is shared perception, not confession or touch.",
+  "beat_map": [
+    "Mara clocks the compound’s beauty and the social asymmetry hidden inside its studied casualness.",
+    "Adrian frames the game: alignment begins by learning how much people already communicate without words.",
+    "Livia performs two startling reads, including one that lands in Mara’s body before it reaches language.",
+    "Jonah’s refusal to narrate Mara for an audience marks him as the first person who can see without taking.",
+    "The wrist-contact task produces a near-perfect result and an erotic jolt.",
+    "Mara broadens attention, detects the cue channel, and invents a silent control.",
+    "The apparent miracle partially collapses; a smaller mystery remains.",
+    "Mara accepts the fellowship for a reason that is now both intellectual and romantic."
+  ],
+  "continuity_facts": [
+    "Mara is highly observant but not yet confident in her interpretation.",
+    "Livia is genuinely skilled; the scene does not reduce her to fraud.",
+    "Jonah’s erotic appeal first appears as restraint under social pressure.",
+    "Fulcrum treats methodological brilliance and interpersonal exposure as one status economy."
+  ],
+  "desire": "She wants to prove that goodness and technical competence can survive contact with the glamorous people who already seem to know one another’s minds.",
+  "function": "Entrance and enchantment",
+  "heat_ceiling": "Maximum on-page erotic charge without graphic sex acts or genital description; the pilot’s central couple does not consummate.",
+  "obstacle": "The welcome ritual converts ordinary nonverbal perception into an intoxicating status game; Livia reads Mara with unnerving accuracy while Jonah refuses to perform her for the room.",
+  "opening_image": "At sunset, Mara arrives at Fulcrum’s redwood compound carrying one hard-sided suitcase and a bakery box from her church.",
+  "pacing_targets": [
+    "0–10% arrival and hook",
+    "10–25% Fulcrum enchantment",
+    "25–45% Livia's uncanny reads",
+    "45–65% wrist-contact exercise and erotic charge",
+    "65–82% Mara's control",
+    "82–94% partial collapse and residual mystery",
+    "94–100% Jonah's recognition, Mara's decision, and chapter hook"
+  ],
+  "pov": "Mara",
+  "pressure_ladder": [
+    "Flattery",
+    "public calibration task",
+    "apparent telepathy",
+    "erotic dyadic exercise",
+    "invitation to surrender one private fact as proof of epistemic courage."
+  ],
+  "record_type": "SceneSpec",
+  "scene_id": "S01",
+  "schema_version": "fiction-harness.v1",
+  "source_ids": [
+    "MPC-01",
+    "MPC-05",
+    "MPC-07",
+    "LEV-01",
+    "LEV-02",
+    "LEV-06"
+  ],
+  "target_words_max": 3600,
+  "target_words_min": 2800,
+  "teaching_payload": "Desire can heighten perception without dictating action. Disciplined ambiguity is hotter and more powerful than either credulity or dismissal.",
+  "title": "The Calibration Game",
+  "turn": "Mara notices that Livia’s best read depends on a tiny cue from the partner touching Mara’s wrist. She does not expose it; she quietly changes the channel and watches the accuracy fall.",
+  "version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "emotional_offer": "Observation of newcomer",
+  "emotional_counteroffer": "Amused acknowledgment",
+  "relationship_history": "Acquaintances",
+  "present_stakes": "Introduction of unknown figure",
+  "dialogue_act_sequence": [
+    "Introduction statement",
+    "Identification query",
+    "Confirmation",
+    "Observation/Commentary"
+  ],
+  "body_language_counterpoint": "Stillness followed by slow turning",
+  "sensory_channels": [
+    "Sight",
+    "Auditory"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Seated group, standing newcomer",
+  "agency_actions": [
+    "Susie presents person",
+    "Burdon inquires",
+    "Haddo assumes pose",
+    "Haddo addresses Warren"
+  ],
+  "relationship_delta": "Slight shift in focus",
+  "story_state_change": "New character introduced",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

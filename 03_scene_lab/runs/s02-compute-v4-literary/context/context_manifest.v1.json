@@ -1,0 +1,132 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "author_conditioning": {
+    "author_profile_hash": "8f5fd4538b63a1bfd59bfab772fd9f4165f8b74e8493bd2ff27af827f2017d18",
+    "author_profile_id": "jane-austen.control.v1",
+    "conditioning_variant": "anonymous-profile",
+    "context_hash": "ec19c8ffa8f1fdf2baffda7602f9aa8b24272ca30a6b30d190f1488d605dc429",
+    "control_density": "medium",
+    "corpus_manifest_hash": "f3a83a1144ba472a0d0ca0e1435c21f9cc8188bb665d7d8695fa14962ff1ec9c",
+    "prompt_encoding": "xml",
+    "transformation_map_hash": "9252109ac6c41bef1a031e8c9b05c7e1644c653c61cea2cf471b1e634abb3f6e"
+  },
+  "comparison_arms": {
+    "base31_plan_to_instruction": {
+      "backtranslation": "requires an explicit corpus-derived author context and nonempty transformation-map hash; the accepted S01 tail is continuity only",
+      "compiler": "none; selected plan passed byte-identically",
+      "proposal_source": "gemma-4-31B-base-Q8_0",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "base_program_to_instruction": {
+      "compiler": "gemma-4-31B-it-Q8_0",
+      "proposal_source": "gemma-4-E2B-base-Q8_0",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "chat_direct": {
+      "proposal_source": "none",
+      "transport": "chat-completion",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "chat_with_base31_plan": {
+      "comparison": "paired transport ablation",
+      "proposal_source": "same locked 31B-base plan set used by the raw instruction writer",
+      "transport": "chat-completion",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "instruction_raw": {
+      "proposal_source": "none",
+      "transport": "raw-completion-with-explicit-turn-envelope",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "native_base": {
+      "proposal_source": "none",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-base-Q8_0"
+    },
+    "native_base_with_base31_plan": {
+      "comparison": "paired writer-checkpoint ablation",
+      "proposal_source": "same locked 31B-base plan set used by the instruction writer",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-base-Q8_0"
+    },
+    "verbalized_to_instruction": {
+      "compiler": "none; selected JSON is deterministically serialized and passed byte-identically",
+      "proposal_source": "31B-it verbalized-sampling tail distribution",
+      "writer": "gemma-4-31B-it-Q8_0"
+    }
+  },
+  "comparison_version": "s02-compute-comparison.v4",
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "feedback_source_kind": "bootstrap-codex",
+  "generation_prompt_words": 2620,
+  "macro_sequences": [
+    {
+      "beat_numbers": [
+        1,
+        2,
+        3
+      ],
+      "ending_visible": false,
+      "endpoint": "End with Mara less able to act because her initially plausible coping policy has narrowed her choices. Livia must have perceived one difficult thing accurately while overclaiming what that accuracy entitles her to do. Do not resolve the session or preview the walk home.",
+      "maximum_words": 1100,
+      "minimum_words": 875,
+      "sequence_id": "s02-seq-1-trap",
+      "target_words": 950,
+      "title": "Care becomes a trap"
+    },
+    {
+      "beat_numbers": [
+        4,
+        5,
+        6
+      ],
+      "ending_visible": false,
+      "endpoint": "End after Mara herself has changed the room's available choices through a refusal, question, or concrete action. The exit must now be possible because of what Mara did; stop before anyone ratifies it.",
+      "maximum_words": 1100,
+      "minimum_words": 875,
+      "sequence_id": "s02-seq-2-refusal",
+      "target_words": 950,
+      "title": "The room discovers it has no category for no"
+    },
+    {
+      "beat_numbers": [
+        7,
+        8,
+        9
+      ],
+      "ending_visible": true,
+      "endpoint": "Resolve the local boundary crisis with romantic hope-for-now: one mutually chosen kiss stops while still desired, the pair creates a shared stopping practice in their own character-specific language, and Mara freely chooses continued engagement. Jonah's restraint must cost or expose him, and a concrete unresolved Fulcrum observation must create the next story question.",
+      "maximum_words": 1400,
+      "minimum_words": 1100,
+      "sequence_id": "s02-seq-3-doorway",
+      "target_words": 1250,
+      "title": "Exit, restraint, and the doorway rule"
+    }
+  ],
+  "packet_hash": "4ab2eea36dab6a033352ee3bbe8ad678da12748b6f812d376d1beb8b3f7fc060",
+  "packet_words": 5751,
+  "record_type": "ContinuationContextManifest",
+  "rendered_prompt_hash": "516256757288ef5c809bcadb9c41da33da59baa5641ba29c930add3bf5a908bc",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "scene_id": "S02",
+  "shared_controls": {
+    "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+    "compact_packet_hash": "516256757288ef5c809bcadb9c41da33da59baa5641ba29c930add3bf5a908bc",
+    "generation_context": "short accepted-prefix tail, state changes, character invariants, observable mechanisms, and hard limits; evaluator ontology omitted",
+    "length_controller": "measured-sequence-floor-and-local-overflow-repair",
+    "macro_sequence_count": 3,
+    "seeds": [
+      22011,
+      22023,
+      22037,
+      22051,
+      22063,
+      22079,
+      22091,
+      22109
+    ]
+  },
+  "version": "s02-continuation.v4"
+}

@@ -1,0 +1,32 @@
+{
+  "emotional_offer": "Mild amusement",
+  "emotional_counteroffer": "Impressed observation",
+  "relationship_history": "Professional/Performer-Audience",
+  "present_stakes": "Demonstration of psychic ability",
+  "dialogue_act_sequence": [
+    "Assertion of minor skill",
+    "Dismissal of previous feat",
+    "Proposal of new activity"
+  ],
+  "body_language_counterpoint": "Bland smile versus graceful deference",
+  "sensory_channels": [
+    "Sight (limited)",
+    "Hearing"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": [
+    "Blindfolding",
+    "Card handling",
+    "Paper distribution",
+    "Light manipulation"
+  ],
+  "agency_actions": [
+    "Will accepts test",
+    "Seer performs reading",
+    "Seer directs audience participation"
+  ],
+  "relationship_delta": "Slight shift in perceived power",
+  "story_state_change": "Transition from demonstration to interactive experiment",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

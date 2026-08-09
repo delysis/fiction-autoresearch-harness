@@ -1,0 +1,299 @@
+{
+  "bundle_sets": [
+    {
+      "bundle_set_id": "s01-bundle-a-gift-status",
+      "phase_bundles": [
+        {
+          "bundle_hash": "5fbd97e1487739d1c516e72c827dff88ba36ee8804127262d4c81ee7b3a6f0fa",
+          "bundle_id": "s01-bundle-a-gift-status-arrival-status.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-arr-03",
+            "s01-arr-10"
+          ],
+          "ordered_atom_ids": [
+            "s01-arr-01",
+            "s01-arr-03",
+            "s01-arr-06",
+            "s01-arr-10"
+          ],
+          "required_atom_ids": [
+            "s01-arr-01",
+            "s01-arr-06"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "arrival-status",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        },
+        {
+          "bundle_hash": "08fda51dd00b4ca18993cb38e3820fa0f39c11e0f18992c878edc242c94680e7",
+          "bundle_id": "s01-bundle-a-gift-status-calibration-contact.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-cal-06",
+            "s01-cal-07"
+          ],
+          "ordered_atom_ids": [
+            "s01-cal-01",
+            "s01-cal-06",
+            "s01-cal-07",
+            "s01-cal-09"
+          ],
+          "required_atom_ids": [
+            "s01-cal-01",
+            "s01-cal-09"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "calibration-contact",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        },
+        {
+          "bundle_hash": "a07738bd5815c7b587b96013798640d1fb780c5d7395294255b43688364354e6",
+          "bundle_id": "s01-bundle-a-gift-status-counter-test-mystery.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-ctr-10",
+            "s01-ctr-06"
+          ],
+          "ordered_atom_ids": [
+            "s01-ctr-02",
+            "s01-ctr-03",
+            "s01-ctr-06",
+            "s01-ctr-10"
+          ],
+          "required_atom_ids": [
+            "s01-ctr-02",
+            "s01-ctr-03"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "counter-test-mystery",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        }
+      ],
+      "seed": 41017
+    },
+    {
+      "bundle_set_id": "s01-bundle-b-somatic-control",
+      "phase_bundles": [
+        {
+          "bundle_hash": "2302967f7dfd2eaccd7859c80a64a0f03e5256953ed031da6ae63ff8d08fbec6",
+          "bundle_id": "s01-bundle-b-somatic-control-arrival-status.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-arr-09",
+            "s01-arr-02"
+          ],
+          "ordered_atom_ids": [
+            "s01-arr-01",
+            "s01-arr-02",
+            "s01-arr-07",
+            "s01-arr-09"
+          ],
+          "required_atom_ids": [
+            "s01-arr-01",
+            "s01-arr-07"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "arrival-status",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        },
+        {
+          "bundle_hash": "31e6fd35223a74def77a28ae83da841843e4c3823748a20c9f42dde4e6831ebf",
+          "bundle_id": "s01-bundle-b-somatic-control-calibration-contact.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-cal-04",
+            "s01-cal-08"
+          ],
+          "ordered_atom_ids": [
+            "s01-cal-01",
+            "s01-cal-03",
+            "s01-cal-04",
+            "s01-cal-08"
+          ],
+          "required_atom_ids": [
+            "s01-cal-01",
+            "s01-cal-03"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "calibration-contact",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        },
+        {
+          "bundle_hash": "9057e368878377b3159af77d5ef14cd22b3cf6e4edfc21e338011c1f49368a6c",
+          "bundle_id": "s01-bundle-b-somatic-control-counter-test-mystery.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-ctr-09",
+            "s01-ctr-06"
+          ],
+          "ordered_atom_ids": [
+            "s01-ctr-01",
+            "s01-ctr-06",
+            "s01-ctr-08",
+            "s01-ctr-09"
+          ],
+          "required_atom_ids": [
+            "s01-ctr-01",
+            "s01-ctr-08"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "counter-test-mystery",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        }
+      ],
+      "seed": 41031
+    },
+    {
+      "bundle_set_id": "s01-bundle-c-method-audit",
+      "phase_bundles": [
+        {
+          "bundle_hash": "4c02777977205f85b5bb121f78e53307704eca8554cf1f11ab58bc6c6ed39661",
+          "bundle_id": "s01-bundle-c-method-audit-arrival-status.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-arr-05",
+            "s01-arr-03"
+          ],
+          "ordered_atom_ids": [
+            "s01-arr-03",
+            "s01-arr-04",
+            "s01-arr-05",
+            "s01-arr-09"
+          ],
+          "required_atom_ids": [
+            "s01-arr-04",
+            "s01-arr-09"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "arrival-status",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        },
+        {
+          "bundle_hash": "28a1027362b2894a409165b1866788a62ac72e100de33257fdc07fbc85ce2749",
+          "bundle_id": "s01-bundle-c-method-audit-calibration-contact.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-cal-03",
+            "s01-cal-05"
+          ],
+          "ordered_atom_ids": [
+            "s01-cal-02",
+            "s01-cal-03",
+            "s01-cal-05",
+            "s01-cal-08"
+          ],
+          "required_atom_ids": [
+            "s01-cal-02",
+            "s01-cal-08"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "calibration-contact",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        },
+        {
+          "bundle_hash": "aa5c355ed68ad292f19872ddde75bd671af28f2ae95ea63c2e1c7190658d90d7",
+          "bundle_id": "s01-bundle-c-method-audit-counter-test-mystery.v1",
+          "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+          "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+          "optional_atom_ids": [
+            "s01-ctr-10",
+            "s01-ctr-09"
+          ],
+          "ordered_atom_ids": [
+            "s01-ctr-01",
+            "s01-ctr-05",
+            "s01-ctr-09",
+            "s01-ctr-10"
+          ],
+          "required_atom_ids": [
+            "s01-ctr-01",
+            "s01-ctr-05"
+          ],
+          "scene_id": "S01",
+          "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+          "sequence_id": "counter-test-mystery",
+          "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a"
+        }
+      ],
+      "seed": 41047
+    }
+  ],
+  "editorial_overlay": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+  "editorial_overlay_hash": "7525eece2d69f8007044b56083b2eb6b987a05e6c36626f3aea183c5168cd436",
+  "event_role_distances_by_phase": {
+    "s01-bundle-a-gift-status__s01-bundle-b-somatic-control": [
+      0.857143,
+      0.857143,
+      0.857143
+    ],
+    "s01-bundle-a-gift-status__s01-bundle-c-method-audit": [
+      0.857143,
+      1.0,
+      0.857143
+    ],
+    "s01-bundle-b-somatic-control__s01-bundle-c-method-audit": [
+      0.857143,
+      0.666667,
+      0.666667
+    ]
+  },
+  "novelist_packets": [
+    {
+      "bundle_set_id": "s01-bundle-a-gift-status",
+      "packet_hash": "560d69c048c98cdfa3156812a9f832ccf59d6b092edcb2ebd14697893edd5d05",
+      "packet_path": "03_scene_lab/runs/s01-atom-rewrite-v1/novelist_packets/s01-bundle-a-gift-status.novelist_packet.v1.json",
+      "seed": 41017
+    },
+    {
+      "bundle_set_id": "s01-bundle-b-somatic-control",
+      "packet_hash": "07fd26e83bc5c67c12f99ff159eca6cf49ffbd98328bb02be9d90d0d7c7bc91d",
+      "packet_path": "03_scene_lab/runs/s01-atom-rewrite-v1/novelist_packets/s01-bundle-b-somatic-control.novelist_packet.v1.json",
+      "seed": 41031
+    },
+    {
+      "bundle_set_id": "s01-bundle-c-method-audit",
+      "packet_hash": "721407b58155447df147b71dc2ef779b2075a80d41e65f3ae72fd7afd31ef5f3",
+      "packet_path": "03_scene_lab/runs/s01-atom-rewrite-v1/novelist_packets/s01-bundle-c-method-audit.novelist_packet.v1.json",
+      "seed": 41047
+    }
+  ],
+  "record_type": "SeededAtomBundleSet",
+  "scene_id": "S01",
+  "selection_policy": {
+    "atoms_per_phase": 4,
+    "candidate_count": 3,
+    "maximum_atom_reuse_across_candidates": "allowed only for locked causal anchors",
+    "method": "required causal anchors plus weighted stochastic choice without replacement",
+    "phase_order": [
+      "arrival-status",
+      "calibration-contact",
+      "counter-test-mystery"
+    ],
+    "seeds": [
+      41017,
+      41031,
+      41047
+    ],
+    "version": "s01-seeded-sparse-selection.v1"
+  },
+  "selection_policy_hash": "83ee2cae802ebf824e2faeabe56cb1ef18ae5721fc9c0d67b5448fb6ccd89711",
+  "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a",
+  "version": "s01-seeded-bundles.v1"
+}

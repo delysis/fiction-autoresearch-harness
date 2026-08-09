@@ -1,0 +1,167 @@
+{
+  "arms": [
+    {
+      "arm": {
+        "arm_id": "lc08-contract",
+        "control_density": "full",
+        "evidence_variant": "none",
+        "layout": "contract-first",
+        "target_prompt_words": 8000
+      },
+      "component_hashes": {
+        "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+        "evidence": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+        "preamble": "10b7b622d75540714e386b06c61ee19553a3bc33f1af9084e19c284285ef8808"
+      },
+      "component_words": {
+        "contract": 297,
+        "evidence": 0,
+        "manuscript": 5886,
+        "preamble": 347
+      },
+      "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+      "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+      "prompt_hash": "eb66a7b76776a74e0a00108e89c5d892f227b26cbbe9ca7ba55d97e47f9bf673",
+      "prompt_path": "03_scene_lab/runs/s03-long-context-base-v5/prompts/lc08-contract.prompt.txt",
+      "prompt_words": 6231,
+      "record_type": "LongContextPrompt",
+      "version": "long-context.base31.v5"
+    },
+    {
+      "arm": {
+        "arm_id": "lc24-distilled",
+        "control_density": "full",
+        "evidence_variant": "distilled",
+        "layout": "evidence-first",
+        "target_prompt_words": 24000
+      },
+      "component_hashes": {
+        "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+        "evidence": "796ee9f7c95b01467fb8470e155fecdf0ecfb9362dd5ecbbce9374d04e6cf3c4",
+        "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+        "preamble": "1677cc696e1b9cb1b793ff537158b496ba07260e095ab8d21b7e254c84a842c5"
+      },
+      "component_words": {
+        "contract": 297,
+        "evidence": 11001,
+        "manuscript": 5886,
+        "preamble": 11348
+      },
+      "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+      "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+      "prompt_hash": "631dcdbddbd38ce41dffdfeb8f9a56449c1c8cad902ecd5439ef5668807fb1a8",
+      "prompt_path": "03_scene_lab/runs/s03-long-context-base-v5/prompts/lc24-distilled.prompt.txt",
+      "prompt_words": 17232,
+      "record_type": "LongContextPrompt",
+      "version": "long-context.base31.v5"
+    },
+    {
+      "arm": {
+        "arm_id": "lc64-guide-early",
+        "control_density": "full",
+        "evidence_variant": "full-guide",
+        "layout": "evidence-first",
+        "target_prompt_words": 64000
+      },
+      "component_hashes": {
+        "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+        "evidence": "9345382c55f2fa24945820062ce3cf5ca8c85034835f605eb44ef60dcec81483",
+        "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+        "preamble": "13175d27bef83fc7ba65960b8a4103a337cf02eb351fc3d7816b7993690bd2f7"
+      },
+      "component_words": {
+        "contract": 297,
+        "evidence": 37180,
+        "manuscript": 5886,
+        "preamble": 37527
+      },
+      "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+      "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+      "prompt_hash": "38b146e965505df029df120f41b3415e0e7d40a989639b7b0bc330f05980788e",
+      "prompt_path": "03_scene_lab/runs/s03-long-context-base-v5/prompts/lc64-guide-early.prompt.txt",
+      "prompt_words": 43411,
+      "record_type": "LongContextPrompt",
+      "version": "long-context.base31.v5"
+    },
+    {
+      "arm": {
+        "arm_id": "lc64-guide-late",
+        "control_density": "full",
+        "evidence_variant": "full-guide",
+        "layout": "contract-first",
+        "target_prompt_words": 64000
+      },
+      "component_hashes": {
+        "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+        "evidence": "9345382c55f2fa24945820062ce3cf5ca8c85034835f605eb44ef60dcec81483",
+        "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+        "preamble": "b4ed86a1159ece360919cc94ce5a4a0e190da54523a0b9cc041faca8c76d7b13"
+      },
+      "component_words": {
+        "contract": 297,
+        "evidence": 37180,
+        "manuscript": 5886,
+        "preamble": 37527
+      },
+      "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+      "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+      "prompt_hash": "e035eebc87b8913b4b8e7e3f2d532386d0467ee395c7e3b64ac174fd8816dbb5",
+      "prompt_path": "03_scene_lab/runs/s03-long-context-base-v5/prompts/lc64-guide-late.prompt.txt",
+      "prompt_words": 43411,
+      "record_type": "LongContextPrompt",
+      "version": "long-context.base31.v5"
+    },
+    {
+      "arm": {
+        "arm_id": "lc64-organic",
+        "control_density": "organic",
+        "evidence_variant": "full-guide",
+        "layout": "evidence-first",
+        "target_prompt_words": 64000
+      },
+      "component_hashes": {
+        "contract": "2d99a4881319a171d3042c177970ab79926167c1e715f746ba79df53a5629494",
+        "evidence": "9345382c55f2fa24945820062ce3cf5ca8c85034835f605eb44ef60dcec81483",
+        "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+        "preamble": "c6403a86c7c86f2e66f0687900ed86aa95456fc7b94dfc1cfb30dbb9bbcb0f4a"
+      },
+      "component_words": {
+        "contract": 253,
+        "evidence": 37180,
+        "manuscript": 5886,
+        "preamble": 37483
+      },
+      "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+      "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+      "prompt_hash": "d6a8d12e0aa9587cbd34622cabdf1611995efd67aee16b922b54f50a80cf7dfa",
+      "prompt_path": "03_scene_lab/runs/s03-long-context-base-v5/prompts/lc64-organic.prompt.txt",
+      "prompt_words": 43367,
+      "record_type": "LongContextPrompt",
+      "version": "long-context.base31.v5"
+    }
+  ],
+  "craft_distillation_hash": "6c02e7394ea4d8534d2bb794d689a7218aa8227cb8c5ac19626707eedd2765c3",
+  "craft_distillation_path": "/Users/george/mpc/juicy_chastity_fiction_lab/04_review_governance/gabaldon_intimacy_craft_distillation_v1.md",
+  "guide_hash": "50ca0a1133812e44e0cfad9be66880b1c7e987cf5c70a3bcdefe8b33c37bcc32",
+  "guide_path": "/Users/george/.codex/attachments/d88a67cd-a639-4fba-80d6-b30acc0a4d22/pasted-text.txt",
+  "manifest_hash": "c52782c278e4a69dbf28c68ba6503aacc46a14034c7ac17813f2a393301f3387",
+  "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+  "manuscript_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-s02.codex.v2.md",
+  "record_type": "LongContextExperimentManifest",
+  "story_program": {
+    "causal_program": "Two teams receive opposite expectations about the same synchronized exercise. Their expectations cause them to notice incompatible threat patterns. Mara first observes the divergence through exact words, timestamps, bodily actions, and instrumentation rather than choosing an explanation. Livia makes one genuinely impressive read and is briefly elevated as the strongest interpreter. A shared image or phrase then appears across participants and becomes newly important.",
+    "epistemic_constraint": "Keep ordinary, technical, psychological, and supernatural explanations live. Accurate observation does not license an interpretation.",
+    "intimacy": "Attraction changes attention and trust through particular action. This checkpoint contains no consummation and no second kiss.",
+    "local_endpoint": "Stop shortly after the shared image or phrase is established as a dangerous object of attention, before accusation, lockdown, confession, institutional reform, or metaphysical resolution.",
+    "opening_offer": "The vigil begins with real beauty, technical urgency, and shared devotion to keeping a world-saving infrastructure project alive.",
+    "pov": "Close third-person Mara only.",
+    "relationship_state": "Mara and Jonah have shared one mutually wanted doorway kiss that they stopped while it was still desired. His restraint attracts her, but he remains implicated in Fulcrum and is not a moral oracle.",
+    "scene_id": "S03",
+    "target_words": "850-1150",
+    "time_and_place": "An overnight Fulcrum alignment vigil in the glass chapel-lab while wildfire smoke turns the moon orange.",
+    "title": "The Alignment Vigil — opening movement"
+  },
+  "story_program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+  "version": "long-context.base31.v5"
+}

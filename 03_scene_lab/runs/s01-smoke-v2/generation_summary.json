@@ -1,0 +1,23 @@
+{
+  "actor_novelist": {
+    "candidate_count": 1,
+    "candidate_ids": [
+      "s01-smoke-v2-actor_novelist-actor-novelist-01"
+    ],
+    "run_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-smoke-v2/actor_novelist"
+  },
+  "direct": {
+    "candidate_count": 1,
+    "candidate_ids": [
+      "s01-smoke-v2-direct-direct-01"
+    ],
+    "run_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-smoke-v2/direct"
+  },
+  "verbalized_sampling": {
+    "candidate_count": 1,
+    "candidate_ids": [
+      "s01-smoke-v2-verbalized_sampling-verbalized-01"
+    ],
+    "run_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-smoke-v2/verbalized_sampling"
+  }
+}

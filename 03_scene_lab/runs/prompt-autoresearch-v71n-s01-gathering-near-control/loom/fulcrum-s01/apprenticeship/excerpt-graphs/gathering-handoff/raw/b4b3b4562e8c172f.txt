@@ -1,0 +1,33 @@
+{
+  "emotional_offer": "Inquiry about knowledge",
+  "emotional_counteroffer": "Admission of limited knowledge",
+  "relationship_history": "Implied social dynamic",
+  "present_stakes": "Establishing social roles",
+  "dialogue_act_sequence": [
+    "Question about London",
+    "Admission of unfamiliarity",
+    "Question about profession",
+    "Statement of non-artistic status",
+    "Third-party credentialing",
+    "Question about military service",
+    "Statement of resignation"
+  ],
+  "body_language_counterpoint": "Formal politeness vs. cold curiosity",
+  "sensory_channels": [
+    "Speech",
+    "Tone"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Standing/conversational proximity",
+  "agency_actions": [
+    "Girl initiates conversation",
+    "Gerald responds with humor",
+    "Girl challenges Gerald's status",
+    "Birkin intervenes with assertion",
+    "Girl probes Gerald's past"
+  ],
+  "relationship_delta": "Clarification of social standing",
+  "story_state_change": "Shift in conversational focus",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,1023 @@
+{
+  "ontology_id": "romance-generation-ontology",
+  "version": "rgo.v1",
+  "namespaces": {
+    "contract": {"min": 1, "max": 1},
+    "genre": {"min": 1},
+    "story-architecture": {"min": 0},
+    "external-plot": {"min": 0},
+    "series-architecture": {"min": 0, "max": 1},
+    "trope": {"min": 0},
+    "relationship": {"min": 1},
+    "character-archetype": {"min": 0},
+    "consent": {"min": 1},
+    "heat": {"min": 1},
+    "intimacy-craft": {"min": 0},
+    "darkness": {"min": 0},
+    "world": {"min": 0},
+    "faith": {"min": 0},
+    "narration": {"min": 1},
+    "tone": {"min": 0},
+    "market": {"min": 0}
+  },
+  "defaults": [],
+  "nodes": [
+    {
+      "id": "contract.romance-hea",
+      "namespace": "contract",
+      "label": "Central love story with HEA",
+      "description": "The central romantic relationship drives the story and resolves in a durable happily-ever-after.",
+      "prompt_semantics": ["Make the central relationship structurally indispensable and direct the long arc toward a durable shared future."],
+      "evaluation_semantics": ["At book scope, verify that the central love story resolves in a credible durable union; do not demand this resolution from an opening scene."]
+    },
+    {
+      "id": "contract.romance-hfn",
+      "namespace": "contract",
+      "label": "Central love story with HFN",
+      "description": "The central romantic relationship drives the story and resolves happily for the present.",
+      "prompt_semantics": ["Make the central relationship structurally indispensable and direct the ending toward a credible happy-for-now commitment."],
+      "evaluation_semantics": ["At book scope, verify a satisfying present commitment without requiring permanent closure."],
+      "excludes": ["contract.romance-hea", "contract.serial-unresolved"]
+    },
+    {
+      "id": "contract.serial-unresolved",
+      "namespace": "contract",
+      "label": "Serial romantic arc unresolved",
+      "description": "The installment advances but does not resolve the central romance.",
+      "prompt_semantics": ["Deliver a meaningful relationship turn while preserving a live series-level romantic question."],
+      "evaluation_semantics": ["Verify installment-level progress and a deliberate unresolved romantic hook."],
+      "excludes": ["contract.romance-hea", "contract.romance-hfn"]
+    },
+
+    {
+      "id": "genre.romance",
+      "namespace": "genre",
+      "label": "Romance",
+      "description": "Fiction organized around the development and outcome of a central love relationship.",
+      "prompt_semantics": ["Make romantic change causal rather than decorative."],
+      "evaluation_semantics": ["Verify that romantic progress changes knowledge, trust, desire, choice, or future possibility."]
+    },
+    {
+      "id": "genre.romance.contemporary",
+      "namespace": "genre",
+      "label": "Contemporary romance",
+      "description": "Romance in a recognizably contemporary social world.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Ground attraction and impediment in contemporary institutions, language, and material life."],
+      "evaluation_semantics": ["Verify contemporary social and institutional plausibility."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRD", "label": "Modern and contemporary romance"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027020", "label": "FICTION / Romance / Contemporary"}
+      ]
+    },
+    {
+      "id": "genre.romance.suspense",
+      "namespace": "genre",
+      "label": "Romantic suspense",
+      "description": "Romance whose relationship arc and danger or investigation plot exert pressure on one another.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Make danger, uncertainty, or investigation alter intimacy, trust, and romantic choice."],
+      "evaluation_semantics": ["Verify that suspense and romance are causally interlocked rather than parallel tracks."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRM", "label": "Romantic suspense"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027110", "label": "FICTION / Romance / Suspense"}
+      ]
+    },
+    {
+      "id": "genre.romance.historical",
+      "namespace": "genre",
+      "label": "Historical romance",
+      "description": "Romance in a historical period whose institutions materially constrain the relationship.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Let historically specific law, custom, work, and reputation shape romantic possibility."],
+      "evaluation_semantics": ["Verify that the period changes the relationship rather than serving as costume."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRH", "label": "Historical romance"}
+      ]
+    },
+    {
+      "id": "genre.romance.fantasy",
+      "namespace": "genre",
+      "label": "Fantasy romance or romantasy",
+      "description": "Romance integrated with a confirmed fantastic world or magical plot.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Make magic and romantic choice constrain and transform one another."],
+      "evaluation_semantics": ["Verify dual-arc convergence between romance and confirmed fantastic stakes."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRT", "label": "Romance: fantasy and paranormal"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC009090", "label": "FICTION / Fantasy / Romance"}
+      ],
+      "excludes": ["world.supernatural.ambiguous"]
+    },
+    {
+      "id": "genre.romance.paranormal",
+      "namespace": "genre",
+      "label": "Paranormal romance",
+      "description": "Romance featuring confirmed supernatural beings or powers.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Treat the supernatural premise as real and make it shape intimacy and danger."],
+      "evaluation_semantics": ["Verify that paranormal status is confirmed and causally relevant."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRT", "label": "Romance: fantasy and paranormal"}
+      ],
+      "excludes": ["world.supernatural.ambiguous", "world.supernatural.none"]
+    },
+    {
+      "id": "genre.romance.dark",
+      "namespace": "genre",
+      "label": "Dark romance",
+      "description": "Romance foregrounding transgression, threat, or morally dangerous relationship dynamics.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Make danger and transgression integral to the relationship contract and consequences."],
+      "evaluation_semantics": ["Judge darkness, consent, and heat independently; do not infer one from another."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRV", "label": "Dark romance"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027560", "label": "FICTION / Romance / Dark Romance"}
+      ]
+    },
+    {
+      "id": "genre.romance.erotic",
+      "namespace": "genre",
+      "label": "Erotic romance",
+      "description": "Romance in which explicit sexual development is a major vehicle of the central relationship arc.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Make sexual development reveal and alter the central relationship rather than functioning as detachable spectacle."],
+      "evaluation_semantics": ["Verify both the romance contract and the causal emotional function of explicit intimacy."]
+    },
+    {
+      "id": "genre.romance.faith-driven",
+      "namespace": "genre",
+      "label": "Faith-driven romance",
+      "description": "Romance in which faith materially shapes desire, decision, commitment, and repair.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Make faith operate through attention, freedom, sacrifice, decision, and consequence rather than detachable exposition."],
+      "evaluation_semantics": ["Verify that faith causally shapes the romantic arc."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FW", "label": "Religious and faith-driven fiction"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC042040", "label": "FICTION / Christian / Romance / General"}
+      ]
+    },
+    {
+      "id": "genre.romance.comedy",
+      "namespace": "genre",
+      "label": "Romantic comedy",
+      "description": "Romance whose central courtship is driven by comic friction and revelation.",
+      "parents": ["genre.romance"],
+      "prompt_semantics": ["Use comic reversals to expose character and intensify romantic stakes."],
+      "evaluation_semantics": ["Verify that humor changes relationship knowledge rather than merely decorating dialogue."]
+    },
+
+    {
+      "id": "story-architecture.four-phase-romance",
+      "namespace": "story-architecture",
+      "label": "Four-phase romance",
+      "description": "Setup, adhesion, deepening, and resolution organize the relationship arc.",
+      "prompt_semantics": ["Place each scene inside a legible phase of setup, adhesion, deepening, or resolution."],
+      "evaluation_semantics": ["Judge the scene by its phase-specific relationship work."]
+    },
+    {
+      "id": "story-architecture.dual-arc-convergence",
+      "namespace": "story-architecture",
+      "label": "Dual-arc convergence",
+      "description": "The romance and external plot develop separately but repeatedly transform one another.",
+      "prompt_semantics": ["Make every major external turn alter romantic knowledge or choice, and every romantic turn alter the external problem."],
+      "evaluation_semantics": ["Verify reciprocal causality between the romance and external plot."]
+    },
+    {
+      "id": "story-architecture.slow-burn-convergence",
+      "namespace": "story-architecture",
+      "label": "Slow-burn convergence",
+      "description": "Recognition accumulates through delayed, consequential advances.",
+      "prompt_semantics": ["Accumulate desire through specific recognition, impediment, and chosen restraint; every delay must produce new knowledge."],
+      "evaluation_semantics": ["Verify progression rather than repetitive deferral."],
+      "implies": ["trope.slow-burn"]
+    },
+    {
+      "id": "story-architecture.early-adhesion",
+      "namespace": "story-architecture",
+      "label": "Early adhesion",
+      "description": "The pair becomes bound early, shifting tension toward survival, trust, or moral consequence.",
+      "prompt_semantics": ["Bind the central pair early and derive tension from what continued attachment costs."],
+      "evaluation_semantics": ["Verify credible early adhesion and escalating consequences."]
+    },
+
+    {
+      "id": "external-plot.thriller",
+      "namespace": "external-plot",
+      "label": "Thriller",
+      "description": "A danger-driven external plot organized around escalating threat and consequential revelation.",
+      "prompt_semantics": ["Escalate threat through causal revelations and costly choices."],
+      "evaluation_semantics": ["Verify rising danger and meaningful reversals."]
+    },
+    {
+      "id": "external-plot.psychological",
+      "namespace": "external-plot",
+      "label": "Psychological investigation",
+      "description": "The external plot investigates perception, belief, influence, or uncertain motives.",
+      "prompt_semantics": ["Keep observation, interpretation, and mechanism separable while pressure rises."],
+      "evaluation_semantics": ["Verify multiple live explanations and an evidence-changing control or revelation."]
+    },
+    {
+      "id": "external-plot.psychotechnology",
+      "namespace": "external-plot",
+      "label": "Psychotechnology investigation",
+      "description": "An investigation of attention-shaping, nonverbal influence, ritual, and apparent extraordinary cognition.",
+      "parents": ["external-plot.psychological"],
+      "prompt_semantics": ["Dramatize psychotechnology through observable cues, experiments, incentives, and residual uncertainty."],
+      "evaluation_semantics": ["Verify that mechanisms are discoverable through action and that a smaller unexplained remainder can survive."]
+    },
+    {
+      "id": "external-plot.institutional-drama",
+      "namespace": "external-plot",
+      "label": "Institutional drama",
+      "description": "Status, governance, incentives, and belonging generate external conflict.",
+      "prompt_semantics": ["Express institutional incentives through behavior, access, ritual, and unequal social risk."],
+      "evaluation_semantics": ["Verify that institutional structure changes what characters can safely say and do."]
+    },
+    {
+      "id": "external-plot.mystery",
+      "namespace": "external-plot",
+      "label": "Mystery",
+      "description": "A question-driven plot whose evidence is progressively reinterpreted.",
+      "prompt_semantics": ["Let each answer sharpen or transform the governing question."],
+      "evaluation_semantics": ["Verify evidence progression and a fair but non-obvious turn."]
+    },
+    {
+      "id": "external-plot.quest",
+      "namespace": "external-plot",
+      "label": "Quest",
+      "description": "A goal-directed journey requiring escalating trials and alliance.",
+      "prompt_semantics": ["Use each trial to change both capability and relationship."],
+      "evaluation_semantics": ["Verify causal trials and accumulating alliance."]
+    },
+
+    {
+      "id": "series-architecture.standalone-couple",
+      "namespace": "series-architecture",
+      "label": "Standalone couple",
+      "description": "One couple receives a complete romantic resolution in one volume.",
+      "prompt_semantics": ["Complete the central pair's arc within the volume while preserving world-level sequel possibilities."],
+      "evaluation_semantics": ["Verify volume-level romantic closure."]
+    },
+    {
+      "id": "series-architecture.interconnected-standalones",
+      "namespace": "series-architecture",
+      "label": "Interconnected standalones",
+      "description": "Each volume resolves a different couple within a shared social world.",
+      "prompt_semantics": ["Resolve the featured couple while introducing future leads through independent desire and conflict."],
+      "evaluation_semantics": ["Verify current-couple closure without sequel-bait displacement."]
+    },
+    {
+      "id": "series-architecture.same-couple-sequence",
+      "namespace": "series-architecture",
+      "label": "Same-couple sequence",
+      "description": "Multiple volumes develop one central couple through successive commitments and crises.",
+      "prompt_semantics": ["Give each installment a meaningful relationship achievement while preserving later developmental work."],
+      "evaluation_semantics": ["Verify installment progress and series-level continuity."]
+    },
+    {
+      "id": "series-architecture.duet",
+      "namespace": "series-architecture",
+      "label": "Duet",
+      "description": "A two-volume central romance with a deliberate first-volume rupture or cliffhanger.",
+      "prompt_semantics": ["Build the first volume toward a relationship-altering rupture that demands the second."],
+      "evaluation_semantics": ["Verify that the cliffhanger is earned by the romantic and external arcs."]
+    },
+    {
+      "id": "series-architecture.ensemble",
+      "namespace": "series-architecture",
+      "label": "Open ensemble",
+      "description": "An ensemble supports overlapping and potentially continuing romantic arcs.",
+      "prompt_semantics": ["Maintain distinct relational trajectories and prevent ensemble motion from obscuring the focal arc."],
+      "evaluation_semantics": ["Verify focal clarity and continuity across overlapping arcs."]
+    },
+
+    {
+      "id": "trope.proximity",
+      "namespace": "trope",
+      "label": "Proximity tropes",
+      "description": "Circumstances repeatedly place the central pair together.",
+      "prompt_semantics": ["Use repeated proximity to create new knowledge, choices, and costs."],
+      "evaluation_semantics": ["Verify that proximity changes the relationship."]
+    },
+    {
+      "id": "trope.forced-proximity",
+      "namespace": "trope",
+      "label": "Forced proximity",
+      "description": "External circumstances make sustained contact difficult to avoid.",
+      "parents": ["trope.proximity"],
+      "prompt_semantics": ["Make unavoidable contact intensify attention while preserving meaningful choice."],
+      "evaluation_semantics": ["Identify the constraint and the resulting relationship change."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRLH", "label": "Romance: forced proximity"}
+      ]
+    },
+    {
+      "id": "trope.institutional-proximity",
+      "namespace": "trope",
+      "label": "Institutional proximity",
+      "description": "Shared work, training, residence, or membership produces repeated contact.",
+      "parents": ["trope.proximity"],
+      "prompt_semantics": ["Use institutional duties and observation to make encounters consequential."],
+      "evaluation_semantics": ["Verify that institutional proximity changes access, reputation, or choice."]
+    },
+    {
+      "id": "trope.one-bed",
+      "namespace": "trope",
+      "label": "Only one bed",
+      "description": "A constrained sleeping arrangement forces negotiation of intimacy and boundaries.",
+      "parents": ["trope.forced-proximity"],
+      "prompt_semantics": ["Make the sleeping constraint reveal desire, trust, and boundary-setting."],
+      "evaluation_semantics": ["Verify a meaningful negotiated response rather than automatic consummation."]
+    },
+    {
+      "id": "trope.enemies-to-lovers",
+      "namespace": "trope",
+      "label": "Enemies to lovers",
+      "description": "Meaningful opposition transforms into romantic attachment.",
+      "prompt_semantics": ["Give the opposition substantive stakes and let attraction complicate rather than erase disagreement."],
+      "evaluation_semantics": ["Verify credible opposition, revised knowledge, and an earned change in allegiance."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRLE", "label": "Romance: enemies to lovers"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027570", "label": "FICTION / Romance / Enemies to Lovers"}
+      ]
+    },
+    {
+      "id": "trope.friends-to-lovers",
+      "namespace": "trope",
+      "label": "Friends to lovers",
+      "description": "An existing friendship becomes explicitly romantic.",
+      "prompt_semantics": ["Make romantic recognition threaten and deepen an established friendship."],
+      "evaluation_semantics": ["Verify that the friendship materially shapes the romantic risk."],
+      "external_mappings": [
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027590", "label": "FICTION / Romance / Friends to Lovers"}
+      ]
+    },
+    {
+      "id": "trope.slow-burn",
+      "namespace": "trope",
+      "label": "Slow burn",
+      "description": "Desire and attachment accumulate through consequential delays.",
+      "prompt_semantics": ["Make each delayed advance produce recognition, trust, vulnerability, or a harder future choice."],
+      "evaluation_semantics": ["Distinguish accumulating tension from stalled repetition."]
+    },
+    {
+      "id": "trope.competence-attraction",
+      "namespace": "trope",
+      "label": "Competence attraction",
+      "description": "Skill, perception, judgment, or restraint becomes erotically and morally attractive.",
+      "prompt_semantics": ["Let attraction arise from witnessed skill, judgment, or costly restraint in action."],
+      "evaluation_semantics": ["Quote the action that generates attraction and identify what it reveals."]
+    },
+    {
+      "id": "trope.charged-restraint",
+      "namespace": "trope",
+      "label": "Charged restraint",
+      "description": "Chosen non-taking intensifies perception, trust, and desire.",
+      "prompt_semantics": ["Make restraint active, socially or emotionally costly, and hotter because it increases freedom and perception."],
+      "evaluation_semantics": ["Verify that restraint changes relationship knowledge and does not merely end the scene."]
+    },
+    {
+      "id": "trope.mysterious-protector",
+      "namespace": "trope",
+      "label": "Mysterious protector",
+      "description": "A capable figure protects without fully explaining motives or history.",
+      "prompt_semantics": ["Reveal protection through costly action while preserving an answerable question about motive or history."],
+      "evaluation_semantics": ["Verify both the protective action and the remaining mystery."]
+    },
+    {
+      "id": "trope.found-family",
+      "namespace": "trope",
+      "label": "Found family",
+      "description": "Chosen bonds form a durable community of belonging.",
+      "prompt_semantics": ["Build belonging through reciprocal risk, work, hospitality, and repair."],
+      "evaluation_semantics": ["Verify mutual obligation rather than instant group warmth."]
+    },
+    {
+      "id": "trope.forbidden-attraction",
+      "namespace": "trope",
+      "label": "Forbidden attraction",
+      "description": "A real duty, rule, identity, or social cost makes attraction dangerous to act upon.",
+      "prompt_semantics": ["Make the prohibition specific and let desire sharpen rather than dissolve moral agency."],
+      "evaluation_semantics": ["Verify a real impediment and a chosen response."]
+    },
+    {
+      "id": "trope.marriage-of-convenience",
+      "namespace": "trope",
+      "label": "Marriage of convenience",
+      "description": "A practical marriage contract becomes emotionally and romantically real.",
+      "prompt_semantics": ["Use the practical agreement to expose unmet needs, negotiated duties, and changing desire."],
+      "evaluation_semantics": ["Verify the transition from instrument to chosen union."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "FRLF", "label": "Romance: fake relationship or marriage of convenience"}
+      ]
+    },
+    {
+      "id": "trope.fake-dating",
+      "namespace": "trope",
+      "label": "Fake dating",
+      "description": "A performed relationship creates real attachment and social consequences.",
+      "prompt_semantics": ["Make performed intimacy reveal genuine preferences and raise the cost of disclosure."],
+      "evaluation_semantics": ["Verify that the performance changes the real relationship."],
+      "external_mappings": [
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027580", "label": "FICTION / Romance / Fake Dating"}
+      ]
+    },
+    {
+      "id": "trope.second-chance",
+      "namespace": "trope",
+      "label": "Second chance",
+      "description": "A previous relationship receives a credible opportunity for repair.",
+      "prompt_semantics": ["Make renewed desire confront the concrete cause of the earlier failure."],
+      "evaluation_semantics": ["Verify restitution, changed capacity, and a non-nostalgic basis for reunion."],
+      "external_mappings": [
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027650", "label": "FICTION / Romance / Second Chances"}
+      ]
+    },
+    {
+      "id": "trope.morally-grey-protector",
+      "namespace": "trope",
+      "label": "Morally grey protector",
+      "description": "A protective figure uses ethically contested means.",
+      "prompt_semantics": ["Make protection, danger, attraction, and moral cost simultaneously legible."],
+      "evaluation_semantics": ["Verify that competence does not erase responsibility."]
+    },
+
+    {
+      "id": "relationship.pair.monogamous",
+      "namespace": "relationship",
+      "label": "Monogamous central pair",
+      "description": "The central romantic contract forms around an exclusive pair.",
+      "prompt_semantics": ["Build the central romantic future around mutual exclusive choice."],
+      "evaluation_semantics": ["Verify that exclusivity is chosen and causally meaningful."],
+      "excludes": ["relationship.configuration.polyamorous"]
+    },
+    {
+      "id": "relationship.configuration.polyamorous",
+      "namespace": "relationship",
+      "label": "Polyamorous relationship",
+      "description": "The central romantic contract includes more than two consenting partners.",
+      "prompt_semantics": ["Give each bond independent agency, negotiation, and emotional consequence."],
+      "evaluation_semantics": ["Verify differentiated relationships and explicit relational governance."],
+      "external_mappings": [
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027470", "label": "FICTION / Romance / Polyamory"}
+      ],
+      "excludes": ["relationship.pair.monogamous"]
+    },
+    {
+      "id": "relationship.trajectory.marriage-oriented",
+      "namespace": "relationship",
+      "label": "Marriage-oriented trajectory",
+      "description": "The long arc directs desire and commitment toward marriage.",
+      "prompt_semantics": ["Make marriage a progressively chosen form of shared life rather than a decorative epilogue."],
+      "evaluation_semantics": ["At the appropriate scope, verify increasing capacity for durable covenant."]
+    },
+    {
+      "id": "relationship.trajectory.nonmarital-commitment",
+      "namespace": "relationship",
+      "label": "Nonmarital durable commitment",
+      "description": "The long arc directs the central relationship toward durable commitment without marriage.",
+      "prompt_semantics": ["Make the chosen form of durable commitment concrete and reciprocal."],
+      "evaluation_semantics": ["Verify a credible shared future without presuming marriage."]
+    },
+
+    {
+      "id": "character-archetype.sheltered-competent-initiate",
+      "namespace": "character-archetype",
+      "label": "Sheltered competent initiate",
+      "description": "A socially inexperienced but genuinely capable protagonist enters a sophisticated world.",
+      "prompt_semantics": ["Let inexperience coexist with real perception, method, and moral agency."],
+      "evaluation_semantics": ["Verify both uncertainty and competence without generic genius."]
+    },
+    {
+      "id": "character-archetype.acquisitive-mentor",
+      "namespace": "character-archetype",
+      "label": "Acquisitive mentor",
+      "description": "A skilled guide offers real care while seeking influence, loyalty, or possession.",
+      "prompt_semantics": ["Make the mentor's care genuine and her acquisitiveness visible through changing tactics."],
+      "evaluation_semantics": ["Verify simultaneous skill, care, appetite, and limitation."]
+    },
+    {
+      "id": "character-archetype.restrained-protector",
+      "namespace": "character-archetype",
+      "label": "Restrained protector",
+      "description": "A capable protector declines socially rewarded opportunities to dominate or display.",
+      "prompt_semantics": ["Reveal protection through costly restraint and specific action."],
+      "evaluation_semantics": ["Verify the cost, protection, and romantic meaning of restraint."]
+    },
+    {
+      "id": "character-archetype.wounded-authority",
+      "namespace": "character-archetype",
+      "label": "Wounded authority",
+      "description": "Authority is complicated by unhealed injury or compromised judgment.",
+      "prompt_semantics": ["Let competence and injury produce distinct strengths, blind spots, and consequences."],
+      "evaluation_semantics": ["Verify that wounds complicate rather than excuse authority."]
+    },
+    {
+      "id": "character-archetype.trickster",
+      "namespace": "character-archetype",
+      "label": "Trickster",
+      "description": "A figure uses humor, reversal, or misdirection to reveal or control.",
+      "prompt_semantics": ["Make playfulness expose stakes and redistribute attention."],
+      "evaluation_semantics": ["Verify that wit performs a concrete dramatic action."]
+    },
+    {
+      "id": "character-archetype.rival",
+      "namespace": "character-archetype",
+      "label": "Rival",
+      "description": "A competitor pressures status, belonging, competence, or romantic choice.",
+      "prompt_semantics": ["Give rivalry a substantive resource, value, or status conflict."],
+      "evaluation_semantics": ["Verify that rivalry changes behavior and stakes."]
+    },
+
+    {
+      "id": "consent.explicit-revocable",
+      "namespace": "consent",
+      "label": "Explicit and revocable consent",
+      "description": "Characters can clearly choose, pause, redirect, or stop intimacy.",
+      "prompt_semantics": ["Make reciprocal choice and the live possibility of stopping increase intimacy and perception."],
+      "evaluation_semantics": ["Verify agency, reciprocity, and revocability through action."],
+      "excludes": ["consent.impaired", "consent.coercive", "consent.dubcon", "consent.noncon"]
+    },
+    {
+      "id": "consent.contextual-revocable",
+      "namespace": "consent",
+      "label": "Contextual and revocable consent",
+      "description": "Consent is communicated through established context and responsive behavior while remaining revocable.",
+      "prompt_semantics": ["Make mutual responsiveness and opportunities to redirect legible."],
+      "evaluation_semantics": ["Verify mutual understanding and revocability without requiring a scripted exchange."],
+      "excludes": ["consent.impaired", "consent.coercive", "consent.dubcon", "consent.noncon"]
+    },
+    {
+      "id": "consent.negotiated",
+      "namespace": "consent",
+      "label": "Negotiated consent",
+      "description": "Characters explicitly negotiate desired acts, limits, or roles.",
+      "prompt_semantics": ["Use negotiation to reveal character, trust, and desire."],
+      "evaluation_semantics": ["Verify meaningful negotiation and continuing responsiveness."],
+      "excludes": ["consent.coercive", "consent.noncon"]
+    },
+    {
+      "id": "consent.impaired",
+      "namespace": "consent",
+      "label": "Impaired consent",
+      "description": "Capacity to consent is compromised by intoxication, altered state, or severe vulnerability.",
+      "prompt_semantics": ["Make impaired capacity explicit and consequential rather than romantic shorthand."],
+      "evaluation_semantics": ["Judge capacity and responsibility separately from attraction."],
+      "excludes": ["consent.explicit-revocable", "consent.contextual-revocable"]
+    },
+    {
+      "id": "consent.coercive",
+      "namespace": "consent",
+      "label": "Coercive sexual dynamic",
+      "description": "Threat, leverage, captivity, or severe power imbalance constrains sexual choice.",
+      "prompt_semantics": ["Make coercion and its consequences legible; do not relabel constrained compliance as free choice."],
+      "evaluation_semantics": ["Identify the coercive mechanism independently of heat or genre framing."],
+      "excludes": ["consent.explicit-revocable", "consent.contextual-revocable", "consent.negotiated"]
+    },
+    {
+      "id": "consent.dubcon",
+      "namespace": "consent",
+      "label": "Dubious consent",
+      "description": "The text deliberately sustains ambiguity about meaningful consent.",
+      "prompt_semantics": ["Make the source of ambiguity and its emotional consequences explicit in the story world."],
+      "evaluation_semantics": ["Do not infer consent from arousal; identify the unresolved capacity or coercion question."],
+      "excludes": ["consent.explicit-revocable", "consent.contextual-revocable"]
+    },
+    {
+      "id": "consent.noncon",
+      "namespace": "consent",
+      "label": "Nonconsensual sexual content",
+      "description": "Sexual activity occurs without consent.",
+      "prompt_semantics": ["Represent absence of consent accurately and preserve responsibility and consequence."],
+      "evaluation_semantics": ["Identify nonconsent directly and do not treat it as an ordinary romantic obstacle."],
+      "excludes": ["consent.explicit-revocable", "consent.contextual-revocable", "consent.negotiated"]
+    },
+
+    {
+      "id": "heat.book.sensual",
+      "namespace": "heat",
+      "label": "Sensual book",
+      "description": "The book sustains embodied attraction without requiring open-door consummation.",
+      "prompt_semantics": ["Use selective sensory detail, attention, and emotional exchange to sustain embodied attraction."],
+      "evaluation_semantics": ["Verify that sensuality changes the relationship rather than becoming body inventory."],
+      "attributes": {"heat_scope": "book", "heat_rank": 3}
+    },
+    {
+      "id": "heat.book.steamy",
+      "namespace": "heat",
+      "label": "Steamy book",
+      "description": "The book permits high embodied charge and open-door intimacy where the relationship arc calls for it.",
+      "prompt_semantics": ["Sustain strong embodied charge and make any open-door intimacy perform emotional and narrative work."],
+      "evaluation_semantics": ["Verify character before mechanics and intimacy as relationship change."],
+      "attributes": {"heat_scope": "book", "heat_rank": 4}
+    },
+    {
+      "id": "heat.book.explicit",
+      "namespace": "heat",
+      "label": "Explicit book",
+      "description": "The book permits frequent anatomically explicit sexual scenes.",
+      "prompt_semantics": ["Keep explicit mechanics intelligible, selective, and causally connected to character."],
+      "evaluation_semantics": ["Verify physical clarity and emotional function without clinical inventory."],
+      "attributes": {"heat_scope": "book", "heat_rank": 5}
+    },
+    {
+      "id": "heat.ceiling.closed-door",
+      "namespace": "heat",
+      "label": "Closed-door ceiling",
+      "description": "Consummation, if any, occurs off page.",
+      "prompt_semantics": ["Let implication and aftermath carry intimacy beyond the closed door."],
+      "evaluation_semantics": ["Verify no on-page consummation."],
+      "attributes": {"heat_scope": "ceiling", "heat_rank": 2}
+    },
+    {
+      "id": "heat.ceiling.open-door-nongraphic",
+      "namespace": "heat",
+      "label": "Open-door nongraphic ceiling",
+      "description": "On-page sexual intimacy is permitted without granular anatomical description.",
+      "prompt_semantics": ["When consummation occurs, prioritize emotional exchange, selective sensation, dialogue, and consequence over anatomical inventory."],
+      "evaluation_semantics": ["Verify intelligible but non-clinical intimacy with narrative consequence."],
+      "attributes": {"heat_scope": "ceiling", "heat_rank": 4}
+    },
+    {
+      "id": "heat.ceiling.graphic",
+      "namespace": "heat",
+      "label": "Graphic ceiling",
+      "description": "Detailed anatomical and sexual mechanics are permitted.",
+      "prompt_semantics": ["Use explicit detail selectively and keep bodies, choices, and emotional exchange intelligible."],
+      "evaluation_semantics": ["Verify that explicitness serves character and story."],
+      "attributes": {"heat_scope": "ceiling", "heat_rank": 5}
+    },
+    {
+      "id": "heat.scene.low",
+      "namespace": "heat",
+      "label": "Low scene heat",
+      "description": "The scene carries mild attraction with little sustained embodied charge.",
+      "prompt_semantics": ["Use one or two precise attraction cues without displacing the scene's primary work."],
+      "evaluation_semantics": ["Verify subtle attraction without accidental escalation."],
+      "attributes": {"heat_scope": "scene", "heat_rank": 1}
+    },
+    {
+      "id": "heat.scene.moderate",
+      "namespace": "heat",
+      "label": "Moderate scene heat",
+      "description": "Attraction materially affects attention and behavior without dominating the scene.",
+      "prompt_semantics": ["Make attraction alter attention or choice through a few coherent sensory channels."],
+      "evaluation_semantics": ["Verify embodied attraction and a relationship consequence."],
+      "attributes": {"heat_scope": "scene", "heat_rank": 2}
+    },
+    {
+      "id": "heat.scene.high-tension",
+      "namespace": "heat",
+      "label": "High-tension nonconsummating scene",
+      "description": "The scene sustains intense embodied charge without consummation.",
+      "prompt_semantics": ["Build intense reciprocal attention through selective sensation, distance, interruption, and chosen restraint; do not consummate."],
+      "evaluation_semantics": ["Verify high embodied charge, preserved agency, no consummation, and a relationship-changing aftermath."],
+      "attributes": {"heat_scope": "scene", "heat_rank": 3}
+    },
+    {
+      "id": "heat.scene.open-door",
+      "namespace": "heat",
+      "label": "Open-door intimacy scene",
+      "description": "Sexual intimacy occurs on page.",
+      "prompt_semantics": ["Make on-page intimacy a comprehensible physical and emotional transaction that changes the story."],
+      "evaluation_semantics": ["Verify physical intelligibility, agency, emotional exchange, and aftermath."],
+      "attributes": {"heat_scope": "scene", "heat_rank": 4}
+    },
+
+    {
+      "id": "intimacy-craft.non-sex-sex-scene",
+      "namespace": "intimacy-craft",
+      "label": "Non-sex sex scene",
+      "description": "A nonsexual action carries the structural and emotional charge of a sex scene.",
+      "prompt_semantics": ["Give a nonsexual action erotic escalation, reciprocal attention, choice, emotional exchange, and a changed relationship state."],
+      "evaluation_semantics": ["Verify that the action performs intimacy work without generic arousal or consummation."]
+    },
+    {
+      "id": "intimacy-craft.charged-first-contact",
+      "namespace": "intimacy-craft",
+      "label": "Charged first contact",
+      "description": "First meaningful touch changes attention and future possibility.",
+      "prompt_semantics": ["Make first contact physically specific, mutually legible, and relationship-altering."],
+      "evaluation_semantics": ["Verify recognition, response, and an aftermath created by contact."]
+    },
+    {
+      "id": "intimacy-craft.interrupted-escalation",
+      "namespace": "intimacy-craft",
+      "label": "Interrupted escalation",
+      "description": "An interruption preserves and redirects rising intimacy.",
+      "prompt_semantics": ["Let interruption intensify unresolved meaning rather than merely stop action."],
+      "evaluation_semantics": ["Verify that the interruption creates a forward-driving question."]
+    },
+    {
+      "id": "intimacy-craft.consent-forward-consummation",
+      "namespace": "intimacy-craft",
+      "label": "Consent-forward consummation",
+      "description": "Consummation foregrounds reciprocal choice and responsive adjustment.",
+      "prompt_semantics": ["Make consummation an emotional exchange with clear mutual choice, intelligible bodies, and consequence."],
+      "evaluation_semantics": ["Verify agency, physical clarity, character specificity, and aftermath."]
+    },
+    {
+      "id": "intimacy-craft.married-intimacy",
+      "namespace": "intimacy-craft",
+      "label": "Married intimacy",
+      "description": "Sexual intimacy expresses and develops an existing marriage.",
+      "prompt_semantics": ["Use married intimacy to reveal knowledge, play, trust, conflict, repair, or renewed choice inside covenant."],
+      "evaluation_semantics": ["Verify that marital familiarity deepens rather than flattens erotic and emotional specificity."]
+    },
+    {
+      "id": "intimacy-craft.aftermath",
+      "namespace": "intimacy-craft",
+      "label": "Intimacy aftermath",
+      "description": "The scene remains with the emotional, practical, or relational consequences of intimacy.",
+      "prompt_semantics": ["Give intimacy an aftermath that changes interpretation, vulnerability, duty, or next action."],
+      "evaluation_semantics": ["Verify a concrete post-contact relationship change."]
+    },
+    {
+      "id": "intimacy-craft.reconciliation",
+      "namespace": "intimacy-craft",
+      "label": "Reconciliatory intimacy",
+      "description": "Intimacy participates in repair without replacing confession or restitution.",
+      "prompt_semantics": ["Let intimacy confirm or deepen repair already made through truth and responsibility."],
+      "evaluation_semantics": ["Verify that physical closeness does not erase the work of reconciliation."]
+    },
+    {
+      "id": "intimacy-craft.domestic-eroticism",
+      "namespace": "intimacy-craft",
+      "label": "Domestic eroticism",
+      "description": "Shared work and ordinary life become erotically charged through knowledge and chosen service.",
+      "prompt_semantics": ["Make ordinary competence, service, and familiarity produce fresh desire."],
+      "evaluation_semantics": ["Verify specificity, reciprocity, and a changed domestic action."]
+    },
+    {
+      "id": "intimacy-craft.no-consummation",
+      "namespace": "intimacy-craft",
+      "label": "No consummation in scene",
+      "description": "The scene does not include sexual consummation.",
+      "prompt_semantics": ["End the scene without consummation while delivering a complete emotional and relational turn."],
+      "evaluation_semantics": ["Verify no consummation and no anticlimactic collapse."]
+    },
+
+    {
+      "id": "darkness.psychological-intensity",
+      "namespace": "darkness",
+      "label": "Psychological intensity",
+      "description": "Perceptual and emotional pressure is high without requiring coercive sexual dynamics.",
+      "prompt_semantics": ["Intensify uncertainty and attention while preserving legible agency."],
+      "evaluation_semantics": ["Judge psychological pressure separately from consent and heat."]
+    },
+    {
+      "id": "darkness.institutional-danger",
+      "namespace": "darkness",
+      "label": "Institutional danger",
+      "description": "Belonging, livelihood, reputation, or freedom is threatened by institutional power.",
+      "prompt_semantics": ["Make institutional danger concrete through access, surveillance, incentives, and consequence."],
+      "evaluation_semantics": ["Verify a specific institutional mechanism of danger."]
+    },
+    {
+      "id": "darkness.violence",
+      "namespace": "darkness",
+      "label": "Physical violence",
+      "description": "The story includes consequential physical violence.",
+      "prompt_semantics": ["Make violence legible in cause, cost, and aftermath."],
+      "evaluation_semantics": ["Verify consequence rather than decorative brutality."]
+    },
+    {
+      "id": "darkness.moral-transgression",
+      "namespace": "darkness",
+      "label": "Moral transgression",
+      "description": "Characters cross serious moral boundaries with continuing consequences.",
+      "prompt_semantics": ["Make transgression chosen, intelligible, and consequential."],
+      "evaluation_semantics": ["Verify responsibility, cost, and nontrivial possibility of repair."]
+    },
+
+    {
+      "id": "world.period.contemporary",
+      "namespace": "world",
+      "label": "Contemporary period",
+      "description": "The story occurs in the contemporary world.",
+      "prompt_semantics": ["Use contemporary technology, institutions, and social expectations consistently."],
+      "evaluation_semantics": ["Verify contemporary material and social continuity."]
+    },
+    {
+      "id": "world.institution.compound",
+      "namespace": "world",
+      "label": "Residential institutional compound",
+      "description": "Work, training, residence, and status overlap in a bounded compound.",
+      "prompt_semantics": ["Use shared space, observation, access, and ritual to intensify institutional and romantic pressure."],
+      "evaluation_semantics": ["Verify that the compound changes privacy, proximity, and status."]
+    },
+    {
+      "id": "world.institution.academy",
+      "namespace": "world",
+      "label": "Academy or training institution",
+      "description": "Characters learn, compete, and form relationships within a structured program.",
+      "prompt_semantics": ["Make training, assessment, and unequal expertise shape attraction and conflict."],
+      "evaluation_semantics": ["Verify that learning and status produce causal scene pressure."]
+    },
+    {
+      "id": "world.technology.ai-safety",
+      "namespace": "world",
+      "label": "AI safety and frontier technology milieu",
+      "description": "The social world includes frontier AI, safety research, and technology institutions.",
+      "prompt_semantics": ["Ground the technology milieu in concrete work, status incentives, and epistemic conflict."],
+      "evaluation_semantics": ["Verify that technology is specific enough to affect action and worldview."]
+    },
+    {
+      "id": "world.supernatural.ambiguous",
+      "namespace": "world",
+      "label": "Ambiguous supernatural realism",
+      "description": "Ordinary mechanisms explain much but not necessarily all apparent extraordinary events.",
+      "prompt_semantics": ["Keep ordinary and extraordinary explanations live; let a meaningful control collapse much of the effect while preserving a smaller honest remainder."],
+      "evaluation_semantics": ["Verify that observation does not automatically justify interpretation and that no narrator settles the supernatural question prematurely."],
+      "excludes": ["genre.romance.fantasy", "genre.romance.paranormal", "world.supernatural.confirmed", "world.supernatural.none"]
+    },
+    {
+      "id": "world.supernatural.confirmed",
+      "namespace": "world",
+      "label": "Confirmed supernatural",
+      "description": "Supernatural powers or beings are ontologically real in the story world.",
+      "prompt_semantics": ["Treat supernatural causation as real while preserving character uncertainty where appropriate."],
+      "evaluation_semantics": ["Verify consistent supernatural rules and consequences."],
+      "excludes": ["world.supernatural.ambiguous", "world.supernatural.none"]
+    },
+    {
+      "id": "world.supernatural.none",
+      "namespace": "world",
+      "label": "No supernatural causation",
+      "description": "All extraordinary-seeming events ultimately have ordinary causes.",
+      "prompt_semantics": ["Build apparent uncanniness from human perception, incentives, and hidden mechanisms."],
+      "evaluation_semantics": ["Verify an ultimately ordinary causal account."],
+      "excludes": ["world.supernatural.ambiguous", "world.supernatural.confirmed", "genre.romance.paranormal"]
+    },
+
+    {
+      "id": "faith.christian",
+      "namespace": "faith",
+      "label": "Christian faith",
+      "description": "Christian belief and practice materially shape character and story.",
+      "prompt_semantics": ["Express Christian faith through perception, prayer, action, freedom, responsibility, and grace."],
+      "evaluation_semantics": ["Verify causal Christian practice rather than generic spiritual vocabulary."],
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "5PGM", "label": "Relating to Christianity"}
+      ]
+    },
+    {
+      "id": "faith.embodied-chastity",
+      "namespace": "faith",
+      "label": "Embodied chastity",
+      "description": "Chastity integrates desire, body, attention, freedom, and vocation rather than suppressing desire.",
+      "parents": ["faith.christian"],
+      "prompt_semantics": ["Let chastity increase perception, freedom, delight, and capacity for truthful love."],
+      "evaluation_semantics": ["Verify integration rather than suppression, fear, or disembodied sermon."]
+    },
+    {
+      "id": "faith.sacramental-marriage",
+      "namespace": "faith",
+      "label": "Sacramental marriage",
+      "description": "Marriage is treated as covenantal and spiritually generative.",
+      "parents": ["faith.christian"],
+      "prompt_semantics": ["Direct mature desire toward a freely chosen covenant that deepens embodied delight and responsibility."],
+      "evaluation_semantics": ["Verify that marriage is a causal vocation rather than a prudish reward."]
+    },
+    {
+      "id": "faith.repentance-and-grace",
+      "namespace": "faith",
+      "label": "Repentance and grace",
+      "description": "Wrongdoing can be named, repaired, forgiven, and transformed without erasing consequence.",
+      "parents": ["faith.christian"],
+      "prompt_semantics": ["Preserve agency, confession, restitution, consequence, forgiveness, and real change."],
+      "evaluation_semantics": ["Verify that grace neither denies responsibility nor makes redemption impossible."]
+    },
+
+    {
+      "id": "narration.close-third-single",
+      "namespace": "narration",
+      "label": "Close third-person single POV",
+      "description": "A scene remains closely aligned with one viewpoint character.",
+      "prompt_semantics": ["Filter perception, inference, desire, and uncertainty through one close third-person viewpoint."],
+      "evaluation_semantics": ["Verify no sustained access to another character's unexpressed interiority."]
+    },
+    {
+      "id": "narration.close-third-dual",
+      "namespace": "narration",
+      "label": "Close third-person dual POV",
+      "description": "The story alternates close third-person viewpoint between the central pair.",
+      "prompt_semantics": ["Give each viewpoint a distinct attention pattern and avoid head-hopping within scenes."],
+      "evaluation_semantics": ["Verify distinct viewpoint voices and clean scene-level control."]
+    },
+    {
+      "id": "narration.first-person-single",
+      "namespace": "narration",
+      "label": "First-person single POV",
+      "description": "One character narrates the story in first person.",
+      "prompt_semantics": ["Make voice, omission, inference, and self-deception character-specific."],
+      "evaluation_semantics": ["Verify consistent first-person perspective and limited knowledge."]
+    },
+    {
+      "id": "narration.past-tense",
+      "namespace": "narration",
+      "label": "Past tense",
+      "description": "Narration primarily uses past tense.",
+      "prompt_semantics": ["Maintain unobtrusive past-tense narration."],
+      "evaluation_semantics": ["Verify tense continuity."]
+    },
+    {
+      "id": "narration.present-tense",
+      "namespace": "narration",
+      "label": "Present tense",
+      "description": "Narration primarily uses present tense.",
+      "prompt_semantics": ["Maintain unobtrusive present-tense narration."],
+      "evaluation_semantics": ["Verify tense continuity."]
+    },
+
+    {
+      "id": "tone.earnest",
+      "namespace": "tone",
+      "label": "Earnest",
+      "description": "The story treats desire, faith, and transformation sincerely.",
+      "prompt_semantics": ["Let sincerity coexist with wit and self-awareness."],
+      "evaluation_semantics": ["Verify emotional seriousness without solemn abstraction."]
+    },
+    {
+      "id": "tone.suspenseful",
+      "namespace": "tone",
+      "label": "Suspenseful",
+      "description": "Uncertainty and consequence create forward pressure.",
+      "prompt_semantics": ["End beats with sharpened questions, changed risks, or consequential decisions."],
+      "evaluation_semantics": ["Verify sustained forward pressure and earned uncertainty."]
+    },
+    {
+      "id": "tone.uncanny",
+      "namespace": "tone",
+      "label": "Uncanny",
+      "description": "Familiar reality acquires an unresolved strange remainder.",
+      "prompt_semantics": ["Make ordinary details newly strange without collapsing uncertainty into vagueness."],
+      "evaluation_semantics": ["Verify concrete observation and a precise residual mystery."]
+    },
+    {
+      "id": "tone.lush",
+      "namespace": "tone",
+      "label": "Lush",
+      "description": "Prose emphasizes sensuous atmosphere and patterned imagery.",
+      "prompt_semantics": ["Use coherent recurring sensory motifs rather than indiscriminate ornament."],
+      "evaluation_semantics": ["Verify sensory precision and rhythm without purple excess."]
+    },
+    {
+      "id": "tone.comic",
+      "namespace": "tone",
+      "label": "Comic",
+      "description": "Humor materially shapes revelation and relationship.",
+      "prompt_semantics": ["Use humor as a speech act, defense, probe, gift, or reversal."],
+      "evaluation_semantics": ["Verify character-specific humor with dramatic consequence."]
+    },
+    {
+      "id": "tone.gothic",
+      "namespace": "tone",
+      "label": "Gothic",
+      "description": "Setting, inheritance, secrecy, and desire generate atmospheric dread.",
+      "prompt_semantics": ["Let place and hidden history exert pressure on desire and interpretation."],
+      "evaluation_semantics": ["Verify atmospheric causality rather than decorative gloom."]
+    },
+    {
+      "id": "tone.cozy",
+      "namespace": "tone",
+      "label": "Cozy",
+      "description": "Safety, community, and ordinary pleasure anchor the story's emotional appeal.",
+      "prompt_semantics": ["Make comfort specific, social, and earned through care and competence."],
+      "evaluation_semantics": ["Verify meaningful warmth without erasing conflict."]
+    },
+
+    {
+      "id": "market.audience.adult",
+      "namespace": "market",
+      "label": "Adult",
+      "description": "Adult commercial-fiction audience."
+    },
+    {
+      "id": "market.audience.new-adult",
+      "namespace": "market",
+      "label": "New Adult",
+      "description": "Commercial fiction centered on early-adult transition, identity, work, intimacy, and independence.",
+      "external_mappings": [
+        {"scheme": "Thema", "version": "1.6", "code": "5LKE", "label": "New Adult"},
+        {"scheme": "BISAC", "version": "2025", "code": "FIC027240", "label": "FICTION / Romance / New Adult"}
+      ]
+    },
+    {
+      "id": "market.format.novel",
+      "namespace": "market",
+      "label": "Novel",
+      "description": "Full-length prose novel."
+    },
+    {
+      "id": "market.release-candidate.christian-romantic-suspense",
+      "namespace": "market",
+      "label": "Christian romantic suspense release candidate",
+      "description": "A provisional release-shelving candidate, not a generation instruction.",
+      "external_mappings": [
+        {"scheme": "BISAC", "version": "2025", "code": "FIC042120", "label": "FICTION / Christian / Romance / Suspense", "rank": 1, "status": "provisional"}
+      ]
+    }
+  ]
+}

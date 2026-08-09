@@ -1,0 +1,23 @@
+{
+  "record_type": "StoryProfile",
+  "profile_id": "fulcrum-pilot.v1",
+  "ontology_version": "rgo.v1",
+  "coordinates": [
+    "world.institution.compound",
+    "character-archetype.sheltered-competent-initiate",
+    "character-archetype.acquisitive-mentor",
+    "character-archetype.restrained-protector"
+  ],
+  "required": [
+    "world.institution.compound",
+    "external-plot.psychotechnology"
+  ],
+  "preferred": [
+    "character-archetype.sheltered-competent-initiate",
+    "character-archetype.acquisitive-mentor",
+    "character-archetype.restrained-protector"
+  ],
+  "extends": "../presets/juicy-chastity.v1.json",
+  "version": "1",
+  "schema_version": "fiction-harness.v1"
+}

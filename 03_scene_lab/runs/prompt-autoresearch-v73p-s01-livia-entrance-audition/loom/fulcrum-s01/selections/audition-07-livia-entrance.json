@@ -1,0 +1,28 @@
+{
+  "audition_version": "movement-audition.v10-sentence-tail-causal-windows",
+  "campaign_hash": "a9ac7f0ace1e67781e61fc1461cc8309968586d89bebb06635dd91aba0056d38",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "livia-entrance",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.livia-entrance.audition.1540001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.livia-entrance.audition.1540018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.livia-entrance.audition.1540035",
+      "eligible": false,
+      "score": 0.46285714285714286
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.calibration-choice.spark.fulcrum-s01.calibration-choice.audition.1510018.1-918",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "4c4e03c1db94eb36adce59e1fc37d82eab1a076278abe05c93cef9d4411c00c2",
+  "version": "gemma-fiction-autoresearch.v4"
+}

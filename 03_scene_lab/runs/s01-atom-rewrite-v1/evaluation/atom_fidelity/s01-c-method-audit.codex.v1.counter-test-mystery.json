@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "aa5c355ed68ad292f19872ddde75bd671af28f2ae95ea63c2e1c7190658d90d7",
+  "candidate_id": "s01-c-method-audit.codex.v1",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "She drew one deeper breath, dropped her shoulders",
+      "atom_id": "s01-ctr-01",
+      "consequence_evidence": "she’s making the signal harder.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Because she blocked the channel.",
+      "atom_id": "s01-ctr-05",
+      "consequence_evidence": "Mara could have explained the breath",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "he touched two fingers to the inside of his own wrist",
+      "atom_id": "s01-ctr-09",
+      "consequence_evidence": "Recognition, or warning.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "we should eat. I brought something.",
+      "atom_id": "s01-ctr-10",
+      "consequence_evidence": "Mara took it with cardamom on her fingers.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

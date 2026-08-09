@@ -1,0 +1,55 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+The _Chien Noir_, where Susie Boyd and Margaret generally dined, was
+the most charming restaurant in the quarter. Downstairs was a public
+room, where all and sundry devoured their food, for the little place
+had a reputation for good cooking combined with cheapness; and the
+_patron_, a retired horse-dealer who had taken to victualling in order
+to build up a business for his son, was a cheery soul whose loud-voiced
+friendliness attracted custom. But on the first floor was a narrow
+room, with three tables arranged in a horse-shoe, which was reserved
+for a small party of English or American painters and a few Frenchmen
+with their wives. At least, they were so nearly wives, and their manner
+had such a matrimonial respectability, that Susie, when first she and
+Margaret were introduced into this society, judged it would be vulgar
+to turn up her nose. She held that it was prudish to insist upon the
+conventions of Notting Hill in the Boulevard de Montparnasse. The young
+women who had thrown in their lives with these painters were modest in
+demeanour and quiet in dress. They were model housewives, who had
+preserved their self-respect notwithstanding a difficult position, and
+did not look upon their relation with less seriousness because they had
+not muttered a few words before _Monsieur le Maire_.
+
+The room was full when Arthur Burdon entered, but Margaret had kept him
+an empty seat between herself and Miss Boyd. Everyone was speaking at
+once, in French, at the top of his voice, and a furious argument was
+proceeding on the merit of the later Impressionists. Arthur sat down,
+and was hurriedly introduced to a lanky youth, who sat on the other
+side of Margaret. He was very tall, very thin, very fair. He wore a
+very high collar and very long hair, and held himself like an exhausted
+lily.
+
+“He always reminds me of an Aubrey Beardsley that’s been dreadfully
+smudged,” said Susie in an undertone. “He’s a nice, kind creature, but
+his name is Jagson. He has virtue and industry. I haven’t seen any of
+his work, but he has absolutely _no_ talent.”
+
+“How do you know, if you’ve not seen his pictures?” asked Arthur.
+
+“Oh, it’s one of our conventions here that nobody has talent,” laughed
+Susie. “We suffer one another personally, but we have no illusions
+about the value of our neighbour’s work.”
+
+“Tell me who everyone is.”
+
+“Well, look at that little bald man in the corner. That is Warren.”
+
+Arthur looked at the man she pointed out. He was a small person, with a
+pate as shining as a billiard-ball, and a pointed beard. He had
+protruding, brilliant eyes.
+
+“Hasn’t he had too much to drink?” asked Arthur frigidly.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

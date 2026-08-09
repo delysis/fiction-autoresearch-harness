@@ -1,0 +1,27 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“I guess I’ll try whether I can’t do it myself, Mr. Wylie,” she said,
+looking up at him archly and holding out a dainty handkerchief.
+“Blindfold me instead of Miss Ewart, and see if I’m not just as sharp at
+finding the pin.”
+
+She made such fun of the whole process that even Bruce Wylie himself
+failed to notice that Evereld calmly walked up the broad staircase in
+sight of them all, and she was safely locked into her room before any
+one had bestowed a thought upon her absence.
+
+“I shall always love American girls!” she said to herself. “How quick
+she was to understand, I only wish I could thank her, but that’s
+impossible. Somehow I must get away from this place. I daren’t stay
+longer. If only I knew how best to escape and where to go to! There is
+Mrs. Hereford. She would take care of me. But Ireland is so far away,
+and I fear they would overtake me before I could get to her. Shall I
+go to London and make Bridget take me away to some quiet little country
+place where no one could hear of us? Or there is Southbourne, but term
+will not begin till next week, and the whole house would be deserted, it
+would be no use going there.” None of these plans seemed very promising.
+To whom could she turn?
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

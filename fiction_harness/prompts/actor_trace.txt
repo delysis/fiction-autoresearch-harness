@@ -1,0 +1,44 @@
+Act as the behavioral simulator, before any novelist writes prose. Generate twelve behaviorally distinct traces for the locked scene.
+
+Return JSON only:
+{{
+  "traces": [
+    {{
+      "id": "trace-1",
+      "what_mara_notices": ["specific cues in attention order"],
+      "competing_interpretations": ["at least two live explanations"],
+      "desire": "active scene desire",
+      "concealed_vulnerability": "what Mara does not want exposed",
+      "livia_strategy": "her changing conversational control policy",
+      "jonah_restraint": "the socially costly action he declines or delays",
+      "dialogue_act_sequence": ["speech acts rather than polished lines"],
+      "erotic_escalation": ["reciprocal changes in attention and agency"],
+      "intimacy_mode": "non-sex sex scene plus premarital tension",
+      "emotional_transaction": {{
+        "opening_offer": "what Mara emotionally risks or offers",
+        "counteroffer": "what Livia or Jonah answers with",
+        "ending_state": "what feeling, trust, or vulnerability has changed"
+      }},
+      "mara_attraction_filter": ["what Mara specifically notices and why"],
+      "sensory_triad": ["three coherent channels, not a checklist"],
+      "atmospheric_pressure": "how setting or witnesses alter behavior",
+      "body_language_counterpoint": ["how bodies complicate spoken words"],
+      "distance_plan": {{
+        "close_on": "the detail whose meaning changes",
+        "widen_or_omit": "what reader imagination should complete"
+      }},
+      "relationship_delta": "before -> after",
+      "experimental_control": "how Mara separates cue channels",
+      "residual_mystery": "the smaller anomaly that survives",
+      "realized_coordinates": {{
+        "selected RGO coordinate ID": "the behavior, speech act, beat, or relationship change that realizes it"
+      }},
+      "event_sequence": ["causal events spanning the eight locked beats"]
+    }}
+  ]
+}}
+
+The traces must disagree about emotional transaction, attraction filter,
+sensory design, atmosphere, distance, tactic, and event sequence while
+preserving canon. Contact or restraint must change relationship state. Do not
+write the scene and do not add commentary.

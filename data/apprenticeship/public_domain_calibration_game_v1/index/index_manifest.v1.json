@@ -1,0 +1,16 @@
+{
+  "corpus_hash": "21d7e7cb8790544ddc70b4cbc2caca89cb52a7562d850a7369d613072ea8df75",
+  "corpus_manifest": "/Users/george/mpc/juicy_chastity_fiction_lab/data/apprenticeship/public_domain_calibration_game_v1/corpus_manifest.v1.json",
+  "corpus_manifest_hash": "03f2f23897fd47cc6cadeb41eec612ddace42960b4d7c4304f2d1f63912fe6f5",
+  "database": "/Users/george/mpc/juicy_chastity_fiction_lab/data/apprenticeship/public_domain_calibration_game_v1/index/literary_scenes.v1.sqlite",
+  "index_hash": "97e284094170dd18f99830c0a1a8913729f415f1372b49ba7639922465b72af5",
+  "partition_protocol": "profiling for prompts; calibration and holdout for measurement",
+  "record_type": "LiterarySceneIndex",
+  "scene_count": 346,
+  "scene_hash_root": "6197cc6a47bc58e640f5b2c4f4f98355571becd040bd415609ea11e001d890c2",
+  "version": "literary-apprenticeship.v1",
+  "work_scene_counts": {
+    "allen.linnet": 177,
+    "lyall.wayfaring-men": 169
+  }
+}

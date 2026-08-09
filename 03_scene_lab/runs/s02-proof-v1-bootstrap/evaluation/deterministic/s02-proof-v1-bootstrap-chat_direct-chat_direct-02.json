@@ -1,0 +1,118 @@
+{
+  "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+  "eligible": false,
+  "gates": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "d, they both pulled back, breathless and smiling, stopping while the desire was still a live, humming wire between them."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3346
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": [
+        "Livia had described had felt"
+      ]
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6321
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 329
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 1095
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 2467
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 6415
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 8347
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 9154
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 11956
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 15020
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 18564
+        }
+      ],
+      "passed": true
+    }
+  }
+}

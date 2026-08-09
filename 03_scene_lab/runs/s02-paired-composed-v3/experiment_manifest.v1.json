@@ -1,0 +1,69 @@
+{
+  "attempts_per_segment": 4,
+  "canonical_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+  "canonical_path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+  "created_at": "2026-08-01T22:14:24.720640+00:00",
+  "maximum_new_tokens": 750,
+  "record_type": "ComposedPairedRealization",
+  "seeds": [
+    913001,
+    913019,
+    913037,
+    913055,
+    913073,
+    913091,
+    913109,
+    913127,
+    913145,
+    913163,
+    913181,
+    913199
+  ],
+  "segments": [
+    {
+      "atom_ids": [
+        "s02-a4b-22063-tea",
+        "s02-a4b-22063-unremarkable"
+      ],
+      "local_endpoint": "Livia has accurately exposed the vulnerability, but has not offered telemetry access.",
+      "maximum_words": 520,
+      "minimum_words": 430,
+      "required_dialogue_turns": 3,
+      "segment_id": "pressure"
+    },
+    {
+      "atom_ids": [
+        "s02-a4b-22063-access",
+        "s02-a4b-22023-jonah-complicity"
+      ],
+      "local_endpoint": "The access gift and Jonah's complicity are visible; Mara has not accepted yet.",
+      "maximum_words": 315,
+      "minimum_words": 250,
+      "required_dialogue_turns": 3,
+      "segment_id": "gift-and-complicity"
+    },
+    {
+      "atom_ids": [
+        "s02-a4b-22063-accept",
+        "s02-a4b-22063-cooling-tea"
+      ],
+      "local_endpoint": "Mara has accepted; the tea cools and the session continues without granting an exit.",
+      "maximum_words": 265,
+      "minimum_words": 195,
+      "required_dialogue_turns": 3,
+      "segment_id": "choice-and-trap"
+    }
+  ],
+  "selection": "first hard-gate passing attempt per segment; no literary score",
+  "slot_id": 0,
+  "stable_reference_prefix": {
+    "policy": "byte-identical long prose plus paired-ledger apprenticeship prefix",
+    "prefix_hash": "a53b706440747529802565866c980e2200232debbf0657b545d6e9fdcbc8b93b",
+    "source_arm_id": "paired-icl-16k",
+    "source_prompt_hash": "cec628a5123875efd4122b1a091ad8c6f0503d22ab1eccbde2c2b0ab852bd50e",
+    "source_prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/prompts/paired-icl-16k.txt"
+  },
+  "target_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f",
+  "target_path": "03_scene_lab/runs/s02-compute-v4.3-a4b/verbalized_to_instruction/novelist_packet.seq1.v1.json",
+  "version": "paired-composed.v3"
+}

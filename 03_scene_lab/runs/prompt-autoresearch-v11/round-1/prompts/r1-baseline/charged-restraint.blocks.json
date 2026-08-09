@@ -1,0 +1,56 @@
+{
+  "blocks": [
+    {
+      "block_hash": "ae6a77de124d17e13e983a086ca68dac5ef75093625afca721aa018af09a33fe",
+      "block_id": "shared.juicy-chastity.v1",
+      "kind": "creative-profile",
+      "purpose": "RGO-derived project invariants shared by every experimental arm",
+      "source_ids": [],
+      "source_partition": "project-profile",
+      "target_facets": [
+        "charged-restraint",
+        "non-sex-sex-scene"
+      ],
+      "word_count": 92
+    },
+    {
+      "block_hash": "258b8c08c67ec7240c92056c9a768186eea6854c20e171dc4f4e8a76f352d66d",
+      "block_id": "baseline.case",
+      "kind": "demonstration",
+      "purpose": "causal ledger-to-prose apprenticeship",
+      "source_ids": [],
+      "source_partition": "derived",
+      "target_facets": [],
+      "word_count": 3578
+    },
+    {
+      "block_hash": "068c41067340461de4cfedc69ae1355cbd02e843a3bf20dee9584974b7ee652c",
+      "block_id": "target.charged-restraint",
+      "kind": "target-program",
+      "purpose": "variable target contract",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "charged-restraint",
+        "non-sex-sex-scene"
+      ],
+      "word_count": 121
+    },
+    {
+      "block_hash": "2ccafe01318efba60388e2f525a025cfaeefbe1621b795b67db9d1fa982bcbb2",
+      "block_id": "runway.charged-restraint",
+      "kind": "manuscript-runway",
+      "purpose": "plain-prose completion boundary",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "charged-restraint",
+        "non-sex-sex-scene"
+      ],
+      "word_count": 16
+    }
+  ],
+  "prompt_hash": "970234ed8a53630020b617c9a00ef45eb2fa7e1f127672432415507b74551ad4",
+  "prompt_tokens": 5390,
+  "recipe_hash": "3c034dabf8ca35644336acf022314bcbb2e6ccd1ea4ebe44b75bba0adea938bb"
+}

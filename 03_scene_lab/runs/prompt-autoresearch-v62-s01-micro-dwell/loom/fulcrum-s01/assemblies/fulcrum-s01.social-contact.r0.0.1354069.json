@@ -1,0 +1,31 @@
+{
+  "artifact_id": "fulcrum-s01.social-contact.r0.0.1354069",
+  "manuscript_hash": "0f0618e456dba19cbc819a46cfa9f8dffa2261be8593ec8de3723e58304ee189",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+      "raw_char_end": 556,
+      "raw_char_start": 0,
+      "raw_hash": "52c1edfd57c5be88b280e362eb4ca3e1d25e04bb6c3a76f609feb08725b50d16",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v60-s01-party-runway/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340109.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+      "text_hash": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+    },
+    {
+      "call_id": "fulcrum-s01.social-contact.r0.0.1354069",
+      "raw_char_end": 1197,
+      "raw_char_start": 1,
+      "raw_hash": "5068ffbc59822ec5aef28cc621dbc2a5b193147e336e5d016a9c15bf309294d7",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v62-s01-micro-dwell/loom/fulcrum-s01/raw/social-contact/fulcrum-s01.social-contact.r0.0.1354069.txt",
+      "role": "social-contact",
+      "span_id": "fulcrum-s01.social-contact.r0.0.1354069.span",
+      "text_hash": "2ec52fb98a54023a5ab13c748deff0461bd63fa93bb2123fc54db1242c91e374"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

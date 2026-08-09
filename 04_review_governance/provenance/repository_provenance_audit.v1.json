@@ -1,0 +1,569 @@
+{
+  "record_type": "RepositoryProvenanceAudit",
+  "schema_version": "provenance-audit.v1",
+  "project_root": "/Users/george/mpc/juicy_chastity_fiction_lab",
+  "policy": {
+    "frontier_role": "critic_only",
+    "clean_room": "no Codex/frontier manuscript prose in runway, exemplars, targets, or holdouts",
+    "promotion": "v2 ledger resolution plus exact raw derivation plus exact replay",
+    "historical_files": "preserved, never silently upgraded"
+  },
+  "summary": {
+    "legacy_unverified_model_claim": 1,
+    "frontier_or_codex_artifact": 32,
+    "experiment_conditioned_on_frontier_prose": 28
+  },
+  "findings": [
+    {
+      "path": "03_scene_lab/runs/prompt-autoresearch-v11/round-1/candidates.jsonl",
+      "sha256": "8389c734b0b60a6d9611f97ad2ccfb6b38839a2cd979ec75c20f77bdcf872664",
+      "category": "legacy_unverified_model_claim",
+      "reasons": [
+        "candidate/package relies on legacy self-attestation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-a-gift-status.codex.v1.md",
+      "sha256": "7db2afa282d90117b24d193c0cac66e23aa1483086a6dcd9962f9ab6d504eb36",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-b-somatic-control.codex.v1.md",
+      "sha256": "8c60ef85984b5b08ebe765bde4b533c839e15bc51492b6fdf1ca1c825e80a691",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-c-method-audit.codex.v1.md",
+      "sha256": "cba075af0240d896ba890d8247e4826dfafaec0703071f9cfcd684e8d009dfbd",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-a-gift-status.codex.v1.arrival-status.json",
+      "sha256": "4cde868e1aeef2fdd7aec51a87cd47c552f9051807a9430289632954e5d9cdaf",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-a-gift-status.codex.v1.calibration-contact.json",
+      "sha256": "0419309174e9e41fc515b80b9b08668d5e88b3c04fe904922b97c4fc0a6ca35e",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-a-gift-status.codex.v1.counter-test-mystery.json",
+      "sha256": "4b4bb1f5373f310c4d1d3c98c7aaef3269fe8a5476a84edaacba7428c8889658",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v1.arrival-status.json",
+      "sha256": "fd2b836d6f835cfb7edf27f24c0cf4ee6053c85121590b3b8f9f98bf912cfb9e",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v1.calibration-contact.json",
+      "sha256": "7318d3ea75952f8c70c93c39b18ccb021c34c63d21bbb2013057693ae381519a",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v1.counter-test-mystery.json",
+      "sha256": "d1d71637c736a4e0253690dafc175de0d4caf122b4cc9471eaf597a52ad742be",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v2.arrival-status.json",
+      "sha256": "bbc72048496c787a746025bf855b3bf488dc2a8d17aae74b0657d09e6e06f337",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v2.calibration-contact.json",
+      "sha256": "c422e9ffd554ba62a84d82bda6960ccd8424d6f9a7ce5ba5ddd9bd0a5c746cf4",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v2.counter-test-mystery.json",
+      "sha256": "e8eecda2515ad435a6a33b7ff4752722604a98ed7ab8fe10aac9678b49eae17d",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-c-method-audit.codex.v1.arrival-status.json",
+      "sha256": "37ec7c8a8a103b4ea6ed2e230c9843411d2a0ed8993d64a6ecd28a53284de494",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-c-method-audit.codex.v1.calibration-contact.json",
+      "sha256": "36b64f28e2309129d9b8a46022fb8d729b9cc80f1ce3b2a3eb3f49e67500c463",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-c-method-audit.codex.v1.counter-test-mystery.json",
+      "sha256": "f33f1aca5529afc7fadce6b5497f18b580c7000bface7187510ad222da444848",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+      "sha256": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-s02.codex.v2.md",
+      "sha256": "d4bb6004702ee51924ad1e9c5809839b31ddd0fc03c104cf4318f9afc5f9dd51",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v1/experiment_manifest.v1.json",
+      "sha256": "512afbb19d3b98f130251d73aba76c8962dfab5e8471f63069b0fbb4e6152c8e",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/experiment_manifest.v1.json",
+      "sha256": "1b924d164abf6d701af6640a65c39f8d181c633340bd083569ff89dd8d768859",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v3/experiment_manifest.v1.json",
+      "sha256": "e418e56e0175f5a30da3968fee0d12bc8009ecb9bcf43493dfda701dc29dd469",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/candidate.codex.v1.json",
+      "sha256": "86453e881792d07a7c776f1ec2d9c6891b8b5fd6f26ae527320f9b15860bc339",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/gates.codex.v1.json",
+      "sha256": "56845444f2198aaf55361ad45439119fea90da2f3ed2183113e6f66371fab358",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/integrated_literary_diagnostics.codex.v1.json",
+      "sha256": "5cd603424a43e3cb8c570b2f9ba4795373b37380143ff0c6bdaddb272544f499",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/literary_diagnostics.codex.v1.json",
+      "sha256": "dca19d6c1c60af5faed211ec88ce9b6bcc9ac27cbfdb6087535b6fc1c2512ea3",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/s01-s02.codex.v1.md",
+      "sha256": "161db907e28c9d324b26ad6668cfffe696e68934332dadae1b9329ea94c14fe8",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/s02.codex.v1.md",
+      "sha256": "8561c609388e564f2d35edcffafec3f60969b96e003c0024241dcb3b5c5cf06e",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/seq1.codex.v1.evaluation.json",
+      "sha256": "eef183d056b1a0de2b1f480cfc101fc3ac9854132928b0f1c6f0ecdb3f7cc79b",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/seq1.codex.v1.md",
+      "sha256": "4457df5925ec49bff9beb708c6506a8a98ff16e55dbc1a6263f14babb689a51c",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/seq1.codex.v1.provenance.json",
+      "sha256": "1b1ce4b7b995931864bddd4c2f6fd5ca13451713227c3c440687b3163193e951",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/seq2.codex.v1.md",
+      "sha256": "d1bcef9ad3e29eeb7b18dbfc19ebac4553be1a2670f7df08659a9d7eab1a0c0d",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/seq3.codex.v1.md",
+      "sha256": "9e3f84a9a8d4199a470d3aac3bd7181ebf26fe43c17e47e21baa04cb2b8f02e4",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v10/experiment_manifest.v1.json",
+      "sha256": "ce37162079c55bb00d822d0b470c96f1af1ae68d0a68132a1f499058037ae2c8",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v10-canonfix/experiment_manifest.v1.json",
+      "sha256": "0114540ce0d45da1229ebf24a3ad5d265bc830e0c0cdab99993cbdb77ed57a69",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v10-clean/experiment_manifest.v1.json",
+      "sha256": "14de5c1c04ae05f90bbbd8cfa627962f5d2b9146334657a50bb12ccb6bc721d8",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v11/experiment_manifest.v1.json",
+      "sha256": "33cad4db0f9ee977962ed1f1a31157ebdd83f84941065e74f0c9f27a5e028cf7",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v12/experiment_manifest.v1.json",
+      "sha256": "573b29debeb7a299324e28b4229aac13a04e5fd537041774e344c3e6ce0cbab6",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v12/frontier_editor/authorship.v1.json",
+      "sha256": "579be1b7d4c649a19b50db40d070cd71e2d9a8eb255a6a42fe46fbf4e81f8842",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v12/frontier_editor/critical-read.v1.md",
+      "sha256": "d58d031c277c621330d79663b1de15f9130b63b8efeeaac9ce334df8497ed69a",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v12/frontier_editor/result.v1.json",
+      "sha256": "8e6ed2384ef71cda1a1d92ba35847f19a2ec93835f965c80c43c198f8ef379c1",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v12/frontier_editor/s02-seq1.codex.v1.md",
+      "sha256": "b5ebc28222b88c8ca0d27fc4add35f7eba2d9ae5e7a672dfd450825bd38899cb",
+      "category": "frontier_or_codex_artifact",
+      "reasons": [
+        "path declares Codex/frontier authorship or evaluation"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-production-v9/experiment_manifest.v1.json",
+      "sha256": "8d6216885c69a019450cb1a98f585f4d982558e9e3d526f6587bf71461cc0bca",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v1/experiment_manifest.v1.json",
+      "sha256": "3bbad191e88fb6775e3bba7b0da0bdee74a2cf9d8a90c8ac5d3026ad933a057a",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v2/experiment_manifest.v1.json",
+      "sha256": "f202d90cc495593e7b574abac0c3f1fc3822a82912cf19fe986efc628f16f4ab",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v3/experiment_manifest.v1.json",
+      "sha256": "e9275a984fa7a74b3b215514b2b6f41c53a7d526089a526d655038931a7ac416",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v4/experiment_manifest.v1.json",
+      "sha256": "f25c928e3b053dcd9b98f9bbc752873f43c7855e5ced4abbcee8a405a947f57a",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v5/experiment_manifest.v1.json",
+      "sha256": "c302443d0f443a81cc5c7fae743b6367bebddff52195653f0889ade65ec10fe9",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v6/experiment_manifest.v1.json",
+      "sha256": "4b448f05710b2a4a2b1bdb6aaa6ca3f7c4be9a502c2fc1b066092bfe6ee34df4",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v7/seed-916001/experiment_manifest.v1.json",
+      "sha256": "d0036dc9c8861ad06ffd3a1f4156317c7cd65827f88e02a714ff091a7fdfa290",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v7/seed-916019/experiment_manifest.v1.json",
+      "sha256": "5ef00c2bba2d5bd537cea4930aa2eab9cf19bb822a572e8fab24527e9f02ee4b",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v7/seed-916037/experiment_manifest.v1.json",
+      "sha256": "9933702bb967a27fda6f2c75eb055fd797c00b689395776373dbbc812627b4f2",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v7/seed-916055/experiment_manifest.v1.json",
+      "sha256": "ae18d68b94f3fe06223b4e8c2f9397b7f55797d7005f93cf4fef29c969920382",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v8/seed-916001/experiment_manifest.v1.json",
+      "sha256": "cf2a968707f0a3968a146be4d7d952ceddc95a9e43db043b4d5f7307e62e6322",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v8/seed-916019/experiment_manifest.v1.json",
+      "sha256": "3487cb9d183bf1903744c91250041ee151acff469a3c93744d4d9617e4f94cc5",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v8/seed-916037/experiment_manifest.v1.json",
+      "sha256": "34fc14d0d68d30eab0fa0c81e2cf3d5f3eaf47272b17db0da26f935ab4a4f72e",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s02-paired-composed-v8/seed-916055/experiment_manifest.v1.json",
+      "sha256": "35e5fbd82c03e7cf7c2fa2c833cbc300706919d61feb7b693d0ef479dccd42d7",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s03-long-context-base-v1/experiment_manifest.v1.json",
+      "sha256": "02b8369f13dc5bd6e305da17749984100f625b141a00116bb2737ec10bec4a7e",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s03-long-context-base-v2/experiment_manifest.v1.json",
+      "sha256": "b628195de08df04d4be6ec50e2c60de123ff2c5bd9582fdb6fd7472e7cc4af72",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s03-long-context-base-v3/experiment_manifest.v1.json",
+      "sha256": "690c32487693ea41b403378ef0fd22f6c4e9f44c0bdad1c051d357d8953f579c",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s03-long-context-base-v4/experiment_manifest.v1.json",
+      "sha256": "3798885401d53fd937af2add78f3f151bcfe45fd9fdd658e6c177fe59f4426c8",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    },
+    {
+      "path": "03_scene_lab/runs/s03-long-context-base-v5/experiment_manifest.v1.json",
+      "sha256": "7f98705787309193dc42c07d1cc503fb6954d3258157e1204ae2ce49e92e16f2",
+      "category": "experiment_conditioned_on_frontier_prose",
+      "reasons": [
+        "manifest references Codex/frontier prose"
+      ],
+      "research_claim_status": "quarantined_historical_only"
+    }
+  ],
+  "audited_at": "2026-08-07T19:11:41.254396+00:00",
+  "audit_hash": "514c5aad9b29d785c3d87e9fec0eebac74c897e8e67579ad9eb92184498a8049"
+}

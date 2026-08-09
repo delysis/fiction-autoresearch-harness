@@ -1,0 +1,214 @@
+{
+  "benchmark_hash": "7c6c4907e888cba29ad60aebadc3cbd22389960e678d7795c4996a41b6f97d91",
+  "benchmarks_path": "/Users/george/mpc/juicy_chastity_fiction_lab/04_review_governance/prompt_autoresearch/compiled-v9/benchmarks.v1.json",
+  "bridge_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/fixtures/autoresearch/bridges",
+  "bridge_hashes": {
+    "charged-restraint.md": "bad6c74855479cfa7333470ba529eb63a792823066d6416765b45a069646d71e",
+    "married-explicit.md": "1fe740c5fde2487219408e9508195ec04194099bb2445f88c4cd2731f6612fd0",
+    "married-intimacy.md": "36b9fea0863e7a59af9d0e26240e8e9b7fd02b9a2220d1608b6d4feac04b4444"
+  },
+  "campaign_hash": "b99dbf76d082d2f533b12e4101e5808ea89e30843056ae3dc8abdec1a8f4707b",
+  "campaign_id": "prompt-autoresearch-v9",
+  "corpus_hash": "8bf3d65ab2061ab4b7559abcfaa48c3f6c6428e2e7b1dc630575f6c5e6af32f3",
+  "corpus_path": "/Users/george/mpc/juicy_chastity_fiction_lab/04_review_governance/prompt_autoresearch/compiled-v9/corpus.private.v1.json",
+  "created_at": "2026-08-03T05:38:32.961948+00:00",
+  "generation_policy": {
+    "completion_policy": "natural model stop or declared token cap; never silent truncation",
+    "max_completion_tokens": 2000,
+    "target_words_max": 1000,
+    "target_words_min": 800
+  },
+  "harness_hashes": {
+    "anti_copy.py": "a4590da137da00acd85d17a7f0d286634005c3098b0f29b756ddbe0002803de0",
+    "autoresearch.py": "5412b9187b9afd7d8d8fc5f75db05863b9b15a7d67f31cb1482a128dfe7031b8",
+    "model_client.py": "073b18e6029cbb3f48b0161c282054a06542b10bc945fef0c205cac39adf4550",
+    "shared_endpoint.py": "42c372e12b068155d0fc8e560acf5c6c2ed52a6b36fc9e1122ee66374ad8c324"
+  },
+  "project_prose_hashes": {
+    "project.s01-finalist.actor_novelist": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+    "project.s01-finalist.direct": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da",
+    "project.s01-finalist.verbalized_sampling": "42f8b11883b298b95a75206792a4ad6df625f9f574fd9ad72124d47199273f3f"
+  },
+  "project_root": "/Users/george/mpc/juicy_chastity_fiction_lab",
+  "recipes": [
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "aa00d64b6a5bcb8e7428fa6747752a622baac7fc699fbb19d9652d8f44f887ac",
+      "recipe_id": "r1-baseline",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 6000,
+      "topology": "baseline"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "8552b03f12fe3e595292a60461c538280522f632142041529949068208abaedb",
+      "recipe_id": "r1-craft-sheet",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 8000,
+      "topology": "craft-sheet"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "2bec5878f989fd0049640c142937356c9d8f6300f3c0a3c34acbf4bf260a5e77",
+      "recipe_id": "r1-raw-spice",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 12000,
+      "topology": "raw-spice"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "c2f2f17019c1733d655a9248e6561955064de24f715bfb0f91dbbbdbab0b189a",
+      "recipe_id": "r1-paired",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 16000,
+      "topology": "paired"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": true,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "97e228bbd87f95594970bd70cd45d0005cd2b4da12451633770a1a33f45f50b7",
+      "recipe_id": "r1-paired-bridge",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 20000,
+      "topology": "paired-bridge"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": true,
+      "mutated_axis": "initial",
+      "named_author": true,
+      "parent_recipe_hash": "",
+      "recipe_hash": "2283a69418a36343091692214b2881e4e4318cd60a27ecd8f4de9b7a24f03cb7",
+      "recipe_id": "r1-paired-bridge-named",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 20000,
+      "topology": "paired-bridge-named"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": true,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "04f5523d8a62e2de32d178059c7ce9dec0f9128ba9580d63ba623bd19f2247ae",
+      "recipe_id": "r1-contrastive",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 24000,
+      "topology": "contrastive"
+    },
+    {
+      "block_ids": [],
+      "encoding": "headings",
+      "include_bridge": true,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "79ce0a521552fa6740da25622c6b944100cd4271c9b3580d3c12eb652d1c8fc8",
+      "recipe_id": "r1-curated-long",
+      "round_number": 1,
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 24000,
+      "topology": "curated-long"
+    }
+  ],
+  "record_type": "AutoresearchCampaign",
+  "round_seeds": {
+    "1": [
+      931001,
+      931037,
+      931079
+    ],
+    "2": [
+      932003,
+      932041,
+      932083,
+      932129
+    ],
+    "3": [
+      933007,
+      933053,
+      933101,
+      933151
+    ]
+  },
+  "sampling": {
+    "min_p": 0.02,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.08
+  },
+  "version": "prompt-autoresearch.v1"
+}

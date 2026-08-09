@@ -1,0 +1,14 @@
+{
+  "inheritance_hash": "bc676909aea14d81bf59b3820261f436d8737723870292f79655333c62eda382",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "fulcrum-s01": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v72p-s01-labor-readmission",
+  "source_campaign_hash": "d1b92311eb4a13c44f5430d4e7a132f1847d3a4f65c7fbcb75f5dde19530c4f6",
+  "source_lock_hash": "515b1a118a9ea83a8ef0a955132f2ea5d797fcc038af70c45702b360aff8c34c",
+  "target_campaign_hash": "4e5f32e47ee09b672ff55c9e799ee9c55f2bef883d7c49a447e12648d61be05f",
+  "target_lock_hash": "6df44d3641b82b638e393ad940fdbd3c4c1ec3f21c043c304d2ba3f285a4fb75",
+  "verified_at": "2026-08-08T19:29:35.643061+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

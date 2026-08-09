@@ -1,0 +1,336 @@
+{
+  "audit": {
+    "charged-restraint": {
+      "critic_rejected": [
+        {
+          "reason": "critic_hard_reject",
+          "runway_id": "runway.charged-restraint.932001"
+        }
+      ],
+      "eligible_judged": 4,
+      "selected": "runway.charged-restraint.932037"
+    },
+    "fulcrum-s01": {
+      "critic_rejected": [],
+      "eligible_judged": 6,
+      "selected": "runway.fulcrum-s01.932019"
+    },
+    "institutional-pressure-control": {
+      "critic_rejected": [],
+      "eligible_judged": 1,
+      "selected": "runway.institutional-pressure-control.932001"
+    },
+    "married-explicit": {
+      "critic_rejected": [],
+      "eligible_judged": 5,
+      "selected": "runway.married-explicit.932037"
+    }
+  },
+  "campaign_hash": "9595e06d1ff7d58c2b142192a9f0e00414bfd05c7fb7752b9ed8de0039d73489",
+  "lock_hash": "88478716d8156bf15ad615b7bf3ec08bc690c30246c3a38555853155d016a317",
+  "record_type": "CriticLockedGeneratedRunways",
+  "runways": {
+    "charged-restraint": {
+      "campaign_hash": "9595e06d1ff7d58c2b142192a9f0e00414bfd05c7fb7752b9ed8de0039d73489",
+      "cell_id": "charged-restraint",
+      "completed_at": "2026-08-08T01:31:05.187150+00:00",
+      "critic_judgment_hash": "64231ff90490df9a03a4f2dfe30758f39f2dc3aa4f3496a4008edea3ed07a712",
+      "eligible": true,
+      "finish_reason": "length",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "uncertainty_then_escalation": false
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true
+        },
+        "passed": true
+      },
+      "overlap": {
+        "candidate_id": "runway.charged-restraint.932037",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "f17fa192b2b43ca3c4237cf79b4f580030976d2d53db286941e96d290ea97935",
+      "raw_hash": "8d4eefe0fbd103f7988d10e82e0812d12440e7a96f3014454ed7d06543979b81",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.charged-restraint.932037",
+      "seed": 932037,
+      "selection_score": 5.714285714285714,
+      "span": {
+        "call_id": "runway.charged-restraint.932037",
+        "raw_char_end": 692,
+        "raw_char_start": 0,
+        "raw_hash": "8d4eefe0fbd103f7988d10e82e0812d12440e7a96f3014454ed7d06543979b81",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v15-branch-loom/runways/raw/runway.charged-restraint.932037.txt",
+        "role": "opening-runway",
+        "span_id": "runway.charged-restraint.932037",
+        "text_hash": "cee1363d4fcde3ee789758996c3a48bd23641b7b49f520ce5b4fa9cbc1b4ec71"
+      },
+      "status": "completed",
+      "text": "Mara and Jonah walk side by side, too close for casual colleagues and too far to make their closeness seem anything other than work. The corridor is nearly empty, the lab nearly silent. Neither says anything until the door shuts behind them; then his voice is too deep for a hallway, her own too low for him to hear.\n\n“Here,” he says, holding out his hand. She pauses, the air like iron in her lungs.\n\nHe does not smile at her hesitation; his hand remains extended. He is, she decides, asking whether she wants his help, not offering it, and she can take it or leave it.\n\nThe decision is her own, so she takes it, carefully, as if to reject it would destroy the entire day, or month, or year.",
+      "text_hash": "cee1363d4fcde3ee789758996c3a48bd23641b7b49f520ce5b4fa9cbc1b4ec71",
+      "timings": {
+        "cache_n": 149,
+        "predicted_ms": 30735.65,
+        "predicted_n": 260,
+        "predicted_per_second": 8.45923219453631,
+        "predicted_per_token_ms": 118.21403846153846,
+        "prompt_ms": 98.332,
+        "prompt_n": 1,
+        "prompt_per_second": 10.169629418703984,
+        "prompt_per_token_ms": 98.332
+      },
+      "usage": {
+        "completion_tokens": 260,
+        "prompt_tokens": 150
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    },
+    "fulcrum-s01": {
+      "campaign_hash": "9595e06d1ff7d58c2b142192a9f0e00414bfd05c7fb7752b9ed8de0039d73489",
+      "cell_id": "fulcrum-s01",
+      "completed_at": "2026-08-08T01:35:02.020088+00:00",
+      "critic_judgment_hash": "c7e4c9a41d89ff179ebecc2a4cd45195f4885dd202ab763ba73081aca9b96233",
+      "eligible": true,
+      "finish_reason": "stop",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "uncertainty_then_escalation": false
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true
+        },
+        "passed": true
+      },
+      "overlap": {
+        "candidate_id": "runway.fulcrum-s01.932019",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "13b076827ec777b0abff24f88e3d133adc8c2e1ce4630a76cc163f68a0b1d7b3",
+      "raw_hash": "c7f8840d29a1e1dfeffb655a9e7f3721be2a3dfacb4fcf6b80094d2f5da4da13",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.fulcrum-s01.932019",
+      "seed": 932019,
+      "selection_score": 5.857142857142857,
+      "span": {
+        "call_id": "runway.fulcrum-s01.932019",
+        "raw_char_end": 772,
+        "raw_char_start": 0,
+        "raw_hash": "c7f8840d29a1e1dfeffb655a9e7f3721be2a3dfacb4fcf6b80094d2f5da4da13",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v15-branch-loom/runways/raw/runway.fulcrum-s01.932019.txt",
+        "role": "opening-runway",
+        "span_id": "runway.fulcrum-s01.932019",
+        "text_hash": "cf0e5de1fbb3f10de155740dbe7af1724173f70ecd0316b43e5eca2329cd6ea9"
+      },
+      "status": "completed",
+      "text": "She stepped back, took a breath, and then closed her eyes as a kind of overture. Her posture and facial expression tightened and relaxed like waves, seeking a rhythm. This time her voice came out high and light, a soft smile in the sound as the words landed. She said, \"I see that you've changed the way you stand.\"\n\nHe said, \"What do you see?\"\n\nShe said, \"Your left foot is facing further out.\"\n\nHe nodded.\n\n\"You're carrying your head more to the right. I don't mean turned, I mean . . .\"\n\n\"Shifted,\" he said, his voice gentle and encouraging.\n\n\"Shifted,\" she echoed, \"yes.\"\n\nA tiny gap opened between them, and closed again as she shifted in space to make it so. This time he was the one to step forward; her shoulder tilted as he went by, a visible but unspoken answer.",
+      "text_hash": "cf0e5de1fbb3f10de155740dbe7af1724173f70ecd0316b43e5eca2329cd6ea9",
+      "timings": {
+        "cache_n": 7,
+        "predicted_ms": 38288.413,
+        "predicted_n": 256,
+        "predicted_per_second": 6.686095869264678,
+        "predicted_per_token_ms": 149.56411328125,
+        "prompt_ms": 1847.465,
+        "prompt_n": 248,
+        "prompt_per_second": 134.23799638964744,
+        "prompt_per_token_ms": 7.44945564516129
+      },
+      "usage": {
+        "completion_tokens": 256,
+        "prompt_tokens": 255
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    },
+    "institutional-pressure-control": {
+      "campaign_hash": "9595e06d1ff7d58c2b142192a9f0e00414bfd05c7fb7752b9ed8de0039d73489",
+      "cell_id": "institutional-pressure-control",
+      "completed_at": "2026-08-08T01:29:14.805611+00:00",
+      "critic_judgment_hash": "9ded81c6535c373f4b6f67d5a2688abe294313e98a4b573f4c7bd92d78f28415",
+      "eligible": true,
+      "finish_reason": "length",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "uncertainty_then_escalation": false
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true
+        },
+        "passed": true
+      },
+      "overlap": {
+        "candidate_id": "runway.institutional-pressure-control.932001",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "4e88028ad850b83793c8579ebe9b9aab5ca43aa4fdf2625bd17e7f3705a2275b",
+      "raw_hash": "6beb7b447444ccebaf970cc9ede00e8a9c51fc137a647303bda95d98d9ebf16f",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.institutional-pressure-control.932001",
+      "seed": 932001,
+      "selection_score": 5.428571428571429,
+      "span": {
+        "call_id": "runway.institutional-pressure-control.932001",
+        "raw_char_end": 624,
+        "raw_char_start": 0,
+        "raw_hash": "6beb7b447444ccebaf970cc9ede00e8a9c51fc137a647303bda95d98d9ebf16f",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v15-branch-loom/runways/raw/runway.institutional-pressure-control.932001.txt",
+        "role": "opening-runway",
+        "span_id": "runway.institutional-pressure-control.932001",
+        "text_hash": "dbd598f533924f008ce4a30f09cde152dd14c2e658597b1bd9a412c852ac305f"
+      },
+      "status": "completed",
+      "text": "She stood up, and Livia smiled at her, at least this time not with a knowing leer. Mara tried not to grimace back as she left the room, and she was fairly certain she succeeded. It was all she could do.\n\nLivia caught her elbow. \"No rest for the weary, I know.\" She pressed one hand to Mara's lower back, the other against her elbow as if to lead her into some private alcove or corridor. It was not a gesture with which Mara was familiar.\n\n\"Are you all right?\" Livia asked.\n\n\"Of course, Livia,\" she snapped, but her own words stung more than Livia's did.\n\nLivia released her back to rest one palm lightly on Mara's shoulder.",
+      "text_hash": "dbd598f533924f008ce4a30f09cde152dd14c2e658597b1bd9a412c852ac305f",
+      "timings": {
+        "cache_n": 7,
+        "predicted_ms": 31682.296,
+        "predicted_n": 260,
+        "predicted_per_second": 8.20647594479895,
+        "predicted_per_token_ms": 121.85498461538461,
+        "prompt_ms": 1909.183,
+        "prompt_n": 143,
+        "prompt_per_second": 74.90114881601188,
+        "prompt_per_token_ms": 13.35093006993007
+      },
+      "usage": {
+        "completion_tokens": 260,
+        "prompt_tokens": 150
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    },
+    "married-explicit": {
+      "campaign_hash": "9595e06d1ff7d58c2b142192a9f0e00414bfd05c7fb7752b9ed8de0039d73489",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-08T01:33:21.434224+00:00",
+      "critic_judgment_hash": "440745bd41b34e33bc88680e7d27e046a31d39b28e3a9db3ac3d3a83bb71194b",
+      "eligible": true,
+      "finish_reason": "length",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "uncertainty_then_escalation": false
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true
+        },
+        "passed": true
+      },
+      "overlap": {
+        "candidate_id": "runway.married-explicit.932037",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "fd8d68f9e379ff72f3c9d76740509f82a1f7dc9125736e82ea851703498b4977",
+      "raw_hash": "1d209f475ab143115eec87adccaa1183dbbbbc34b869f4e0bed8c153b973d402",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.married-explicit.932037",
+      "seed": 932037,
+      "selection_score": 5.714285714285714,
+      "span": {
+        "call_id": "runway.married-explicit.932037",
+        "raw_char_end": 619,
+        "raw_char_start": 0,
+        "raw_hash": "1d209f475ab143115eec87adccaa1183dbbbbc34b869f4e0bed8c153b973d402",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v15-branch-loom/runways/raw/runway.married-explicit.932037.txt",
+        "role": "opening-runway",
+        "span_id": "runway.married-explicit.932037",
+        "text_hash": "c3cfe4e68c40554a767a47bfc864b243859def684321daa0ce9f21d0043f9847"
+      },
+      "status": "completed",
+      "text": "Esther: \"You're staring.\"\nSimon: \"Yeah. You don't wear these at home.\"\nEsther: \"You don't wear clothes at home.\"\nSimon: \"That's my point.\"\nEsther: \"Are we still strangers?\"\nSimon: \"We don't need to be. It's been long enough.\"\nEsther: \"Is it?\"\n\nSimon sits up in bed, the sheet around his waist. His hands flutter restlessly, searching for a place to land. The room is bare.\nEsther: \"If I was anyone else, would I be allowed to see you naked?\"\nSimon: \"Why would you be anyone else?\"\nEsther: \"I'm a stranger to myself.\"\n\nEsther closes her eyes. \"That's not a compliment,\" she says, and moves off the bed toward the window.",
+      "text_hash": "c3cfe4e68c40554a767a47bfc864b243859def684321daa0ce9f21d0043f9847",
+      "timings": {
+        "cache_n": 147,
+        "predicted_ms": 36138.883,
+        "predicted_n": 260,
+        "predicted_per_second": 7.1944669678916195,
+        "predicted_per_token_ms": 138.99570384615384,
+        "prompt_ms": 114.209,
+        "prompt_n": 1,
+        "prompt_per_second": 8.755877382693132,
+        "prompt_per_token_ms": 114.209
+      },
+      "usage": {
+        "completion_tokens": 260,
+        "prompt_tokens": 148
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "selection_policy": "hard-gates-then-read-only-critic-boltzmann.v1",
+  "version": "gemma-fiction-autoresearch.v4"
+}

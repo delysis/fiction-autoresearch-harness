@@ -1,0 +1,43 @@
+{
+  "blocks": [
+    {
+      "block_hash": "258b8c08c67ec7240c92056c9a768186eea6854c20e171dc4f4e8a76f352d66d",
+      "block_id": "baseline.case",
+      "kind": "demonstration",
+      "purpose": "causal ledger-to-prose apprenticeship",
+      "source_ids": [],
+      "source_partition": "derived",
+      "target_facets": [],
+      "word_count": 3578
+    },
+    {
+      "block_hash": "574c82ec75ced8c1d79be1b360adce609ed3524fd25a24eb6907ac0685e92510",
+      "block_id": "target.charged-restraint",
+      "kind": "target-program",
+      "purpose": "variable target contract",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "charged-restraint",
+        "non-sex-sex-scene"
+      ],
+      "word_count": 89
+    },
+    {
+      "block_hash": "2ccafe01318efba60388e2f525a025cfaeefbe1621b795b67db9d1fa982bcbb2",
+      "block_id": "runway.charged-restraint",
+      "kind": "manuscript-runway",
+      "purpose": "plain-prose completion boundary",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "charged-restraint",
+        "non-sex-sex-scene"
+      ],
+      "word_count": 16
+    }
+  ],
+  "prompt_hash": "076507a3c5766864fd222aafa6d51495b30a1b99634ed0d04d2a590898f3ae98",
+  "prompt_tokens": 5199,
+  "recipe_hash": "aa00d64b6a5bcb8e7428fa6747752a622baac7fc699fbb19d9652d8f44f887ac"
+}

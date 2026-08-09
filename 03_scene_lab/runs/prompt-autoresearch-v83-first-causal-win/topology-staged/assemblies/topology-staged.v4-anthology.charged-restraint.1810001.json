@@ -1,0 +1,42 @@
+{
+  "artifact_id": "topology-staged.v4-anthology.charged-restraint.1810001",
+  "manuscript_hash": "12fe714931009847bbcf0c8963a93e50d481188dcd948e3c627542211a5d13e9",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n",
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+      "raw_char_end": 998,
+      "raw_char_start": 0,
+      "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v75-runway-search/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.1750019.txt",
+      "role": "derived-opening-runway-prefix",
+      "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+      "text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da"
+    },
+    {
+      "call_id": "topology-staged.v4-anthology.charged-restraint.1810001.spark",
+      "raw_char_end": 96,
+      "raw_char_start": 1,
+      "raw_hash": "54a57932ac9a1ba1872691d7e04a65fae3d3a6f646550db16dc792eafc6c6d21",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v83-first-causal-win/topology-staged/raw/topology-staged.v4-anthology.charged-restraint.1810001.spark.txt",
+      "role": "topology-causal-spark",
+      "span_id": "topology-staged.v4-anthology.charged-restraint.1810001.spark",
+      "text_hash": "4ad338969a57330abe28420960bda6aab3955447809ce697780c5b2398a7c9ef"
+    },
+    {
+      "call_id": "topology-staged.v4-anthology.charged-restraint.1810001.continuation",
+      "raw_char_end": 569,
+      "raw_char_start": 1,
+      "raw_hash": "fa7b8d85020d879a12ad95ae7771ea6ee86cf4e36640eed622d1b9209fcda2ad",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v83-first-causal-win/topology-staged/raw/topology-staged.v4-anthology.charged-restraint.1810001.continuation.txt",
+      "role": "topology-counteroffer-continuation",
+      "span_id": "topology-staged.v4-anthology.charged-restraint.1810001.continuation",
+      "text_hash": "d9ef7e4b6505e708ce18bcbba1b5e1d293d1fa644874adb45dee886a4d6fb9f3"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

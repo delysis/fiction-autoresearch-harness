@@ -1,0 +1,30 @@
+{
+  "emotional_offer": "Vulnerability regarding career prospects",
+  "emotional_counteroffer": "Dispassionate concern and inquiry",
+  "relationship_history": "Past conflict with a specific male figure",
+  "present_stakes": "Immediate future employment and social navigation",
+  "dialogue_act_sequence": [
+    "Statement of intent regarding future work",
+    "Inquiry about next steps",
+    "Statement of plans for securing work",
+    "Question regarding a specific male figure's status",
+    "Assertion of non-action regarding a specific male figure"
+  ],
+  "body_language_counterpoint": "Sullenness contrasted with affected speech patterns",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close third-person observation",
+  "physical_logistics": "Seated at a table in a public setting",
+  "agency_actions": [
+    "Girl states lack of immediate plans",
+    "Girl mentions specific contacts for work",
+    "Girl ignores a male figure's presence",
+    "Girl asks a question to an ignored male figure"
+  ],
+  "relationship_delta": "Shifting dynamic between the girl and Gerald",
+  "story_state_change": "Establishment of immediate future plans",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

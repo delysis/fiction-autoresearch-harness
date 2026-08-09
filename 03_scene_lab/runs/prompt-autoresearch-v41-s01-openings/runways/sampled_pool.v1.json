@@ -1,0 +1,13 @@
+{
+  "campaign_hash": "c0fd8ead36cc0376f6ff7dd8077eaa772c96f313ddced0b2a96d816cae75e6b9",
+  "eligible_runway_ids": [
+    "runway.parallel-book-continuity.fulcrum-s01.1311019",
+    "runway.parallel-book-continuity.fulcrum-s01.1311091",
+    "runway.parallel-book-continuity.fulcrum-s01.1311109",
+    "runway.parallel-book-continuity.fulcrum-s01.1311127"
+  ],
+  "pool_hash": "38571913f060dca88973326a22122460b08aed6d6a074ac9a473df0bfca9b553",
+  "record_type": "SampledGeneratedRunwayPool",
+  "selection_policy": "no-automatic-promotion; read-only-critic-or-explicit-research-lead-selection-required",
+  "version": "gemma-fiction-autoresearch.v4"
+}

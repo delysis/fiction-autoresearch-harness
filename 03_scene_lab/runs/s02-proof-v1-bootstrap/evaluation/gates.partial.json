@@ -1,0 +1,1173 @@
+{
+  "candidate_count": 10,
+  "eligible_count": 1,
+  "record_type": "S02GateReport",
+  "reports": [
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "as planning, but as she stepped inside and closed the door, she knew she was no longer a subject. She was a participant."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3404
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6379
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 482
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 756
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 1050
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 6131
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 8764
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 10788
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 13476
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 15870
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 18019
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "d, they both pulled back, breathless and smiling, stopping while the desire was still a live, humming wire between them."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3346
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": [
+            "Livia had described had felt"
+          ]
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6321
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 329
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 1095
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 2467
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 6415
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 8347
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 9154
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 11956
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 15020
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 18564
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "y in the silence, and for the first time since arriving, Mara Vale didn't feel like a subject. She felt like the author."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3368
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6343
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 1252
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 2464
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 3969
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 6474
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 8264
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 9873
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 11867
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 13668
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 17259
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "e she had arrived at the compound, she felt entirely whole, held together by the simple, enduring power of her own *no*."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3514
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6489
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 195
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 783
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 3021
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 4260
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 7014
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 10717
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 12986
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14728
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 17111
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "cle, but a hard-won, sovereign hope. She had found someone who saw her, and who was content to let her remain a mystery."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3593
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6568
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 689
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 2080
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 3143
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 3649
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 6060
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 10781
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 13126
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14943
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 17727
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "onged entirely to her, and for now, that was enough.\n\nShe stepped inside and closed the door, not to hide, but to begin."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3320
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6295
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 519
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 871
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 1666
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 5119
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 8534
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 10704
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 12289
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14759
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 15922
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "afraid of being seen. For the first time, she had found someone who knew how to look without trying to solve the puzzle."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3527
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": [
+            "Livia wanted"
+          ]
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6502
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 208
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 750
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 2716
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 7041
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 9838
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 11097
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 13084
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14736
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 18383
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+      "eligible": true,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "or the first time in her life, she knew exactly how to leave—and that knowledge made her finally brave enough to remain."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3407
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": true,
+          "romantic_future": true
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6382
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 138
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 641
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 1613
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 6461
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 6937
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 9840
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 11946
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14079
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 16882
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "ed. She felt like a woman who had finally learned how to say no, and in doing so, had discovered exactly how to say yes."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3521
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6496
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 128
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 472
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 870
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 6717
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 8646
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 9113
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 12666
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14092
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 17156
+            }
+          ],
+          "passed": true
+        }
+      }
+    },
+    {
+      "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": true,
+          "terminal_text": "d unsolved. But as she stepped inside and closed the door, she didn't feel like a data point. She felt like a beginning."
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3357
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": [
+            "Livia wanted"
+          ]
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6332
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "care_becomes_tribunal",
+              "found": true,
+              "position": 97
+            },
+            {
+              "beat": "observation_to_command",
+              "found": true,
+              "position": 278
+            },
+            {
+              "beat": "explanations_multiply",
+              "found": true,
+              "position": 1409
+            },
+            {
+              "beat": "loaded_phrase_bodily_clash",
+              "found": true,
+              "position": 9646
+            },
+            {
+              "beat": "three_second_silence",
+              "found": true,
+              "position": 11200
+            },
+            {
+              "beat": "clean_question",
+              "found": true,
+              "position": 11265
+            },
+            {
+              "beat": "miriam_opens_exit",
+              "found": true,
+              "position": 12283
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": true,
+              "position": 14463
+            },
+            {
+              "beat": "kiss_stops_and_doorway_rule",
+              "found": true,
+              "position": 17401
+            }
+          ],
+          "passed": true
+        }
+      }
+    }
+  ]
+}

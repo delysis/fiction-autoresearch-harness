@@ -1,0 +1,36 @@
+Produce a deliberately long-tail distribution of eight distinct strategies for writing this scene. Each strategy must create a genuinely different causal and emotional route through the same locked eight beats.
+
+Return JSON only:
+{{
+  "strategies": [
+    {{
+      "id": "strategy-1",
+      "title": "short diagnostic title",
+      "probability": 0.07,
+      "premise": "the governing dramatic approach",
+      "beat_strategy": ["one concrete move for each of the eight beats"],
+      "dialogue_moves": ["character-specific speech acts"],
+      "event_sequence": ["causal events"],
+      "romantic_engine": "how attraction and impediment change each other",
+      "emotional_transaction": "opening state -> exchange -> changed state",
+      "mara_attraction_filter": ["specific signals Mara notices and why"],
+      "sensory_triad": ["three coherent channels"],
+      "atmospheric_pressure": "how setting and witnesses alter behavior",
+      "distance_plan": "where narration closes and what it leaves implicit",
+      "relationship_delta": "precise before -> after",
+      "epistemic_turn": "how the control works and what remains unexplained",
+      "realized_coordinates": {{
+        "selected RGO coordinate ID": "the concrete beat, action, or relationship change that realizes it"
+      }}
+    }}
+  ]
+}}
+
+Every stated probability must be greater than zero and strictly below 0.10.
+Diversify emotional purpose and scene craft, not just props or dialogue topics.
+For every required or preferred coordinate in the resolved creative profile,
+state how this strategy realizes it; do not merely repeat its label.
+At least two strategies should make Jonah's restraint the hottest action; at
+least two should let atmosphere or public observation carry pressure; none may
+substitute generic arousal for an emotional exchange. Do not converge on the
+most conventional interpretation. No prose scene and no commentary.

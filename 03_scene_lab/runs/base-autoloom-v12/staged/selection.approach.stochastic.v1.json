@@ -1,0 +1,616 @@
+{
+  "campaign_hash": "f4c505570224a29fa351fbe026915e75e0b37128a39a375fb8f404299dd7c1f3",
+  "candidate_count": 10,
+  "off_model_recovery": "select after 10 completed and 2 terminal extraction failures",
+  "record_type": "AutoloomStageSelection",
+  "selected": [
+    {
+      "cache": {
+        "cache_n": 4018,
+        "prompt_n": 402
+      },
+      "campaign_hash": "f4c505570224a29fa351fbe026915e75e0b37128a39a375fb8f404299dd7c1f3",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T12:10:53.113057+00:00",
+      "cumulative_completion": "Simon traced the pattern of her scar tissue with his thumb.\n\n\"They got me in the arm first,\" he said, \"right above the elbow. I thought it was the weapon but it was just the shockwave. Two more of them came and I wasn't fast enough.\"\n\nHe turned his forearm toward the window light and showed her the bruise where the shockwave hit.\n\n\"Simon, I've already asked you twice to send your code.\"\n\n\"I did that,\" he said. \"On the drive.\"\n\nShe leaned closer to read the handwriting between his eyes.\n\n\"Did you need a third person to operate it?\"\n\n\"No,\" he said. \"They had more than one device, but one would have been enough. If I had been faster.\"\n\nEsther stepped back and removed her shirt. Her scar tissue glittered under the lamp. Simon's breath caught in his chest.\n\n\"Simon,\" she said, \"you opened my drive and changed my plan. Again.\"\n\n\"Yes.\"\n\nShe moved to the bed and sat, knees spread slightly apart, one hand on each thigh. The pattern of scar tissue ran like a second skin beneath her fingertips.\n\n\"May I touch your scar?\" he asked.\n\n\"Only if you show me yours first.\"\n\nHe walked to the window, raised his forearm, and waited until her gaze met his before turning his body. The bruise ran from just above the elbow to past the wrist. The color was almost black where it crossed the bone.",
+      "cumulative_hash": "7bc0252aacd7a20e7a35d5d463c9bd1ae8b3a34f683f24f6a221be5d917039ae",
+      "diagnostics": {
+        "aftermath_signal": 0,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 0,
+          "word_count": 237
+        },
+        "cliche_hits": [],
+        "contact_signal": 7,
+        "dialogue_turns": 9,
+        "eligible": true,
+        "explicit_signal": 0,
+        "motif_counts": {
+          "again": 1,
+          "body": 1,
+          "bruise": 2,
+          "pattern": 2,
+          "scar": 4
+        },
+        "packet_leakage": false,
+        "quality_signal": 12.95,
+        "word_count": 237
+      },
+      "finish_reason": "length",
+      "overlap": {
+        "candidate_id": "approach.943149",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "",
+      "parent_id": "",
+      "program_hash": "04fe873aa36cbecfa9832d52f5ba22202999250f0afa79e0ad5e44f398c7e3c9",
+      "prompt_hash": "24bad687ada7a3b9c6c56e4efbfc64939a69fd0cd815bec4c43507b8063e9cdf",
+      "prompt_tokens": 4419,
+      "raw_hash": "b09590464dd10b3fca83633c82eca615441fc2c1fb8be6081adc4b39f4505f6e",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v12/staged/raw/approach/approach.943149.txt",
+      "recipe_hash": "a2d16749714268a28e043fe5104ed204d3a72fe1d3b6999d226c1f5d89f5a094",
+      "recipe_id": "loom-runway-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 943149,
+      "segment": "Simon traced the pattern of her scar tissue with his thumb.\n\n\"They got me in the arm first,\" he said, \"right above the elbow. I thought it was the weapon but it was just the shockwave. Two more of them came and I wasn't fast enough.\"\n\nHe turned his forearm toward the window light and showed her the bruise where the shockwave hit.\n\n\"Simon, I've already asked you twice to send your code.\"\n\n\"I did that,\" he said. \"On the drive.\"\n\nShe leaned closer to read the handwriting between his eyes.\n\n\"Did you need a third person to operate it?\"\n\n\"No,\" he said. \"They had more than one device, but one would have been enough. If I had been faster.\"\n\nEsther stepped back and removed her shirt. Her scar tissue glittered under the lamp. Simon's breath caught in his chest.\n\n\"Simon,\" she said, \"you opened my drive and changed my plan. Again.\"\n\n\"Yes.\"\n\nShe moved to the bed and sat, knees spread slightly apart, one hand on each thigh. The pattern of scar tissue ran like a second skin beneath her fingertips.\n\n\"May I touch your scar?\" he asked.\n\n\"Only if you show me yours first.\"\n\nHe walked to the window, raised his forearm, and waited until her gaze met his before turning his body. The bruise ran from just above the elbow to past the wrist. The color was almost black where it crossed the bone.",
+      "segment_hash": "dc652a13c7c105d17e58a61ac04208401c04d2bce60b3f203d98130471d7e7a2",
+      "source_ids": [
+        "gabaldon.example-02",
+        "gabaldon.example-03",
+        "bridge.married-explicit-workshop"
+      ],
+      "stage": "approach",
+      "stage_candidate_id": "approach.943149",
+      "started_at": "2026-08-03T12:10:18.733904+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 4018,
+        "predicted_ms": 30838.259,
+        "predicted_n": 320,
+        "predicted_per_second": 10.376720683226639,
+        "predicted_per_token_ms": 96.369559375,
+        "prompt_ms": 3455.218,
+        "prompt_n": 402,
+        "prompt_per_second": 116.34577036817939,
+        "prompt_per_token_ms": 8.595069651741293
+      },
+      "usage": {
+        "completion_tokens": 320,
+        "prompt_tokens": 4420
+      }
+    },
+    {
+      "cache": {
+        "cache_n": 4019,
+        "prompt_n": 419
+      },
+      "campaign_hash": "f4c505570224a29fa351fbe026915e75e0b37128a39a375fb8f404299dd7c1f3",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T12:11:29.762409+00:00",
+      "cumulative_completion": "His breath quickened first, then his pulse. She counted both while watching the small beads of sweat form on his upper lip.\n\n\"One,\" she whispered.\n\n\"I had no choice.\"\n\n\"Two.\"\n\n\"The house was compromised.\"\n\n\"Three.\"\n\n\"It wasn't secure.\"\n\n\"Four.\" Esther traced the outline of his mouth with her finger. \"The question I haven't asked yet is: Why is my husband afraid to stay alone in our house?\"\n\n\"You weren't here.\"\n\n\"Five.\"\n\nHis pulse slowed again. Esther removed her hand, leaving wet marks on his skin where it had been.\n\n\"Let me be specific,\" she said. \"I have been absent before. Why this time?\"\n\n\"Because you were gone longer than usual.\" His hand closed over the drive. \"You're never gone this long.\"\n\nShe touched his temple where a single strand of hair had gone white since their last meeting. \"Is there another reason I haven't thought to ask?\"\n\nHe turned toward her touch. \"I missed you,\" he said. \"More than usual.\"\n\nEsther caught his jaw in one hand and kissed him briefly. She traced the old scar where a bullet had taken bone, her lips lingering as if testing its shape.\n\n\"Is it possible to have too many reasons?\" he asked against her mouth.",
+      "cumulative_hash": "172f6613a087c255ed4f08511f29a3bd1a973cc8363949e2e6d0b43e255fe941",
+      "diagnostics": {
+        "aftermath_signal": 0,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 0,
+          "word_count": 203
+        },
+        "cliche_hits": [],
+        "contact_signal": 12,
+        "dialogue_turns": 12,
+        "eligible": true,
+        "explicit_signal": 0,
+        "motif_counts": {
+          "again": 2,
+          "choice": 1,
+          "scar": 1
+        },
+        "packet_leakage": false,
+        "quality_signal": 15.4,
+        "word_count": 203
+      },
+      "finish_reason": "length",
+      "overlap": {
+        "candidate_id": "approach.943186",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "",
+      "parent_id": "",
+      "program_hash": "89c8fa239bc78516df849150e39df5e2cd37fede78851550faa53262de862807",
+      "prompt_hash": "8d5b245640fc0c4ce8eddfc1bb76d4c734c29802881540ab27d1e8d95b0ea78a",
+      "prompt_tokens": 4437,
+      "raw_hash": "7795efed0d2fcc6caae7440a2d4da1a1a3f5daaa9700ebc7d54617337729eddc",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v12/staged/raw/approach/approach.943186.txt",
+      "recipe_hash": "a2d16749714268a28e043fe5104ed204d3a72fe1d3b6999d226c1f5d89f5a094",
+      "recipe_id": "loom-runway-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 943186,
+      "segment": "His breath quickened first, then his pulse. She counted both while watching the small beads of sweat form on his upper lip.\n\n\"One,\" she whispered.\n\n\"I had no choice.\"\n\n\"Two.\"\n\n\"The house was compromised.\"\n\n\"Three.\"\n\n\"It wasn't secure.\"\n\n\"Four.\" Esther traced the outline of his mouth with her finger. \"The question I haven't asked yet is: Why is my husband afraid to stay alone in our house?\"\n\n\"You weren't here.\"\n\n\"Five.\"\n\nHis pulse slowed again. Esther removed her hand, leaving wet marks on his skin where it had been.\n\n\"Let me be specific,\" she said. \"I have been absent before. Why this time?\"\n\n\"Because you were gone longer than usual.\" His hand closed over the drive. \"You're never gone this long.\"\n\nShe touched his temple where a single strand of hair had gone white since their last meeting. \"Is there another reason I haven't thought to ask?\"\n\nHe turned toward her touch. \"I missed you,\" he said. \"More than usual.\"\n\nEsther caught his jaw in one hand and kissed him briefly. She traced the old scar where a bullet had taken bone, her lips lingering as if testing its shape.\n\n\"Is it possible to have too many reasons?\" he asked against her mouth.",
+      "segment_hash": "6d43249d447ff6d5681bbea7a0d7add69e5618291cde6a9c3662a760d48251a2",
+      "source_ids": [
+        "gabaldon.example-02",
+        "gabaldon.example-03",
+        "bridge.married-explicit-workshop"
+      ],
+      "stage": "approach",
+      "stage_candidate_id": "approach.943186",
+      "started_at": "2026-08-03T12:10:53.121819+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 4019,
+        "predicted_ms": 32808.999,
+        "predicted_n": 320,
+        "predicted_per_second": 9.75342161460031,
+        "predicted_per_token_ms": 102.52812187500001,
+        "prompt_ms": 3737.882,
+        "prompt_n": 419,
+        "prompt_per_second": 112.09556641969971,
+        "prompt_per_token_ms": 8.920959427207638
+      },
+      "usage": {
+        "completion_tokens": 320,
+        "prompt_tokens": 4438
+      }
+    },
+    {
+      "cache": {
+        "cache_n": 4018,
+        "prompt_n": 424
+      },
+      "campaign_hash": "f4c505570224a29fa351fbe026915e75e0b37128a39a375fb8f404299dd7c1f3",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T12:15:25.001684+00:00",
+      "cumulative_completion": "\"Only one.\"\n\n\"Then who asked you to break it?\"\n\nHe looked down at their crossed hands. \"I opened it myself.\"\n\nThe admission made the air tighten between them. Esther released his wrist and folded her arms across her chest, her face showing neither approval nor refusal.\n\nSimon moved toward her but stopped when his left hand touched the empty tea cup. It had been cold long before his arrival. The tea stained the floor around it with a small ring, as if the drink itself could not contain itself.\n\nThe drive waited in silence, its open port exposing data that might still prove valuable. But Simon knew they were both more concerned about what Esther's father would say about this action—if he ever found out at all.\n\n\"I understand you better than you think,\" Esther said, finally. Her voice held neither anger nor forgiveness, just the weight of a woman who had spent the last months trying to preserve something when the rest of their world had turned to ash. \"Do you want to know what I think?\"\n\nHe nodded.\n\n\"I think your mother told you to open it.\"\n\nSimon closed his eyes at this. He didn't like being read so easily. But she was right.\n\n\"What did you find inside?\" Esther asked, her tone revealing nothing of her feelings.\n\n\"Nothing worth the risk,\" he admitted.\n\n\"And now?\"\n\n\"Now I've seen something I cannot unsee.\"\n\nEsther tilted her head slightly.\n\n\"Show me then.\"",
+      "cumulative_hash": "0ae307df2a15070afa25f11b28ffd73d5ea100fcbce20928a148812b01adf28f",
+      "diagnostics": {
+        "aftermath_signal": 0,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 0,
+          "word_count": 244
+        },
+        "cliche_hits": [],
+        "contact_signal": 3,
+        "dialogue_turns": 9,
+        "eligible": true,
+        "explicit_signal": 0,
+        "motif_counts": {},
+        "packet_leakage": false,
+        "quality_signal": 13.15,
+        "word_count": 244
+      },
+      "finish_reason": "length",
+      "overlap": {
+        "candidate_id": "approach.943371",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "",
+      "parent_id": "",
+      "program_hash": "faa70f45d637e684464f88de6a3e4a7e057eb6b95004fa440a54134d2c0140c0",
+      "prompt_hash": "9f6723c99a6394a7b471227f8fe7c8552475cc07a7182787b33448e48e4849e5",
+      "prompt_tokens": 4441,
+      "raw_hash": "5a8591e93bd46c930c0686487f42b0ea17db63f46585cbe236cc3e76fcf0c30a",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v12/staged/raw/approach/approach.943371.txt",
+      "recipe_hash": "a2d16749714268a28e043fe5104ed204d3a72fe1d3b6999d226c1f5d89f5a094",
+      "recipe_id": "loom-runway-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 943371,
+      "segment": "\"Only one.\"\n\n\"Then who asked you to break it?\"\n\nHe looked down at their crossed hands. \"I opened it myself.\"\n\nThe admission made the air tighten between them. Esther released his wrist and folded her arms across her chest, her face showing neither approval nor refusal.\n\nSimon moved toward her but stopped when his left hand touched the empty tea cup. It had been cold long before his arrival. The tea stained the floor around it with a small ring, as if the drink itself could not contain itself.\n\nThe drive waited in silence, its open port exposing data that might still prove valuable. But Simon knew they were both more concerned about what Esther's father would say about this action—if he ever found out at all.\n\n\"I understand you better than you think,\" Esther said, finally. Her voice held neither anger nor forgiveness, just the weight of a woman who had spent the last months trying to preserve something when the rest of their world had turned to ash. \"Do you want to know what I think?\"\n\nHe nodded.\n\n\"I think your mother told you to open it.\"\n\nSimon closed his eyes at this. He didn't like being read so easily. But she was right.\n\n\"What did you find inside?\" Esther asked, her tone revealing nothing of her feelings.\n\n\"Nothing worth the risk,\" he admitted.\n\n\"And now?\"\n\n\"Now I've seen something I cannot unsee.\"\n\nEsther tilted her head slightly.\n\n\"Show me then.\"",
+      "segment_hash": "1d89ce0b3c64c7b75561b577a8768ac5421a0d99e9f663fd6fe66b1a24eb105e",
+      "source_ids": [
+        "gabaldon.example-02",
+        "gabaldon.example-03",
+        "bridge.married-explicit-workshop"
+      ],
+      "stage": "approach",
+      "stage_candidate_id": "approach.943371",
+      "started_at": "2026-08-03T12:14:36.648211+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 4018,
+        "predicted_ms": 43759.621,
+        "predicted_n": 320,
+        "predicted_per_second": 7.312677593802743,
+        "predicted_per_token_ms": 136.748815625,
+        "prompt_ms": 4497.348,
+        "prompt_n": 424,
+        "prompt_per_second": 94.27778326249158,
+        "prompt_per_token_ms": 10.606952830188678
+      },
+      "usage": {
+        "completion_tokens": 320,
+        "prompt_tokens": 4442
+      }
+    },
+    {
+      "cache": {
+        "cache_n": 4019,
+        "prompt_n": 620
+      },
+      "campaign_hash": "f4c505570224a29fa351fbe026915e75e0b37128a39a375fb8f404299dd7c1f3",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T12:13:04.788363+00:00",
+      "cumulative_completion": "The air between them sharpened with old questions. \"I didn't trust him to follow protocol.\"\n\nHer hand fell. The drive's broken seal echoed louder than anyone speaking.\n\n\"He was better than me at data verification,\" Simon added. \"I couldn't ask for more than he gave.\"\n\n\"And I can't ask that of you?\"\n\nEsther leaned against the wall. Her shadow lengthened across the table and crossed over his. Simon traced the line with his fingers. The drive had changed because he had touched it. He could not untie that knot.\n\n\"If anyone touches a drive that could destroy us,\" Esther said, \"they make me choose between them and my life.\"\n\nThe drive sat on the table like evidence he could not refute. Simon felt the pressure of it against his chest, in the room's sudden stillness. The mission mattered too much for either of them to waste air on meaningless words.\n\nHe pressed his forehead between Esther's shoulder blades and breathed the scent of her shirt. The cloth was rough against his face. Her hair caught between his fingers.\n\n\"I know,\" he whispered. \"And I know why it matters.\"\n\nEsther stayed very still beneath his hand. Her spine curved upward slightly as if asking for permission to speak. Simon tightened his grip until she turned her head.\n\nHe caught the way her gaze changed when they stood so close. The line of her mouth sharpened as if cutting through old reasons.\n\n\"This feels impossible,\" she admitted into the space between them.",
+      "cumulative_hash": "d11f41acf7dccecaeda71e18a73b8789e621d7732d47812c75ede52f7a60a817",
+      "diagnostics": {
+        "aftermath_signal": 0,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 1,
+              "evidence": [
+                {
+                  "evidence": "efute. Simon felt the pressure of it against his chest, in the room's sudden stillness. The mission mattered too much for either of them to waste",
+                  "match": "sudden",
+                  "position": 752
+                }
+              ],
+              "per_1000_words": 4.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 4.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 1,
+          "word_count": 250
+        },
+        "cliche_hits": [],
+        "contact_signal": 8,
+        "dialogue_turns": 5,
+        "eligible": true,
+        "explicit_signal": 0,
+        "motif_counts": {
+          "again": 3,
+          "evidence": 1
+        },
+        "packet_leakage": false,
+        "quality_signal": 12.7,
+        "word_count": 250
+      },
+      "finish_reason": "length",
+      "overlap": {
+        "candidate_id": "approach.943260",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "",
+      "parent_id": "",
+      "program_hash": "28522e00e13cecedf6121c8633f75fab8ce0318bc610f0137b55da43b5d9dd7c",
+      "prompt_hash": "9efa128d75f59883c38596a26beaa8c4a85b8894762d7b6eda6d1246fa33b211",
+      "prompt_tokens": 4638,
+      "raw_hash": "c39db373a4d972eef8dfb2e205d9b06b2ac5a57ff9b66d0b01a680f24c95f5e5",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v12/staged/raw/approach/approach.943260.txt",
+      "recipe_hash": "a2d16749714268a28e043fe5104ed204d3a72fe1d3b6999d226c1f5d89f5a094",
+      "recipe_id": "loom-runway-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 943260,
+      "segment": "The air between them sharpened with old questions. \"I didn't trust him to follow protocol.\"\n\nHer hand fell. The drive's broken seal echoed louder than anyone speaking.\n\n\"He was better than me at data verification,\" Simon added. \"I couldn't ask for more than he gave.\"\n\n\"And I can't ask that of you?\"\n\nEsther leaned against the wall. Her shadow lengthened across the table and crossed over his. Simon traced the line with his fingers. The drive had changed because he had touched it. He could not untie that knot.\n\n\"If anyone touches a drive that could destroy us,\" Esther said, \"they make me choose between them and my life.\"\n\nThe drive sat on the table like evidence he could not refute. Simon felt the pressure of it against his chest, in the room's sudden stillness. The mission mattered too much for either of them to waste air on meaningless words.\n\nHe pressed his forehead between Esther's shoulder blades and breathed the scent of her shirt. The cloth was rough against his face. Her hair caught between his fingers.\n\n\"I know,\" he whispered. \"And I know why it matters.\"\n\nEsther stayed very still beneath his hand. Her spine curved upward slightly as if asking for permission to speak. Simon tightened his grip until she turned her head.\n\nHe caught the way her gaze changed when they stood so close. The line of her mouth sharpened as if cutting through old reasons.\n\n\"This feels impossible,\" she admitted into the space between them.",
+      "segment_hash": "e4b6d208d1555f49354f3effbef65714c93e2ed9bd8f8cba967497a76babe8f1",
+      "source_ids": [
+        "gabaldon.example-02",
+        "gabaldon.example-03",
+        "bridge.married-explicit-workshop"
+      ],
+      "stage": "approach",
+      "stage_candidate_id": "approach.943260",
+      "started_at": "2026-08-03T12:12:12.696302+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 4019,
+        "predicted_ms": 45361.278,
+        "predicted_n": 320,
+        "predicted_per_second": 7.054474964307663,
+        "predicted_per_token_ms": 141.75399375,
+        "prompt_ms": 6635.111,
+        "prompt_n": 620,
+        "prompt_per_second": 93.4422950874522,
+        "prompt_per_token_ms": 10.70179193548387
+      },
+      "usage": {
+        "completion_tokens": 320,
+        "prompt_tokens": 4639
+      }
+    }
+  ],
+  "selection_hash": "c1604214b2762468b6422c42ebdd13a89b8f145ad0dd7769817e3fc977b5a9b1",
+  "selection_method": "seeded-quality-diversity-without-replacement",
+  "selection_seed": 527916734,
+  "stage": "approach",
+  "terminal_failed_count": 2
+}

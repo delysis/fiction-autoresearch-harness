@@ -1,0 +1,248 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+  "defects": [],
+  "eligible": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "cle, but a hard-won, sovereign hope. She had found someone who saw her, and who was content to let her remain a mystery."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3593
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6568
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 689
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 2080
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 3143
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 3649
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 6060
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 10781
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 13126
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 14943
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 17727
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "hybrid_base_program",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X217"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "His refusal to narrate her—to turn her into a character"
+    ],
+    "epistemic_texture": [
+      "Livia wasn't reading souls; she was reading the way people"
+    ],
+    "heat_with_agency": [
+      "Just the choice to stop, held right alongside the choice"
+    ],
+    "instructional_fidelity": [
+      "She noticed the contraction, took one deep breath, and waited"
+    ],
+    "narrative_force": [
+      "Is my 'no' a data point for you to interpret"
+    ],
+    "prose_and_voice": [
+      "sunset filtered through the canopy in long, bruised shafts"
+    ],
+    "theological_coherence": [
+      "the ability to choose when to open the door"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "competence_and_restraint": {
+      "evidence": "protecting her privacy as if it were a sacred thing",
+      "note": "Jonah's attraction is built on his refusal to use his reading skills to possess or analyze Mara.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "turned restraint into a form of intimacy",
+      "note": "The kiss and the subsequent stop validate the Doorway Rule, changing their trust level.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "the choice to stop, held right alongside the choice",
+      "note": "Jonah's restraint costs him immediate consummation but creates a foundation of absolute safety and agency.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "I’m still glad",
+      "note": "Matches the required result: revocable rule, one kiss that stops while desired, hopeful future.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "I’m still glad",
+      "note": "Moves from mutual observation and protective silence to an explicit, shared boundary and a mutually chosen, interrupted kiss.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "The Doorway Rule",
+      "note": "The scene establishes high tension, a chosen limit, and a forward-driving question of future possibility.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "epistemic_texture": {
+      "raw_0_100": 85.0,
+      "weight": 10.0,
+      "weighted_points": 8.5
+    },
+    "heat_with_agency": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 92.0,
+      "weight": 15.0,
+      "weighted_points": 13.8
+    },
+    "narrative_force": {
+      "raw_0_100": 85.0,
+      "weight": 20.0,
+      "weighted_points": 17.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 95.0,
+      "weight": 10.0,
+      "weighted_points": 9.5
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 13.5,
+    "epistemic_texture": 8.5,
+    "heat_with_agency": 14.25,
+    "instructional_fidelity": 13.8,
+    "narrative_force": 17.0,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.5
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "merged_story",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03:merged",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X217 is an exceptional execution of the scene spec. It masterfully integrates the 'three-second beat' and the 'one clean question' as causal tools for Mara's liberation. The romantic arc is perfectly calibrated; the heat is high but the agency is absolute, transforming the 'Doorway Rule' from a mere plot point into a profound statement on trust and chastity. The transition from Livia's predatory 'care' to Jonah's protective restraint provides a sharp, effective contrast that drives both the character development and the thematic payload.",
+  "total_score": 89.75
+}

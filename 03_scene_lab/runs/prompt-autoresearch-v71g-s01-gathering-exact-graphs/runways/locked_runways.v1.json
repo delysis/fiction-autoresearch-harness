@@ -1,0 +1,138 @@
+{
+  "campaign_hash": "5d322fc060a5e59d9c5ce51ef6cd84a32d239df51f45e93c93c20b72f9f53b75",
+  "inherited_from_campaign_hash": "96926a754dc7683f83c32e721339d67aeb022c12a004b3eeb00f087b86461c1d",
+  "lock_hash": "2034e397344ef1a15988c034f880987a60dfb0a35cb37b117992c1e5493d5d2b",
+  "record_type": "LockedGeneratedRunways",
+  "runways": {
+    "fulcrum-s01": {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v60-s01-party-runway/runways/assemblies/runway.staged-natural-anthology.spark.fulcrum-s01.1340109.json",
+      "campaign_hash": "96926a754dc7683f83c32e721339d67aeb022c12a004b3eeb00f087b86461c1d",
+      "cell_id": "fulcrum-s01",
+      "completed_at": "2026-08-08T16:02:57.057478+00:00",
+      "conditioning": "staged-natural-anthology-spark-only",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "diagnostic_features": {
+        "promotion_use": "forbidden",
+        "word_count": 99
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 190,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_kiss_history": false,
+          "first_person_narration_count": 0,
+          "heat_ceiling_violation": false,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "opening_manuscript_format": true,
+          "opening_stage": true,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "stop_then_reescalate": false,
+          "uncertainty_then_escalation": false,
+          "word_count": 99
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "first_kiss_continuity": true,
+          "heat_ceiling": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "opening_manuscript_format": true,
+          "opening_spark_length": true,
+          "opening_stage": true,
+          "pov": true
+        },
+        "passed": true,
+        "version": "opening-spark-gate.v2"
+      },
+      "overlap": {
+        "candidate_id": "runway.staged-natural-anthology.spark.fulcrum-s01.1340109",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "67a2af2ea109c4c04c9d0851519bc97284fed0975f03c2e75192ce0ec16514f6",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "94ba6fb49de1b7dbad950beb1392cf07c350b1a7e60e33bebd8e3257dc075010",
+      "raw_hash": "52c1edfd57c5be88b280e362eb4ca3e1d25e04bb6c3a76f609feb08725b50d16",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v60-s01-party-runway/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340109.txt",
+      "record_type": "GeneratedRunway",
+      "request_hash": "593b49c120997a21864c676315d6e7463dfaee0a047a209ba23e649804f65b31",
+      "runway_id": "runway.staged-natural-anthology.spark.fulcrum-s01.1340109",
+      "runway_kind": "opening-spark",
+      "runway_word_band": [
+        35,
+        160
+      ],
+      "sampler": {
+        "dry_allowed_length": 3,
+        "dry_base": 1.75,
+        "dry_multiplier": 0.0,
+        "min_p": 0.02,
+        "repeat_penalty": 1.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.1
+      },
+      "seed": 1340109,
+      "selection_score": 0.0,
+      "separators": [],
+      "source_ids": [
+        "gabaldon.example-12",
+        "gabaldon.example-01",
+        "gabaldon.example-11",
+        "gabaldon.example-02",
+        "gabaldon.example-03"
+      ],
+      "spans": [
+        {
+          "call_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+          "raw_char_end": 556,
+          "raw_char_start": 0,
+          "raw_hash": "52c1edfd57c5be88b280e362eb4ca3e1d25e04bb6c3a76f609feb08725b50d16",
+          "raw_path": "03_scene_lab/runs/prompt-autoresearch-v60-s01-party-runway/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340109.txt",
+          "role": "opening-spark",
+          "span_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+          "text_hash": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+        }
+      ],
+      "status": "completed",
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.",
+      "text_hash": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd",
+      "timings": {
+        "cache_n": 0,
+        "predicted_ms": 27790.762,
+        "predicted_n": 190,
+        "predicted_per_second": 6.8368042589116484,
+        "predicted_per_token_ms": 146.26716842105262,
+        "prompt_ms": 49016.078,
+        "prompt_n": 5854,
+        "prompt_per_second": 119.43020002538758,
+        "prompt_per_token_ms": 8.37309156132559
+      },
+      "usage": {
+        "completion_tokens": 190,
+        "prompt_tokens": 5854
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "source_lock_hash": "7def8a1c98d8977c4060bb3e05fdeb809523212f2b49f68900e7c4d7b5816f6f",
+  "version": "gemma-fiction-autoresearch.v4"
+}

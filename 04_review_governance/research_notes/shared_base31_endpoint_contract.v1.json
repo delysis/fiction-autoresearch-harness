@@ -1,0 +1,55 @@
+{
+  "record_type": "SharedInferenceEndpointContract",
+  "version": "shared-base31.v1",
+  "endpoint": "http://127.0.0.1:8097",
+  "launch_label": "com.openai.codex.fiction.shared-base31",
+  "model": {
+    "alias": "gemma-4-31b-base",
+    "quantization": "Q8_0",
+    "trained_context_tokens": 262144,
+    "gpu_layers": "all"
+  },
+  "server": {
+    "allocated_context_tokens": 131072,
+    "admission_context_tokens": 129024,
+    "parallel_slots": 4,
+    "continuous_batching": true,
+    "unified_kv": true,
+    "kv_cache": "q8_0",
+    "cache_ram_mib": 0,
+    "cache_reuse_tokens": 256
+  },
+  "observed_memory": {
+    "idle_rss_kib": 93415920,
+    "long_prompt_rss_kib": 93983488,
+    "interpretation": "Apple unified-memory resident-set proxy; not discrete VRAM"
+  },
+  "admission_policy": {
+    "ordinary_calls": "Controllers may share the endpoint without ownership handoffs.",
+    "slot_limit": "At most four live generation requests.",
+    "token_limit": "Sum of declared prompt plus maximum completion tokens must not exceed 129024.",
+    "affinity": "Group byte-identical prompt seeds in the same wave to exploit prefix reuse.",
+    "oversize": "Do not mix a prompt above 60000 tokens with another long cold-prefix wave.",
+    "monitoring": "Read OS sockets and server logs while saturated; HTTP status calls queue behind work."
+  },
+  "measured_result": {
+    "warm_serial_aggregate_tokens_per_second": 10.168679862326929,
+    "warm_four_way_aggregate_tokens_per_second": 15.21115743676616,
+    "warm_four_way_gain": 1.4958832063462508,
+    "cold_mixed_cache_warning": "Redundant prefix prefill can dominate and make naive concurrency slower than serial cache-affine sampling."
+  },
+  "artifacts": {
+    "launch_plist": {
+      "path": "runtime/launchd/com.openai.codex.fiction.shared-base31.plist",
+      "sha256": "3f2099d506b8e268a2af24238e8ee424ec159e692f32d12b8aa9d4f29cbf63e2"
+    },
+    "cold_mixed_benchmark": {
+      "path": "03_scene_lab/runs/runtime-benchmarks/shared-base31.v1.json",
+      "sha256": "996880595c2b5e0e7fefca2df214c5e8e82defb2c8cbea7da5efb85b292cecd5"
+    },
+    "warm_benchmark": {
+      "path": "03_scene_lab/runs/runtime-benchmarks/shared-base31.warm.v1.json",
+      "sha256": "2ce0cc55fba67e6f0b0387940205392af8e7605d526844ca0917ccb8ead7a37a"
+    }
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "candidate_id": "s01-c-method-audit",
+  "candidate_path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-c-method-audit.codex.v1.md",
+  "candidate_sha256": "cba075af0240d896ba890d8247e4826dfafaec0703071f9cfcd684e8d009dfbd",
+  "defects": [],
+  "eligible": true,
+  "gate_details": {
+    "beat_order": {
+      "all_found": true,
+      "beats": [
+        {
+          "beat": "arrival_object",
+          "evidence": "suitcase, twelve cardamom buns, and no useful way to carry both up a gravel path.\n\nThe suitcase kept clipping her ankle. The bakery box required two hands whene",
+          "found": true,
+          "fraction": 0.0019,
+          "position": 33
+        },
+        {
+          "beat": "status_blocking",
+          "evidence": "fire sunk into the concrete floor. Four people occupied the broad cushions nearest it, shoes off, legs extended. At the edge, three others sat upright with tabl",
+          "found": true,
+          "fraction": 0.0707,
+          "position": 1199
+        },
+        {
+          "beat": "livia_accurate_read",
+          "evidence": "Livia Sloane from the fellowship interviews. On video Livia’s attention had been flattering because it arrived",
+          "found": true,
+          "fraction": 0.1069,
+          "position": 1811
+        },
+        {
+          "beat": "jonah_refusal",
+          "evidence": "Jonah Reed,” Adrian said. “Hardware and systems security. Jonah, this is Mara.”\n\n“I heard the suitcase.” Jonah fitted the sensor’s casing together. “Strong open",
+          "found": true,
+          "fraction": 0.1551,
+          "position": 2628
+        },
+        {
+          "beat": "wrist_charge",
+          "evidence": "wrist. Pulse and pressure would appear on the monitor; the stream would be recorded for later cohort review.\n\n“Which role?” Jonah asked Mara under Adrian’s expl",
+          "found": true,
+          "fraction": 0.5434,
+          "position": 9209
+        },
+        {
+          "beat": "mara_control",
+          "evidence": "kept the bolt",
+          "found": true,
+          "fraction": 0.7899,
+          "position": 13388
+        },
+        {
+          "beat": "public_miss",
+          "evidence": "went quiet",
+          "found": true,
+          "fraction": 0.8306,
+          "position": 14077
+        },
+        {
+          "beat": "chosen_endpoint",
+          "evidence": "If you’re staying",
+          "found": true,
+          "fraction": 0.9303,
+          "position": 15767
+        }
+      ],
+      "name": "beat_order",
+      "ordered": true,
+      "passed": true
+    },
+    "complete_ending": {
+      "passed": true
+    },
+    "epistemic_separation": {
+      "mechanism_markers": 15,
+      "name": "epistemic_separation",
+      "observation_markers": 26,
+      "passed": true,
+      "thresholds": {
+        "mechanism": 3,
+        "observation": 3,
+        "uncertainty": 2
+      },
+      "uncertainty_markers": 16
+    },
+    "frozen_s02_compatibility": {
+      "checks": {
+        "jonah_hardware_role": true,
+        "livia_miss_survives": true,
+        "miriam_observer_seeded": true,
+        "no_premature_raw_access": true,
+        "timed_wrist_pressure": true,
+        "wrist_stream_recorded": true
+      },
+      "passed": true
+    },
+    "heat_ceiling": {
+      "matches": [],
+      "name": "heat_ceiling",
+      "passed": true
+    },
+    "locked_canon": {
+      "contradictions": [],
+      "name": "locked_canon",
+      "passed": true
+    },
+    "locked_endpoint": {
+      "checks": {
+        "chooses_fellowship": true,
+        "food_becomes_action": true,
+        "no_kiss": true
+      },
+      "passed": true
+    },
+    "packet_leakage": {
+      "matches": [],
+      "passed": true
+    },
+    "pov": {
+      "name": "pov",
+      "passed": true,
+      "pov": "Mara",
+      "suspicious_paragraphs": [],
+      "threshold": 1
+    },
+    "source_overlap": {
+      "name": "source_overlap",
+      "passed": true,
+      "suspicious_sources": [],
+      "thresholds": {
+        "eight_gram_jaccard": 0.12,
+        "exact_span_words": 18
+      }
+    },
+    "word_count": {
+      "count": 2809,
+      "diagnostic": "in_range",
+      "name": "word_count",
+      "passed": true,
+      "target": [
+        2800,
+        3300
+      ]
+    }
+  },
+  "hard_gates": {
+    "beat_order": true,
+    "complete_ending": true,
+    "epistemic_separation": true,
+    "frozen_s02_compatibility": true,
+    "heat_ceiling": true,
+    "locked_canon": true,
+    "locked_endpoint": true,
+    "packet_leakage": true,
+    "pov": true,
+    "source_overlap": true,
+    "word_count": true
+  },
+  "integrated_s02_style_diagnostics": {
+    "cadence_delta_per_1000_words": 0.012,
+    "cadence_rate_ratio": 1.0171,
+    "continuation": {
+      "cadence_families": {
+        "families": {
+          "felt_like": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "interpretive_coda": {
+            "count": 2,
+            "evidence": [
+              {
+                "evidence": "mortifyingly, that Jonah had asked for the line to be deleted before Mara had found the courage to object. The permission countdown changed to 04:36:12.",
+                "match": "Mara had found",
+                "position": 8034
+              },
+              {
+                "evidence": "way. In church, people were always rushing to furnish God’s silences. She had learned to leave one bare. But the screen had other things on it. In the lo",
+                "match": "She had learned",
+                "position": 8767
+              }
+            ],
+            "per_1000_words": 0.7
+          },
+          "merely": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "not_x_but_y": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "profound": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "quiet": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "simply": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "sudden": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          }
+        },
+        "heuristic": true,
+        "hits_per_1000_words": 0.7,
+        "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+        "total_family_hits": 2,
+        "word_count": 2857
+      },
+      "dialogue_voice": {
+        "attributed_speakers": {
+          "Jonah": {
+            "content_vocabulary_size": 0,
+            "dialogue_words": 7,
+            "sufficiently_sampled": false,
+            "turns": 3
+          },
+          "Livia": {
+            "content_vocabulary_size": 25,
+            "dialogue_words": 51,
+            "sufficiently_sampled": true,
+            "turns": 9
+          },
+          "Mara": {
+            "content_vocabulary_size": 0,
+            "dialogue_words": 16,
+            "sufficiently_sampled": false,
+            "turns": 5
+          },
+          "She": {
+            "content_vocabulary_size": 0,
+            "dialogue_words": 1,
+            "sufficiently_sampled": false,
+            "turns": 1
+          },
+          "You": {
+            "content_vocabulary_size": 0,
+            "dialogue_words": 2,
+            "sufficiently_sampled": false,
+            "turns": 1
+          }
+        },
+        "comparable_speaker_count": 1,
+        "heuristic": true,
+        "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+        "mean_shared_over_smaller_vocabulary": null,
+        "mean_unigram_frequency_cosine": null,
+        "minimum_dialogue_words": 20,
+        "minimum_turns": 2,
+        "pairwise": [],
+        "possible_voice_indistinctness": null,
+        "unattributed_passages": 97
+      },
+      "explanatory_gloss": {
+        "evidence": [],
+        "glosses_per_100_dialogue_passages": 0.0,
+        "heuristic": true,
+        "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+        "possible_explanatory_glosses": 0,
+        "quoted_passages": 116
+      },
+      "heuristic": true,
+      "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+    },
+    "direction": "prefix_higher",
+    "heuristic": true,
+    "interpretation": "Sectional surface-style comparison for editorial review only. A flag does not prove different authorship or poor prose, but a large same-POV shift should be read in the merged manuscript.",
+    "possible_style_discontinuity": false,
+    "prefix": {
+      "cadence_families": {
+        "families": {
+          "felt_like": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "interpretive_coda": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "merely": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "not_x_but_y": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "profound": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "quiet": {
+            "count": 2,
+            "evidence": [
+              {
+                "evidence": "Adrian’s explanation. “Signal or receiver?” He offered the question quietly, with no effort to make quietness attractive. “Receiver first.” “Br",
+                "match": "quietly",
+                "position": 9425
+              },
+              {
+                "evidence": "his face before he put it away. “It didn’t click,” he said. “It went quiet.” Livia’s eyes flicked to him, then back to Mara. “Because she block",
+                "match": "quiet",
+                "position": 14082
+              }
+            ],
+            "per_1000_words": 0.712
+          },
+          "simply": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          },
+          "sudden": {
+            "count": 0,
+            "evidence": [],
+            "per_1000_words": 0.0
+          }
+        },
+        "heuristic": true,
+        "hits_per_1000_words": 0.712,
+        "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+        "total_family_hits": 2,
+        "word_count": 2809
+      },
+      "dialogue_voice": {
+        "attributed_speakers": {
+          "Adrian": {
+            "content_vocabulary_size": 8,
+            "dialogue_words": 20,
+            "sufficiently_sampled": true,
+            "turns": 5
+          },
+          "Jonah": {
+            "content_vocabulary_size": 0,
+            "dialogue_words": 15,
+            "sufficiently_sampled": false,
+            "turns": 6
+          },
+          "Livia": {
+            "content_vocabulary_size": 19,
+            "dialogue_words": 31,
+            "sufficiently_sampled": true,
+            "turns": 9
+          },
+          "Mara": {
+            "content_vocabulary_size": 16,
+            "dialogue_words": 32,
+            "sufficiently_sampled": true,
+            "turns": 8
+          },
+          "She": {
+            "content_vocabulary_size": 0,
+            "dialogue_words": 19,
+            "sufficiently_sampled": false,
+            "turns": 1
+          }
+        },
+        "comparable_speaker_count": 3,
+        "heuristic": true,
+        "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+        "mean_shared_over_smaller_vocabulary": 0.0,
+        "mean_unigram_frequency_cosine": 0.147786,
+        "minimum_dialogue_words": 20,
+        "minimum_turns": 2,
+        "pairwise": [
+          {
+            "left": "Adrian",
+            "right": "Livia",
+            "shared_over_smaller_vocabulary": 0.0,
+            "shared_terms": [],
+            "unigram_frequency_cosine": 0.094281,
+            "vocabulary_jaccard": 0.0
+          },
+          {
+            "left": "Adrian",
+            "right": "Mara",
+            "shared_over_smaller_vocabulary": 0.0,
+            "shared_terms": [],
+            "unigram_frequency_cosine": 0.120972,
+            "vocabulary_jaccard": 0.0
+          },
+          {
+            "left": "Livia",
+            "right": "Mara",
+            "shared_over_smaller_vocabulary": 0.0,
+            "shared_terms": [],
+            "unigram_frequency_cosine": 0.228106,
+            "vocabulary_jaccard": 0.0
+          }
+        ],
+        "possible_voice_indistinctness": false,
+        "unattributed_passages": 82
+      },
+      "explanatory_gloss": {
+        "evidence": [
+          {
+            "cue": "he knew",
+            "narration": "Mara formed the brass weight of it, the scrape before the bolt seated. Her pulse climbed on the screen. Jonah’s thumb moved in a small arc below it. Livia nodded. Mara watched the movement repeat. Pulse spike, thumb arc, Livia’s fractional nod. Jonah’s face he",
+            "position": 12349,
+            "quote": "is the sensation of a bolt sliding into a door.",
+            "shared_content_terms": [
+              "bolt"
+            ]
+          }
+        ],
+        "glosses_per_100_dialogue_passages": 0.9009,
+        "heuristic": true,
+        "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+        "possible_explanatory_glosses": 1,
+        "quoted_passages": 111
+      },
+      "heuristic": true,
+      "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+    },
+    "thresholds": {
+      "cadence_delta_per_1000_words": 5.0,
+      "cadence_rate_ratio": 2.0
+    }
+  },
+  "judge_id": "deterministic-v1",
+  "label_order": [],
+  "literary_diagnostics": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "interpretive_coda": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "merely": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "not_x_but_y": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "profound": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "quiet": {
+          "count": 2,
+          "evidence": [
+            {
+              "evidence": "Adrian’s explanation. “Signal or receiver?” He offered the question quietly, with no effort to make quietness attractive. “Receiver first.” “Br",
+              "match": "quietly",
+              "position": 9425
+            },
+            {
+              "evidence": "his face before he put it away. “It didn’t click,” he said. “It went quiet.” Livia’s eyes flicked to him, then back to Mara. “Because she block",
+              "match": "quiet",
+              "position": 14082
+            }
+          ],
+          "per_1000_words": 0.712
+        },
+        "simply": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "sudden": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 0.712,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 2,
+      "word_count": 2809
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Adrian": {
+          "content_vocabulary_size": 8,
+          "dialogue_words": 20,
+          "sufficiently_sampled": true,
+          "turns": 5
+        },
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 15,
+          "sufficiently_sampled": false,
+          "turns": 6
+        },
+        "Livia": {
+          "content_vocabulary_size": 19,
+          "dialogue_words": 31,
+          "sufficiently_sampled": true,
+          "turns": 9
+        },
+        "Mara": {
+          "content_vocabulary_size": 16,
+          "dialogue_words": 32,
+          "sufficiently_sampled": true,
+          "turns": 8
+        },
+        "She": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 19,
+          "sufficiently_sampled": false,
+          "turns": 1
+        }
+      },
+      "comparable_speaker_count": 3,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": 0.0,
+      "mean_unigram_frequency_cosine": 0.147786,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [
+        {
+          "left": "Adrian",
+          "right": "Livia",
+          "shared_over_smaller_vocabulary": 0.0,
+          "shared_terms": [],
+          "unigram_frequency_cosine": 0.094281,
+          "vocabulary_jaccard": 0.0
+        },
+        {
+          "left": "Adrian",
+          "right": "Mara",
+          "shared_over_smaller_vocabulary": 0.0,
+          "shared_terms": [],
+          "unigram_frequency_cosine": 0.120972,
+          "vocabulary_jaccard": 0.0
+        },
+        {
+          "left": "Livia",
+          "right": "Mara",
+          "shared_over_smaller_vocabulary": 0.0,
+          "shared_terms": [],
+          "unigram_frequency_cosine": 0.228106,
+          "vocabulary_jaccard": 0.0
+        }
+      ],
+      "possible_voice_indistinctness": false,
+      "unattributed_passages": 82
+    },
+    "explanatory_gloss": {
+      "evidence": [
+        {
+          "cue": "he knew",
+          "narration": "Mara formed the brass weight of it, the scrape before the bolt seated. Her pulse climbed on the screen. Jonah’s thumb moved in a small arc below it. Livia nodded. Mara watched the movement repeat. Pulse spike, thumb arc, Livia’s fractional nod. Jonah’s face he",
+          "position": 12349,
+          "quote": "is the sensation of a bolt sliding into a door.",
+          "shared_content_terms": [
+            "bolt"
+          ]
+        }
+      ],
+      "glosses_per_100_dialogue_passages": 0.9009,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 1,
+      "quoted_passages": 111
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "passage_evidence": {},
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "description": "The first encounter introduces attraction and impediment together.",
+      "evidence": {
+        "attraction": true,
+        "impediment": true
+      },
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "description": "Intimacy reveals character before describing mechanics.",
+      "evidence": "Requires editorial judgment of emphasis and consequence.",
+      "passed": null
+    },
+    "competence_and_restraint": {
+      "description": "Competence attraction and morally attractive restraint arise from action.",
+      "evidence": {
+        "competence": true,
+        "restraint": true
+      },
+      "passed": true
+    },
+    "contact_changes_story": {
+      "description": "Physical contact changes knowledge, choice, or relationship.",
+      "evidence": {
+        "contact_present": true,
+        "mechanism_after_contact": true
+      },
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "description": "Dialogue and atmosphere participate in the intimacy.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "dialogue_present": true
+      },
+      "passed": true
+    },
+    "intimacy_craft": {
+      "atmospheric_participation": {
+        "description": "",
+        "evidence": {
+          "active_channels": [
+            "sight",
+            "sound",
+            "touch",
+            "smell",
+            "taste"
+          ],
+          "atmosphere_markers": 47
+        },
+        "passed": true
+      },
+      "character_specific_desire": {
+        "description": "",
+        "evidence": "Requires editorial judgment of attention and attraction filters.",
+        "passed": null
+      },
+      "consequential_contact": {
+        "description": "",
+        "evidence": {
+          "consequence_after_contact": true,
+          "contact_present": true
+        },
+        "passed": true
+      },
+      "dialogue_body_counterpoint": {
+        "description": "",
+        "evidence": {
+          "body_actions": 54,
+          "dialogue_turns": 111
+        },
+        "passed": true
+      },
+      "distance_control": {
+        "description": "",
+        "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+        "passed": null
+      },
+      "emotional_transaction": {
+        "description": "",
+        "evidence": {
+          "dialogue_turns": 111,
+          "emotional_or_relational_markers": 19,
+          "forward_consequence": true
+        },
+        "passed": true
+      },
+      "physical_intelligibility": {
+        "description": "",
+        "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+        "passed": null
+      },
+      "productive_restraint": {
+        "description": "",
+        "evidence": {
+          "forward_pressure": true,
+          "restraint_present": true
+        },
+        "passed": true
+      },
+      "relationship_delta": {
+        "description": "",
+        "evidence": {
+          "contact_consequence": true,
+          "forward_pressure": true
+        },
+        "passed": true
+      },
+      "sensory_triage": {
+        "description": "",
+        "evidence": {
+          "active_channels": [
+            "sight",
+            "sound",
+            "touch",
+            "smell",
+            "taste"
+          ],
+          "counts": {
+            "sight": 18,
+            "smell": 1,
+            "sound": 13,
+            "taste": 1,
+            "touch": 20
+          }
+        },
+        "passed": true
+      }
+    },
+    "pacing": {
+      "arrival_and_hook": {
+        "evidence": "arriv",
+        "found": true,
+        "position_fraction": 0.0003,
+        "target": [
+          0.0,
+          0.1
+        ],
+        "within_target": true
+      },
+      "collapse_and_residual_mystery": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.82,
+          0.94
+        ],
+        "within_target": false
+      },
+      "fulcrum_enchantment": {
+        "evidence": "Fulcrum",
+        "found": true,
+        "position_fraction": 0.0009,
+        "target": [
+          0.1,
+          0.25
+        ],
+        "within_target": false
+      },
+      "jonah_recognition_and_hook": {
+        "evidence": "Jonah said.\n\nLivia tilted her head. “You haven’t looked at her?”\n\n“I’ve looked.”\n\n“Then tell us what you saw",
+        "found": true,
+        "position_fraction": 0.3208,
+        "target": [
+          0.94,
+          1.0
+        ],
+        "within_target": false
+      },
+      "livia_uncanny_reads": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.25,
+          0.45
+        ],
+        "within_target": false
+      },
+      "mara_control": {
+        "evidence": "cue channel",
+        "found": true,
+        "position_fraction": 0.4525,
+        "target": [
+          0.65,
+          0.82
+        ],
+        "within_target": false
+      },
+      "wrist_contact_and_charge": {
+        "evidence": "wrist",
+        "found": true,
+        "position_fraction": 0.4141,
+        "target": [
+          0.45,
+          0.65
+        ],
+        "within_target": false
+      }
+    },
+    "relationship_delta": {
+      "description": "Romantic progress changes knowledge, trust, desire, or future possibility.",
+      "evidence": {
+        "future_or_choice_marker": true
+      },
+      "passed": true
+    },
+    "romance_turn": {
+      "description": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+      "evidence": {
+        "future_question": true,
+        "impediment": true,
+        "recognition": true
+      },
+      "passed": true
+    },
+    "selective_senses": {
+      "description": "At least three well-chosen sensory channels carry the encounter.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "counts": {
+          "sight": 18,
+          "smell": 1,
+          "sound": 13,
+          "taste": 1,
+          "touch": 20
+        }
+      },
+      "passed": true
+    },
+    "trope_execution": {
+      "description": "Tropes gain specificity or productive variation rather than merely appearing.",
+      "evidence": "Requires comparative editorial judgment.",
+      "passed": null
+    }
+  },
+  "rubric_breakdown": {},
+  "rubric_scores": {},
+  "schema_version": "1.0",
+  "text_sha256": "cba075af0240d896ba890d8247e4826dfafaec0703071f9cfcd684e8d009dfbd",
+  "total_score": 0.0
+}

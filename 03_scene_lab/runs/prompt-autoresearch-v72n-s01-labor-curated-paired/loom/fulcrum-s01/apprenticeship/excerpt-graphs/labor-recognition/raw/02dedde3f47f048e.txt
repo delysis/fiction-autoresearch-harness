@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Assertion of autonomy",
+  "emotional_counteroffer": "Indifference",
+  "relationship_history": "Family dynamics",
+  "present_stakes": "Social conduct and authority",
+  "dialogue_act_sequence": [
+    "Request for permission",
+    "Granting of permission",
+    "Public challenge",
+    "Acceptance/Concession"
+  ],
+  "body_language_counterpoint": "Calmness versus challenging glance",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Social gathering setting",
+  "agency_actions": [
+    "Diana requests wine",
+    "Diana challenges Gerald",
+    "Brother agrees"
+  ],
+  "relationship_delta": "Subtle power negotiation",
+  "story_state_change": "Establishment of household atmosphere",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

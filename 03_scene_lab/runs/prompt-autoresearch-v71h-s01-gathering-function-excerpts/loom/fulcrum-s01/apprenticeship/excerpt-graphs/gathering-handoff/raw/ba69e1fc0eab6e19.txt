@@ -1,0 +1,29 @@
+{
+  "emotional_offer": "Sympathy",
+  "emotional_counteroffer": "Mild acknowledgment",
+  "relationship_history": "Established acquaintance",
+  "present_stakes": "Social visit and domestic atmosphere",
+  "dialogue_act_sequence": [
+    "Greeting",
+    "Inquiry about purpose",
+    "Statement of mood",
+    "Response to inquiry",
+    "Observation about others' behavior"
+  ],
+  "body_language_counterpoint": "Mildness contrasted with sighing",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Indoor setting, social gathering",
+  "agency_actions": [
+    "Brangwen answering",
+    "Birkin stating reason for visit",
+    "Mrs Brangwen responding to children"
+  ],
+  "relationship_delta": "Slight increase in shared observation",
+  "story_state_change": "Shift in conversational focus",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "recipe_id": "r1-paired-bridge",
+      "claim": "One causal claim about this prompt arm.",
+      "confidence": 0.5,
+      "intended_affordance_transfer": "What the changed prompt block was meant to teach.",
+      "observed_realization": "What appeared in the raw manuscript distribution.",
+      "unwanted_leakage": "Voice, plot, dialect, erotic, or control-language leakage; write none if absent.",
+      "competing_explanations": "At least one plausible alternative to the preferred causal account.",
+      "recommended_single_axis_mutation": "Exactly one declared block-level change for the next child recipe.",
+      "predicted_result": "The observable distributional change expected from that mutation.",
+      "falsification_condition": "The evidence that would count against the prediction.",
+      "manuscript_evidence": [
+        {
+          "candidate_id": "r1.r1-paired-bridge.cell.seed",
+          "quote": "contiguous exact quotation"
+        }
+      ],
+      "trace_evidence": [
+        {
+          "artifact_path": "/absolute/path/inside/the/reviewed/round",
+          "artifact_hash": "sha256",
+          "observation": "What this prompt, block manifest, raw suffix, or call trace establishes."
+        }
+      ]
+    }
+  ]
+}

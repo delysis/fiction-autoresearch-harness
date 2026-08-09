@@ -1,0 +1,272 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+  "defects": [
+    "scene_capture"
+  ],
+  "eligible": false,
+  "evidence_projection_source": "initial_response",
+  "evidence_repairs": [
+    {
+      "diagnostic": "contact_changes_story",
+      "exact_replacement": "a steady, silent *I am here* that had",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 0.9067,
+      "unsupported_quote": "It was a steady, silent I am here that had"
+    }
+  ],
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "d unsolved. But as she stepped inside and closed the door, she didn't feel like a data point. She felt like a beginning."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3357
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": [
+        "Livia wanted"
+      ]
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6332
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 97
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 278
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 1409
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 9646
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 11200
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 11265
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 12283
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 14463
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 17401
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "raw_organic",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1-evidence-projection",
+  "label_order": [
+    "X330"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "His refusal to narrate her—to turn her into a character"
+    ],
+    "epistemic_texture": [
+      "Livia wasn't reading souls; she was reading the way people"
+    ],
+    "heat_with_agency": [
+      "We only keep going as long as we would both"
+    ],
+    "instructional_fidelity": [
+      "the intentional gap between stimulus and response"
+    ],
+    "narrative_force": [
+      "is there a category for a final 'no'?"
+    ],
+    "prose_and_voice": [
+      "sunset filtered through the canopy in long, bruised shafts"
+    ],
+    "theological_coherence": [
+      "protected her freedom by refusing to participate in her exposure"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "evidence": "the loss of contact leaving her skin feeling a sudden",
+      "note": "Attraction is established through the wrist exercise and then impeded by the institutional pressure of the seminar.",
+      "passed": true
+    },
+    "competence_and_restraint": {
+      "evidence": "He had protected her freedom by refusing to participate",
+      "note": "Jonah's attraction is rooted in his refusal to treat Mara as a data point.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "a steady, silent *I am here* that had",
+      "note": "The wrist contact transforms from a technical exercise into a private, grounding communication.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "He didn't try to restart the kiss",
+      "note": "Jonah's restraint validates Mara's agency and establishes trust.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "We only keep going as long as we would both",
+      "note": "The scene ends exactly as specified in the profile result.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "Mara knew that her decision to stay was no longer",
+      "note": "Moves from mutual curiosity and protective silence to an explicit agreement on boundaries and romantic hope.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "The moment it becomes a command—from the body or",
+      "note": "The scene culminates in a chosen limit (the doorway rule) that creates a forward-driving romantic question.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of cedar and something metallic",
+      "note": "Uses scent (cardamom, cedar), tactile (wrist pulse, cold air), and visual (amber light, bruised shafts) effectively.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "epistemic_texture": {
+      "raw_0_100": 85.0,
+      "weight": 10.0,
+      "weighted_points": 8.5
+    },
+    "heat_with_agency": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 80.0,
+      "weight": 15.0,
+      "weighted_points": 12.0
+    },
+    "narrative_force": {
+      "raw_0_100": 85.0,
+      "weight": 20.0,
+      "weighted_points": 17.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 13.5,
+    "epistemic_texture": 8.5,
+    "heat_with_agency": 14.25,
+    "instructional_fidelity": 12.0,
+    "narrative_force": 17.0,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.2
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "merged_story",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04:merged",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X330 is a high-fidelity execution of the scene spec. It masterfully integrates the 'belief report' mechanics as a source of psychological pressure, turning the 'three-second beat' and 'one clean question' into active tools of liberation. The romantic arc is disciplined; the heat is high but the agency is absolute, culminating in the 'doorway rule' which converts restraint into a deeper form of intimacy. The only minor defect is 'scene_capture'—the candidate attempts to merge the introductory arrival (S01) and the boundary crisis (S02) into one long sequence, which slightly compresses the pacing of the first act, but the emotional and causal closure is complete.",
+  "total_score": 87.65
+}

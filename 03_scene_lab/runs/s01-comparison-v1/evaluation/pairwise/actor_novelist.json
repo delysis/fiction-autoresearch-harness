@@ -1,0 +1,1111 @@
+{
+  "aggregate": {
+    "order_disagreements": [
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "s01-comparison-v1-actor_novelist-actor-novelist-06"
+        ],
+        "winners": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "s01-comparison-v1-actor_novelist-actor-novelist-06"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "s01-comparison-v1-actor_novelist-actor-novelist-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "s01-comparison-v1-actor_novelist-actor-novelist-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "s01-comparison-v1-actor_novelist-actor-novelist-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "s01-comparison-v1-actor_novelist-actor-novelist-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "s01-comparison-v1-actor_novelist-actor-novelist-05"
+        ],
+        "winners": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "s01-comparison-v1-actor_novelist-actor-novelist-05"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "s01-comparison-v1-actor_novelist-actor-novelist-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "s01-comparison-v1-actor_novelist-actor-novelist-08"
+        ]
+      }
+    ],
+    "pair_count": 6,
+    "points": {
+      "s01-comparison-v1-actor_novelist-actor-novelist-01": 3.0,
+      "s01-comparison-v1-actor_novelist-actor-novelist-05": 4.0,
+      "s01-comparison-v1-actor_novelist-actor-novelist-06": 2.0,
+      "s01-comparison-v1-actor_novelist-actor-novelist-08": 3.0
+    },
+    "ranking": [
+      "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "s01-comparison-v1-actor_novelist-actor-novelist-06"
+    ]
+  },
+  "judgments": [
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "generic_competence"
+        ],
+        "B": [
+          "mindreading_inflation",
+          "emotional_smoothing"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "Jonah’s thumb moved. It was a tiny, rhythmic pressure against the radial",
+          "He didn't narrate her for the room. He didn't join Livia in the dissection. He simply acknowledged her existence",
+          "reality of the prayer. She intentionally decoupled her internal state from the external stimuli. She made"
+        ],
+        "B": [
+          "Livia wasn't sensing Mara’s soul; she was reading the micro-gestures of the partner. Jonah was the signal, and Livia was the receiver.",
+          "She suppressed the shallow, frantic gasps of her anxiety and moved into a deep, slow, almost hypnotic pattern.",
+          "He saw the effort it took to be still. He saw the courage it took to choose silence over performance."
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "Jonah’s thumb moved. It was a tiny, rhythmic pressure against the radial",
+          "label": "A",
+          "lexical_overlap": 8,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "She noticed the way Jonah’s thumb moved. It was a tiny, rhythmic pressure against the radial artery of her wrist... Livia wasn't reading Mara’s soul; she was reading the micro-adjustments in Jonah’s hand"
+        },
+        {
+          "exact_replacement": "reality of the prayer. She intentionally decoupled her internal state from the external stimuli. She made",
+          "label": "A",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.7783,
+          "unsupported_quote": "She used the prayer as a cognitive stabilizer... She intentionally decoupled her internal state from the external stimuli."
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-06",
+        "s01-comparison-v1-actor_novelist-actor-novelist-01"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A is significantly more faithful to the PersonaBundle and SceneSpec. Specifically, it captures Jonah's invariant of refusing to 'narrate' Mara for the room, whereas Candidate B has him as a passive participant who is merely 'observant.' A correctly implements the 'teaching payload' by having Mara use prayer as a specific cognitive tool to create a control, whereas B treats the control as a generic breathing exercise. A also better handles the erotic charge, linking it to the 'disciplined restraint' specified in Jonah's persona, while B leans into more generic 'electric' descriptions. A's epistemic turn is sharper: Mara identifies the cue channel and then actively tests it, whereas B's version feels more like a narrated realization.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "confidence": 0.95,
+      "defects": {
+        "A": [],
+        "B": [
+          "milieu_imitation",
+          "mindreading_inflation",
+          "emotional_smoothing"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "He didn't narrate her for the room",
+          "Livia wasn't reading Mara’s soul; she was reading the micro-adjustments",
+          "She intentionally decoupled her internal state from the external stimuli",
+          "He chose restraint instead. \"That was a very quiet room",
+          "the erotic jolt of the contact, the intellectual sting"
+        ],
+        "B": [
+          "The sunset over the Santa Cruz mountains didn’t just fade",
+          "Livia’s \"read\" hadn't come from the air or the spiritual",
+          "She became a vacuum",
+          "I think I'm exactly where I'm supposed to be",
+          "The signal has gone... quiet"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-06",
+        "s01-comparison-v1-actor_novelist-actor-novelist-08"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A is a superior execution of the SceneSpec and PersonaBundle. It precisely implements the 'turn'—Mara identifying the cue channel and actively changing it to test the system—whereas Candidate B treats the control as a vague internal 'vacuum' that feels more like a supernatural power than a technical observation. A captures the specific relational dynamic of Jonah's restraint (refusing to narrate her for the room) as a distinct character trait, while B renders him as a more generic supportive lead. A's prose is more disciplined and avoids the purple-prose clichés ('molten golds', 'bruised purples') that plague B's opening. Most importantly, A integrates the theological requirement that restraint and disciplined ambiguity increase erotic charge and perception, whereas B relies on more standard 'electric' attraction tropes.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "B",
+        "epistemic_texture": "B",
+        "heat_with_agency": "B",
+        "instructional_fidelity": "B",
+        "narrative_force": "B",
+        "prose_and_voice": "B",
+        "theological_coherence": "B"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "repetitive phrasing",
+          "passive character dynamics"
+        ],
+        "B": [
+          "slight over-reliance on 'high-resolution' terminology"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the noise. You’ve spent your life listening to the quiet, Mara. Fulcrum"
+        ],
+        "B": [
+          "the redwoods did not just grow at the Fulcrum Institute"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "the noise. You’ve spent your life listening to the quiet, Mara. Fulcrum",
+          "label": "A",
+          "lexical_overlap": 3,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "the redwoods did not just grow at the Fulcrum Institute"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-06",
+        "s01-comparison-v1-actor_novelist-actor-novelist-05"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate B significantly outperforms Candidate A in character agency and epistemic texture. While both follow the same plot beats, Candidate B transforms the 'calibration' scene from a passive realization into an active power struggle. Mara's decision to 'test the channel' and Jonah's refusal to provide the expected answer ('It just went quiet') create a genuine narrative arc of resistance and agency. Candidate A's version is more generic, with Mara simply praying for a tether and the scene ending in a vague 'loss of coherence.' Candidate B also better integrates the theological tension, framing the conflict as a struggle between being a 'data point' and a person with agency.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "winner_label": "B"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on 'high-resolution' as a descriptor"
+        ],
+        "B": [
+          "clunky dialogue",
+          "melodramatic internal monologue",
+          "passive character agency"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the noise of the self simply... vanishes",
+          "Livia wasn't sensing Mara’s soul; she was reading the micro-gestures",
+          "the erotic jolt that followed was not the frantic heat",
+          "a disciplined ambiguity that felt more like a prayer than a defense"
+        ],
+        "B": [
+          "The traffic on the 17 is a variable I failed to weight properly",
+          "The Signal has achieved perfect stability",
+          "I just wanted to see what happened when I stopped talking",
+          "a commitment to the sacramental in a secular age"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-01",
+        "s01-comparison-v1-actor_novelist-actor-novelist-08"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force and epistemic texture. It treats the 'reading' exercise as a psychological and social puzzle, allowing Mara to actively deduce the mechanism (reading the partner's micro-gestures) and then strategically counter it. This gives her genuine agency. Candidate B's version of the same scene is more generic; Mara simply 'becomes a vacuum,' and the dialogue is stiff ('The traffic on the 17 is a variable...'). Candidate A's prose is more sophisticated, and the 'heat' between Mara and Jonah is earned through shared intellectual defiance rather than the sudden, unearned 'violent clarity' of Candidate B.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on 'somatic' terminology"
+        ],
+        "B": [
+          "didactic dialogue",
+          "melodramatic internal monologue"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the noise of the self simply... vanishes",
+          "the body is a loud, clumsy witness",
+          "Livia wasn't sensing Mara’s soul; she was reading the micro-gestures",
+          "the erotic jolt that followed was not the frantic heat",
+          "the feeling of being known without being possessed"
+        ],
+        "B": [
+          "power is most effective when it feels ancient",
+          "virtue was a visible, communal garment",
+          "Livia wasn't reading souls; she was reading the way people adjusted",
+          "The signal was too noisy",
+          "Data points don't have agency. People do."
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-01",
+        "s01-comparison-v1-actor_novelist-actor-novelist-05"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force and character truth. While both candidates identify the 'trick' of the reading, Candidate A integrates this realization into Mara's agency, transforming her from a victim into a participant who actively manipulates her own physiology to reclaim her privacy. The 'heat' in A is sophisticated and earned, focusing on the intimacy of being perceived without being used, whereas B relies on cliché dialogue ('Data points don't have agency') and a more generic 'outsider' dynamic. A's prose is more evocative and less prone to the 'telling' that plagues B's descriptions of power and status.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on atmospheric adjectives in the opening"
+        ],
+        "B": [
+          "didactic dialogue",
+          "telling instead of showing regarding social hierarchy"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the erotic charge in the small space between them",
+          "The \"miracle\" of Livia’s intuition was actually a high-resolution observation",
+          "She became a vacuum. She applied a pressure to Jonah’s wrist",
+          "a commitment to the sacramental in a secular age"
+        ],
+        "B": [
+          "the scent of cardamom and sugar a small, domestic anchor",
+          "Livia wasn't reading souls; she was reading the way people",
+          "The redwoods did not just grow at the Fulcrum Institute",
+          "Data points don't have agency. People do."
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "Livia wasn't reading souls; she was reading the way people",
+          "label": "B",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.7812,
+          "unsupported_quote": "Livia wasn't reading souls; she was reading the reaction to the observer"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-08",
+        "s01-comparison-v1-actor_novelist-actor-novelist-05"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates significantly higher narrative force and heat. The tension between Mara and Jonah is visceral and earned, whereas Candidate B treats the interaction as a conceptual exercise in 'agency.' A's prose is more evocative and less prone to the 'explaining' tone found in B (e.g., B's explicit descriptions of the 'social map' and 'hierarchy of seating'). A's handling of the 'signal' exercise is superior, moving from genuine erotic/emotional tension to a cold, tactical realization, providing a much stronger epistemic arc.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "confidence": 0.9,
+      "defects": {
+        "A": [],
+        "B": [
+          "sermon_insertion",
+          "mindreading_inflation",
+          "generic_competence"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "ambiguity that felt more like a prayer than a defense.\n\n\"The accuracy",
+          "He was looking at *her*.\n\nHe saw the effort it took to be still. He saw the courage it took to choose silence over performance",
+          "The erotic jolt that followed was not the frantic heat of a sudden attraction, but something much deeper and more terrifying. It was the sensation of being truly perceived by someone who had no intention of using that perception as leverage."
+        ],
+        "B": [
+          "Livia wasn't reading Mara’s soul; she was reading the micro-adjustments in Jonah’s hand, the subtle tension in his forearm, the way his breathing changed",
+          "lights are blinding.*\n\nShe used the prayer as a cognitive stabilizer",
+          "The game had begun, and for the first time in her life, she wasn't just an observer. She was a participant."
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "ambiguity that felt more like a prayer than a defense.\n\n\"The accuracy",
+          "label": "A",
+          "lexical_overlap": 4,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "Livia’s best read depends on a tiny cue from the partner touching Mara’s wrist. She does not expose it; she quietly changes the channel and watches the accuracy fall."
+        },
+        {
+          "exact_replacement": "He was looking at *her*.\n\nHe saw the effort it took to be still. He saw the courage it took to choose silence over performance",
+          "label": "A",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.8482,
+          "unsupported_quote": "Jonah’s eyes were still fixed on her... He saw the effort it took to be still. He saw the courage it took to choose silence over performance."
+        },
+        {
+          "exact_replacement": "Livia wasn't reading Mara’s soul; she was reading the micro-adjustments in Jonah’s hand, the subtle tension in his forearm, the way his breathing changed",
+          "label": "B",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.7475,
+          "unsupported_quote": "Livia wasn't reading Mara’s soul; she was reading the micro-adjustments in Jonah’s hand... Jonah wasn't just a receiver; he was an unwitting transmitter"
+        },
+        {
+          "exact_replacement": "lights are blinding.*\n\nShe used the prayer as a cognitive stabilizer",
+          "label": "B",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.7576,
+          "unsupported_quote": "I prayed for a tether... She used the prayer as a cognitive stabilizer."
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-01",
+        "s01-comparison-v1-actor_novelist-actor-novelist-06"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A is a superior execution of the Scene Spec and Persona Bundle. It treats the 'Calibration Game' as a precise epistemic turn: Mara detects the cue channel and implements a control, which directly causes the 'miracle' to collapse. This is a dramatized discovery. Candidate B, conversely, relies on internal monologue to explain the mechanism and uses prayer as a 'cognitive stabilizer' (a conceptual leap that feels like a sermon insertion rather than a character action). Candidate A's handling of Jonah is far more aligned with the persona invariants; he is a presence of restraint and recognition, whereas B's Jonah is more generic. A's heat is integrated into the power dynamic of being 'known without being possessed,' whereas B's heat is more conventional. A follows the beat map with surgical precision, particularly the 'partial collapse' and 'residual mystery' beats.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "confidence": 0.9,
+      "defects": {
+        "A": [],
+        "B": [
+          "sermon_insertion",
+          "emotional_smoothing",
+          "mindreading_inflation"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "a study in paired attention.\"\n\nHe instructed them to form pairs. Mara",
+          "discipline that felt like a prayer, a refusal to let her internal",
+          "a study in paired attention.\"\n\nHe instructed them to form pairs. Mara",
+          "the invisible is actually heavy.\"\n\nMara froze. The observation was so precise",
+          "a study in paired attention.\"\n\nHe instructed them to form pairs. Mara"
+        ],
+        "B": [
+          "The miracle began to collapse",
+          "I think she's just looking for the exit strategy",
+          "she turned her attention inward, toward her prayer",
+          "the erotic charge of the moment shifted",
+          "The game had begun, and for the first time"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "a study in paired attention.\"\n\nHe instructed them to form pairs. Mara",
+          "label": "A",
+          "lexical_overlap": 2,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "The apparent miracle partially collapses; a smaller mystery remains"
+        },
+        {
+          "exact_replacement": "discipline that felt like a prayer, a refusal to let her internal",
+          "label": "A",
+          "lexical_overlap": 3,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "Jonah’s refusal to narrate Mara for an audience marks him"
+        },
+        {
+          "exact_replacement": "a study in paired attention.\"\n\nHe instructed them to form pairs. Mara",
+          "label": "A",
+          "lexical_overlap": 2,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "broadens attention, detects the cue channel, and invents a silent control"
+        },
+        {
+          "exact_replacement": "the invisible is actually heavy.\"\n\nMara froze. The observation was so precise",
+          "label": "A",
+          "lexical_overlap": 2,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "desire as a precise mode of knowledge and freedom"
+        },
+        {
+          "exact_replacement": "a study in paired attention.\"\n\nHe instructed them to form pairs. Mara",
+          "label": "A",
+          "lexical_overlap": 2,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "The prose lingers on hands, breath, fabric, and the beloved’s body"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-08",
+        "s01-comparison-v1-actor_novelist-actor-novelist-06"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A adheres strictly to the beat map and the specific epistemic turn required by the scene spec. In A, Mara detects the cue channel and actively 'invents a silent control' to test the system, which directly fulfills the instructional fidelity requirement. Candidate B replaces this technical/observational move with a vague internal prayer, turning a scene about epistemic courage into a generic internal monologue. Furthermore, A captures the specific romantic dynamic of Jonah's restraint as a social cost/choice, whereas B makes him a more generic 'nice guy' buffer. A's prose is more disciplined, avoiding the melodramatic 'bleeding' sunsets and 'predatory' descriptions found in B, and better integrates the theological invariants regarding desire and attention.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on atmospheric adjectives in the opening"
+        ],
+        "B": [
+          "didactic internal monologue",
+          "clunky exposition of the 'wrist-contact protocol'"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the scent of the place hit her: damp earth, crushed ferns",
+          "a commitment to the sacramental in a secular age",
+          "the erotic charge in the small space between them was thick",
+          "The \"miracle\" of Livia’s intuition was actually a high-resolution observation",
+          "She held it with a discipline that felt like a prayer"
+        ],
+        "B": [
+          "a cathedral of shadow and filtered light",
+          "the urge to be polite, to be small, to be \"good\"",
+          "the somatic marker of the undisclosed",
+          "Livia wasn't sensing Mara’s soul; she was reading the micro-gestures",
+          "the lemon bars likely cooling in the air-conditioned stillness"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-08",
+        "s01-comparison-v1-actor_novelist-actor-novelist-01"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates significantly higher narrative force and character truth. It treats the 'sacramental' element as a lived tension rather than a plot point to be explained. The heat between Mara and Jonah is integrated into the scene's power dynamics with genuine agency, whereas Candidate B relies on clinical terminology ('somatic marker', 'epistemic courage') that feels like a writer explaining the theme rather than a character experiencing it. A's realization regarding the 'leak' in the signal is more organically woven into the action, and the prose possesses a superior rhythmic voice.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "minimal"
+        ],
+        "B": [
+          "melodramatic_internal_monologue",
+          "passive_protagonist_arc"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "He didn't give the answer Livia wanted",
+          "the 'oracle' looked merely like a girl who had miscalculated",
+          "I just don't want to be a data point"
+        ],
+        "B": [
+          "the most honest, wounded thing Mara had seen",
+          "the erotic charge of the moment shifted",
+          "the capacity to remain herself in the midst of the noise"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-05",
+        "s01-comparison-v1-actor_novelist-actor-novelist-06"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates significantly higher narrative force by giving the protagonist and Jonah active agency in the climax. In A, Mara and Jonah consciously subvert Livia's power dynamic, resulting in a tangible shift in the room's hierarchy. Candidate B treats the encounter as a spiritual/emotional epiphany, where Mara's 'victory' is internal and passive (simply withdrawing), leaving the external power structure intact. A's characterization of Jonah is more grounded and effective, whereas B leans into romanticized tropes. A's prose is leaner and more focused on the causal mechanics of the scene.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing rush in the final paragraph"
+        ],
+        "B": [
+          "over-reliance on clinical terminology",
+          "melodramatic internal monologue"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the truth wasn't something you found by being perfectly transparent",
+          "the 'miracle' of Livia’s reading—the uncanny, telepathic accuracy that everyone",
+          "He had protected her freedom by refusing to participate in her exposure"
+        ],
+        "B": [
+          "was steadier than she felt.\n\n\"And your partner?\" Adrian asked.\n\n\"Jonah,\" Livia",
+          "Livia wasn't sensing Mara’s soul; she was reading the micro-gestures",
+          "The erotic jolt that followed was not the frantic heat"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "was steadier than she felt.\n\n\"And your partner?\" Adrian asked.\n\n\"Jonah,\" Livia",
+          "label": "B",
+          "lexical_overlap": 4,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "the scent of cardamom and sugar a small, domestic anchor"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-05",
+        "s01-comparison-v1-actor_novelist-actor-novelist-01"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by integrating the 'epistemic' conflict into the character's agency. While Candidate B describes the mechanics of the 'read' and the 'masking' with more words, Candidate A executes the causal shift more effectively: Mara's realization that Livia is reading the partner (Jonah) rather than her creates a genuine power shift. Candidate A's prose is more disciplined, avoiding the repetitive 'clinical' descriptors that plague Candidate B. Most importantly, Candidate A handles the 'heat' with far more agency; the connection between Mara and Jonah is built on mutual recognition of a shared secret/subversion, whereas Candidate B relies on explicit labels like 'erotic jolt'.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "candidate_b_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing rush in the final resolution"
+        ],
+        "B": [
+          "melodramatic internal monologue",
+          "clichéd erotic descriptions",
+          "passive character dynamics"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the truth wasn't something you found by being perfectly transparent",
+          "the 'miracle' of Livia’s reading—the uncanny, telepathic accuracy that everyone",
+          "He had protected her freedom by refusing to participate in her exposure"
+        ],
+        "B": [
+          "The 'miracle' of Livia’s intuition was actually a high-resolution observation",
+          "The erotic charge in the small space between them was thick",
+          "I just wanted to see what happened when I stopped talking"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-actor_novelist-actor-novelist-05",
+        "s01-comparison-v1-actor_novelist-actor-novelist-08"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by integrating the 'miracle' reveal into a moment of character agency and philosophical insight. Candidate B leans on purple prose and generic erotic tension ('thick, almost viscous'), which undermines the epistemic texture of the scene. A's characterization of Jonah is more subtle and effective, positioning him as a protector of Mara's autonomy rather than just a romantic foil. A's conclusion provides a stronger thematic payoff regarding the nature of truth and privacy.",
+      "winner_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "winner_label": "A"
+    }
+  ],
+  "preliminary": {
+    "diversity": {
+      "candidate_count": 8,
+      "corpus": {
+        "mean_opening_similarity": 0.042285,
+        "mean_self_bleu_proxy": 0.019161,
+        "unique_dialogue_acts": 0,
+        "unique_event_sequences": 44,
+        "unique_strategies": 0
+      },
+      "pair_count": 28,
+      "pairs": [
+        {
+          "fivegram_jaccard": 0.005665,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.077982,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "self_bleu_proxy": 0.021691,
+          "trigram_jaccard": 0.037716,
+          "unigram_jaccard": 0.313785
+        },
+        {
+          "fivegram_jaccard": 0.007798,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.077626,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "self_bleu_proxy": 0.021321,
+          "trigram_jaccard": 0.034844,
+          "unigram_jaccard": 0.305316
+        },
+        {
+          "fivegram_jaccard": 0.001217,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.035088,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "self_bleu_proxy": 0.014587,
+          "trigram_jaccard": 0.027957,
+          "unigram_jaccard": 0.293462
+        },
+        {
+          "fivegram_jaccard": 0.004612,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "self_bleu_proxy": 0.018583,
+          "trigram_jaccard": 0.032553,
+          "unigram_jaccard": 0.318284
+        },
+        {
+          "fivegram_jaccard": 0.003788,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.048889,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "self_bleu_proxy": 0.016978,
+          "trigram_jaccard": 0.030169,
+          "unigram_jaccard": 0.3125
+        },
+        {
+          "fivegram_jaccard": 0.004792,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "self_bleu_proxy": 0.019363,
+          "trigram_jaccard": 0.033934,
+          "unigram_jaccard": 0.319213
+        },
+        {
+          "fivegram_jaccard": 0.004407,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+          "opening_trigram_jaccard": 0.048889,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.017127,
+          "trigram_jaccard": 0.029848,
+          "unigram_jaccard": 0.326421
+        },
+        {
+          "fivegram_jaccard": 0.005085,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "opening_trigram_jaccard": 0.030702,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "self_bleu_proxy": 0.018723,
+          "trigram_jaccard": 0.032361,
+          "unigram_jaccard": 0.318551
+        },
+        {
+          "fivegram_jaccard": 0.002619,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "opening_trigram_jaccard": 0.035242,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "self_bleu_proxy": 0.016189,
+          "trigram_jaccard": 0.029758,
+          "unigram_jaccard": 0.277487
+        },
+        {
+          "fivegram_jaccard": 0.003579,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "opening_trigram_jaccard": 0.039823,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "self_bleu_proxy": 0.016765,
+          "trigram_jaccard": 0.029951,
+          "unigram_jaccard": 0.30326
+        },
+        {
+          "fivegram_jaccard": 0.003561,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "opening_trigram_jaccard": 0.053812,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "self_bleu_proxy": 0.018938,
+          "trigram_jaccard": 0.034316,
+          "unigram_jaccard": 0.300231
+        },
+        {
+          "fivegram_jaccard": 0.006352,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "opening_trigram_jaccard": 0.087963,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "self_bleu_proxy": 0.021237,
+          "trigram_jaccard": 0.036122,
+          "unigram_jaccard": 0.308104
+        },
+        {
+          "fivegram_jaccard": 0.002182,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+          "opening_trigram_jaccard": 0.063348,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.014624,
+          "trigram_jaccard": 0.027067,
+          "unigram_jaccard": 0.307099
+        },
+        {
+          "fivegram_jaccard": 0.006676,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "opening_trigram_jaccard": 0.008547,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "self_bleu_proxy": 0.021378,
+          "trigram_jaccard": 0.036079,
+          "unigram_jaccard": 0.314828
+        },
+        {
+          "fivegram_jaccard": 0.004638,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "opening_trigram_jaccard": 0.008547,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "self_bleu_proxy": 0.019982,
+          "trigram_jaccard": 0.035326,
+          "unigram_jaccard": 0.319971
+        },
+        {
+          "fivegram_jaccard": 0.00597,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "self_bleu_proxy": 0.021174,
+          "trigram_jaccard": 0.036378,
+          "unigram_jaccard": 0.327124
+        },
+        {
+          "fivegram_jaccard": 0.005973,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "opening_trigram_jaccard": 0.012876,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "self_bleu_proxy": 0.019093,
+          "trigram_jaccard": 0.032212,
+          "unigram_jaccard": 0.315098
+        },
+        {
+          "fivegram_jaccard": 0.003278,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.016201,
+          "trigram_jaccard": 0.029124,
+          "unigram_jaccard": 0.321006
+        },
+        {
+          "fivegram_jaccard": 0.007077,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "opening_trigram_jaccard": 0.102804,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "self_bleu_proxy": 0.021684,
+          "trigram_jaccard": 0.036291,
+          "unigram_jaccard": 0.301575
+        },
+        {
+          "fivegram_jaccard": 0.005583,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "opening_trigram_jaccard": 0.026087,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "self_bleu_proxy": 0.019455,
+          "trigram_jaccard": 0.033326,
+          "unigram_jaccard": 0.306513
+        },
+        {
+          "fivegram_jaccard": 0.004755,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "opening_trigram_jaccard": 0.026087,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "self_bleu_proxy": 0.018503,
+          "trigram_jaccard": 0.032251,
+          "unigram_jaccard": 0.288806
+        },
+        {
+          "fivegram_jaccard": 0.006234,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+          "opening_trigram_jaccard": 0.039648,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.022706,
+          "trigram_jaccard": 0.039177,
+          "unigram_jaccard": 0.304348
+        },
+        {
+          "fivegram_jaccard": 0.006116,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "opening_trigram_jaccard": 0.008547,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "self_bleu_proxy": 0.021248,
+          "trigram_jaccard": 0.036379,
+          "unigram_jaccard": 0.325097
+        },
+        {
+          "fivegram_jaccard": 0.007765,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "opening_trigram_jaccard": 0.092593,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "self_bleu_proxy": 0.021991,
+          "trigram_jaccard": 0.036218,
+          "unigram_jaccard": 0.310709
+        },
+        {
+          "fivegram_jaccard": 0.002653,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+          "opening_trigram_jaccard": 0.012876,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.017567,
+          "trigram_jaccard": 0.032482,
+          "unigram_jaccard": 0.31374
+        },
+        {
+          "fivegram_jaccard": 0.004051,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "opening_trigram_jaccard": 0.039648,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "self_bleu_proxy": 0.019015,
+          "trigram_jaccard": 0.033978,
+          "unigram_jaccard": 0.324031
+        },
+        {
+          "fivegram_jaccard": 0.006521,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+          "opening_trigram_jaccard": 0.035088,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.021739,
+          "trigram_jaccard": 0.036957,
+          "unigram_jaccard": 0.332545
+        },
+        {
+          "fivegram_jaccard": 0.004273,
+          "left": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+          "opening_trigram_jaccard": 0.021645,
+          "right": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+          "self_bleu_proxy": 0.018634,
+          "trigram_jaccard": 0.032995,
+          "unigram_jaccard": 0.326878
+        }
+      ],
+      "per_candidate": {
+        "s01-comparison-v1-actor_novelist-actor-novelist-01": {
+          "diversity_contribution": 0.981479,
+          "mean_similarity": 0.018521
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-02": {
+          "diversity_contribution": 0.98169,
+          "mean_similarity": 0.01831
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-03": {
+          "diversity_contribution": 0.980304,
+          "mean_similarity": 0.019696
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-04": {
+          "diversity_contribution": 0.980786,
+          "mean_similarity": 0.019214
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-05": {
+          "diversity_contribution": 0.980311,
+          "mean_similarity": 0.019689
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-06": {
+          "diversity_contribution": 0.980208,
+          "mean_similarity": 0.019792
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-07": {
+          "diversity_contribution": 0.980309,
+          "mean_similarity": 0.019691
+        },
+        "s01-comparison-v1-actor_novelist-actor-novelist-08": {
+          "diversity_contribution": 0.981629,
+          "mean_similarity": 0.018371
+        }
+      }
+    },
+    "ranking": [
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+        "diversity_contribution": 0.980208,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 88.15,
+        "selection_score": 93.051
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+        "diversity_contribution": 0.981479,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.8,
+        "selection_score": 92.7074
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+        "diversity_contribution": 0.981629,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5581
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+        "diversity_contribution": 0.980311,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.45,
+        "selection_score": 92.3516
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+        "diversity_contribution": 0.980304,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.2,
+        "selection_score": 92.1015
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+        "diversity_contribution": 0.980786,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 84.0,
+        "selection_score": 88.9039
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+        "diversity_contribution": 0.980309,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 78.7,
+        "selection_score": 83.6015
+      },
+      {
+        "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+        "diversity_contribution": 0.98169,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 48.5,
+        "selection_score": 53.4085
+      }
+    ],
+    "selection_policy": {
+      "diversity_weight": 5.0,
+      "ineligible_candidates_rank_last": true,
+      "top_k": 4
+    },
+    "top_four": [],
+    "winner": null
+  },
+  "selection_fallback_due_to_no_eligible_candidates": true,
+  "winner": "s01-comparison-v1-actor_novelist-actor-novelist-05"
+}

@@ -1,0 +1,51 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "embodied-turn",
+  "pool": [
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.0.998001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.0.998018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.0.998035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.0.998052",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.1.999001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.1.999018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.1.999035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r0.1.999052",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [],
+  "selection_seed": 968292,
+  "version": "gemma-fiction-autoresearch.v4"
+}

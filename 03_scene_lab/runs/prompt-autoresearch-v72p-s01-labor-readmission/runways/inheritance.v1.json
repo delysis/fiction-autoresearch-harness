@@ -1,0 +1,14 @@
+{
+  "inheritance_hash": "5dd3745f7d43ad1ef6bafe94192001679e424100418be53f62f44d824b31a0b4",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "fulcrum-s01": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v72k-s01-glass-spark",
+  "source_campaign_hash": "0af47caacde212403108005e4a335649be67b2eca1b60dd70b5f1b59c8fd722b",
+  "source_lock_hash": "7bb8bef7fba1c24443b2ebdf27314c1a1c867a053f2a71cde11d64f57b6ae796",
+  "target_campaign_hash": "d1b92311eb4a13c44f5430d4e7a132f1847d3a4f65c7fbcb75f5dde19530c4f6",
+  "target_lock_hash": "515b1a118a9ea83a8ef0a955132f2ea5d797fcc038af70c45702b360aff8c34c",
+  "verified_at": "2026-08-08T19:16:25.935091+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

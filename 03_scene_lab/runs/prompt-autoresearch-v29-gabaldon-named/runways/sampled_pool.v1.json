@@ -1,0 +1,10 @@
+{
+  "campaign_hash": "6a236ce9afd4f41e596a752a7ef2354edf69e9bb138aa6fd829de094e2ec8f57",
+  "eligible_runway_ids": [
+    "runway.graph-paired-named-continuity-bookfront.charged-restraint.965073"
+  ],
+  "pool_hash": "7f8b333229692b423c6ea6f1602eb0c864cd36bd615000b21a7d5512edebb240",
+  "record_type": "SampledGeneratedRunwayPool",
+  "selection_policy": "no-automatic-promotion; read-only-critic-or-explicit-research-lead-selection-required",
+  "version": "gemma-fiction-autoresearch.v4"
+}

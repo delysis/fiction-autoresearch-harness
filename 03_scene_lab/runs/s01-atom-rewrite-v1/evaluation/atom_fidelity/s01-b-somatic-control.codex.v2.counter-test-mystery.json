@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "9057e368878377b3159af77d5ef14cd22b3cf6e4edfc21e338011c1f49368a6c",
+  "candidate_id": "s01-b-somatic-control.codex.v2",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "REPEAT: ARRIVAL.",
+      "atom_id": "s01-ctr-01",
+      "consequence_evidence": "She’s testing departure now.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "A deviation",
+      "atom_id": "s01-ctr-06",
+      "consequence_evidence": "We preserve the run.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "a pale mark had appeared two seconds to the right",
+      "atom_id": "s01-ctr-08",
+      "consequence_evidence": "Her eyes widened as she looked from the screen to Mara’s empty left hand.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Jonah was replaying the pressure trace.",
+      "atom_id": "s01-ctr-09",
+      "consequence_evidence": "he tapped two fingers once against the metal case",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

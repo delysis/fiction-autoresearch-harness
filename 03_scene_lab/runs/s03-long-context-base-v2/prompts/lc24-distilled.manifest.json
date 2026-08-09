@@ -1,0 +1,28 @@
+{
+  "arm": {
+    "arm_id": "lc24-distilled",
+    "control_density": "full",
+    "evidence_variant": "distilled",
+    "layout": "evidence-first",
+    "target_prompt_words": 24000
+  },
+  "component_hashes": {
+    "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+    "evidence": "796ee9f7c95b01467fb8470e155fecdf0ecfb9362dd5ecbbce9374d04e6cf3c4",
+    "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+    "preamble": "c89f270e0530ad24c9c34159a6ecaf7a476d0b87c4e5af01ea8c096c1c05ce4c"
+  },
+  "component_words": {
+    "contract": 297,
+    "evidence": 11001,
+    "manuscript": 5886,
+    "preamble": 11343
+  },
+  "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+  "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+  "prompt_hash": "6a01f94a8dba6d6a0afd40416e81f317c9efa8e1210665fe544ff4ff20152081",
+  "prompt_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s03-long-context-base-v2/prompts/lc24-distilled.prompt.txt",
+  "prompt_words": 17228,
+  "record_type": "LongContextPrompt",
+  "version": "long-context.base31.v2"
+}

@@ -1,0 +1,60 @@
+{
+  "anti_copy_index_hash": "e387f86f33bfe67f3777025cc696f5002aacf7d6ae56af74980f63d9f11917e4",
+  "anti_copy_policy_version": "anti-copy.v1",
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "author_profile_hash": "07ae193a0baa72577b5afb86f442516ba29fb65dc3bf09441f21e6afc6530157",
+  "author_profile_id": "diana-gabaldon.excerpt-control.v1",
+  "conditioning_variant": "profile-sparse-exemplars",
+  "control_density": "light",
+  "corpus_manifest_hash": "19f426ece391c2ac9042e8c30f2309b7ed32f5004a7095c71c96f0652bd0534a",
+  "created_at": "2026-08-01T08:50:06.427711+00:00",
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "frontier_adapter": "none-local",
+  "generation_mode": "native_base_with_base31_plan",
+  "model_role": "base_31b_writer",
+  "ontology_version": "rgo.v1",
+  "output_tokens": 8000,
+  "output_words_max": 3600,
+  "output_words_min": 2800,
+  "persona_ids": [
+    "mara_vale",
+    "livia_sloane",
+    "jonah_reed"
+  ],
+  "pipeline": "native_base_with_base31_plan",
+  "prompt_encoding": "xml",
+  "prompt_hash": "77034ebe431cc14d881b0c78e4fcadb9c6f033df341c5e6c55a99a768d563292",
+  "record_type": "RunConfig",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "run_id": "s02-autoloom-v3-gabaldon-excerpts-native_base_with_base31_plan",
+  "sampling": {
+    "min_p": 0.02,
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "xtc_probability": 0.05
+  },
+  "scene_id": "S02",
+  "scene_profile_id": "fulcrum-s02.v4.1-literary",
+  "schema_version": "fiction-harness.v1",
+  "seeds": [
+    22011,
+    22023,
+    22037,
+    22051,
+    22063,
+    22079,
+    22091,
+    22109
+  ],
+  "source_hashes": {
+    "pilot_scenes": "43bd0e10c5a86789bc31036c67896ecd745ec962d31f4f150f0f3902d64a8330",
+    "project_brief": "75bf3aa7e3023a7ced5b6c80c35d9cf8a4057f23ceaf1cf1484d7740c6d4792b",
+    "resolved_creative_profile_file": "cd129868c727b4a3a49bbdee065a3b5db62e456811fb6e7f6d59100347e38bfa",
+    "source_deck": "e99afbd8b4efffc326fbd277221e0046978067661b99576b36d3b717a71254b8",
+    "story_canon": "4f0f4a552e389616be9b6d26676ebf5794a166cfc5ef77b6235a7a577bd50c38"
+  },
+  "story_profile_id": "fulcrum-pilot.v1",
+  "story_program_id": "per-candidate-plan-set.v1",
+  "transformation_map_hash": "9e83a92d111eb20c7e356282ecf07d945450d1267cc83d0753724557696bd398"
+}

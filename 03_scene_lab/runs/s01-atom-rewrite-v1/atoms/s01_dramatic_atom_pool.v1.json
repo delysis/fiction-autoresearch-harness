@@ -1,0 +1,696 @@
+{
+  "atoms": [
+    {
+      "atom_id": "s01-arr-01",
+      "kind": "object",
+      "local_constraint_change": "Her attempt at hospitality becomes the first object available for public interpretation.",
+      "observable_move": "She carries a hard-sided suitcase and a bakery box from her church.",
+      "observable_response": "The homemade food looks conspicuous against the compound's controlled welcome.",
+      "participants": [
+        "Mara"
+      ],
+      "proposed_probability": 0.083,
+      "required_entities": [
+        "hard-sided suitcase",
+        "church bakery box"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Mara arrives alone at sunset with everything she brought in one suitcase.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "a bakery box from her church’s fellowship hall—sourdough and cardamom buns—and her single, hard-sided suitcase",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-arr-02",
+      "kind": "social_move",
+      "local_constraint_change": "The welcome flatters her values while quietly establishing who performs service.",
+      "observable_move": "Adrian takes it with conspicuous care instead of reaching for her suitcase.",
+      "observable_response": "Mara follows him inside still carrying her own luggage.",
+      "participants": [
+        "Adrian",
+        "Mara"
+      ],
+      "proposed_probability": 0.052,
+      "required_entities": [
+        "bakery box",
+        "suitcase"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Mara offers the bakery box on arrival.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-06-novelist",
+      "source_span": "He led her toward the pavilion, where the evening's welcome ritual was already beginning.",
+      "source_text_hash": "1b1dba34d364933305ec9ba5db5569f6b4746f87f98f1c12c646e550dd64a12a"
+    },
+    {
+      "atom_id": "s01-arr-03",
+      "kind": "speech_act",
+      "local_constraint_change": "Her joke earns attention but shows how quickly the institution can appropriate her terms.",
+      "observable_move": "Mara raises the box and jokes that she brought something not synthesized.",
+      "observable_response": "Adrian calls authenticity rare and immediately folds the gift into Fulcrum's vocabulary.",
+      "participants": [
+        "Mara",
+        "Adrian"
+      ],
+      "proposed_probability": 0.057,
+      "required_entities": [
+        "bakery box"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Adrian praises Mara's punctual arrival.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "\"And I brought something that isn't synthesized.\"",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-arr-04",
+      "kind": "observable_reaction",
+      "local_constraint_change": "Before introductions, she can see that attention itself allocates rank.",
+      "observable_move": "Mara notices relaxed bodies near the center and rigid bodies at the edge.",
+      "observable_response": "Several people track her while others lower their eyes to tablets or the floor.",
+      "participants": [
+        "Mara",
+        "Fulcrum fellows"
+      ],
+      "proposed_probability": 0.069,
+      "required_entities": [
+        "fire pit",
+        "tablets",
+        "peripheral seats"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "The fellows are already seated around the fire.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "There was a hierarchy of seating that functioned like a silent liturgy.",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-arr-05",
+      "kind": "speech_act",
+      "local_constraint_change": "Ordinary observation is placed inside a high-status experimental frame.",
+      "observable_move": "He says alignment begins with what people communicate before speech.",
+      "observable_response": "The room treats the claim as the premise of the evening's game.",
+      "participants": [
+        "Adrian",
+        "Fulcrum fellows"
+      ],
+      "proposed_probability": 0.078,
+      "required_entities": [
+        "welcome circle"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Adrian brings Mara into the ongoing welcome circle.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "begins by learning how much we already communicate without the clumsy interference of speech",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-arr-06",
+      "kind": "social_move",
+      "local_constraint_change": "Livia turns hospitality into evidence; Mara answers without surrendering the object's meaning.",
+      "observable_move": "Livia calls the box a shield in front of the circle.",
+      "observable_response": "Mara tightens her grip and corrects Livia: it is an offering.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.076,
+      "required_entities": [
+        "bakery box"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Mara still has the bakery box pressed against her ribs.",
+      "source_call_id": "s01-comparison-v1-verbalized_sampling-verbalized-03-polished-r2",
+      "source_span": "\"It’s not a shield,\" Mara said, tightening her grip on the box. \"It’s an offering.",
+      "source_text_hash": "42f8b11883b298b95a75206792a4ad6df625f9f574fd9ad72124d47199273f3f"
+    },
+    {
+      "atom_id": "s01-arr-07",
+      "kind": "speech_act",
+      "local_constraint_change": "The read lands accurately enough to make public resistance costly.",
+      "observable_move": "Livia names Mara's fear that being seen will reveal she is wanting.",
+      "observable_response": "Mara's prepared explanation dies before she can deliver it.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.081,
+      "required_entities": [
+        "Mara's unfinished explanation"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Livia watches Mara brace under the room's attention.",
+      "source_call_id": "s01-comparison-v1-verbalized_sampling-verbalized-08-realize",
+      "source_span": "afraid of being seen,\" Livia said.",
+      "source_text_hash": "182c6e52e6b79ac0128dea56ad40b388054d61dfd9f76e85cbf9179080bc3d8e"
+    },
+    {
+      "atom_id": "s01-arr-08",
+      "kind": "speech_act",
+      "local_constraint_change": "Livia's genuine accuracy becomes inseparable from her decision to expose it publicly.",
+      "observable_move": "Livia says Mara came to learn whether she can be seen without losing herself.",
+      "observable_response": "The room waits for Mara to deny the loneliness Livia adds to the read.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.062,
+      "required_entities": [
+        "silent circle"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Mara claims she is present only to observe.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-06-novelist",
+      "source_span": "here to see if you can be seen without losing yourself.",
+      "source_text_hash": "1b1dba34d364933305ec9ba5db5569f6b4746f87f98f1c12c646e550dd64a12a"
+    },
+    {
+      "atom_id": "s01-arr-09",
+      "kind": "countermove",
+      "local_constraint_change": "His refusal costs him participation in the room's central status display and makes him legible to Mara.",
+      "observable_move": "Jonah explicitly refuses to read or perform Mara for the group.",
+      "observable_response": "He creates a silence in which Mara is not required to explain herself.",
+      "participants": [
+        "Jonah",
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.089,
+      "required_entities": [
+        "public circle"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Livia asks Jonah to give the room a read of Mara.",
+      "source_call_id": "s01-comparison-v1-verbalized_sampling-verbalized-03-polished-r2",
+      "source_span": "\"I won't read her,\" Jonah said",
+      "source_text_hash": "42f8b11883b298b95a75206792a4ad6df625f9f574fd9ad72124d47199273f3f"
+    },
+    {
+      "atom_id": "s01-arr-10",
+      "kind": "speech_act",
+      "local_constraint_change": "A joke makes epistemic humility socially available without denying Livia's skill.",
+      "observable_move": "Jonah offers a mundane alternative explanation involving a missing attachment.",
+      "observable_response": "The room's held tension breaks and Mara locates the speaker.",
+      "participants": [
+        "Jonah",
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.054,
+      "required_entities": [
+        "missing attachment"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "arrival-status",
+      "setup_fact": "Livia's first demonstration leaves the circle hushed.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "\"Or maybe he just realized he forgot to attach the file.\"",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-cal-01",
+      "kind": "romantic_action",
+      "local_constraint_change": "Contact begins as her choice rather than the room's entitlement.",
+      "observable_move": "Jonah asks Mara's permission before touching her wrist.",
+      "observable_response": "Mara notices that a routine question changes the quality of the whole exercise.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "proposed_probability": 0.091,
+      "required_entities": [
+        "Mara's wrist"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Adrian assigns Jonah to facilitate Mara's tactile calibration.",
+      "source_call_id": "s01-comparison-v1-direct-direct-08-generate",
+      "source_span": "\"May I?\" Jonah asked.",
+      "source_text_hash": "00fc0ce208dd9fd066cdcd918c97ed51c6e1d50c1a18f1a6c75e368778a7b655"
+    },
+    {
+      "atom_id": "s01-cal-02",
+      "kind": "speech_act",
+      "local_constraint_change": "His private question gives her a sliver of control inside a public task.",
+      "observable_move": "Jonah quietly asks whether Mara wants to be the signal.",
+      "observable_response": "She must choose a role while the room waits.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "proposed_probability": 0.064,
+      "required_entities": [
+        "signal role",
+        "receiver role"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "The pairs are choosing who sends and who receives.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "\"Do you want to be the Signal?\" Jonah asked quietly.",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-cal-03",
+      "kind": "sensory_anchor",
+      "local_constraint_change": "Attraction narrows and sharpens attention before it threatens judgment.",
+      "observable_move": "She notices his skin's scent, the room's low sound, and his thumb over her artery.",
+      "observable_response": "Her pulse accelerates beneath the steady pressure.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "proposed_probability": 0.085,
+      "required_entities": [
+        "salt and sage scent",
+        "radial artery",
+        "room murmur"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Mara closes her eyes with Jonah's hand around her wrist.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "The scent of Jonah’s skin—something like salt and dried sage.",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-cal-04",
+      "kind": "observable_reaction",
+      "local_constraint_change": "Desire becomes evidence she must include without allowing it to decide the experiment.",
+      "observable_move": "Mara feels an urge to lean closer and surrender to it.",
+      "observable_response": "She recognizes the urge before acting on it.",
+      "participants": [
+        "Mara",
+        "Jonah"
+      ],
+      "proposed_probability": 0.066,
+      "required_entities": [
+        "Jonah's breathing",
+        "Mara's forward movement"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Jonah offers a steady tactile rhythm.",
+      "source_call_id": "s01-comparison-v1-verbalized_sampling-verbalized-08-realize",
+      "source_span": "the overwhelming urge to lean forward, to close the distance",
+      "source_text_hash": "182c6e52e6b79ac0128dea56ad40b388054d61dfd9f76e85cbf9179080bc3d8e"
+    },
+    {
+      "atom_id": "s01-cal-05",
+      "kind": "observable_reaction",
+      "local_constraint_change": "Mara demonstrates real perceptual skill, making the exercise more than a fraud exposure.",
+      "observable_move": "She identifies fatigue and the strain of someone holding a door shut.",
+      "observable_response": "Jonah's public ease drops for a moment when she says enough to show she noticed.",
+      "participants": [
+        "Mara",
+        "Jonah"
+      ],
+      "proposed_probability": 0.074,
+      "required_entities": [
+        "Jonah's forearm",
+        "door image"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Mara attends to small changes beneath Jonah's elbow.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "the exhaustion of someone who had been holding a door shut for a very long time",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-cal-06",
+      "kind": "romantic_action",
+      "local_constraint_change": "Their attraction acquires a private fact neither converts into spectacle.",
+      "observable_move": "Jonah starts a joke, stops, and lets the private recognition remain unperformed.",
+      "observable_response": "Mara sees his restraint cost him an easy recovery of status.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "proposed_probability": 0.079,
+      "required_entities": [
+        "unfinished joke"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Mara's accurate response exposes something private in Jonah.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-06-novelist",
+      "source_span": "the joke died on his lips. He chose restraint instead.",
+      "source_text_hash": "1b1dba34d364933305ec9ba5db5569f6b4746f87f98f1c12c646e550dd64a12a"
+    },
+    {
+      "atom_id": "s01-cal-07",
+      "kind": "social_move",
+      "local_constraint_change": "The room converts intimacy into status data, giving Mara a reason to test the channel.",
+      "observable_move": "Livia praises Mara's result loudly enough to make the circle claim it.",
+      "observable_response": "Jonah pulls back and Mara becomes aware of the audience again.",
+      "participants": [
+        "Livia",
+        "Mara",
+        "Jonah"
+      ],
+      "proposed_probability": 0.071,
+      "required_entities": [
+        "public praise",
+        "wrist contact"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Mara and Jonah have just shared an accurate private read.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "\"Impressive,\" Livia’s voice drifted over them",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-cal-08",
+      "kind": "mystery_observation",
+      "local_constraint_change": "A possible side channel becomes testable instead of merely suspicious.",
+      "observable_move": "Mara notices Jonah's thumb tracing a tiny arc and Livia nodding in time.",
+      "observable_response": "She watches the timing repeat before drawing a conclusion.",
+      "participants": [
+        "Mara",
+        "Jonah",
+        "Livia"
+      ],
+      "proposed_probability": 0.094,
+      "required_entities": [
+        "thumb arc",
+        "Livia's nod"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Livia calls the pair synchronized while Jonah holds Mara's wrist.",
+      "source_call_id": "s01-comparison-v1-verbalized_sampling-verbalized-08-realize",
+      "source_span": "Livia, watching from the edge of the circle, was nodding in perfect time with that movement.",
+      "source_text_hash": "182c6e52e6b79ac0128dea56ad40b388054d61dfd9f76e85cbf9179080bc3d8e"
+    },
+    {
+      "atom_id": "s01-cal-09",
+      "kind": "mystery_observation",
+      "local_constraint_change": "The observer's influence becomes part of the mechanism under examination.",
+      "observable_move": "Mara catches Livia watching Mara's reaction to Jonah rather than Jonah alone.",
+      "observable_response": "She separates the bodily response from Livia's claim about its meaning.",
+      "participants": [
+        "Mara",
+        "Livia",
+        "Jonah"
+      ],
+      "proposed_probability": 0.073,
+      "required_entities": [
+        "Mara's pupils",
+        "Livia's gaze"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "Livia continues narrating the dyad from outside it.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "Livia wasn't just reading Jonah; she was watching the way *Mara* reacted to Jonah.",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-cal-10",
+      "kind": "countermove",
+      "local_constraint_change": "The dyad now contains a private experimental control the audience does not know about.",
+      "observable_move": "Mara changes her intended state while keeping the physical contact.",
+      "observable_response": "Jonah's eyes widen although his grip stays steady.",
+      "participants": [
+        "Mara",
+        "Jonah"
+      ],
+      "proposed_probability": 0.082,
+      "required_entities": [
+        "unchanged grip",
+        "changed internal state"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "calibration-contact",
+      "setup_fact": "The room expects Mara to produce the state Livia has named.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "His grip didn't change, but his eyes widened by a fraction of a millimeter.",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-01",
+      "kind": "countermove",
+      "local_constraint_change": "Livia must either revise the read or overclaim beyond the available observation.",
+      "observable_move": "She changes posture and breath while keeping her hand in place.",
+      "observable_response": "The expected relationship between her felt state and visible signal breaks.",
+      "participants": [
+        "Mara"
+      ],
+      "proposed_probability": 0.093,
+      "required_entities": [
+        "breath rhythm",
+        "posture"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "Mara has identified at least one cue channel.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "She changed the frequency of her breath, making it shallow and rhythmic",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-02",
+      "kind": "countermove",
+      "local_constraint_change": "Her control tests the method without turning Jonah or Livia into public trophies.",
+      "observable_move": "She increases wrist contact while decoupling her internal state from the outward cues.",
+      "observable_response": "The pair remains physically close while the informational channel degrades.",
+      "participants": [
+        "Mara",
+        "Jonah"
+      ],
+      "proposed_probability": 0.061,
+      "required_entities": [
+        "wrist contact",
+        "decoupled cue"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "Mara can expose the mechanism or alter it silently.",
+      "source_call_id": "s01-comparison-v1-direct-direct-05-generate",
+      "source_span": "she leaned in slightly, increasing the surface area of the contact",
+      "source_text_hash": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    {
+      "atom_id": "s01-ctr-03",
+      "kind": "speech_act",
+      "local_constraint_change": "Jonah corroborates Mara's control at a small public cost to the demonstration.",
+      "observable_move": "Jonah reports that it did not click; it went quiet.",
+      "observable_response": "The circle has to register a failed prediction instead of a mystical success.",
+      "participants": [
+        "Jonah",
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.088,
+      "required_entities": [
+        "failed click"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "Livia asks Jonah when Mara's assigned state clicks into place.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "\"It didn't click,\" Jonah said",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-04",
+      "kind": "observable_reaction",
+      "local_constraint_change": "Her accurate-read aura partially collapses through a concrete mismatch.",
+      "observable_move": "Livia confidently calls the signal jagged and the tension rising.",
+      "observable_response": "Jonah's report contradicts her in front of the room.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.067,
+      "required_entities": [
+        "jagged prediction",
+        "quiet report"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "Mara has changed the signal without announcing the control.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "\"The tension is rising,\" Livia narrated",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-05",
+      "kind": "social_move",
+      "local_constraint_change": "The exercise reveals how interpretation can protect itself from disconfirmation.",
+      "observable_move": "Livia reframes the miss as Mara blocking or refusing to be seen.",
+      "observable_response": "Mara does not defend herself or supply the missing explanation.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.078,
+      "required_entities": [
+        "blocking accusation"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "The read has failed publicly.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "blocking. You're trying to hide something.",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-06",
+      "kind": "constraint_change",
+      "local_constraint_change": "Mara's status becomes uncertain rather than simply victorious.",
+      "observable_move": "Adrian calls the result a deviation and watches the group's reaction.",
+      "observable_response": "Nobody knows whether Mara has failed or produced a more interesting result.",
+      "participants": [
+        "Adrian",
+        "Mara",
+        "Livia"
+      ],
+      "proposed_probability": 0.059,
+      "required_entities": [
+        "deviation",
+        "group reaction"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "The room has witnessed the miss and Livia's recovery attempt.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "\"An interesting deviation,\" Adrian said",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-07",
+      "kind": "sensory_anchor",
+      "local_constraint_change": "The method can be doubted while the attraction remains bodily undeniable.",
+      "observable_move": "The loss of contact feels like a drop in temperature.",
+      "observable_response": "Warmth remains at the exact place his hand had been.",
+      "participants": [
+        "Mara",
+        "Jonah"
+      ],
+      "proposed_probability": 0.073,
+      "required_entities": [
+        "phantom warmth",
+        "cooling room"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "The exercise ends and Jonah releases Mara's wrist.",
+      "source_call_id": "s01-comparison-v1-verbalized_sampling-verbalized-08-realize",
+      "source_span": "The loss of contact was like a sudden drop in temperature.",
+      "source_text_hash": "182c6e52e6b79ac0128dea56ad40b388054d61dfd9f76e85cbf9179080bc3d8e"
+    },
+    {
+      "atom_id": "s01-ctr-08",
+      "kind": "mystery_observation",
+      "local_constraint_change": "A smaller anomaly survives the partial collapse without confirming its cause.",
+      "observable_move": "Livia looks back at Mara with genuine startled recognition.",
+      "observable_response": "Mara cannot locate a cue that explains the reaction.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.086,
+      "required_entities": [
+        "Livia's startled look"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "The observable cue channel has failed and Livia turns away.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "they had been wide with a genuine, startled recognition",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-09",
+      "kind": "romantic_action",
+      "local_constraint_change": "Their first romantic progress is shared perception plus restraint, not confession or touch after the task.",
+      "observable_move": "Jonah gives Mara a private acknowledgment that he recognized her control.",
+      "observable_response": "He does not explain her aloud or claim alliance in front of the room.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "proposed_probability": 0.084,
+      "required_entities": [
+        "private acknowledgment"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "The room remains unsure whether Mara failed the exercise.",
+      "source_call_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "source_span": "He knew what she had done. He knew she hadn't failed the task",
+      "source_text_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    {
+      "atom_id": "s01-ctr-10",
+      "kind": "constraint_change",
+      "local_constraint_change": "She enters the fellowship through one concrete act she authors, with her curiosity about Jonah and the method unresolved.",
+      "observable_move": "Mara chooses to stay and redirects the room toward opening and eating what she brought.",
+      "observable_response": "The bakery box becomes shared food instead of a symbol the room can keep interpreting.",
+      "participants": [
+        "Mara",
+        "Fulcrum fellows"
+      ],
+      "proposed_probability": 0.077,
+      "required_entities": [
+        "opened bakery box",
+        "accepted fellowship place"
+      ],
+      "scene_id": "S01",
+      "sequence_id": "counter-test-mystery",
+      "setup_fact": "The calibration circle is breaking up around the unopened church gift.",
+      "source_call_id": "s01-comparison-v1-direct-direct-01-generate",
+      "source_span": "\"I think,\" Mara said, her voice clear and resonant in the quiet room, \"that we should probably eat. I brought something.\"",
+      "source_text_hash": "f8cbeabdd09f615251fdd541a808321464c581af9e43b07b46682bbd68c2f048"
+    }
+  ],
+  "donors": {
+    "final-actor": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/evaluation/finalists/actor_novelist.md",
+      "sha256": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    "final-direct": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/evaluation/finalists/direct.md",
+      "sha256": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    "final-verbalized": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/evaluation/finalists/verbalized_sampling.md",
+      "sha256": "42f8b11883b298b95a75206792a4ad6df625f9f574fd9ad72124d47199273f3f"
+    },
+    "raw-actor-06": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/actor_novelist/candidates/s01-comparison-v1-actor_novelist-actor-novelist-06.md",
+      "sha256": "1b1dba34d364933305ec9ba5db5569f6b4746f87f98f1c12c646e550dd64a12a"
+    },
+    "raw-direct-01": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/direct/candidates/s01-comparison-v1-direct-direct-01.md",
+      "sha256": "f8cbeabdd09f615251fdd541a808321464c581af9e43b07b46682bbd68c2f048"
+    },
+    "raw-direct-04": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/direct/candidates/s01-comparison-v1-direct-direct-04.md",
+      "sha256": "7101a180f677a7d087f6743f207fcd7d6638a54e63dd5dedbba109a19ccb6e8f"
+    },
+    "raw-direct-08": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/direct/candidates/s01-comparison-v1-direct-direct-08.md",
+      "sha256": "00fc0ce208dd9fd066cdcd918c97ed51c6e1d50c1a18f1a6c75e368778a7b655"
+    },
+    "raw-verbalized-08": {
+      "path": "03_scene_lab/runs/s01-comparison-v1/verbalized_sampling/candidates/s01-comparison-v1-verbalized_sampling-verbalized-08.md",
+      "sha256": "182c6e52e6b79ac0128dea56ad40b388054d61dfd9f76e85cbf9179080bc3d8e"
+    }
+  },
+  "record_type": "DramaticAtomPool",
+  "scene_id": "S01",
+  "source_pool_hash": "33e32998558158b5b0112c7c310ad7163a71dfcf7ffff4faff3bf0e72c8f328a",
+  "version": "s01-dramatic-atoms.v1"
+}

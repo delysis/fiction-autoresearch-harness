@@ -1,0 +1,25 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“Yes,” said Birkin.
+
+“Eh, my little beauty, eh, my beauty!” said Marshall, in a queer high
+falsetto voice, that caused the other man to have convulsions of
+laughter in his stomach.
+
+“Who won the race, Lupton?” he called to the bridegroom, to hide the
+fact that he was laughing.
+
+The bridegroom took his cigar from his mouth.
+
+“The race?” he exclaimed. Then a rather thin smile came over his face.
+He did not want to say anything about the flight to the church door.
+“We got there together. At least she touched first, but I had my hand
+on her shoulder.”
+
+“What’s this?” asked Gerald.
+
+Birkin told him about the race of the bride and the bridegroom.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

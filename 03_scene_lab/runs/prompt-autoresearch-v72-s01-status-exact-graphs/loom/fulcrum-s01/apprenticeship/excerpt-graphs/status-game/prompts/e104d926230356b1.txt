@@ -1,0 +1,53 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“That is the true scientific attitude,” laughed Arthur.
+
+“He took every morning at sunrise a glass of white wine tinctured with
+this preparation; and after using it for fourteen days his nails began
+to fall out, without, however, causing him any pain. His courage failed
+him at this point, and he gave the same dose to an old female servant.
+She regained at least one of the characteristics of youth, much to her
+astonishment, for she did not know that she had been taking a medicine,
+and, becoming frightened, refused to continue. The experimenter then
+took some grain, soaked it in the tincture, and gave it to an aged hen.
+On the sixth day the bird began to lose its feathers, and kept on
+losing them till it was naked as a newborn babe; but before two weeks
+had passed other feathers grew, and these were more beautifully
+coloured than any that fortunate hen had possessed in her youth. Her
+comb stood up, and she began again to lay eggs.”
+
+Arthur laughed heartily.
+
+“I confess I like that story much better than the others. The _Primum
+Ens Melissæ_ at least offers a less puerile benefit than most magical
+secrets.”
+
+“Do you call the search for gold puerile?” asked Haddo, who had been
+sitting for a long time in complete silence.
+
+“I venture to call it sordid.”
+
+“You are very superior.”
+
+“Because I think the aims of mystical persons invariably gross or
+trivial? To my plain mind, it is inane to raise the dead in order to
+hear from their phantom lips nothing but commonplaces. And I really
+cannot see that the alchemist who spent his life in the attempted
+manufacture of gold was a more respectable object than the outside
+jobber of modern civilization.”
+
+“But if he sought for gold it was for the power it gave him, and it was
+power he aimed at when he brooded night and day over dim secrets. Power
+was the subject of all his dreams, but not a paltry, limited dominion
+over this or that; power over the whole world, power over all created
+things, power over the very elements, power over God Himself. His lust
+was so vast that he could not rest till the stars in their courses were
+obedient to his will.”
+
+For once Haddo lost his enigmatic manner. It was plain now that his
+words intoxicated him, and his face assumed a new, a strange,
+expression. A peculiar arrogance flashed in his shining eyes.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

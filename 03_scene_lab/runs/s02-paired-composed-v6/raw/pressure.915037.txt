@@ -1,0 +1,85 @@
+A single pale mark waited on the screen beside a comment in Livia’s handwriting.
+
+? PRESSURE ?
+
+The mark had appeared in the final two seconds of the session, well after the subject had withdrawn her hand. It sat alone near the end of a steady gray line. No corresponding trace appeared for breath, pulse, or room audio. Jonah’s sensor had recorded nothing. Mara’s own body had recorded nothing.
+
+She checked the clock again. It changed as she watched.
+
+Jonah’s right hand had moved away from the keyboard. He sat straighter. Livia looked up.
+
+“There,” Mara said.
+
+The mark vanished.
+
+Jonah brought a file explorer to the top window. Mara leaned closer to his screen. The directory contained only one log—tonight’s—and its file size had decreased. The pressure trace showed a blank space where the mark had been. The annotation remained beneath it.
+
+? PRESSURE ?
+
+Jonah opened the audit log. Mara read the file last-modified time and said nothing.
+
+The final two seconds had disappeared.
+
+“We had a mark,” Livia said.
+
+“We did.”
+
+“It’s gone now.”
+
+“Correct.”
+
+“We need to make a note.”
+
+Jonah pressed a key. A new line appeared on the trace. Mara watched him delete the line twice, copy the deleted line onto the annotation layer, and align the timestamp manually.
+
+His right hand stopped on the keyboard.
+
+The room held still. The air conditioner’s white noise had begun to feel deliberate. Mara counted three breaths and began a third attempt.
+
+“It’s gone,” she said.
+
+Livia looked at her. Her expression had not changed.
+
+“We need to make a note,” Mara said. “We had a mark. It’s gone.”
+
+“Yes.”
+
+Mara looked at Jonah. His right hand had remained where it was. The log had not changed.
+
+“It wasn’t the telemetry,” Livia said.
+
+Jonah exhaled through his nose. “That would have been simpler.”
+
+“If this is going to be simple, I prefer it to be obvious.”
+
+The comment remained on the screen beneath a blank field. Jonah moved the mouse cursor over the line but did not open it.
+
+? PRESSURE ?
+
+Mara glanced toward the door. It remained closed. Someone—Miriam, she thought, or perhaps Adrian—had left without announcing they were leaving.
+
+“How did the mark appear?” she asked Jonah.
+
+His fingers did not lift from the keys. “The subject’s wrist depressed the sensor while she was removing her hand.”
+
+“That isn’t how it appeared,” Mara said.
+
+The room became still enough that the fire crackled behind Mara’s shoulder.
+
+“Yes,” Livia said.
+
+Jonah glanced at her, then at Mara. “The timing doesn’t match the cuff removal.”
+
+“Yes.”
+
+“It would have had to be before or after.”
+
+“Correct.”
+
+Jonah let out one breath. “Then you’re saying—”
+
+“We’re saying,” Mara said.
+
+Miriam’s observation log lay open on the side table. Mara traced the file path, found the end-of-session timestamp, and opened the matching record. The log showed the same mark on the telemetry: one pale line beneath the annotation. No corresponding change appeared on the audit trail. The file size had not decreased.
+
+Jonah tapped his screen twice with his thumbnail. “Can we agree it wasn’t the cuff?”

@@ -1,0 +1,32 @@
+{
+  "campaign_hash": "056b12fd55519ea8568d03cb743ea7286ce42ec3c312e4d44fc5ef62e00b5af8",
+  "cell_id": "fulcrum-s01",
+  "complete_story": false,
+  "completed_through_movement": "social-contact",
+  "created_at": "2026-08-08T16:20:43.877847+00:00",
+  "finalist_set_hash": "d7780be5df099b234de18aca981f2dd66bb53412d1d9af78506042a8e3de741e",
+  "finalists": [
+    {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v62-s01-micro-dwell/loom/fulcrum-s01/assemblies/fulcrum-s01.social-contact.r0.0.1354001.json",
+      "assembly_verified": true,
+      "candidate_id": "fulcrum-s01.social-contact.r0.0.1354001",
+      "selection_score": 6.171428571428571,
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.\n\nShe smiled in a friendly way, but he didn’t respond. She thought for a second he was a statue and wondered why no one else seemed to have seen him yet.\nThen his shoulders moved, subtly, in the direction of the couch. It seemed less like an invitation than a challenge.\nMara stopped in the middle of the room and looked around, at the empty chairs and tables, at the wall lined with books. She saw no place that looked more inviting than the couch, but she didn’t want to make him move or turn again if he didn’t want to. So she stood still.\nHe didn’t look away. She realized that he was going to wait her out, and decided to see who would blink first.\nThe pause stretched. The sound of voices rose faintly from somewhere outside the building. He leaned back further against the wall, and she could almost feel his muscles stretch and relax.\nAfter what seemed like minutes, she felt a slight sensation in the back of her neck, as though someone were breathing there, or had laid a hand lightly against the nape of her neck.\nShe turned around, but nobody was there.\n“I’m Mara,” she said aloud. “What’s your name?”",
+      "text_hash": "73e0aaa943bf864e835b8aa7aa46826b0b07442a4ed2dac019acf7746b26d5a9",
+      "word_count": 306
+    },
+    {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v62-s01-micro-dwell/loom/fulcrum-s01/assemblies/fulcrum-s01.social-contact.r0.0.1354069.json",
+      "assembly_verified": true,
+      "candidate_id": "fulcrum-s01.social-contact.r0.0.1354069",
+      "selection_score": 5.771687136393019,
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.\n\nThe lips might be smiling and might not. His eyes were dark enough that Mara couldn’t make out the shape of the iris.\nThen he spoke in a clear voice. “I hope you didn’t wake me.”\nThat made it smile. Mara opened her mouth and closed it, not certain how to answer. After a moment, she said, “You’re Adrian, then?”\n“I’m not your new partner,” the dark eyes clarified. “But I’m the other one.”\nShe was even less certain what this meant, but decided to take another stab anyway. “Who’s my partner?”\nThe blond head tipped a fraction to the right; that made the face into a profile and deepened Mara’s uncertainty. “You didn’t have one yet. But Jonah will be back soon.”\nA pause lengthened between them. Adrian didn’t move again, and Mara wasn’t sure what to do with that. She cleared her throat before she could stop herself, and said, “What should I—”\nA man’s footstep came through the door behind her, and her heart thumped harder. Was that Jonah? She turned toward him. The same dark hair as Adrian’s, the same narrow face but with a mustache that cut the space in two. The same casual stance in a blue-and-black robe, one palm raised in front of him.\nA palmful of steaming green tea in a small cup.",
+      "text_hash": "0f0618e456dba19cbc819a46cfa9f8dffa2261be8593ec8de3723e58304ee189",
+      "word_count": 320
+    }
+  ],
+  "recipe_id": "v4-anthology",
+  "record_type": "LoomFinalists",
+  "trajectory_id": "",
+  "version": "gemma-fiction-autoresearch.v4"
+}

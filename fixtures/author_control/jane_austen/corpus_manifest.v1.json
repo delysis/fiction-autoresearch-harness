@@ -1,0 +1,76 @@
+{
+  "record_type": "AuthorCorpusManifest",
+  "manifest_id": "jane-austen.control.v1",
+  "author_id": "jane-austen",
+  "author_name": "Jane Austen",
+  "version": "1.0",
+  "books": [
+    {
+      "record_type": "AuthorBook",
+      "book_id": "austen.pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "partition": "profiling",
+      "text_path": "books/pride_and_prejudice.txt",
+      "text_hash": "74f2665d6e6925fc2c17dec644bec9e87df478a0f1836822125e8acbb3777806",
+      "metadata_sources": [
+        "https://www.gutenberg.org/ebooks/1342"
+      ],
+      "publication_year": 1813,
+      "schema_version": "1.0"
+    },
+    {
+      "record_type": "AuthorBook",
+      "book_id": "austen.emma",
+      "title": "Emma",
+      "partition": "profiling",
+      "text_path": "books/emma.txt",
+      "text_hash": "532b122b4e6a76cc556d6fdcd729b5892f5c4ce4a1b7060b9f832adfad8680dc",
+      "metadata_sources": [
+        "https://www.gutenberg.org/ebooks/158"
+      ],
+      "publication_year": 1815,
+      "schema_version": "1.0"
+    },
+    {
+      "record_type": "AuthorBook",
+      "book_id": "austen.sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "partition": "profiling",
+      "text_path": "books/sense_and_sensibility.txt",
+      "text_hash": "22272ec4d4da2f50cda51edf34ab8486b325c4a99580120db565fb8917228a22",
+      "metadata_sources": [
+        "https://www.gutenberg.org/ebooks/161"
+      ],
+      "publication_year": 1811,
+      "schema_version": "1.0"
+    },
+    {
+      "record_type": "AuthorBook",
+      "book_id": "austen.mansfield-park",
+      "title": "Mansfield Park",
+      "partition": "calibration",
+      "text_path": "books/mansfield_park.txt",
+      "text_hash": "b34723544dbe8185e786d0fdd47e42e7e1ac4265b84141e31ca260c1e36b68d8",
+      "metadata_sources": [
+        "https://www.gutenberg.org/ebooks/141"
+      ],
+      "publication_year": 1814,
+      "schema_version": "1.0"
+    },
+    {
+      "record_type": "AuthorBook",
+      "book_id": "austen.persuasion",
+      "title": "Persuasion",
+      "partition": "holdout",
+      "text_path": "books/persuasion.txt",
+      "text_hash": "64ffb821b9e9eb1040c103a44c28893c94ebe33ffbb911288b5022efaecbfefc",
+      "metadata_sources": [
+        "https://www.gutenberg.org/ebooks/105"
+      ],
+      "publication_year": 1817,
+      "schema_version": "1.0"
+    }
+  ],
+  "privacy_boundary": "local-raw-hybrid-derived",
+  "schema_version": "1.0"
+}

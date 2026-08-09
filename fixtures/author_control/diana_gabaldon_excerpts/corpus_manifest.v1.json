@@ -1,0 +1,44 @@
+{
+  "record_type": "AuthorCorpusManifest",
+  "manifest_id": "diana-gabaldon.excerpt-control.v1",
+  "author_id": "diana-gabaldon",
+  "author_name": "Diana Gabaldon",
+  "version": "1.0",
+  "books": [
+    {
+      "record_type": "AuthorBook",
+      "book_id": "gabaldon.the-fiery-cross.excerpt",
+      "title": "The Fiery Cross (user-supplied excerpt)",
+      "partition": "profiling",
+      "text_path": "books/the_fiery_cross_excerpt.txt",
+      "text_hash": "e85afcad7d451d026adf4ebab9ac5666037baace7bae8bfe4f6eccbdb4072747",
+      "metadata_sources": ["I Give You My Body, user-supplied local text"],
+      "publication_year": 2001,
+      "schema_version": "1.0"
+    },
+    {
+      "record_type": "AuthorBook",
+      "book_id": "gabaldon.drums-of-autumn.excerpt",
+      "title": "Drums of Autumn (user-supplied excerpt)",
+      "partition": "profiling",
+      "text_path": "books/drums_of_autumn_excerpt.txt",
+      "text_hash": "c6707a9474e417e14045991d5afd66254339fa77702a87e79ac38a8ad182b7e5",
+      "metadata_sources": ["I Give You My Body, user-supplied local text"],
+      "publication_year": 1997,
+      "schema_version": "1.0"
+    },
+    {
+      "record_type": "AuthorBook",
+      "book_id": "gabaldon.a-breath-of-snow-and-ashes.excerpt",
+      "title": "A Breath of Snow and Ashes (untouched holdout excerpt)",
+      "partition": "holdout",
+      "text_path": "books/a_breath_of_snow_and_ashes_holdout_excerpt.txt",
+      "text_hash": "6554a3e4a2d2c7276efb418c062a60ddd6bfee14a8221b0dd377d28443cfa78c",
+      "metadata_sources": ["I Give You My Body, user-supplied local text"],
+      "publication_year": 2005,
+      "schema_version": "1.0"
+    }
+  ],
+  "privacy_boundary": "local-raw-hybrid-derived",
+  "schema_version": "1.0"
+}

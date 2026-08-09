@@ -1,0 +1,56 @@
+{
+  "blocks": [
+    {
+      "block_hash": "ae6a77de124d17e13e983a086ca68dac5ef75093625afca721aa018af09a33fe",
+      "block_id": "shared.juicy-chastity.v1",
+      "kind": "creative-profile",
+      "purpose": "RGO-derived project invariants shared by every experimental arm",
+      "source_ids": [],
+      "source_partition": "project-profile",
+      "target_facets": [
+        "none",
+        "nonsexual-pressure"
+      ],
+      "word_count": 92
+    },
+    {
+      "block_hash": "258b8c08c67ec7240c92056c9a768186eea6854c20e171dc4f4e8a76f352d66d",
+      "block_id": "baseline.case",
+      "kind": "demonstration",
+      "purpose": "causal ledger-to-prose apprenticeship",
+      "source_ids": [],
+      "source_partition": "derived",
+      "target_facets": [],
+      "word_count": 3578
+    },
+    {
+      "block_hash": "db899c1191769cd0dda302567b62fe53ef4bc312b3c3cf4e2d863e5385047508",
+      "block_id": "target.institutional-pressure-control",
+      "kind": "target-program",
+      "purpose": "variable target contract",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "none",
+        "nonsexual-pressure"
+      ],
+      "word_count": 125
+    },
+    {
+      "block_hash": "64ca178bc0c1a4ac69c6121413abf48e2e4c4dbf68f4f406d8a1d603bad4ef1b",
+      "block_id": "runway.institutional-pressure-control",
+      "kind": "manuscript-runway",
+      "purpose": "plain-prose completion boundary",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "none",
+        "nonsexual-pressure"
+      ],
+      "word_count": 18
+    }
+  ],
+  "prompt_hash": "0232c2429e8e561b891ce28a770201f8017d14334908012908944201001c8100",
+  "prompt_tokens": 5392,
+  "recipe_hash": "3c034dabf8ca35644336acf022314bcbb2e6ccd1ea4ebe44b75bba0adea938bb"
+}

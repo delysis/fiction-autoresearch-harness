@@ -1,0 +1,1 @@
+{"campaign_id": "prompt-autoresearch-v10", "completed_candidates": 0, "reason": "calibration discovered base-generated END labels were not in stop set and length instruction needed direct editorial prose", "record_type": "AutoresearchCensoredRun", "recorded_at": "2026-08-03T05:53:17.579555+00:00"}

@@ -1,0 +1,14 @@
+{
+  "inheritance_hash": "80468171d7f5c12c921c35f2602d2d6312b4bc65881d2db54519c092c4c2ec37",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "charged-restraint": "6356a6d64287ab4ff7b88c16836578b633e3ca321790c2133f5dfeb31801036b"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v75-runway-search",
+  "source_campaign_hash": "b90deec69011e57772dc7f3849e9a3d7c399ac5557785e72e1238e2f00cf7370",
+  "source_lock_hash": "03b37cc393f2b76b7ba7785905020e59395eb23dc839c76fdb1f1248bde5a638",
+  "target_campaign_hash": "da21e639a510908a171c7496dbe236b496e4a61912a7033d63d8efd82785011a",
+  "target_lock_hash": "20bf618dd554fc2068d7ff120abf66b497c336ea017916fee430009d244f0706",
+  "verified_at": "2026-08-08T22:39:35.347900+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

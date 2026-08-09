@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.openai.codex.s02.v42.verbalized-checkpoint</string>
+  <key>ProgramArguments</key><array>
+    <string>/opt/homebrew/bin/python3</string><string>-m</string><string>fiction_harness</string>
+    <string>continuation</string><string>run</string><string>verbalized_to_instruction</string>
+    <string>--run-root</string><string>03_scene_lab/runs/s02-compute-v4.2-literary</string>
+    <string>--run-id</string><string>s02-compute-v4.2-literary</string>
+    <string>--writer-url</string><string>http://127.0.0.1:8096</string>
+    <string>--count</string><string>8</string><string>--max-new-candidates</string><string>1</string>
+    <string>--stop-after-sequences</string><string>1</string><string>--timeout</string><string>2400</string>
+  </array>
+  <key>WorkingDirectory</key><string>/Users/george/mpc/juicy_chastity_fiction_lab</string>
+  <key>RunAtLoad</key><true/><key>KeepAlive</key><false/><key>ProcessType</key><string>Interactive</string>
+  <key>StandardOutPath</key><string>/private/tmp/s02-v42-verbalized-checkpoint.out</string>
+  <key>StandardErrorPath</key><string>/private/tmp/s02-v42-verbalized-checkpoint.err</string>
+</dict></plist>

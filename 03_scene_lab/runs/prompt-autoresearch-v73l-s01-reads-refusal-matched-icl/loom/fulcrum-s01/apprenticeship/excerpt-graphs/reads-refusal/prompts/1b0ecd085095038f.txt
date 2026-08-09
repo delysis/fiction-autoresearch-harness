@@ -1,0 +1,41 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“I’m afraid of meeting Mr. Wylie,” objected Evereld.
+
+“Indeed I think you
+had better not meet him with your eyes as red as that,” said Minnie with
+a laugh. “There’s no need for you to see him till dinner-time, for he
+has gone down to Montreux to talk over the arrangements for tomorrow
+with Mamma and Lady Mount Pleasant.”
+
+There was something comforting in Minnie’s kindly manner, though Evereld
+vehemently dissented in her own mind from all her arguments. She obeyed
+her, however, and stopped crying, and even found temporary comfort in
+the afternoon tea which has a way of tasting so supremely good when
+made by oneself abroad. Later on they walked down the Gorge de Chaudron,
+where already the trees were arraying themselves in the lovely tints
+of early autumn. The two lovers walked a little ahead. Evereld followed
+slowly and thoughtfully, regaining her habitual strength and quietness
+of mind as she walked, by slow degrees. There was something in her face
+which puzzled Bruce Wylie when he met her again that evening at dinner.
+She looked older, even he could have fancied thinner, since the morning.
+He left her unmolested till the meal was over, but joined her directly
+afterwards in the entrance hall, where in the evening people were wont
+to lounge and chat unceremoniously. He was discussing thought-reading
+with a young American girl and skilfully inveigled Evereld into
+the conversation. In old times she had always felt an interest in
+experiments of this sort; to-night she felt that not for the world would
+she permit Bruce Wylie to touch her.
+
+“Let us show Miss Upton the experiment we tried at Zermatt,” said Bruce
+Wylie. “It was a brilliant success there.”
+
+“I would rather not to-night,” said Evereld colouring. “I am tired.”
+
+“Oh, try just once,” he said persuasively.
+
+But she shook her head.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

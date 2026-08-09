@@ -1,0 +1,69 @@
+{
+  "record_type": "HumanGateRepairManifest",
+  "repairs": [
+    {
+      "candidate_hash": "0cae7b9a76e17254a416335c44197cddc47a965e493e0f23c0f3ad74b1955c5e",
+      "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04-polished",
+      "eligible": true,
+      "failed_gates": [],
+      "legacy_gate_carry_forward": {
+        "basis": "ending-only repair begins after every historically passed required beat; legacy run is not migrated to future detector",
+        "first_changed_character": 19024,
+        "last_required_beat_character": 15922,
+        "repaired_continuation_hash": "7ef2d7e7c2787f737b5fb8d05f29649add8e2b5ba5805d0901473c7a666ef903",
+        "source_continuation_hash": "a925b9667b13b014814b6a985ce07b5afe426ad54602d834a16422e773a99cd8",
+        "source_gate_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s02-proof-v1-bootstrap/evaluation/deterministic/s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04.json"
+      },
+      "raw_candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+      "reason": "Reject gate-failing full rewrite; minimally establish free continued engagement and a concrete ambiguous suspense hook.",
+      "record_type": "HumanGateRepair",
+      "replaced_text_hash": "562672d37c16e66c786f974e8cc0bdadfe96f2ca0d30a0531ae8d6a118b9e1bd",
+      "replacement_text_hash": "56a9eb148ec67aca0b09a3392e3bd9691c51bc9d8dd2542c60bbcbfaaf593324",
+      "scope": "ending_only",
+      "version": "1.0"
+    },
+    {
+      "candidate_hash": "2f85d973770000bd25730cdc098538a95e2cc528fd4f538dbf6420e694cda790",
+      "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+      "eligible": true,
+      "failed_gates": [],
+      "legacy_gate_carry_forward": {
+        "basis": "ending-only repair begins after every historically passed required beat; legacy run is not migrated to future detector",
+        "first_changed_character": 19845,
+        "last_required_beat_character": 18517,
+        "repaired_continuation_hash": "1bc4f98ecf82ef55053761290613a1fd050be90ccdf6f5ae56cb4dc46f2e88ee",
+        "source_continuation_hash": "3e6b4a68a35f0d5cd1578faba56baea9575dcba13011c61d7f3800b446c785d9",
+        "source_gate_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s02-proof-v1-bootstrap/evaluation/deterministic/s02-proof-v1-bootstrap-chat_direct-chat_direct-04.json"
+      },
+      "raw_candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+      "reason": "Reject gate-failing full rewrite; minimally establish free continued engagement and a concrete ambiguous suspense hook.",
+      "record_type": "HumanGateRepair",
+      "replaced_text_hash": "e21ab23ba3bb3e0160b0221a06a9ee886d473c212186bf4e39ab322a7c7d1669",
+      "replacement_text_hash": "83871a6ec3c32895485a723351c0e42373aaabfa23a800131c0405e7c7b2e055",
+      "scope": "ending_only",
+      "version": "1.0"
+    },
+    {
+      "candidate_hash": "d723c27889d6b42cc8e4c570b0a65b345f981c7b01719fddacce581abaaecfa3",
+      "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03-polished",
+      "eligible": true,
+      "failed_gates": [],
+      "legacy_gate_carry_forward": {
+        "basis": "ending-only repair begins after every historically passed required beat; legacy run is not migrated to future detector",
+        "first_changed_character": 19841,
+        "last_required_beat_character": 17156,
+        "repaired_continuation_hash": "0a64de9cd8d05cb1f877cc298f788282c178a2560a5247441341fbcc7fff3949",
+        "source_continuation_hash": "91413733da106eff12803cedd7a3acf1048e2adb5a77e209d04a7fb5a0db0d13",
+        "source_gate_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s02-proof-v1-bootstrap/evaluation/deterministic/s02-proof-v1-bootstrap-raw_organic-raw_organic-03.json"
+      },
+      "raw_candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+      "reason": "Reject gate-failing full rewrite; minimally establish free continued engagement and a concrete ambiguous suspense hook.",
+      "record_type": "HumanGateRepair",
+      "replaced_text_hash": "c5485bc109bbb8882b62683b6c0e3bbf8f3eb8e40b7c623d8fd316fa392dcf0c",
+      "replacement_text_hash": "cdc84210d3ebc9c304d9dab9470c4c31a30e4015ac01f85ff117aa971255eece",
+      "scope": "ending_only",
+      "version": "1.0"
+    }
+  ],
+  "version": "1.0"
+}

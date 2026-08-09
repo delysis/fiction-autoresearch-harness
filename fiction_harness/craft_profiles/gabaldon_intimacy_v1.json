@@ -1,0 +1,96 @@
+{
+  "profile_id": "gabaldon-intimacy-v1",
+  "schema_version": "1.0",
+  "source_note": {
+    "work": "Diana Gabaldon, I Give You My Body: How I Write Sex Scenes",
+    "use": "Transformative distillation of general craft principles from a user-supplied copy.",
+    "exclusions": [
+      "No source example passages are stored.",
+      "No instruction asks a model to imitate Gabaldon's voice.",
+      "The profile describes transferable scene craft only."
+    ]
+  },
+  "principles": [
+    "Treat erotic charge as an exchange of emotions expressed through dialogue, expression, and action; physical desire alone is not the scene's emotional content.",
+    "Make character the governing variable: this encounter could happen only between these people, at this relationship stage, under these pressures.",
+    "Use physical detail as evidence of feeling, power, uncertainty, recognition, or choice; never inventory bodies or narrate a procedure.",
+    "Choose at least three sensory channels, favoring touch, smell, taste, temperature, balance, or proprioception when they reveal more than sight and sound.",
+    "Let dialogue do double duty: literal exchange plus negotiation of trust, status, permission, restraint, humor, fear, or desire.",
+    "Build atmosphere from the setting's active pressure on bodies and choices; the room, weather, clothing, sounds, privacy, and witnesses participate in the encounter.",
+    "Control narrative distance. Move closer for the detail that changes meaning, farther away when reader imagination is stronger than explicit description.",
+    "Vary intimate encounters by emotional purpose, point of view, distance, atmosphere, and outcome rather than repeating one physical escalation template.",
+    "Let restraint generate anticipation and imaginative participation. A withheld act must increase tension, knowledge, or future possibility rather than merely stop the scene.",
+    "Make the encounter alter plot or relationship state: knowledge, trust, desire, leverage, vulnerability, obligation, or the next decision must change.",
+    "Keep logistics physically intelligible, but subordinate them to emotion and character.",
+    "Render sensation from the point-of-view character's particular body, history, attention, and attraction; avoid generic gendered reactions."
+  ],
+  "generation_contract": [
+    "Before drafting, identify the emotional transaction at the opening, the counter-emotion offered by the other character, and the changed emotional state at the end.",
+    "Give every intimate beat a dialogue, expression, or action payload and a consequence; remove any beat that exists only to announce heat.",
+    "Select a coherent sensory triad for the scene. Recur to one or two transformed sensory motifs instead of checking all five senses mechanically.",
+    "Interleave dialogue with body language and environmental pressure so neither talking heads nor silent body choreography takes over.",
+    "Use one or two precise physical details at each escalation point; spend prose on what those details mean to this point-of-view character.",
+    "End with a measurable relationship delta and an active forward question."
+  ],
+  "planning_contract": [
+    "State the emotional transaction as FROM state -> offered action -> counteraction -> TO state.",
+    "Name the scene's intimacy mode: consummated, non-consummated contact, non-sex sex scene, premarital tension, aftermath, or invisible/offstage intimacy.",
+    "Choose the point-of-view character's attraction filter: what this particular person notices and why.",
+    "Choose three sensory channels and one atmospheric pressure source.",
+    "Specify the dialogue-act sequence and the body-language counterpoint.",
+    "Specify where narrative distance closes, where it widens, and what is deliberately left to imagination.",
+    "Specify the relationship delta caused by contact or restraint."
+  ],
+  "editor_contract": [
+    "Preserve the scene's successful emotional transaction and character-specific attraction before polishing sentences.",
+    "Repair mechanics-only passages by adding emotional action or cutting unnecessary choreography, not by adding euphemisms.",
+    "Replace sensory checklists with fewer, more consequential details.",
+    "Turn static restraint into a choice with cost, recognition, and forward pressure.",
+    "Prefer a precise ordinary word or omission over ornate anatomical euphemism.",
+    "Do not intensify explicitness when atmosphere, dialogue, distance, or implication can intensify the scene."
+  ],
+  "judge_diagnostics": {
+    "emotional_transaction": "Can the judge name what feeling, need, or vulnerability each participant offers and receives, and is the end state different?",
+    "character_specific_desire": "Would these attractions, hesitations, jokes, and choices belong recognizably to these characters rather than any attractive pair?",
+    "dialogue_body_counterpoint": "Do spoken words and physical behavior complicate or deepen each other instead of duplicating the same information?",
+    "sensory_triage": "Do at least three selective channels create embodiment without reading like a five-sense checklist?",
+    "atmospheric_participation": "Does setting alter privacy, attention, risk, comfort, movement, or interpretation?",
+    "consequential_contact": "Does touch or proximity change knowledge, trust, desire, leverage, or choice?",
+    "productive_restraint": "Does the unperformed or interrupted act increase tension, perception, freedom, or future possibility?",
+    "distance_control": "Does the narration zoom in only on details that change meaning and trust reader imagination elsewhere?",
+    "physical_intelligibility": "Can the reader understand positions and actions without clinical choreography?",
+    "relationship_delta": "Can the judge state the before and after of the relationship in one precise sentence?"
+  },
+  "defect_taxonomy": {
+    "lust_as_emotion": "Arousal vocabulary substitutes for an exchange of specific emotions.",
+    "mechanics_without_emotion": "Physical actions are intelligible but reveal no character, relationship, or emotional movement.",
+    "clinical_inventory": "The prose catalogs body parts, positions, or sequential operations.",
+    "ornate_euphemism": "Decorative anatomical language draws attention away from character and sensation.",
+    "disembodied_dialogue": "Conversation carries the scene while bodies and setting exert no pressure.",
+    "silent_choreography": "Body mechanics dominate while characters cease negotiating through language or expression.",
+    "sensory_checklist": "Sensory channels appear as coverage rather than a coherent, meaningful selection.",
+    "atmospheric_vacuum": "The encounter could occur in any room because setting does no dramatic work.",
+    "static_contact": "Touch occurs but changes no knowledge, choice, trust, or relationship state.",
+    "generic_attraction": "The point-of-view character notices stock desirability rather than character-specific signals.",
+    "restraint_without_tension": "A boundary or interruption merely deflates the scene.",
+    "distance_monotony": "The scene remains uniformly close or uniformly remote instead of controlling emphasis.",
+    "unearned_lyricism": "Metaphor announces significance unsupported by action and relationship.",
+    "repeated_intimacy_template": "The scene repeats a familiar escalation architecture without a new emotional purpose.",
+    "logistics_failure": "Bodies, clothing, timing, or space become impossible or confusing.",
+    "emotion_without_consequence": "Feelings are named or vividly rendered but do not change action or relationship."
+  },
+  "s01_application": {
+    "intimacy_mode": "non-sex sex scene plus premarital tension",
+    "opening_transaction": "Mara offers alert curiosity while protecting judgment; Fulcrum offers enchantment mixed with pressure to surrender interpretation.",
+    "contact_transaction": "Livia offers invasive certainty through wrist contact; Mara answers with attraction, experimental control, and retained freedom.",
+    "romantic_counterpoint": "Jonah's costly refusal and accurate recognition make restraint more erotically consequential than display.",
+    "sensory_design": [
+      "touch or pressure at the wrist",
+      "sound through voice, breath, silence, and room response",
+      "one setting-specific channel such as cedar, heat, tea, food, fabric, or night air"
+    ],
+    "atmospheric_pressure": "The beautiful compound and watching social field make privacy, status, and interpretation unstable.",
+    "distance_plan": "Widen for institutional enchantment; close sharply on wrist contact and Jonah's recognition; omit any explicit consummation and let the forward question carry charge.",
+    "required_delta": "Mara ends more attracted and more epistemically free, with Livia's authority narrowed and Jonah newly legible as a romantic possibility."
+  }
+}

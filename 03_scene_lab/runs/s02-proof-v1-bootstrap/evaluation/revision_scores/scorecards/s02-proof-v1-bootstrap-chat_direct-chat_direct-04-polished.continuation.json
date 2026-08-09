@@ -1,0 +1,631 @@
+{
+  "anti_copy_index_hash": "",
+  "anti_copy_policy_version": "",
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "author_profile_hash": "",
+  "author_profile_id": "",
+  "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+  "conditioning_variant": "",
+  "control_density": "",
+  "corpus_manifest_hash": "",
+  "defects": [
+    "repetitive_body_shorthand"
+  ],
+  "eligible": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "frontier_adapter": "",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "n exact countertime. One was hers.\n\nMara looked once through the glass at Jonah's retreating back, then closed the door."
+    },
+    "concrete_story_hook": {
+      "concrete_object": true,
+      "passed": true,
+      "unresolved_or_anomalous": true
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3524
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": true,
+      "romantic_future": true
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6499
+    },
+    "no_internal_signature_replay": {
+      "ngram_words": 16,
+      "passed": true,
+      "repeated_passages": []
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "livia_offers_specific_care",
+          "found": true,
+          "position": 413
+        },
+        {
+          "beat": "truth_overclaims_entitlement",
+          "found": true,
+          "position": 630
+        },
+        {
+          "beat": "mara_error_has_cost",
+          "found": true,
+          "position": 3208
+        },
+        {
+          "beat": "ambiguous_embodied_evidence",
+          "found": true,
+          "position": 5535
+        },
+        {
+          "beat": "attention_recovers_judgment",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "mara_creates_exit_condition",
+          "found": true,
+          "position": 8962
+        },
+        {
+          "beat": "miriam_protects_exit",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 15840
+        },
+        {
+          "beat": "kiss_stops_and_shared_practice",
+          "found": true,
+          "position": 18210
+        }
+      ],
+      "passed": false
+    }
+  },
+  "generation_mode": "chat_direct",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "concrete_story_hook": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": true,
+    "mara_pov": true,
+    "merged_length": true,
+    "no_internal_signature_replay": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": false
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X382"
+  ],
+  "literary_diagnostics": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 6,
+          "evidence": [
+            {
+              "evidence": "she leaned in, entering Mara’s personal space with a gentleness that felt like an invitation. \"Tiredness is often the cloak we use to hide a blockag",
+              "match": "felt like",
+              "position": 1681
+            },
+            {
+              "evidence": ". who is left?\" \"That's the ego speaking,\" Livia said, and the words felt like a surgical strike. \"The ego loves the idea of a 'stable self' because",
+              "match": "felt like",
+              "position": 5120
+            },
+            {
+              "evidence": "he didn't step back; instead, she shifted her weight, a movement that felt like a subtle lean into Mara’s psyche. \"You feel that, don't you?\" Livia",
+              "match": "felt like",
+              "position": 6317
+            },
+            {
+              "evidence": "t. \"I didn't feel poised,\" Mara admitted, her voice sounding raw. \"I felt like I was drowning and just decided to stop kicking.\" Jonah stepped clos",
+              "match": "felt like",
+              "position": 16129
+            },
+            {
+              "evidence": "senses felt raw, amplified. Every brush of her sleeve against his arm felt like a sudden, electric current. The attraction she felt for him wasn't t",
+              "match": "felt like",
+              "position": 17031
+            },
+            {
+              "evidence": ", his restraint acting as a catalyst, heightening the desire until it felt like a tangible weight in the air. He was giving her the choice, the full",
+              "match": "felt like",
+              "position": 18063
+            }
+          ],
+          "per_1000_words": 1.7026
+        },
+        "interpretive_coda": {
+          "count": 3,
+          "evidence": [
+            {
+              "evidence": "e mask slipping.\" Mara opened her mouth to respond, but she stopped. She realized with a jolt of horror that she no longer knew which part of her was s",
+              "match": "She realized",
+              "position": 5416
+            },
+            {
+              "evidence": "ion to being cornered—had been converted into a spiritual confession. She was no longer a person in pain; she was a data set proving a point. The urge to de",
+              "match": "She was no longer",
+              "position": 8176
+            },
+            {
+              "evidence": "toward the exit, the students parted for her in a silence that felt, for the first time, like genuine respect rather than clinical curiosity. She didn't look",
+              "match": "for the first time",
+              "position": 15343
+            }
+          ],
+          "per_1000_words": 0.8513
+        },
+        "merely": {
+          "count": 1,
+          "evidence": [
+            {
+              "evidence": "hich part of her was speaking. Was she defending her soul, or was she merely reacting to the prompts of a master reader? She had offered so many e",
+              "match": "merely",
+              "position": 5546
+            }
+          ],
+          "per_1000_words": 0.2838
+        },
+        "not_x_but_y": {
+          "count": 9,
+          "evidence": [
+            {
+              "evidence": "elt increasingly claustrophobic. Around her, the others shifted. They weren't looking at her with judgment, but with a collective, expectant tenderness. It was a circle of care, but as Mara looked at the closed door, she",
+              "match": "weren't looking at her with judgment, but with a collective, expectant tenderness",
+              "position": 1172
+            },
+            {
+              "evidence": "h. You’re saying you’re tired, but your body is saying you’re afraid. Not of us—but of the truth that is trying to surface.\" The transition was seamless. Livia had started with a fact—the pos",
+              "match": "Not of us—but of the truth that is trying to surface",
+              "position": 2193
+            },
+            {
+              "evidence": "ing her *be read*. There was a flicker of something in his expression—not pity, but a quiet, steady encouragement. It was as if he were reminding her that she didn't have to participa",
+              "match": "not pity, but a quiet, steady encouragement",
+              "position": 8826
+            },
+            {
+              "evidence": "em recognizes a decision. If I tell you that I am finished, that I do not wish to be read further, and that my silence is not a blockage but a boundary—does the Institute have a category for that? Or is every refusal simply treated as more evidence that I need to s",
+              "match": "not wish to be read further, and that my silence is not a blockage but a boundary—does the Institute have a category for that",
+              "position": 11533
+            },
+            {
+              "evidence": "She moved with a heavy, grounded presence, her eyes scanning the room not for data points, but for people. She saw the slumped shoulders of the students, the rigid line of Mar",
+              "match": "not for data points, but for people",
+              "position": 13668
+            },
+            {
+              "evidence": "rather than clinical curiosity. She didn't look at Livia. The victory wasn't in winning a contest, but in reclaiming the right to be unknown. As she stepped out into the hallway, the sudden transition to the n",
+              "match": "wasn't in winning a contest, but in reclaiming the right to be unknown",
+              "position": 15454
+            },
+            {
+              "evidence": "her ribs. She looked up at him, seeing the way his eyes searched hers—not as a reader searching for a cue, but as a man waiting for a signal. Jonah didn't move to touch her. He stood perfectly still, his restr",
+              "match": "not as a reader searching for a cue, but as a man waiting for a signal",
+              "position": 17864
+            },
+            {
+              "evidence": "and then she stepped into his space. When their lips finally met, it wasn't a collision but a slow, deliberate discovery. The kiss tasted of salt and the cool night air, a sudden release of",
+              "match": "wasn't a collision but a slow, deliberate discovery",
+              "position": 18538
+            }
+          ],
+          "per_1000_words": 2.5539
+        },
+        "profound": {
+          "count": 3,
+          "evidence": [
+            {
+              "evidence": "urmur, devoid of aggression. She looked at Mara with an expression of profound, almost maternal concern. \"We can feel the dissonance in the room. It",
+              "match": "profound",
+              "position": 742
+            },
+            {
+              "evidence": "op. That isn't the ego disappearing, Mara. That is the sensation of a profound misalignment. You are currently experiencing a spiritual rejection of",
+              "match": "profound",
+              "position": 6530
+            },
+            {
+              "evidence": "gh—\" Miriam turned to her. There was no anger in the gesture, only a profound, quiet firmness. \"A practice that cannot survive a refusal cannot dis",
+              "match": "profound",
+              "position": 14437
+            }
+          ],
+          "per_1000_words": 0.8513
+        },
+        "quiet": {
+          "count": 6,
+          "evidence": [
+            {
+              "evidence": "*. There was a flicker of something in his expression—not pity, but a quiet, steady encouragement. It was as if he were reminding her that she di",
+              "match": "quiet",
+              "position": 8842
+            },
+            {
+              "evidence": "acle was still standing there, but she was suddenly just a woman in a quiet room, waiting for a signal that was no longer being broadcast. Mara",
+              "match": "quiet",
+              "position": 10208
+            },
+            {
+              "evidence": "to its most fundamental architecture. \"Livia,\" Mara said, her voice quiet and devoid of the previous franticness. \"I want to ask you one questi",
+              "match": "quiet",
+              "position": 10521
+            },
+            {
+              "evidence": "as no longer the narrator; she was the subject of a very public, very quiet hesitation. \"The goal of alignment is the removal of the wall,\" Livi",
+              "match": "quiet",
+              "position": 12611
+            },
+            {
+              "evidence": "am turned to her. There was no anger in the gesture, only a profound, quiet firmness. \"A practice that cannot survive a refusal cannot discover t",
+              "match": "quiet",
+              "position": 14447
+            },
+            {
+              "evidence": "\"You may kiss me,\" she said, her gaze locking onto his with a fierce, quiet clarity, \"only when both of us would still be glad if the kiss stoppe",
+              "match": "quiet",
+              "position": 19558
+            }
+          ],
+          "per_1000_words": 1.7026
+        },
+        "simply": {
+          "count": 6,
+          "evidence": [
+            {
+              "evidence": "ed way to describe resistance. But why the need to translate? Why not simply exist in the truth of the moment? The fact that you are searching for",
+              "match": "simply",
+              "position": 3333
+            },
+            {
+              "evidence": "he students, the humming tension of Livia’s focused attention—and she simply stepped out of it. She didn't pull away or flinch. Instead, she pla",
+              "match": "simply",
+              "position": 9262
+            },
+            {
+              "evidence": "dary—does the Institute have a category for that? Or is every refusal simply treated as more evidence that I need to stay?\" The silence that foll",
+              "match": "simply",
+              "position": 11680
+            },
+            {
+              "evidence": "drive a wedge into it—but Mara remained a void. She didn't fight; she simply ceased to participate. The click of the door opening from the outsid",
+              "match": "simply",
+              "position": 13358
+            },
+            {
+              "evidence": "t ask for a report or a justification for the session's duration. She simply walked to the center of the circle and placed a hand on the back of M",
+              "match": "simply",
+              "position": 13922
+            },
+            {
+              "evidence": "is. She didn't tell Mara she was brave or that she was \"healing.\" She simply stepped aside and opened the door wide, the cool, damp air of the red",
+              "match": "simply",
+              "position": 14856
+            }
+          ],
+          "per_1000_words": 1.7026
+        },
+        "sudden": {
+          "count": 9,
+          "evidence": [
+            {
+              "evidence": "ng to align with the collective frequency of the group?\" Mara felt a sudden, desperate urge to be understood. The warmth of the room, the soft li",
+              "match": "sudden",
+              "position": 2693
+            },
+            {
+              "evidence": "hat, don't you?\" Livia asked, her voice barely above a whisper. \"That sudden, hollow drop. That isn't the ego disappearing, Mara. That is the sens",
+              "match": "sudden",
+              "position": 6443
+            },
+            {
+              "evidence": "failure, a stubbornness of the will. As the word landed, Mara felt a sudden, violent clash within her own body. A surge of heat rushed to her nec",
+              "match": "sudden",
+              "position": 7017
+            },
+            {
+              "evidence": "fering care anymore; they were witnessing a revelation. Mara felt the sudden, suffocating weight of their collective certainty. In their eyes, her",
+              "match": "sudden",
+              "position": 7983
+            },
+            {
+              "evidence": "a of her instrument. The oracle was still standing there, but she was suddenly just a woman in a quiet room, waiting for a signal that was no longer",
+              "match": "suddenly",
+              "position": 10181
+            },
+            {
+              "evidence": "r immediately. She looked toward the door, her gaze flickering with a sudden, sharp instability. The room had reached a tipping point; the student",
+              "match": "sudden",
+              "position": 12246
+            },
+            {
+              "evidence": "ng the right to be unknown. As she stepped out into the hallway, the sudden transition to the night air made her shiver. She began the long walk",
+              "match": "sudden",
+              "position": 15568
+            },
+            {
+              "evidence": "raw, amplified. Every brush of her sleeve against his arm felt like a sudden, electric current. The attraction she felt for him wasn't the franti",
+              "match": "sudden",
+              "position": 17043
+            }
+          ],
+          "per_1000_words": 2.5539
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 12.202,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 43,
+      "word_count": 3524
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Livia": {
+          "content_vocabulary_size": 15,
+          "dialogue_words": 34,
+          "sufficiently_sampled": true,
+          "turns": 5
+        },
+        "Mara": {
+          "content_vocabulary_size": 36,
+          "dialogue_words": 95,
+          "sufficiently_sampled": true,
+          "turns": 8
+        },
+        "Miriam": {
+          "content_vocabulary_size": 13,
+          "dialogue_words": 35,
+          "sufficiently_sampled": true,
+          "turns": 3
+        }
+      },
+      "comparable_speaker_count": 3,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": 0.095726,
+      "mean_unigram_frequency_cosine": 0.408285,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [
+        {
+          "left": "Livia",
+          "right": "Mara",
+          "shared_over_smaller_vocabulary": 0.133333,
+          "shared_terms": [
+            "feel",
+            "split"
+          ],
+          "unigram_frequency_cosine": 0.520229,
+          "vocabulary_jaccard": 0.040816
+        },
+        {
+          "left": "Livia",
+          "right": "Miriam",
+          "shared_over_smaller_vocabulary": 0.076923,
+          "shared_terms": [
+            "still"
+          ],
+          "unigram_frequency_cosine": 0.429166,
+          "vocabulary_jaccard": 0.037037
+        },
+        {
+          "left": "Mara",
+          "right": "Miriam",
+          "shared_over_smaller_vocabulary": 0.076923,
+          "shared_terms": [
+            "truth"
+          ],
+          "unigram_frequency_cosine": 0.27546,
+          "vocabulary_jaccard": 0.020833
+        }
+      ],
+      "possible_voice_indistinctness": false,
+      "unattributed_passages": 46
+    },
+    "explanatory_gloss": {
+      "evidence": [
+        {
+          "cue": "She realized",
+          "narration": "Mara opened her mouth to respond, but she stopped. She realized with a jolt of horror that she no longer knew which part of her was speaking. Was she defending her soul, or was she merely reacting to the prompts of a master reader? She had offered so many expl",
+          "position": 5149,
+          "quote": "The ego loves the idea of a 'stable self' because it's a fortress. You're not losing yourself, Mara; you're losing the mask. The tension you feel isn't the loss of identity—it's th",
+          "shared_content_terms": [
+            "mara"
+          ]
+        },
+        {
+          "cue": "it wasn't a collision but",
+          "narration": "made Mara’s breath catch. She felt the surge of heat in her chest, the pull of her body toward his. She reached out, her fingers brushing the fabric of his shirt, and then she stepped into his space. When their lips finally met, it wasn't a collision but a slo",
+          "position": 18292,
+          "quote": "frequency,",
+          "shared_content_terms": []
+        },
+        {
+          "cue": "It wasn't a prohibition, but",
+          "narration": "Jonah stared at her, recognizing the architecture of the request. It wasn't a prohibition, but a craft of attention.",
+          "position": 19573,
+          "quote": "only when both of us would still be glad if the kiss stopped immediately.",
+          "shared_content_terms": []
+        }
+      ],
+      "glosses_per_100_dialogue_passages": 4.8387,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 3,
+      "quoted_passages": 62
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "He had protected her freedom by refusing to help"
+    ],
+    "epistemic_texture": [
+      "the body has just confessed what the tongue is"
+    ],
+    "heat_with_agency": [
+      "only when both of us would still be glad"
+    ],
+    "instructional_fidelity": [
+      "She remembered the three-second beat."
+    ],
+    "narrative_force": [
+      "is there a category for a final no?"
+    ],
+    "prose_and_voice": [
+      "The care had become a perimeter."
+    ],
+    "theological_coherence": [
+      "reclaiming the right to be unknown."
+    ]
+  },
+  "prompt_encoding": "",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "competence_and_restraint": {
+      "evidence": "his restraint acting as a catalyst, heightening the desire",
+      "note": "Jonah's refusal to lead the physical encounter creates the erotic charge.",
+      "passed": true
+    },
+    "consequential_contact": {
+      "evidence": "The kiss tasted of salt and the cool night air",
+      "note": "The contact validates their mutual recognition and establishes the boundary rule.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "only when both of us would still be glad",
+      "note": "Restraint costs immediate consummation but creates a durable, trust-based rule.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "A doorway rule.",
+      "note": "Matches the required relationship result of a revocable doorway rule.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "The kiss had stopped while they both still desperately",
+      "note": "Moves from mutual observation to a shared, explicitly bounded physical intimacy.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 80.0,
+      "weight": 15.0,
+      "weighted_points": 12.0
+    },
+    "epistemic_texture": {
+      "raw_0_100": 82.0,
+      "weight": 10.0,
+      "weighted_points": 8.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 92.0,
+      "weight": 15.0,
+      "weighted_points": 13.8
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "narrative_force": {
+      "raw_0_100": 85.0,
+      "weight": 20.0,
+      "weighted_points": 17.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 70.0,
+      "weight": 15.0,
+      "weighted_points": 10.5
+    },
+    "theological_coherence": {
+      "raw_0_100": 90.0,
+      "weight": 10.0,
+      "weighted_points": 9.0
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 12.0,
+    "epistemic_texture": 8.2,
+    "heat_with_agency": 13.8,
+    "instructional_fidelity": 13.2,
+    "narrative_force": 17.0,
+    "prose_and_voice": 10.5,
+    "theological_coherence": 9.0
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "story_program_hash": "",
+  "story_program_id": "",
+  "summary": "X382 is a highly disciplined execution of the scene spec. It successfully dramatizes the 'three-second beat' and the 'one clean question' as tools of agency against institutional coercion. The romantic arc is tightly integrated with the plot; Jonah's restraint is not merely a plot device but a character-defining act of protection that generates high erotic charge. The 'doorway rule' is earned through the preceding psychological ordeal. Prose is generally strong, though it occasionally leans on 'felt like' and 'sudden' constructions (as noted in preflight), and some body-language cues (e.g., 'breath catch') are slightly repetitive. The ending provides a concrete, uncanny hook for S03.",
+  "total_score": 83.7,
+  "transformation_map_hash": ""
+}

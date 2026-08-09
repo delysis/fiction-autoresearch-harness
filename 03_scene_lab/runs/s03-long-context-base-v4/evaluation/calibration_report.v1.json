@@ -1,0 +1,124 @@
+{
+  "attempt_count": 2,
+  "attempt_status_counts": {
+    "cancelled_by_user": 1,
+    "rejected_generation_shape": 1
+  },
+  "attempts": [
+    {
+      "arm_id": "lc64-guide-early",
+      "attempt_index": 1,
+      "call_id": "long-context:lc64-guide-early.seed-83101",
+      "defects": [],
+      "finish_reason": null,
+      "seed": 83101,
+      "source_match": null,
+      "status": "cancelled_by_user",
+      "word_count": 0
+    },
+    {
+      "arm_id": "lc24-distilled",
+      "attempt_index": 1,
+      "call_id": "long-context:lc24-distilled.seed-83117",
+      "defects": [
+        "under_minimum_words:1"
+      ],
+      "finish_reason": "stop",
+      "seed": 83117,
+      "source_match": null,
+      "status": "rejected_generation_shape",
+      "word_count": 1
+    }
+  ],
+  "candidate_count": 0,
+  "candidates": [],
+  "diversity": {
+    "candidate_count": 0,
+    "corpus": {
+      "mean_opening_similarity": 0.0,
+      "mean_self_bleu_proxy": 0.0,
+      "unique_dialogue_acts": 0,
+      "unique_event_sequences": 0,
+      "unique_strategies": 0
+    },
+    "literary_style_diagnostics": {
+      "cadence_families": {
+        "felt_like": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "interpretive_coda": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "merely": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "not_x_but_y": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "profound": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "quiet": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "simply": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "sudden": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        }
+      },
+      "candidate_count": 0,
+      "heuristic": true,
+      "interpretation": "Batch-level surface convergence diagnostic. Shared cadence can be intentional house style; the flag is a prompt for comparative reading.",
+      "per_candidate": {},
+      "text_scope": "continuation_text_when_available_otherwise_text"
+    },
+    "pair_count": 0,
+    "pairs": [],
+    "per_candidate": {},
+    "text_scope": "continuation_text_when_available_otherwise_text"
+  },
+  "record_type": "LongContextCalibrationReport",
+  "version": "long-context.base31.v4"
+}

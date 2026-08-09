@@ -1,0 +1,39 @@
+{
+  "record_type": "DeclaredLiterarySourceSet",
+  "version": "literary-apprenticeship.v1",
+  "corpus_id": "public-domain-thought-reading-and-choice.v1",
+  "works": [
+    {
+      "work_id": "allen.linnet",
+      "title": "Linnet: A Romance",
+      "author": "Grant Allen",
+      "publication_year": 1900,
+      "partition": "profiling",
+      "source_url": "https://www.gutenberg.org/ebooks/48296.txt.utf-8",
+      "source_note": "Project Gutenberg ebook 48296.",
+      "facets": [
+        "adult",
+        "romance",
+        "thought-reading",
+        "controlled-test",
+        "epistemic-ambiguity"
+      ]
+    },
+    {
+      "work_id": "lyall.wayfaring-men",
+      "title": "Wayfaring Men",
+      "author": "Edna Lyall",
+      "publication_year": 1897,
+      "partition": "profiling",
+      "source_url": "https://www.gutenberg.org/ebooks/54100.txt.utf-8",
+      "source_note": "Project Gutenberg ebook 54100.",
+      "facets": [
+        "adult",
+        "romance",
+        "thought-reading",
+        "consent-and-refusal",
+        "social-pressure"
+      ]
+    }
+  ]
+}

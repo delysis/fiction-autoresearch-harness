@@ -1,0 +1,31 @@
+{
+  "artifact_id": "runway.staged-dwell-apprenticeship.fulcrum-s01.1335019",
+  "manuscript_hash": "4eebdb2fb1a392425bdbf34bba0883f9044774fb6f86a32197fadcae63b562ea",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.staged-dwell-apprenticeship.fulcrum-s01.1335019",
+      "raw_char_end": 444,
+      "raw_char_start": 0,
+      "raw_hash": "37ec2d26da05385e11b6050fd2ba50237aef12adee38d005117199f80c5626c0",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v54-s01-dwell-apprenticeship/runways/raw/sparks/spark.staged-dwell-apprenticeship.fulcrum-s01.1335019.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-dwell-apprenticeship.fulcrum-s01.1335019",
+      "text_hash": "c7c45a30cd10af38f09623f928fc9e5b04b04320a318136bf783cbbc7233a06e"
+    },
+    {
+      "call_id": "runway.staged-dwell-apprenticeship.fulcrum-s01.1335019",
+      "raw_char_end": 1604,
+      "raw_char_start": 0,
+      "raw_hash": "e899d62234e65828ab62305ff1ab27d87db969dac3a40f1ca7de08f658c85fbd",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v54-s01-dwell-apprenticeship/runways/raw/staged/runway.staged-dwell-apprenticeship.fulcrum-s01.1335019.txt",
+      "role": "opening-runway-continuation",
+      "span_id": "runway.staged-dwell-apprenticeship.fulcrum-s01.1335019.continuation",
+      "text_hash": "e899d62234e65828ab62305ff1ab27d87db969dac3a40f1ca7de08f658c85fbd"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

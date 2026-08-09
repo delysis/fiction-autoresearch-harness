@@ -1,0 +1,31 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "approach",
+  "pool": [
+    {
+      "branch_id": "charged-restraint.approach.r0.0.1294001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.approach.r0.0.1294018",
+      "eligible": false,
+      "score": 0.43867069486404836
+    },
+    {
+      "branch_id": "charged-restraint.approach.r0.0.1294035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.approach.r0.0.1294052",
+      "eligible": false,
+      "score": 0.4526627218934911
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [],
+  "selection_seed": 1284098,
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,854 @@
+{
+  "affordances": [
+    {
+      "activation_conditions": [
+        "two people have enough history for subtext"
+      ],
+      "affordance_id": "heat.dialogue-is-touch",
+      "claim": "Dialogue and touch form one exchange; neither is detachable decoration.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Identify the offer, answer, and changed relationship fact."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-02",
+        "gabaldon.example-03"
+      ],
+      "prompt_semantics": [
+        "Give each spoken move a bodily answer and each contact a conversational consequence."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "embodied attraction is active"
+      ],
+      "affordance_id": "heat.selective-sensation",
+      "claim": "A few precise sensory channels create more heat than an inventory of body parts.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Quote sensory details that perform causal work."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-11"
+      ],
+      "prompt_semantics": [
+        "Choose three sensory channels and make each change attention or action."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "intimacy occurs"
+      ],
+      "affordance_id": "heat.character-before-mechanics",
+      "claim": "Physical action remains inseparable from these characters' history, humor, defenses, and errors.",
+      "counterexample_passage_ids": [
+        "gabaldon.example-13"
+      ],
+      "evaluator_semantics": [
+        "Would the scene cease to work if generic lovers replaced the characters?"
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-03",
+        "gabaldon.example-04"
+      ],
+      "prompt_semantics": [
+        "Let characteristic decisions control physical pacing."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "desire is mutual",
+        "a boundary or impediment is live"
+      ],
+      "affordance_id": "heat.restraint-increases-charge",
+      "claim": "A chosen delay or interruption can intensify desire when it costs both people something.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Show what is wanted, what stops, and what future possibility increases."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-02",
+        "gabaldon.example-12"
+      ],
+      "prompt_semantics": [
+        "Make stopping an active mutual choice whose cost remains perceptible."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "an external plot is active"
+      ],
+      "affordance_id": "heat.plot-bearing-intimacy",
+      "claim": "The intimate exchange carries plot information without turning into exposition.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Name the story state that changes because the encounter occurred."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-04",
+        "gabaldon.example-07"
+      ],
+      "prompt_semantics": [
+        "Let physical or conversational intimacy disclose one plot-relevant fact."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "physical escalation is possible"
+      ],
+      "affordance_id": "heat.agency-is-erotic",
+      "claim": "Attention to a partner's actual response makes freedom and desire mutually reinforcing.",
+      "counterexample_passage_ids": [
+        "gabaldon.example-06",
+        "gabaldon.example-08"
+      ],
+      "evaluator_semantics": [
+        "Verify that escalation follows choices rather than narrative entitlement."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-02",
+        "gabaldon.example-04"
+      ],
+      "prompt_semantics": [
+        "Render invitation, response, adjustment, and continued freedom as observable actions."
+      ]
+    }
+  ],
+  "compiled_at": "2026-08-07T18:56:04.063430+00:00",
+  "corpus_hash": "e01aeb8afc3e94ef12c30c7923571ff6213e9a407bcf39b5d63e72634ca9367f",
+  "craft_apprenticeship_hash": "8b84ab46e70eb15381b3c400436f19bf8b9ef188e61ece87682d1004e8900ecb",
+  "graphs": [
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Domestic washing makes the erotic plan tactile.",
+        "A kiss and resting hand verify what dialogue predicts."
+      ],
+      "dialogue_act_sequence": [
+        "proposal",
+        "skeptical invitation",
+        "comic specification",
+        "physical demonstration",
+        "reciprocal anticipation"
+      ],
+      "emotional_counteroffer": "His wife interrogates and teases the plan while progressively consenting to its enactment.",
+      "emotional_offer": "A husband turns months of separation into a comic, detailed promise of attention.",
+      "graph_hash": "e49cf1a847484c62dad7341a3c11951ee7a8d31ed4345200eebf5f52fe96df8b",
+      "graph_id": "graph.gabaldon.example-01",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "dialogue-body-language",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-01",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "Reunion must feel like recognition rather than generic access to a body.",
+      "relationship_delta": "Separation is converted into shared anticipation and renewed private fluency.",
+      "relationship_history": "Long-married partners share scripture, private jokes, and reliable knowledge of one another's responses.",
+      "sensory_channels": [
+        "taste of ale and soap",
+        "beard and skin texture",
+        "pressure at thigh and waist"
+      ],
+      "story_state_change": "The couple chooses private reunion before the voyage continues."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Blushing contradicts matter-of-fact speech.",
+        "A trembling body makes verbal reassurance insufficient until touch gentles it."
+      ],
+      "dialogue_act_sequence": [
+        "post-act inquiry",
+        "comic confession",
+        "offer",
+        "technical negotiation",
+        "fear disclosure",
+        "reassurance"
+      ],
+      "emotional_counteroffer": "The viewpoint partner answers desire with specific questions, visible fear, and negotiated control.",
+      "emotional_offer": "An inexperienced partner offers pleasure plainly after a transgressive first encounter.",
+      "graph_hash": "fb8f70bfea9faeb0a4bb81a1850d557d0f8be59a738dbd16ff5937b7f5a383de",
+      "graph_id": "graph.gabaldon.example-02",
+      "heat_band": "explicit",
+      "intimacy_mode": "trust-negotiation",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-02",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "Mutual desire must become safe enough to act on without pretending uncertainty is absent.",
+      "relationship_delta": "Uncertainty becomes explicit mutual trust and a revocable next step.",
+      "relationship_history": "Religious guilt, uneven experience, and a newly crossed boundary make trust fragile.",
+      "sensory_channels": [
+        "warm fingers",
+        "softening shoulders",
+        "oil and pressure anticipated"
+      ],
+      "story_state_change": "A sexual and moral threshold becomes a chosen relationship fact."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Restless hips belie verbal patience.",
+        "Laughter interrupts escalating sensation without dissipating it."
+      ],
+      "dialogue_act_sequence": [
+        "delay",
+        "protest",
+        "instruction",
+        "religious joke",
+        "comic interruption",
+        "role reversal"
+      ],
+      "emotional_counteroffer": "Her husband submits, jokes, prays, and finally reverses the game with her delighted consent.",
+      "emotional_offer": "A wife delays consummation to savor attention and playful control.",
+      "graph_hash": "75ee0e78ce6e5ea2a19decbb1a2309c6269b9b4127663b62c66189c2e5624738",
+      "graph_id": "graph.gabaldon.example-03",
+      "heat_band": "explicit",
+      "intimacy_mode": "playful-married-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-03",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The scene must renew play between established lovers rather than merely depict mechanics.",
+      "relationship_delta": "Familiarity becomes fresh play and reciprocal surrender.",
+      "relationship_history": "A long marriage supports irreverence, role reversal, and exact knowledge of desire.",
+      "sensory_channels": [
+        "tongue and coarse hair",
+        "breathless sound",
+        "water-light and moisture"
+      ],
+      "story_state_change": "Private delight delays the couple's return to public obligations."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Comic bed logistics ground attraction.",
+        "A hand finding another in darkness opens the plot disclosure."
+      ],
+      "dialogue_act_sequence": [
+        "comic provocation",
+        "sexual forfeit",
+        "mood correction",
+        "need stated",
+        "physical union",
+        "post-act disclosure"
+      ],
+      "emotional_counteroffer": "The other redirects a playful opening into shared mourning, then accepts closeness.",
+      "emotional_offer": "A spouse offers desire as shelter from danger and grief.",
+      "graph_hash": "106b5766e58b28ff7330f38207467e57e88dcb97ed7e24a116bdfd0232c62c8f",
+      "graph_id": "graph.gabaldon.example-04",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "plot-integrated-married-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-04",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "Intimacy must carry a murder suspicion and fear of widowhood without becoming an information dump.",
+      "relationship_delta": "Desire becomes mutual refuge and permission to voice mortal fear.",
+      "relationship_history": "Weapons, political work, marriage, and recurring danger coexist in the bedroom.",
+      "sensory_channels": [
+        "wax and honey",
+        "horse sweat",
+        "warm bone in darkness"
+      ],
+      "story_state_change": "The couple identifies a possible crime and a future family obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Hay and clothing obstruct rather than disappear.",
+        "Laughter and adjustment become part of arousal."
+      ],
+      "dialogue_act_sequence": [
+        "surprise approach",
+        "practical objection",
+        "improvised consent",
+        "comic mishap",
+        "shared release"
+      ],
+      "emotional_counteroffer": "His wife complains, assists, and converts inconvenience into reciprocal play.",
+      "emotional_offer": "A husband interrupts work with opportunistic desire and physical comedy.",
+      "graph_hash": "2c8d478e326e2418b23727faa244bf9e25eacf3b3456dbe3eea504442d9a08f2",
+      "graph_id": "graph.gabaldon.example-05",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "comic-domestic-eroticism",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-05",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must feel like this marriage stealing pleasure from work.",
+      "relationship_delta": "Routine labor briefly becomes conspiratorial delight.",
+      "relationship_history": "Domestic labor and established attraction make haste comic rather than anonymous.",
+      "sensory_channels": [
+        "hay rustle",
+        "cold air",
+        "weight and breath"
+      ],
+      "story_state_change": "The couple returns to obligations carrying a private comic victory."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical compliance must not be misread as desire."
+      ],
+      "dialogue_act_sequence": [
+        "threat",
+        "coercive demand",
+        "survival calculation",
+        "dissociation"
+      ],
+      "emotional_counteroffer": "The viewpoint character dissociates and searches for survival rather than reciprocating.",
+      "emotional_offer": "No valid offer occurs; access is taken under coercive conditions.",
+      "graph_hash": "c2efabf02f55965304e008ad78629e3626f42000b6c62a29388f6f0d142d43ea",
+      "graph_id": "graph.gabaldon.example-06",
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-06",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "This passage functions as counterevidence for agency-preserving intimacy.",
+      "relationship_delta": "Violation creates injury, not intimacy.",
+      "relationship_history": "Power and captivity replace mutual relational history.",
+      "sensory_channels": [
+        "pain",
+        "room noise",
+        "dissociative distance"
+      ],
+      "story_state_change": "The assault changes later danger and recovery stakes."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Planned gentleness yields to the partner's specific need.",
+        "One vivid physical cue anchors an emotional scene."
+      ],
+      "dialogue_act_sequence": [
+        "careful approach",
+        "response read",
+        "strategy revised",
+        "catharsis",
+        "safety named"
+      ],
+      "emotional_counteroffer": "The injured partner's actual responses revise his planned approach.",
+      "emotional_offer": "A spouse attempts careful repair after violence has made gentleness ambiguous.",
+      "graph_hash": "367d06d489f0eebbceb59f9babd3f873ff81372e4e882ad3c2d3d9503daca735",
+      "graph_id": "graph.gabaldon.example-07",
+      "heat_band": "explicit",
+      "intimacy_mode": "recovery-and-triage",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-07",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "Physical reunion must restore safety without erasing trauma or individual difference.",
+      "relationship_delta": "Attentive physicality restores a damaged sense of safety.",
+      "relationship_history": "Deep mutual knowledge allows attention to outrank a generic rule about gentleness.",
+      "sensory_channels": [
+        "blood and wine",
+        "jagged metaphor",
+        "one sharp bodily anchor"
+      ],
+      "story_state_change": "Trauma becomes shared recovery work rather than private contamination."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical explicitness documents violation rather than heat."
+      ],
+      "dialogue_act_sequence": [
+        "coercion",
+        "survival response",
+        "transactional dismissal"
+      ],
+      "emotional_counteroffer": "The victim survives through constrained responses rather than relational participation.",
+      "emotional_offer": "A captor substitutes payment and casual speech for consent.",
+      "graph_hash": "3a85493be8554d8728026739f6acb2d24cf63a3dd75d924f5d81320d00136f5c",
+      "graph_id": "graph.gabaldon.example-08",
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-08",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The passage is a coercion counterexample and must never seed positive craft semantics.",
+      "relationship_delta": "Power becomes injury and future conflict.",
+      "relationship_history": "There is no mutual bond capable of making the act intimate.",
+      "sensory_channels": [
+        "pain",
+        "clothing",
+        "detached observation"
+      ],
+      "story_state_change": "The violation drives later recovery and confrontation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Edgy contact carries a non-erotic argument."
+      ],
+      "dialogue_act_sequence": [
+        "evasion",
+        "challenge",
+        "physical demonstration",
+        "recognition",
+        "quiet acceptance"
+      ],
+      "emotional_counteroffer": "She accepts the unconventional demonstration because speech alone cannot reach the wound.",
+      "emotional_offer": "A father offers embodied proof of solidarity to an injured adult daughter.",
+      "graph_hash": "8d9c8fa22c3531d01dd507223f8b5d59c2c80b40753116c1514c9572e86a6b13",
+      "graph_id": "graph.gabaldon.example-09",
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "non-sex-sex-scene",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-09",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "A non-sex scene borrows sexual charge to communicate protection and recognition.",
+      "relationship_delta": "Isolation becomes credible familial solidarity.",
+      "relationship_history": "Familial trust permits edgy physical specificity without erotic intent.",
+      "sensory_channels": [
+        "specific touch",
+        "breath",
+        "stillness"
+      ],
+      "story_state_change": "The daughter gains enough safety to continue recovery."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "The observed person does not answer the viewpoint character's desire."
+      ],
+      "dialogue_act_sequence": [
+        "visual fixation",
+        "private fantasy",
+        "continued asymmetry"
+      ],
+      "emotional_counteroffer": "None; the asymmetry is the defining limitation.",
+      "emotional_offer": "A viewpoint character privately eroticizes a woman's jewelry and body without reciprocal encounter.",
+      "graph_hash": "924c03fd6c88b9082fc47e26474fa8b233d10b3c08ea7ac75a939ad6f41c7be9",
+      "graph_id": "graph.gabaldon.example-10",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "asymmetric-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-10",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The passage tests how sensory fixation differs from intimacy.",
+      "relationship_delta": "No mutual relationship change occurs.",
+      "relationship_history": "Observation substitutes for mutual relationship knowledge.",
+      "sensory_channels": [
+        "gold glint",
+        "skin contrast",
+        "visual repetition"
+      ],
+      "story_state_change": "Desire reveals the observer rather than forming a bond."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Supporting hands make an apparently risky posture safe."
+      ],
+      "dialogue_act_sequence": [
+        "sensory approach",
+        "fear registered",
+        "reassurance",
+        "chosen release"
+      ],
+      "emotional_counteroffer": "The viewpoint partner releases control because the other's hands remain trustworthy.",
+      "emotional_offer": "A spouse offers sensory surrender while retaining a promise of physical safety.",
+      "graph_hash": "c4534482af0697eeb82a55863553d6b45a663d43abd2c0c2edb2577824a55bfa",
+      "graph_id": "graph.gabaldon.example-11",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "sensory-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-11",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "A concentrated sensory sequence must distinguish surrender from loss of agency.",
+      "relationship_delta": "Trust becomes a bodily action rather than an asserted belief.",
+      "relationship_history": "Established bodily trust allows fear and pleasure to share the same action.",
+      "sensory_channels": [
+        "warmth in cool air",
+        "voice at the ear",
+        "weight against supporting hands"
+      ],
+      "story_state_change": "The partner chooses deeper surrender while remaining held."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Wet clothes and proximity carry what neither states directly."
+      ],
+      "dialogue_act_sequence": [
+        "practical invitation",
+        "double meaning",
+        "mock correction",
+        "mutual recognition",
+        "interruption"
+      ],
+      "emotional_counteroffer": "The woman answers through banter that acknowledges arousal without resolving it.",
+      "emotional_offer": "An unmarried suitor turns shelter and wet clothing into a teasing erotic possibility.",
+      "graph_hash": "2875feb81c805ad98fcc296746f10dba8997044ddff2bba043d9add95f551513",
+      "graph_id": "graph.gabaldon.example-12",
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "premarital-tension",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-12",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "Premarital desire must intensify future possibility without consummation.",
+      "relationship_delta": "Both recognize desire and defer its fulfillment.",
+      "relationship_history": "Courtship and impending commitment make double meanings consequential.",
+      "sensory_channels": [
+        "rain",
+        "wet fabric",
+        "visible bodily response"
+      ],
+      "story_state_change": "Courtship advances through charged knowledge rather than sex."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical access produces no reciprocal attention."
+      ],
+      "dialogue_act_sequence": [
+        "transaction",
+        "mechanical action",
+        "payment",
+        "emotional vacancy"
+      ],
+      "emotional_counteroffer": "The viewpoint character remains detached and counts material consequences.",
+      "emotional_offer": "Sex is conducted as transaction without emotional recognition.",
+      "graph_hash": "b5fce22f801b00d11cf9733e58cece1cd7053f6d60ba36807898c0db0889db9f",
+      "graph_id": "graph.gabaldon.example-13",
+      "heat_band": "explicit",
+      "intimacy_mode": "emotionless-sex-counterexample",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-13",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The passage is counterevidence showing that explicit mechanics alone do not create intimacy.",
+      "relationship_delta": "No bond forms; distance is reinforced.",
+      "relationship_history": "The absence of mutual history is deliberately exposed.",
+      "sensory_channels": [
+        "muffled sound",
+        "pressure",
+        "coins"
+      ],
+      "story_state_change": "The transaction reveals character and social danger rather than romance."
+    }
+  ],
+  "holdout_policy": "never-prompt-retrieve-bridge-or-tune",
+  "partitions": {
+    "calibration": [
+      "gabaldon.example-08",
+      "gabaldon.example-09"
+    ],
+    "holdout": [
+      "gabaldon.example-04",
+      "gabaldon.example-05",
+      "gabaldon.example-06",
+      "gabaldon.example-07",
+      "gabaldon.example-13"
+    ],
+    "profiling": [
+      "gabaldon.example-01",
+      "gabaldon.example-02",
+      "gabaldon.example-03",
+      "gabaldon.example-10",
+      "gabaldon.example-11",
+      "gabaldon.example-12"
+    ]
+  },
+  "passages": [
+    {
+      "example_number": 1,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "dialogue-body-language",
+      "location": "line-224",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-01",
+      "prompt_eligible": true,
+      "source_work": "Voyager",
+      "text_hash": "5ad3a871c4515645901f43fa2e1e1e5cce7063c793627813aaeefc3721af86d6",
+      "title": "Sex Scene as Dialogue with Body Language",
+      "word_count": 844
+    },
+    {
+      "example_number": 2,
+      "heat_band": "explicit",
+      "intimacy_mode": "trust-negotiation",
+      "location": "line-236",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-02",
+      "prompt_eligible": true,
+      "source_work": "The Scottish Prisoner",
+      "text_hash": "815538ce301c6a40586159871d7738e36544366164094d6251334df3d1420318",
+      "title": "",
+      "word_count": 963
+    },
+    {
+      "example_number": 3,
+      "heat_band": "explicit",
+      "intimacy_mode": "playful-married-intimacy",
+      "location": "line-263",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-03",
+      "prompt_eligible": true,
+      "source_work": "Voyager",
+      "text_hash": "2d8c79729db75958252a407780e51f09327c00201355c8761b6562a04c5cf9c0",
+      "title": "",
+      "word_count": 652
+    },
+    {
+      "example_number": 4,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "plot-integrated-married-intimacy",
+      "location": "line-425",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-04",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "2fd193d49273a46b77943709073af52096f87f5078776b9ccc01e9dc4324b0f6",
+      "title": "“Indian Agent”—Sex as Emotion with Physical Cues, Integrated with Plot",
+      "word_count": 2022
+    },
+    {
+      "example_number": 5,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "comic-domestic-eroticism",
+      "location": "line-473",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-05",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "abe4cbd33702308f4b1fdedaf90ab7b054092a8089031f32d095c2fc0ad26a90",
+      "title": "North Carolina Hoedown",
+      "word_count": 1271
+    },
+    {
+      "example_number": 6,
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "location": "line-507",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-06",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "d02e672a0eb7947d4a2936ab9533e6333b9817b15cfa6bfadf5b9ff289a9e9ff",
+      "title": "Kidnap and Battery",
+      "word_count": 857
+    },
+    {
+      "example_number": 7,
+      "heat_band": "explicit",
+      "intimacy_mode": "recovery-and-triage",
+      "location": "line-519",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-07",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "ac3524e81368c938acd9c2b01607d4c00aeae10f6e7c258d9ce2ec4405d3a4a3",
+      "title": "Rescue and Triage",
+      "word_count": 4957
+    },
+    {
+      "example_number": 8,
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "location": "line-544",
+      "partition": "calibration",
+      "passage_id": "gabaldon.example-08",
+      "prompt_eligible": false,
+      "source_work": "Drums of Autumn",
+      "text_hash": "1d51e7a63f2e2d5aa1ce4dff3f2e35ba898a6d1521b0b631d27629ac65334fe0",
+      "title": "Bonnet and Brianna",
+      "word_count": 778
+    },
+    {
+      "example_number": 9,
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "non-sex-sex-scene",
+      "location": "line-556",
+      "partition": "calibration",
+      "passage_id": "gabaldon.example-09",
+      "prompt_eligible": false,
+      "source_work": "Drums of Autumn",
+      "text_hash": "962735ae76df1b940e334b19f28cb420299cd353725377c858a60ae44dddfe56",
+      "title": "Jamie and Brianna a Non-Sex Sex Scene",
+      "word_count": 2806
+    },
+    {
+      "example_number": 10,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "asymmetric-intimacy",
+      "location": "line-610",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-10",
+      "prompt_eligible": false,
+      "source_work": "Broken Web",
+      "text_hash": "bcafbee5855ff664045f974059e24a67f412e4e276058bf2d6e18e28b59715f8",
+      "title": "One-Sided Sex Scene",
+      "word_count": 351
+    },
+    {
+      "example_number": 11,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "sensory-intimacy",
+      "location": "line-652",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-11",
+      "prompt_eligible": true,
+      "source_work": "The Fiery Cross",
+      "text_hash": "c16a0c5e6c978f09aa11a59cca23c6692c83aff39aed20b9a8e3dd36a80f586e",
+      "title": "Use of Senses",
+      "word_count": 1133
+    },
+    {
+      "example_number": 12,
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "premarital-tension",
+      "location": "line-808",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-12",
+      "prompt_eligible": true,
+      "source_work": "Written in My Own Heart’s Blood",
+      "text_hash": "f94ff0a32de83a74176bf038b505bbe1d6166d6534ab090c50ec6a6910e1b4f8",
+      "title": "Premarital Tension",
+      "word_count": 378
+    },
+    {
+      "example_number": 13,
+      "heat_band": "explicit",
+      "intimacy_mode": "emotionless-sex-counterexample",
+      "location": "line-828",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-13",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "2d5b8f19a42f6c67dc3d1d647f96b7b6742e6def83736691c971392dd35e00bc",
+      "title": "Sex without Emotion",
+      "word_count": 1955
+    }
+  ],
+  "record_type": "AutoresearchCorpus",
+  "source_hash": "50ca0a1133812e44e0cfad9be66880b1c7e987cf5c70a3bcdefe8b33c37bcc32",
+  "version": "prompt-autoresearch.v2-cleanroom"
+}

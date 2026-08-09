@@ -1,0 +1,34 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "complication",
+  "pool": [
+    {
+      "branch_id": "charged-restraint.complication.r0.0.988001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.complication.r0.0.988018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.complication.r0.0.988035",
+      "eligible": true,
+      "score": 5.726890756302521
+    },
+    {
+      "branch_id": "charged-restraint.complication.r0.0.988052",
+      "eligible": true,
+      "score": 6.000309437854564
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [
+    "charged-restraint.complication.r0.0.988052",
+    "charged-restraint.complication.r0.0.988035"
+  ],
+  "selection_seed": 968195,
+  "version": "gemma-fiction-autoresearch.v4"
+}

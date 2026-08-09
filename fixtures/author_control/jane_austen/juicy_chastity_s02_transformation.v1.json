@@ -1,0 +1,35 @@
+{
+  "record_type": "TransformationMap",
+  "map_id": "jane-austen-to-juicy-chastity-s02.v1",
+  "author_profile_id": "jane-austen.control.v1",
+  "version": "1.0",
+  "rules": {
+    "austen.market.courtship-as-social-epistemology": "transpose",
+    "austen.architecture.delayed-recontextualization": "preserve",
+    "austen.scene.knowledge-transfer-with-consequence": "preserve",
+    "austen.intimacy.attention-under-restraint": "preserve",
+    "austen.character.error-as-active-policy": "preserve",
+    "austen.relationship.audience-conditioned-self": "preserve",
+    "austen.dialogue.indirect-action": "preserve",
+    "austen.discourse.ironic-focalization": "transpose",
+    "austen.syntax.qualification-and-turn": "evaluator-only",
+    "austen.imagery.socially-indexed-detail": "transpose",
+    "austen.reader-response.superior-then-corrected": "transpose"
+  },
+  "target_semantics": {
+    "austen.market.courtship-as-social-epistemology": [
+      "Make attraction and Fulcrum's status economy revise Mara's interpretation of each other without importing Regency institutions."
+    ],
+    "austen.discourse.ironic-focalization": [
+      "Use close-third Mara language while preserving observable cues that support a rival explanation of Fulcrum's apparent powers."
+    ],
+    "austen.imagery.socially-indexed-detail": [
+      "Choose contemporary compound, technological, vocal, postural, and tactile details for the inferences they enable, not as inventory."
+    ],
+    "austen.reader-response.superior-then-corrected": [
+      "Let the reader enjoy seeing through one confident interpretation, then preserve dignity by making the correction costly, specific, and reparable."
+    ]
+  },
+  "target_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "schema_version": "1.0"
+}

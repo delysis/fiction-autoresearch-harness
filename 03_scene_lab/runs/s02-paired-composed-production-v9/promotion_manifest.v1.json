@@ -1,0 +1,18 @@
+{
+  "record_type": "ComposedSegmentPromotion",
+  "segments": {
+    "pressure": {
+      "critical_review_path": "04_review_governance/s02_paired_curriculum_v7_v8_critical_read.md",
+      "critical_review_sha256": "f92079ba4f81450b961cacd19088429d1eb7693ae4f7e21231b952d32ecf3951",
+      "extraction_policy": "latest complete paragraph prefix inside 260-350 words that passes pressure gate",
+      "selected_path": "03_scene_lab/runs/s02-paired-composed-production-v9/parents/pressure.v7-seed-916001.md",
+      "selected_sha256": "80c6a0ca208bd34aa1fde107ba3680b31db1a29431d882e628ce5b838b1aba39",
+      "selected_words": 321,
+      "source_arm": "s02-paired-composed-v7",
+      "source_raw_path": "03_scene_lab/runs/s02-paired-composed-v7/seed-916001/raw/pressure.916001.txt",
+      "source_raw_sha256": "250a2a17dae74665388fb6b62d9473fe09de8610c4d1f8f396713ce362105a99",
+      "source_seed": 916001
+    }
+  },
+  "version": "composed-segment-promotion.v1"
+}

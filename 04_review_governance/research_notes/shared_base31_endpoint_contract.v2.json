@@ -1,0 +1,57 @@
+{
+  "record_type": "SharedInferenceEndpointContract",
+  "version": "shared-base31.v2",
+  "endpoint": "http://127.0.0.1:8097",
+  "launch_label": "com.openai.codex.fiction.shared-base31",
+  "model": {
+    "alias": "gemma-4-31b-base",
+    "quantization": "Q8_0",
+    "trained_context_tokens": 262144,
+    "gpu_layers": "all"
+  },
+  "server": {
+    "context_tokens_per_slot": 32768,
+    "parallel_slots": 4,
+    "continuous_batching": true,
+    "unified_kv": true,
+    "kv_cache": "q8_0",
+    "cache_ram_mib": 0,
+    "cache_reuse_tokens": 256
+  },
+  "observed_memory": {
+    "oversized_131k_x4_rss_kib": 92915024,
+    "current_32k_x4_idle_rss_kib": 24571072,
+    "interpretation": "Apple unified-memory resident-set proxy; not discrete VRAM"
+  },
+  "admission_policy": {
+    "ordinary_calls": "Controllers share the endpoint without ownership handoffs.",
+    "slot_limit": 4,
+    "per_request_safe_tokens": 30720,
+    "aggregate_declared_tokens": 122880,
+    "affinity": "Prefer warm byte-identical prefixes; cold parallel calls repeat prefill work.",
+    "oversize": "Use a separately sized single-slot endpoint for requests above 30720 tokens.",
+    "monitoring": "Use wall-clock aggregate completion throughput; per-slot timing is not additive under continuous batching."
+  },
+  "production_observations": {
+    "v7_cold_four_way": {
+      "prompt_tokens_per_request": 5516,
+      "completion_tokens_total": 2460,
+      "batch_wall_seconds": 678.590557,
+      "aggregate_completion_tokens_per_second_including_prefill": 3.625163
+    },
+    "v8_cold_four_way": {
+      "prompt_tokens_per_request": 6078,
+      "completion_tokens_total": 2864,
+      "batch_wall_seconds": 703.729426,
+      "aggregate_completion_tokens_per_second_including_prefill": 4.069747
+    }
+  },
+  "artifacts": {
+    "launch_plist": "runtime/launchd/com.openai.codex.fiction.shared-base31.plist",
+    "admission_code": "fiction_harness/shared_endpoint.py",
+    "warm_benchmark": "03_scene_lab/runs/runtime-benchmarks/shared-base31.warm.v1.json",
+    "v7_calls": "03_scene_lab/runs/s02-paired-composed-v7",
+    "v8_calls": "03_scene_lab/runs/s02-paired-composed-v8",
+    "findings": "04_review_governance/research_notes/shared_endpoint_batching_findings.v2.md"
+  }
+}

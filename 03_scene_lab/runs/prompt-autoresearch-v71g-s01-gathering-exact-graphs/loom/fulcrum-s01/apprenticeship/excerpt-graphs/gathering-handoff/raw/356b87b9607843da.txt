@@ -1,0 +1,25 @@
+{
+  "emotional_offer": "Desire for clarity",
+  "emotional_counteroffer": "Unstated presence",
+  "relationship_history": "Implied prior connection",
+  "present_stakes": "Information acquisition",
+  "dialogue_act_sequence": [
+    "Intention to question",
+    "Interruption by attendant"
+  ],
+  "body_language_counterpoint": "Formal presentation",
+  "sensory_channels": [
+    "Sight",
+    "Sound"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Transition into a specific room",
+  "agency_actions": [
+    "Man's intent to speak",
+    "Maid's action of ushering"
+  ],
+  "relationship_delta": "Shift in immediate social context",
+  "story_state_change": "Arrival at a new location/person",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

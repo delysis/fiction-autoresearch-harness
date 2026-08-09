@@ -1,0 +1,53 @@
+{
+  "audition_version": "movement-audition.v1-base-authored-boundary",
+  "campaign_hash": "134f1ce6f62b80d45d2e9fe2bb2e0e2a1c61d6711b7ad1e084f2c4f6eeca9d3d",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "status-transaction",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420035",
+      "eligible": false,
+      "score": 0.5314285714285714
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420052",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420069",
+      "eligible": false,
+      "score": 0.4952830188679245
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420086",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420103",
+      "eligible": false,
+      "score": 0.4900523560209424
+    },
+    {
+      "branch_id": "fulcrum-s01.status-transaction.audition.1420120",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.gathering-handoff.audition.1400086",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "ea9243dc0c13b646ddf87083d195317bb264d906eed81a3e3e19098391d8f038",
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "5fbd97e1487739d1c516e72c827dff88ba36ee8804127262d4c81ee7b3a6f0fa",
+  "candidate_id": "s01-a-gift-status.codex.v1",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "bakery box braced against the passenger door",
+      "atom_id": "s01-arr-01",
+      "consequence_evidence": "The box slid when she stopped.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "I brought something that wasn’t synthesized.",
+      "atom_id": "s01-arr-03",
+      "consequence_evidence": "Even rarer.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "You brought a shield",
+      "atom_id": "s01-arr-06",
+      "consequence_evidence": "It’s an offering.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Or he forgot the attachment.",
+      "atom_id": "s01-arr-10",
+      "consequence_evidence": "The stillness broke in several places at once.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_offer": "Inquiry about location",
+  "emotional_counteroffer": "Self-deprecation regarding knowledge",
+  "relationship_history": "Unspecified acquaintance",
+  "present_stakes": "Determining social standing and familiarity",
+  "dialogue_act_sequence": [
+    "Question about lodging",
+    "Statement of lodging duration",
+    "Question about lodging plans",
+    "Question about local knowledge",
+    "Statement of limited knowledge",
+    "Question about profession"
+  ],
+  "body_language_counterpoint": "Physical awareness despite apparent ignoring",
+  "sensory_channels": [
+    "Auditory",
+    "Proximal awareness"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Proximity between two individuals",
+  "agency_actions": [
+    "Gerald waits",
+    "Gerald listens",
+    "Girl asks questions"
+  ],
+  "relationship_delta": "Slight shift toward formal assessment",
+  "story_state_change": "Establishment of social dynamic",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,64 @@
+{
+  "artifact_id": "charged-restraint.consequence.r0.0.1008018",
+  "manuscript_hash": "b4b74224955410398eeb8c56228c5239665ae2db44dee9b0910734599568a42a",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n",
+    "\n\n",
+    "\n\n",
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.parallel-book-continuity.charged-restraint.966019",
+      "raw_char_end": 689,
+      "raw_char_start": 0,
+      "raw_hash": "bf91c3da3cf294cd1bfba8db11065e1d203ce001cf0b6df5de8d3da2f158cc38",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v30-parallel-books/runways/raw/runway.parallel-book-continuity.charged-restraint.966019.txt",
+      "role": "opening-runway",
+      "span_id": "runway.parallel-book-continuity.charged-restraint.966019",
+      "text_hash": "eae907f3e4fa14741c8caca9a5c5eda3c7d2901b95a36e8520d0b0ed3252924d"
+    },
+    {
+      "call_id": "topology.v4-anthology.charged-restraint.967091",
+      "raw_char_end": 2533,
+      "raw_char_start": 2,
+      "raw_hash": "78721ebaca6a3399d9e2d6de72d6ee93707edd28b0812f833221de634c5f7e98",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v31-parallel-continuations/topology/raw/topology.v4-anthology.charged-restraint.967091.txt",
+      "role": "topology-movement",
+      "span_id": "topology.v4-anthology.charged-restraint.967091.segment",
+      "text_hash": "49d281d66b96bacf90bc46f5af01fda3902188a97516c6dda3eb7e74196901a1"
+    },
+    {
+      "call_id": "charged-restraint.complication.r0.0.988052",
+      "raw_char_end": 2352,
+      "raw_char_start": 2,
+      "raw_hash": "7c7ec94f205be2de231c430a1a14f738681feb6a1f5934d698f0fad6b2baab39",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v31-parallel-continuations/loom/charged-restraint/raw/complication/charged-restraint.complication.r0.0.988052.txt",
+      "role": "complication",
+      "span_id": "charged-restraint.complication.r0.0.988052.span",
+      "text_hash": "40cccc11ffab0c0369538b89454604079e7b8746bb17567459fb0f561b7867a3"
+    },
+    {
+      "call_id": "charged-restraint.embodied-turn.r1.0.1098018",
+      "raw_char_end": 1372,
+      "raw_char_start": 2,
+      "raw_hash": "e55a2c045cb02c74b386e51a17a13ef816464dbc63cfb35fbcdb6fb6a594a0f2",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v31-parallel-continuations/loom/charged-restraint/raw/embodied-turn/charged-restraint.embodied-turn.r1.0.1098018.txt",
+      "role": "embodied-turn",
+      "span_id": "charged-restraint.embodied-turn.r1.0.1098018.span",
+      "text_hash": "337a7e1cd32cebe53fca23484a9060e6930a5d5813b59a26f03ec63427293bb2"
+    },
+    {
+      "call_id": "charged-restraint.consequence.r0.0.1008018",
+      "raw_char_end": 2120,
+      "raw_char_start": 1,
+      "raw_hash": "12439c0cea9cc7e87653ddf086fb80566091cd60c7cd9686cf917e0a0ca5a67d",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v31-parallel-continuations/loom/charged-restraint/raw/consequence/charged-restraint.consequence.r0.0.1008018.txt",
+      "role": "consequence",
+      "span_id": "charged-restraint.consequence.r0.0.1008018.span",
+      "text_hash": "902c9919e91153384d7a9da137a658a0176009b1deab71966a640cffa610d95f"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

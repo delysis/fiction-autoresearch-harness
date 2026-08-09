@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.openai.codex.s02.autoloom.base31-organic-writer</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>-m</string>
+    <string>fiction_harness</string>
+    <string>continuation</string>
+    <string>run</string>
+    <string>native_base</string>
+    <string>--run-root</string>
+    <string>03_scene_lab/runs/s02-autoloom-v1</string>
+    <string>--run-id</string>
+    <string>s02-autoloom-v1</string>
+    <string>--writer-url</string>
+    <string>http://127.0.0.1:8097</string>
+    <string>--count</string>
+    <string>8</string>
+    <string>--max-new-candidates</string>
+    <string>1</string>
+    <string>--timeout</string>
+    <string>2400</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/george/mpc/juicy_chastity_fiction_lab</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <false/>
+  <key>ProcessType</key>
+  <string>Interactive</string>
+  <key>StandardOutPath</key>
+  <string>/private/tmp/s02-autoloom-base31-organic-writer.out</string>
+  <key>StandardErrorPath</key>
+  <string>/private/tmp/s02-autoloom-base31-organic-writer.err</string>
+</dict>
+</plist>

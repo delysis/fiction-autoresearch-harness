@@ -1,0 +1,27 @@
+{
+  "inference_calls": 0,
+  "plan_set_hash": "33564550d37ed8900575ff81c96001276c96a7bf65ebb187333054bf59268c0a",
+  "source_records": [
+    {
+      "cell_id": "married-explicit",
+      "hash": "e98e5bf705a216d4c47b6ff88b74c3dc13c520d4714a6e38b2d65ca9cfb4ef3c",
+      "parsed_count": 4,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v9/programs/raw/program.married-explicit.941003.txt",
+      "seed": 941003
+    },
+    {
+      "cell_id": "married-explicit",
+      "hash": "40790d28bdac233b2b73aac26e6351817c41288bd94e4153f2bba5e608413949",
+      "parsed_count": 2,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v9/programs/raw/program.married-explicit.941041.txt",
+      "seed": 941041
+    },
+    {
+      "cell_id": "married-explicit",
+      "hash": "fa23a92181d5cb1a4668842df4574b568d2bda7047520474f45e0ae02b9672ca",
+      "parsed_count": 4,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v9/programs/raw/program.married-explicit.941083.txt",
+      "seed": 941083
+    }
+  ]
+}

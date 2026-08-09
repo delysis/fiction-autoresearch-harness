@@ -1,0 +1,73 @@
+Mara sat with her back against the east window, shoulders drawn tight and eyes closed. Outside, the cedars had gone black against the remaining sky. Inside, Adrian read aloud from a report on the sensor data.
+
+“For the fifth consecutive run, Livia’s predictive model remains at ninety-three percent, while Mara’s remains at sixty-eight. Miriam, update the screen with tonight’s final results.”
+
+The projection screen lit. Twenty-nine lines of small text showed the predicted value, the observed value, the error, and the model’s confidence for each point in the stream.
+
+Adrian continued. “This suggests that the difference between Livia and Mara is not noise but a consistent systematic factor.”
+
+He was calling it a consistent systematic factor. Mara had been calling it a miracle.
+
+The room laughed. Not everyone, not loudly. Enough.
+
+Adrian smiled through the laughter. Mara liked him when he was not in charge.
+
+The screen refreshed. Miriam’s updated values had added one more night to the table beneath the raw results. Mara and Livia sat with their backs straight and arms braced between them. Adrian stood beside the projection console with a pen.
+
+He checked the screen. “Mara, your prediction error has increased from forty-four percent to fifty-nine percent since the first session.”
+
+“Yes,” she said.
+
+“Livia, your error rate remains at seven percent.”
+
+“Yes.”
+
+“Is there a reason for the difference?”
+
+“I’m not as good.” Mara did not move her mouth.
+
+Adrian glanced toward Livia. “May we rule out an artifact of the model?”
+
+“She’s not as good,” Livia repeated.
+
+Mara touched her closed eyes with one finger. Livia turned to face her. She wore a silk shirt with sleeves that brushed her wrists, dark-blue nails, and earrings that had appeared between the second and third session. Mara tried to calculate which of the three might have mattered.
+
+She opened her eyes.
+
+“It’s a good model,” she said. “You’re building it better than I am.”
+
+“You’re not building it at all.”
+
+“I’m letting the model build itself.”
+
+“A fine principle.” Livia set her empty teacup beside her wrist. “Until the model starts believing it’s as good as you are.”
+
+That earned another laugh from the group. Adrian wrote something in the margins of the report.
+
+“That is not how Mara is using the model,” he said.
+
+“I never claimed it was. It’s why I’m better.”
+
+“Not yet.”
+
+Mara let one breath pass, then two. The air felt thin, the floor too close under her bare feet, the cedar behind her too close against her back. She wished she had worn a sweater instead of the dress. She wished the window faced another direction.
+
+She had no useful wish about Livia.
+
+Livia looked at her. The eyes in her face were not the same eyes as those in the screen. The data did not care about that. The data had made both eyes equally visible.
+
+“I am letting it build itself,” Mara told Adrian.
+
+“Because you think it’s self-serving to build it manually.”
+
+“Because it’s self-serving to use it manually.”
+
+Livia’s expression hardened. “Then you’ll keep believing you have a chance of catching up.”
+
+“Yes.”
+
+“And you’ll keep believing Livia is cheating.”
+
+“That’s not true.”
+
+“That’

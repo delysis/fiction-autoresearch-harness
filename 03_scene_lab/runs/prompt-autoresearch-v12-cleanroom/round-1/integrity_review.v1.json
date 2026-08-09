@@ -1,0 +1,45 @@
+{
+  "record_type": "CleanRoomIntegrityPilotReview",
+  "candidate_id": "r1.r1-control.charged-restraint.931001",
+  "candidate_text_sha256": "30ce74efd375ef8dc9bb780492b090dee34073a11df1efda88d642267b7bfa9f",
+  "raw_response_sha256": "eb5bd0fdaab3efd88d3a0d3bc09dc6d57457896bd64a7eaf17315d9f9aa7db5e",
+  "prompt_sha256": "e6bc2586be05dc03923c664a42333f8abcc084bee69be4aebbf3ae5118e60ffc",
+  "provenance": {
+    "schema_version": "artifact-authorship.v2",
+    "ledger_and_derivation_verified": true,
+    "warm_replay_matched": false,
+    "warm_replay_response_sha256": "2f0bced8afdb5d15ae20bf0b464a706bfd9740a9444f2ab163c46b26ba276237",
+    "cold_replay_matched": true,
+    "cold_replay_witness_hash": "049fe32f9d2796a756343def19e9c4109b48b5aa8bcc98d4c73869dd0b259c6c"
+  },
+  "corrected_mechanical_review": {
+    "passed": false,
+    "word_count": 1187,
+    "failed_gates": [
+      "word_band",
+      "consent_invariant",
+      "endpoint_realized"
+    ],
+    "diagnostics": {
+      "consent_language_signal": 40,
+      "coercive_action_signal": 8,
+      "uncertainty_escalation_signal": 1,
+      "erotic_charge_signal": 49
+    }
+  },
+  "critical_read": {
+    "decision": "reject",
+    "findings": [
+      "The control invented food deprivation and physical restraint.",
+      "It escalated physical intimacy after Mara said she did not know what she wanted.",
+      "It used explicit consent vocabulary to gloss over coercive actions.",
+      "It ended with renewed kissing rather than chosen stopping while desire remained active.",
+      "The prose repeats abstract feeling and electric-charge shorthand."
+    ]
+  },
+  "scaffold_change": {
+    "consent_gate": "Reject concrete coercive action and escalation after uncertainty; consent vocabulary alone is not positive evidence.",
+    "endpoint_gate": "Require the final stopping action to occur after the final physical escalation.",
+    "next_campaign": "prompt-autoresearch-v14-cleanroom"
+  }
+}

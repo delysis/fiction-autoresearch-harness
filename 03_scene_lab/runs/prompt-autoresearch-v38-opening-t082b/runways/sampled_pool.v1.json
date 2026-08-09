@@ -1,0 +1,12 @@
+{
+  "campaign_hash": "b5b1daf6feb1cf7c139f0c29432b1660656380a23cdbcdbaa514c99fe17687b6",
+  "eligible_runway_ids": [
+    "runway.parallel-book-continuity.charged-restraint.1308019",
+    "runway.parallel-book-continuity.charged-restraint.1308037",
+    "runway.parallel-book-continuity.charged-restraint.1308055"
+  ],
+  "pool_hash": "062bc1a2ff2d74cc47508b685dc1f2c070474c5740b9acfa9162a315000238f7",
+  "record_type": "SampledGeneratedRunwayPool",
+  "selection_policy": "no-automatic-promotion; read-only-critic-or-explicit-research-lead-selection-required",
+  "version": "gemma-fiction-autoresearch.v4"
+}

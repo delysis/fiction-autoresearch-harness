@@ -1,0 +1,21 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+His wife's face brightened, but she instantly answered: "Oh, you'd much
+better go alone. It bores Granny to see the same people too often."
+
+Archer's heart was beating violently when he rang old Mrs. Mingott's
+bell. He had wanted above all things to go alone, for he felt sure the
+visit would give him the chance of saying a word in private to the
+Countess Olenska. He had determined to wait till the chance presented
+itself naturally; and here it was, and here he was on the doorstep.
+Behind the door, behind the curtains of the yellow damask room next to
+the hall, she was surely awaiting him; in another moment he should see
+her, and be able to speak to her before she led him to the sick-room.
+
+He wanted only to put one question: after that his course would be
+clear. What he wished to ask was simply the date of her return to
+Washington; and that question she could hardly refuse to answer.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

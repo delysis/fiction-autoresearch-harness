@@ -1,0 +1,23 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+The fire burned low. He looked at her and wondered at the luminous
+delicacy of her beauty, and the wide shining of her eyes. He watched
+from a distance, with wonder in his heart, she seemed transfigured with
+light.
+
+“What have you been doing all day?” he asked her.
+
+“Only sitting about,” she said.
+
+He looked at her. There was a change in her. But she was separate from
+him. She remained apart, in a kind of brightness. They both sat silent
+in the soft light of the lamp. He felt he ought to go away again, he
+ought not to have come. Still he did not gather enough resolution to
+move. But he was _de trop_, her mood was absent and separate.
+
+Then there came the voices of the two children calling shyly outside
+the door, softly, with self-excited timidity:
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

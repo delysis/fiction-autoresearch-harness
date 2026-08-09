@@ -1,0 +1,28 @@
+{
+  "audition_version": "movement-audition.v7-near-control-leak-gate",
+  "campaign_hash": "299383ee5640d00c6e08014f1e783f0edf58b1ad020bd9ae7525d8a5060cf117",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "calibration-frame",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.calibration-frame.audition.1500001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.calibration-frame.audition.1500018",
+      "eligible": false,
+      "score": 0.48
+    },
+    {
+      "branch_id": "fulcrum-s01.calibration-frame.audition.1500035",
+      "eligible": false,
+      "score": 0.4685258964143426
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.labor-recognition.audition.1460052.readmit.hard-gate.v4.38-labor-action-triad",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "1fad68c6b9406ea9295c37967e7671ef3d4a2c23001b10b4ef2528c5f83df54b",
+  "version": "gemma-fiction-autoresearch.v4"
+}

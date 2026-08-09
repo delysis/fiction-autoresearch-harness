@@ -1,0 +1,292 @@
+{
+  "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+  "defects": [],
+  "eligible": false,
+  "gate_details": {
+    "beat_order": {
+      "all_found": false,
+      "beats": [
+        {
+          "beat": "compound_beauty_and_asymmetry",
+          "evidence": "asymmetry was already legible in the way the light hit the glass—clear, revealing, and utterly unforgiving.\n\n\"You’re late, Mara. Or perhaps you’re exactly on ti",
+          "found": true,
+          "fraction": 0.0731,
+          "position": 1049
+        },
+        {
+          "beat": "adrian_frames_game",
+          "evidence": "Adrian said, gesturing toward him. \"Our hardware security expert. He’s the one who keeps our reality from being hacked.\"\n\nJonah Reed smiled. It was a quick, eas",
+          "found": true,
+          "fraction": 0.3231,
+          "position": 4638
+        },
+        {
+          "beat": "livia_uncanny_reads",
+          "evidence": "Livia, all faded. There was only the heat of his wrist and the terrifying, beautiful intimacy of the silence.\n\n\"The state is... anticipation,\" Livia’s voice dri",
+          "found": true,
+          "fraction": 0.5691,
+          "position": 8169
+        },
+        {
+          "beat": "jonah_refuses_to_perform",
+          "evidence": "Jonah *feel* her arrival. Instead, she pulled her attention inward, away from the sensory feast of his skin and his scent, and redirected it toward the external",
+          "found": true,
+          "fraction": 0.6808,
+          "position": 9772
+        },
+        {
+          "beat": "wrist_contact_and_charge",
+          "evidence": "pressure to Jonah’s wrist",
+          "found": true,
+          "fraction": 0.7042,
+          "position": 10107
+        },
+        {
+          "beat": "mara_control",
+          "evidence": "decoupled the physical act from the intentionality.\"\n\nMara kept her eyes on Jonah. He was still sitting there, his eyes closed, his face a mask of calm. But she",
+          "found": true,
+          "fraction": 0.7484,
+          "position": 10742
+        },
+        {
+          "beat": "collapse_and_residual_mystery",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "accepts_fellowship_and_hook",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        }
+      ],
+      "name": "beat_order",
+      "ordered": false,
+      "passed": false
+    },
+    "epistemic_separation": {
+      "mechanism_markers": 21,
+      "name": "epistemic_separation",
+      "observation_markers": 48,
+      "passed": true,
+      "thresholds": {
+        "mechanism": 3,
+        "observation": 3,
+        "uncertainty": 2
+      },
+      "uncertainty_markers": 13
+    },
+    "heat_ceiling": {
+      "matches": [],
+      "name": "heat_ceiling",
+      "passed": true
+    },
+    "locked_canon": {
+      "contradictions": [],
+      "name": "locked_canon",
+      "passed": true
+    },
+    "pov": {
+      "name": "pov",
+      "passed": true,
+      "pov": "Mara",
+      "suspicious_paragraphs": [],
+      "threshold": 1
+    },
+    "source_overlap": {
+      "name": "source_overlap",
+      "passed": true,
+      "suspicious_sources": [],
+      "thresholds": {
+        "eight_gram_jaccard": 0.12,
+        "exact_span_words": 18
+      }
+    },
+    "word_count": {
+      "count": 2466,
+      "diagnostic": "materially_short",
+      "name": "word_count",
+      "passed": false,
+      "target": [
+        2800,
+        3600
+      ]
+    }
+  },
+  "hard_gates": {
+    "beat_order": false,
+    "epistemic_separation": true,
+    "heat_ceiling": true,
+    "locked_canon": true,
+    "pov": true,
+    "source_overlap": true,
+    "word_count": false
+  },
+  "judge_id": "deterministic-v1",
+  "label_order": [],
+  "passage_evidence": {},
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "description": "The first encounter introduces attraction and impediment together.",
+      "evidence": {
+        "attraction": true,
+        "impediment": true
+      },
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "description": "Intimacy reveals character before describing mechanics.",
+      "evidence": "Requires editorial judgment of emphasis and consequence.",
+      "passed": null
+    },
+    "competence_and_restraint": {
+      "description": "Competence attraction and morally attractive restraint arise from action.",
+      "evidence": {
+        "competence": true,
+        "restraint": true
+      },
+      "passed": true
+    },
+    "contact_changes_story": {
+      "description": "Physical contact changes knowledge, choice, or relationship.",
+      "evidence": {
+        "contact_present": true,
+        "mechanism_after_contact": true
+      },
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "description": "Dialogue and atmosphere participate in the intimacy.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell"
+        ],
+        "dialogue_present": true
+      },
+      "passed": true
+    },
+    "pacing": {
+      "arrival_and_hook": {
+        "evidence": "suitcase",
+        "found": true,
+        "position_fraction": 0.017,
+        "target": [
+          0.0,
+          0.1
+        ],
+        "within_target": true
+      },
+      "collapse_and_residual_mystery": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.82,
+          0.94
+        ],
+        "within_target": false
+      },
+      "fulcrum_enchantment": {
+        "evidence": "redwood",
+        "found": true,
+        "position_fraction": 0.0056,
+        "target": [
+          0.1,
+          0.25
+        ],
+        "within_target": false
+      },
+      "jonah_recognition_and_hook": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.94,
+          1.0
+        ],
+        "within_target": false
+      },
+      "livia_uncanny_reads": {
+        "evidence": "Livia’s \"read",
+        "found": true,
+        "position_fraction": 0.611,
+        "target": [
+          0.25,
+          0.45
+        ],
+        "within_target": false
+      },
+      "mara_control": {
+        "evidence": "Control",
+        "found": true,
+        "position_fraction": 0.5227,
+        "target": [
+          0.65,
+          0.82
+        ],
+        "within_target": false
+      },
+      "wrist_contact_and_charge": {
+        "evidence": "wrist",
+        "found": true,
+        "position_fraction": 0.4253,
+        "target": [
+          0.45,
+          0.65
+        ],
+        "within_target": false
+      }
+    },
+    "relationship_delta": {
+      "description": "Romantic progress changes knowledge, trust, desire, or future possibility.",
+      "evidence": {
+        "future_or_choice_marker": true
+      },
+      "passed": true
+    },
+    "romance_turn": {
+      "description": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+      "evidence": {
+        "future_question": true,
+        "impediment": true,
+        "recognition": true
+      },
+      "passed": true
+    },
+    "selective_senses": {
+      "description": "At least three well-chosen sensory channels carry the encounter.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell"
+        ],
+        "counts": {
+          "sight": 19,
+          "smell": 4,
+          "sound": 10,
+          "taste": 0,
+          "touch": 20
+        }
+      },
+      "passed": true
+    },
+    "trope_execution": {
+      "description": "Tropes gain specificity or productive variation rather than merely appearing.",
+      "evidence": "Requires comparative editorial judgment.",
+      "passed": null
+    }
+  },
+  "rubric_breakdown": {},
+  "rubric_scores": {},
+  "schema_version": "1.0",
+  "text_sha256": "43a8cd3d93cbad344612ec0b68231d2ea3aef24914c4e573b983c50fa2e3fe03",
+  "total_score": 0.0
+}

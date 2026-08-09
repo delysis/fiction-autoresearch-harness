@@ -1,0 +1,336 @@
+{
+  "attempt_count": 6,
+  "attempt_status_counts": {
+    "completed": 1,
+    "rejected_generation_shape": 4,
+    "rejected_source_overlap": 1
+  },
+  "attempts": [
+    {
+      "arm_id": "lc08-contract",
+      "attempt_index": 1,
+      "call_id": "long-context:lc08-contract.seed-83101",
+      "defects": [
+        "under_minimum_words:370"
+      ],
+      "finish_reason": "stop",
+      "seed": 83101,
+      "source_match": null,
+      "status": "rejected_generation_shape",
+      "word_count": 370
+    },
+    {
+      "arm_id": "lc08-contract",
+      "attempt_index": 2,
+      "call_id": "long-context:lc08-contract.seed-83101",
+      "defects": [],
+      "finish_reason": null,
+      "seed": 183104,
+      "source_match": {
+        "candidate_word_start": 67,
+        "shingle_hash": "45f5c2e3a71fe4cbbaa3b987abb8a792",
+        "source_ids": [
+          "approved-manuscript-runway"
+        ],
+        "word_count": 12
+      },
+      "status": "rejected_source_overlap",
+      "word_count": 0
+    },
+    {
+      "arm_id": "lc08-contract",
+      "attempt_index": 3,
+      "call_id": "long-context:lc08-contract.seed-83101",
+      "defects": [
+        "under_minimum_words:530"
+      ],
+      "finish_reason": "stop",
+      "seed": 283107,
+      "source_match": null,
+      "status": "rejected_generation_shape",
+      "word_count": 530
+    },
+    {
+      "arm_id": "lc24-distilled",
+      "attempt_index": 1,
+      "call_id": "long-context:lc24-distilled.seed-83101",
+      "defects": [
+        "under_minimum_words:1"
+      ],
+      "finish_reason": "stop",
+      "seed": 83101,
+      "source_match": null,
+      "status": "rejected_generation_shape",
+      "word_count": 1
+    },
+    {
+      "arm_id": "lc24-distilled",
+      "attempt_index": 2,
+      "call_id": "long-context:lc24-distilled.seed-83101",
+      "defects": [
+        "packet_leakage:## Manuscript Continuation",
+        "packet_leakage:</fiction-preparation>"
+      ],
+      "finish_reason": "stop",
+      "seed": 183104,
+      "source_match": null,
+      "status": "rejected_generation_shape",
+      "word_count": 674
+    },
+    {
+      "arm_id": "lc24-distilled",
+      "attempt_index": 3,
+      "call_id": "long-context:lc24-distilled.seed-83101",
+      "defects": [],
+      "finish_reason": "length",
+      "seed": 283107,
+      "source_match": null,
+      "status": "completed",
+      "word_count": 1190
+    }
+  ],
+  "candidate_count": 1,
+  "candidates": [
+    {
+      "anti_copy": {
+        "candidate_id": "lc24-distilled.seed-83101",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "b5b91cc73ebf3fcbc7018a513a78dead62090325ffd734b3217999a6c0f58db3",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "arm_id": "lc24-distilled",
+      "candidate_id": "lc24-distilled.seed-83101",
+      "checkpoint": {
+        "check_count": 8,
+        "checks": {
+          "close_third_no_obvious_head_hop": true,
+          "livia_present": false,
+          "mara_present": true,
+          "no_confirmed_paranormal": true,
+          "no_final_resolution": true,
+          "opposed_expectations": true,
+          "shared_image_or_phrase": false,
+          "wildfire_or_orange_moon": false
+        },
+        "natural_stop": true,
+        "packet_leakage_markers": [],
+        "passed_count": 5
+      },
+      "elapsed_seconds": 396.2856200000024,
+      "eligible": false,
+      "literary_style": {
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 0,
+          "word_count": 1190
+        },
+        "dialogue_voice": {
+          "attributed_speakers": {
+            "Adrian": {
+              "content_vocabulary_size": 0,
+              "dialogue_words": 12,
+              "sufficiently_sampled": false,
+              "turns": 3
+            },
+            "You": {
+              "content_vocabulary_size": 0,
+              "dialogue_words": 2,
+              "sufficiently_sampled": false,
+              "turns": 2
+            }
+          },
+          "comparable_speaker_count": 0,
+          "heuristic": true,
+          "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+          "mean_shared_over_smaller_vocabulary": null,
+          "mean_unigram_frequency_cosine": null,
+          "minimum_dialogue_words": 20,
+          "minimum_turns": 2,
+          "pairwise": [],
+          "possible_voice_indistinctness": null,
+          "unattributed_passages": 71
+        },
+        "explanatory_gloss": {
+          "evidence": [],
+          "glosses_per_100_dialogue_passages": 0.0,
+          "heuristic": true,
+          "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+          "possible_explanatory_glosses": 0,
+          "quoted_passages": 76
+        },
+        "heuristic": true,
+        "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+      },
+      "prompt_tokens": 1,
+      "prompt_words": 17227,
+      "seed": 283107,
+      "word_count": 1190
+    }
+  ],
+  "diversity": {
+    "candidate_count": 1,
+    "corpus": {
+      "mean_opening_similarity": 0.0,
+      "mean_self_bleu_proxy": 0.0,
+      "unique_dialogue_acts": 0,
+      "unique_event_sequences": 0,
+      "unique_strategies": 0
+    },
+    "literary_style_diagnostics": {
+      "cadence_families": {
+        "felt_like": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "interpretive_coda": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "merely": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "not_x_but_y": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "profound": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "quiet": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "simply": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "sudden": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        }
+      },
+      "candidate_count": 1,
+      "heuristic": true,
+      "interpretation": "Batch-level surface convergence diagnostic. Shared cadence can be intentional house style; the flag is a prompt for comparative reading.",
+      "per_candidate": {
+        "lc24-distilled.seed-83101": {
+          "cadence_family_counts": {
+            "felt_like": 0,
+            "interpretive_coda": 0,
+            "merely": 0,
+            "not_x_but_y": 0,
+            "profound": 0,
+            "quiet": 0,
+            "simply": 0,
+            "sudden": 0
+          },
+          "cadence_hits_per_1000_words": 0.0,
+          "cadence_total_hits": 0,
+          "comparable_dialogue_speakers": 0,
+          "glosses_per_100_dialogue_passages": 0.0,
+          "mean_dialogue_unigram_cosine": null,
+          "mean_dialogue_vocabulary_overlap": null,
+          "possible_explanatory_glosses": 0,
+          "possible_voice_indistinctness": null
+        }
+      },
+      "text_scope": "continuation_text_when_available_otherwise_text"
+    },
+    "pair_count": 0,
+    "pairs": [],
+    "per_candidate": {
+      "lc24-distilled.seed-83101": {
+        "diversity_contribution": 1.0,
+        "mean_similarity": 0.0
+      }
+    },
+    "text_scope": "continuation_text_when_available_otherwise_text"
+  },
+  "record_type": "LongContextCalibrationReport",
+  "version": "long-context.base31.v3"
+}

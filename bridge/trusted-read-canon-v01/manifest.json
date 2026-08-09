@@ -1,0 +1,57 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/Users/george/mpc/juicy_chastity_fiction_lab/bridge/trusted-read-canon-v01",
+  "target": {
+    "documentId": "1g4QqleWNH5pD74A2wXTyoKlo41_2O1I1OO4X62JkYMk",
+    "title": "Story Canon Ledger — Fulcrum Pilot v0.1",
+    "revisionId": "AIroW34EvtC-Pk5mrHp0xxFDCWttCgng1cUKYd9y9NwINdbFVcba08J41Yh-FQXBEm_LjhXHj2Wp5L6D1bRAYH8s9rvZPWZkPrmWMX_JACKJ",
+    "documentUrl": "https://docs.google.com/document/d/1g4QqleWNH5pD74A2wXTyoKlo41_2O1I1OO4X62JkYMk",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {},
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/bridge/trusted-read-canon-v01/document-result.json",
+      "bytes": 459347,
+      "sha256": "55e50bd68aa5b0673915a7a7558cd7799f07b30eafa6cce24c8f4c41f0a3c2dc"
+    },
+    "control_inventory": {
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/bridge/trusted-read-canon-v01/control-inventory.json",
+      "bytes": 1048,
+      "sha256": "8086e314a802da4843a59e280ca7fd479ce9b98db7376ec4f69cb4076abf43ed"
+    },
+    "document_outline": {
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/bridge/trusted-read-canon-v01/document-outline.json",
+      "bytes": 71573,
+      "sha256": "211079fbe23ef8806eaccb573ff5bd1e66d5b4a0876a571effd6c51975059877"
+    },
+    "document_text": {
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/bridge/trusted-read-canon-v01/document-text.md",
+      "bytes": 14475,
+      "sha256": "4f0f4a552e389616be9b6d26676ebf5794a166cfc5ef77b6235a7a577bd50c38"
+    },
+    "receipt": {
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/bridge/trusted-read-canon-v01/receipt.json",
+      "bytes": 979,
+      "sha256": "fdcb1996b45e4d32cd0b5b745532d1455b6eecd0183266b4339ec97c9b162ade"
+    }
+  },
+  "error": null
+}

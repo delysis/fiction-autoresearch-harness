@@ -1,0 +1,21 @@
+{
+  "corpus_hash": "660ec2d2665e8a51b78977c2096e4ef6bbf3c243f32f8d963a3155f945c97a7e",
+  "corpus_manifest": "/Users/george/mpc/juicy_chastity_fiction_lab/data/apprenticeship/public_domain_romance_v1/corpus_manifest.v1.json",
+  "corpus_manifest_hash": "a51d5601be7ff094d3537cbfb04e5cf45ce1993afb6cb0b7b1fed8ae073d4f0c",
+  "database": "/Users/george/mpc/juicy_chastity_fiction_lab/data/apprenticeship/public_domain_romance_v1/index/literary_scenes.v1.sqlite",
+  "index_hash": "7a3f2ce11ef3f1f6b975130819d63edda2658d862fd19482bc22ebbe26b5062a",
+  "partition_protocol": "profiling for prompts; calibration and holdout for measurement",
+  "record_type": "LiterarySceneIndex",
+  "scene_count": 813,
+  "scene_hash_root": "d9568ce4bad714c0581f00d28b570ddfd513c5ebce392e2d16b1809ef765a8b2",
+  "version": "literary-apprenticeship.v1",
+  "work_scene_counts": {
+    "fitzgerald.great-gatsby": 56,
+    "fitzgerald.this-side-of-paradise": 96,
+    "forster.room-with-a-view": 77,
+    "hull.the-sheik": 110,
+    "lawrence.lady-chatterley": 137,
+    "lawrence.women-in-love": 215,
+    "wharton.age-of-innocence": 122
+  }
+}

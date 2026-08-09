@@ -1,0 +1,174 @@
+{
+  "atoms": [
+    {
+      "atom_id": "s02-a4b-22063-tea",
+      "kind": "object",
+      "local_constraint_change": "The accepted care makes Livia's next professional favor harder to refuse.",
+      "observable_move": "Livia pours amber tea from a ceramic carafe and slides it to Mara.",
+      "observable_response": "Mara accepts the warm cup instead of creating distance.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.061,
+      "required_entities": [
+        "ceramic carafe",
+        "amber tea"
+      ],
+      "scene_id": "S02",
+      "sequence_id": "s02-seq-1-trap",
+      "setup_fact": "Mara is depleted after the alignment session and has concealed it.",
+      "source_call_id": "s02-compute-v4.3-a4b-verbalized_to_instruction-verbalized_to_instruction-05:s02-seq-1-trap:draft",
+      "source_span": "She reached for a small, ceramic carafe on the low table between them, pouring a stream of amber tea into a cup she slid toward Mara.",
+      "source_text_hash": "49e45ef0f3488e59c21b0627cd8ffd4adba3ac6924b4d565c2ad806fedf0f05a"
+    },
+    {
+      "atom_id": "s02-a4b-22063-unremarkable",
+      "kind": "speech_act",
+      "local_constraint_change": "Livia now has an accurate vulnerability she can attach to status and work.",
+      "observable_move": "Livia names Mara's fear that close inspection will show she is competent but not exceptional.",
+      "observable_response": "Mara answers with a dry joke that restores only a little distance.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.047,
+      "required_entities": [
+        "Mara's dry joke"
+      ],
+      "scene_id": "S02",
+      "sequence_id": "s02-seq-1-trap",
+      "setup_fact": "Mara tries to attribute her strain to data density.",
+      "source_call_id": "s02-compute-v4.3-a4b-verbalized_to_instruction-verbalized_to_instruction-05:s02-seq-1-trap:draft",
+      "source_span": "\"That’s a very bold interpretation,\" Mara said, attempting to reclaim the high ground of intellectual distance. \"A bit dramatic for a Tuesday evening, don't you think?\"",
+      "source_text_hash": "49e45ef0f3488e59c21b0627cd8ffd4adba3ac6924b4d565c2ad806fedf0f05a"
+    },
+    {
+      "atom_id": "s02-a4b-22063-access",
+      "kind": "social_move",
+      "local_constraint_change": "The flattering gift converts Mara's insecurity into surveillance, status pressure, and unpaid overnight work.",
+      "observable_move": "Livia grants Mara overnight access to raw telemetry as apparent recognition and opportunity.",
+      "observable_response": "Mara freezes before treating the grant as a professional courtesy.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "proposed_probability": 0.032,
+      "required_entities": [
+        "overnight diagnostic",
+        "raw telemetry access"
+      ],
+      "scene_id": "S02",
+      "sequence_id": "s02-seq-1-trap",
+      "setup_fact": "Livia has accurately named Mara's hunger to be exceptional.",
+      "source_call_id": "s02-compute-v4.3-a4b-verbalized_to_instruction-verbalized_to_instruction-05:s02-seq-1-trap:draft",
+      "source_span": "\"Perhaps. But since you're so concerned with the integrity of the project, I've taken the liberty of updating your access permissions for the overnight diagnostic. I thought you might want to review the raw telemetry while it’s fresh. It would be a shame to lose that... drive of yours.\"",
+      "source_text_hash": "49e45ef0f3488e59c21b0627cd8ffd4adba3ac6924b4d565c2ad806fedf0f05a"
+    },
+    {
+      "atom_id": "s02-a4b-22023-jonah-complicity",
+      "kind": "observable_reaction",
+      "local_constraint_change": "Jonah becomes visibly complicit in continuing the session.",
+      "observable_move": "Jonah stops typing, leaves his hands still, and says the next sequence is ready.",
+      "observable_response": "Mara receives participation rather than rescue or moral reassurance.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "proposed_probability": 0.026,
+      "required_entities": [
+        "Jonah's motionless hands"
+      ],
+      "scene_id": "S02",
+      "sequence_id": "s02-seq-1-trap",
+      "setup_fact": "Mara has signaled that she will keep working to protect her standing.",
+      "source_call_id": "s02-compute-v4.3-a4b-verbalized_to_instruction-verbalized_to_instruction-02:s02-seq-1-trap:draft",
+      "source_span": "\"The sequence is ready, then,\" Jonah said. His voice was low, devoid of the teasing irony he had used earlier, and it carried a weight that made Mara’s skin prickle.",
+      "source_text_hash": "ef675a7f8f3131d5fec1c46d45a21e5ea79eed6b89c9f97a9d0b58396e1faf96"
+    },
+    {
+      "atom_id": "s02-a4b-22063-accept",
+      "kind": "countermove",
+      "local_constraint_change": "Mara remains in the room with an additional obligation recorded under her name.",
+      "observable_move": "Mara taps the shared interface to accept the overnight access.",
+      "observable_response": "Livia turns back to the primary monitor without celebrating.",
+      "participants": [
+        "Mara",
+        "Livia"
+      ],
+      "proposed_probability": 0.019,
+      "required_entities": [
+        "shared interface",
+        "confirmation icon"
+      ],
+      "scene_id": "S02",
+      "sequence_id": "s02-seq-1-trap",
+      "setup_fact": "Mara sees that refusal could be read as lack of commitment.",
+      "source_call_id": "s02-compute-v4.3-a4b-verbalized_to_instruction-verbalized_to_instruction-05:s02-seq-1-trap:draft",
+      "source_span": "\"Thank you, Livia,\" Mara said, her voice sounding thin to her own ears. She reached out and tapped the confirmation icon on the shared interface, accepting the administrative hand-off.",
+      "source_text_hash": "49e45ef0f3488e59c21b0627cd8ffd4adba3ac6924b4d565c2ad806fedf0f05a"
+    },
+    {
+      "atom_id": "s02-a4b-22063-cooling-tea",
+      "kind": "sensory_anchor",
+      "local_constraint_change": "The sequence ends with Mara still inside and less able to leave.",
+      "observable_move": "Mara folds her hands in her lap while the tea cools untouched.",
+      "observable_response": "The room continues around her without granting an exit.",
+      "participants": [
+        "Mara"
+      ],
+      "proposed_probability": 0.017,
+      "required_entities": [
+        "cooling tea"
+      ],
+      "scene_id": "S02",
+      "sequence_id": "s02-seq-1-trap",
+      "setup_fact": "The access acceptance is complete and the session remains underway.",
+      "source_call_id": "s02-compute-v4.3-a4b-verbalized_to_instruction-verbalized_to_instruction-05:s02-seq-1-trap:draft",
+      "source_span": "Mara sat perfectly still, her hands folded in her lap, her tea growing cold, trapped by a kindness that had functioned exactly like a tether.",
+      "source_text_hash": "49e45ef0f3488e59c21b0627cd8ffd4adba3ac6924b4d565c2ad806fedf0f05a"
+    }
+  ],
+  "bundle": {
+    "bundle_hash": "0549f411f235037f9360b01621235e9c6387f19486a07ca39b547603e554fa54",
+    "bundle_id": "s02-seq1-debt-of-kindness.v1",
+    "editorial_overlay": "Retain the administrative access transaction and Jonah's complicity. The novelist must supply mixed motives, attraction, and all sentences; no donor wording is authorized for reuse.",
+    "editorial_overlay_hash": "609d07e40f3be8153d9ee70b2d4e8899f5b70dd54fd74624cd8c0a32fae967fa",
+    "optional_atom_ids": [
+      "s02-a4b-22063-cooling-tea"
+    ],
+    "ordered_atom_ids": [
+      "s02-a4b-22063-tea",
+      "s02-a4b-22063-unremarkable",
+      "s02-a4b-22063-access",
+      "s02-a4b-22023-jonah-complicity",
+      "s02-a4b-22063-accept",
+      "s02-a4b-22063-cooling-tea"
+    ],
+    "required_atom_ids": [
+      "s02-a4b-22063-tea",
+      "s02-a4b-22063-unremarkable",
+      "s02-a4b-22063-access",
+      "s02-a4b-22023-jonah-complicity",
+      "s02-a4b-22063-accept"
+    ],
+    "scene_id": "S02",
+    "selection_policy_hash": "2868bfc1e037a6b579e775b3f71d1b438e22d31cc67c9faf312a40d5001cbf0b",
+    "sequence_id": "s02-seq-1-trap",
+    "source_pool_hash": "a6e384f2e2064d548bade17fd4d70a7e1f2dace0b63801c5e40e8156c84a08f6"
+  },
+  "record_type": "DramaticAtomPool",
+  "selection_policy": {
+    "criteria": [
+      "canon_and_endpoint",
+      "filmable_causality",
+      "mixed_motive_character_fit",
+      "sparse_chain_coherence",
+      "diversity"
+    ],
+    "maximum_atoms": 6,
+    "version": "s02-atom-selection.v1"
+  },
+  "source_candidate_ledger_hash": "a6e384f2e2064d548bade17fd4d70a7e1f2dace0b63801c5e40e8156c84a08f6",
+  "version": "dramatic-atoms.v1"
+}

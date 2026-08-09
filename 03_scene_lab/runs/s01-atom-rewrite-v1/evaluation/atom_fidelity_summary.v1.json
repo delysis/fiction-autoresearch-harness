@@ -1,0 +1,108 @@
+{
+  "candidates": [
+    {
+      "all_selected_atoms_realized": true,
+      "bundle_set_id": "s01-bundle-a-gift-status",
+      "candidate_id": "s01-a-gift-status.codex.v1",
+      "phases": [
+        {
+          "bundle_hash": "5fbd97e1487739d1c516e72c827dff88ba36ee8804127262d4c81ee7b3a6f0fa",
+          "phase_id": "arrival-status",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-a-gift-status.codex.v1.arrival-status.json"
+        },
+        {
+          "bundle_hash": "08fda51dd00b4ca18993cb38e3820fa0f39c11e0f18992c878edc242c94680e7",
+          "phase_id": "calibration-contact",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-a-gift-status.codex.v1.calibration-contact.json"
+        },
+        {
+          "bundle_hash": "a07738bd5815c7b587b96013798640d1fb780c5d7395294255b43688364354e6",
+          "phase_id": "counter-test-mystery",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-a-gift-status.codex.v1.counter-test-mystery.json"
+        }
+      ]
+    },
+    {
+      "all_selected_atoms_realized": true,
+      "bundle_set_id": "s01-bundle-b-somatic-control",
+      "candidate_id": "s01-b-somatic-control.codex.v1",
+      "phases": [
+        {
+          "bundle_hash": "2302967f7dfd2eaccd7859c80a64a0f03e5256953ed031da6ae63ff8d08fbec6",
+          "phase_id": "arrival-status",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v1.arrival-status.json"
+        },
+        {
+          "bundle_hash": "31e6fd35223a74def77a28ae83da841843e4c3823748a20c9f42dde4e6831ebf",
+          "phase_id": "calibration-contact",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v1.calibration-contact.json"
+        },
+        {
+          "bundle_hash": "9057e368878377b3159af77d5ef14cd22b3cf6e4edfc21e338011c1f49368a6c",
+          "phase_id": "counter-test-mystery",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v1.counter-test-mystery.json"
+        }
+      ]
+    },
+    {
+      "all_selected_atoms_realized": true,
+      "bundle_set_id": "s01-bundle-c-method-audit",
+      "candidate_id": "s01-c-method-audit.codex.v1",
+      "phases": [
+        {
+          "bundle_hash": "4c02777977205f85b5bb121f78e53307704eca8554cf1f11ab58bc6c6ed39661",
+          "phase_id": "arrival-status",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-c-method-audit.codex.v1.arrival-status.json"
+        },
+        {
+          "bundle_hash": "28a1027362b2894a409165b1866788a62ac72e100de33257fdc07fbc85ce2749",
+          "phase_id": "calibration-contact",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-c-method-audit.codex.v1.calibration-contact.json"
+        },
+        {
+          "bundle_hash": "aa5c355ed68ad292f19872ddde75bd671af28f2ae95ea63c2e1c7190658d90d7",
+          "phase_id": "counter-test-mystery",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-c-method-audit.codex.v1.counter-test-mystery.json"
+        }
+      ]
+    },
+    {
+      "all_selected_atoms_realized": true,
+      "bounded_revision_of": "s01-b-somatic-control.codex.v1",
+      "bundle_set_id": "s01-bundle-b-somatic-control",
+      "candidate_id": "s01-b-somatic-control.codex.v2",
+      "phases": [
+        {
+          "bundle_hash": "2302967f7dfd2eaccd7859c80a64a0f03e5256953ed031da6ae63ff8d08fbec6",
+          "phase_id": "arrival-status",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v2.arrival-status.json"
+        },
+        {
+          "bundle_hash": "31e6fd35223a74def77a28ae83da841843e4c3823748a20c9f42dde4e6831ebf",
+          "phase_id": "calibration-contact",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v2.calibration-contact.json"
+        },
+        {
+          "bundle_hash": "9057e368878377b3159af77d5ef14cd22b3cf6e4edfc21e338011c1f49368a6c",
+          "phase_id": "counter-test-mystery",
+          "realized": 4,
+          "report_path": "03_scene_lab/runs/s01-atom-rewrite-v1/evaluation/atom_fidelity/s01-b-somatic-control.codex.v2.counter-test-mystery.json"
+        }
+      ]
+    }
+  ],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "record_type": "S01AtomFidelitySummary",
+  "version": "s01-atom-fidelity.v1"
+}

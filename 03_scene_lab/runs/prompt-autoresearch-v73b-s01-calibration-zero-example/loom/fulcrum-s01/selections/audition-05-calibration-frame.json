@@ -1,0 +1,28 @@
+{
+  "audition_version": "movement-audition.v4-labor-cast-state",
+  "campaign_hash": "642f42658c3498f2322ffade797bca7cb9d4e405db552f608b75964709165e87",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "calibration-frame",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.calibration-frame.audition.1490001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.calibration-frame.audition.1490018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.calibration-frame.audition.1490035",
+      "eligible": false,
+      "score": 0.4853658536585366
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.labor-recognition.audition.1460052.readmit.hard-gate.v4.38-labor-action-triad",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "fcde3fa75c5b60d6a0edf81698952717ce0c839e531fd99ad9fb2d68f4977d47",
+  "version": "gemma-fiction-autoresearch.v4"
+}

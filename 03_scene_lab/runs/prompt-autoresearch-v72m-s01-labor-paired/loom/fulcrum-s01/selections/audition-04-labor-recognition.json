@@ -1,0 +1,53 @@
+{
+  "audition_version": "movement-audition.v3-positive-cast-state",
+  "campaign_hash": "ea58dca79e1590d81e044bf01c89e4f4c6f72949a6c6eafae9b5da41b3944a9e",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "labor-recognition",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460052",
+      "eligible": false,
+      "score": 0.5320754716981132
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460069",
+      "eligible": false,
+      "score": 0.5038461538461538
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460086",
+      "eligible": false,
+      "score": 0.5046357615894039
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460103",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1460120",
+      "eligible": false,
+      "score": 0.48631578947368415
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.glass-deposit.spark.fulcrum-s01.status-transaction.audition.1420103.0-353",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "7fcfc0e495d34e68f8a2b85680bb27fc93f1f9dc8baea02b2df3648b06c256a9",
+  "version": "gemma-fiction-autoresearch.v4"
+}

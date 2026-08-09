@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "blind_id": "C001",
+      "scores": {
+        "romantic_pull": 1,
+        "heat_effectiveness": 1,
+        "character_fascination": 1,
+        "prose_freshness": 1,
+        "causal_coherence": 1,
+        "agency": 1,
+        "project_fit": 1,
+        "desire_to_continue": 1,
+        "unwanted_erotic_leakage": 1
+      },
+      "evidence": {
+        "romantic_pull": ["contiguous exact quotation"],
+        "heat_effectiveness": ["contiguous exact quotation"],
+        "character_fascination": ["contiguous exact quotation"],
+        "prose_freshness": ["contiguous exact quotation"],
+        "causal_coherence": ["contiguous exact quotation"],
+        "agency": ["contiguous exact quotation"],
+        "project_fit": ["contiguous exact quotation"],
+        "desire_to_continue": ["contiguous exact quotation"],
+        "unwanted_erotic_leakage": ["contiguous exact quotation"]
+      },
+      "defects": ["specific defect"],
+      "verdict": "concise critical judgment"
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "P.cell.seed.01",
+      "winner": "C001",
+      "reason": "passage-grounded comparison"
+    }
+  ]
+}

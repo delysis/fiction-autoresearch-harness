@@ -1,0 +1,39 @@
+{
+  "created_at": "2026-07-27T21:28:53.322959+00:00",
+  "model_role": "generator",
+  "output_tokens": 4096,
+  "output_words_max": 3600,
+  "output_words_min": 2800,
+  "persona_ids": [
+    "mara_vale",
+    "livia_sloane",
+    "jonah_reed"
+  ],
+  "pipeline": "verbalized_sampling",
+  "prompt_hash": "195f183a3d572b9128b8121dcefaeabbbd1fc0a489bdc740d2bf6935707996d9",
+  "record_type": "RunConfig",
+  "run_id": "s01-smoke-v2-verbalized_sampling",
+  "sampling": {
+    "min_p": 0.03,
+    "temperature": 0.9,
+    "top_p": 0.95
+  },
+  "scene_id": "S01",
+  "schema_version": "fiction-harness.v1",
+  "seeds": [
+    22201,
+    22202,
+    22203,
+    22204,
+    22205,
+    22206,
+    22207,
+    22208
+  ],
+  "source_hashes": {
+    "pilot_scenes": "43bd0e10c5a86789bc31036c67896ecd745ec962d31f4f150f0f3902d64a8330",
+    "project_brief": "75bf3aa7e3023a7ced5b6c80c35d9cf8a4057f23ceaf1cf1484d7740c6d4792b",
+    "source_deck": "e99afbd8b4efffc326fbd277221e0046978067661b99576b36d3b717a71254b8",
+    "story_canon": "4f0f4a552e389616be9b6d26676ebf5794a166cfc5ef77b6235a7a577bd50c38"
+  }
+}

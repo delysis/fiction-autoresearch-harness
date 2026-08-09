@@ -1,0 +1,67 @@
+{
+  "aftermath": "Jonah walks Mara home without extracting a report. At her door, attraction spikes; they name a limit, and the scene grows more intimate because neither punishes it.",
+  "beat_map": [
+    "The session begins as care and gradually becomes a tribunal without changing tone.",
+    "Livia names accurate observations, then slides from observation to interpretation to command.",
+    "Mara’s explanations multiply and make her less legible to herself.",
+    "A loaded phrase produces a bodily clash that the group treats as confession.",
+    "Mara remembers the three-second beat and lets the room become silent.",
+    "Her one clean question exposes that Fulcrum has no category for a final no.",
+    "Miriam protects the exit without diagnosing anyone.",
+    "On the walk home, Jonah’s restraint makes Mara more sensually aware rather than less.",
+    "Mara names the doorway rule: he may kiss her only when both of them would still be glad if the kiss stopped immediately."
+  ],
+  "continuity_facts": [
+    "Miriam’s authority is proven through action before doctrine.",
+    "Livia both cares for Mara and uses care as control.",
+    "Mara discovers her signature verbal self-defense move.",
+    "The central couple’s heat ceiling becomes an explicit shared craft of attention.",
+    "The continuation contains one mutually chosen kiss that stops while still desired.",
+    "The local boundary crisis resolves with romantic hope-for-now while Fulcrum’s larger mystery remains open.",
+    "There is no consummation, graphic anatomy, or punishment for stopping."
+  ],
+  "desire": "Mara wants to preserve friendship with Livia, keep her place on the project, and understand the humiliating bodily reaction she had during the exercise.",
+  "function": "First boundary under pressure",
+  "heat_ceiling": "Maximum on-page erotic charge without graphic sex acts or genital description; the pilot’s central couple does not consummate.",
+  "obstacle": "Every attempt to leave is interpreted as evidence that she needs to stay. Her breath, posture, hesitation, and attraction to Jonah are read aloud as hidden content.",
+  "opening_image": "At 1:17 a.m., after six hours of alignment work, Livia closes the seminar-room door and says the session cannot end while Mara is still split.",
+  "pacing_targets": [
+    "0–10% exhausted late-night care",
+    "10–30% observation slides into interpretation",
+    "30–50% explanations and loaded prompts tighten the trap",
+    "50–68% romantic triangulation and project threat",
+    "68–82% Mara’s silence and clean question",
+    "82–92% Miriam opens the exit",
+    "92–100% Jonah’s restrained walk home, mutually chosen kiss, and doorway rule"
+  ],
+  "pov": "Mara",
+  "pressure_ladder": [
+    "Fatigue",
+    "public concern",
+    "loaded belief-report prompts",
+    "romantic triangulation",
+    "threat of project exclusion",
+    "spiritualized claim that refusal harms the group."
+  ],
+  "record_type": "SceneSpec",
+  "scene_id": "S02",
+  "schema_version": "fiction-harness.v1",
+  "source_ids": [
+    "MPC-02",
+    "MPC-03",
+    "MPC-04",
+    "MPC-11",
+    "MPC-13",
+    "MPC-19",
+    "LEV-03",
+    "LEV-04",
+    "LEV-05",
+    "LEV-07"
+  ],
+  "target_words_max": 3600,
+  "target_words_min": 2800,
+  "teaching_payload": "Trustworthy authority protects refusal. Silence breaks forced pace. Chastity creates room around arousal and converts it into perception and freely chosen action.",
+  "title": "The Doorway Rule",
+  "turn": "Mara stops explaining. She plants both feet, asks whether a no is data or a decision, and waits. Miriam opens the door from the outside and says a practice that cannot survive refusal cannot discover truth.",
+  "version": "1"
+}

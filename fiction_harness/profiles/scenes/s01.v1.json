@@ -1,0 +1,64 @@
+{
+  "record_type": "SceneCreativeProfile",
+  "scene_profile_id": "fulcrum-s01.v1",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "ontology_version": "rgo.v1",
+  "scene_id": "S01",
+  "coordinates": [
+    "heat.scene.high-tension",
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.charged-first-contact",
+    "intimacy-craft.interrupted-escalation",
+    "intimacy-craft.aftermath",
+    "intimacy-craft.no-consummation",
+    "tone.lush"
+  ],
+  "required": [
+    "heat.scene.high-tension",
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.charged-first-contact",
+    "intimacy-craft.no-consummation",
+    "trope.competence-attraction",
+    "trope.charged-restraint",
+    "world.supernatural.ambiguous"
+  ],
+  "preferred": [
+    "intimacy-craft.interrupted-escalation",
+    "intimacy-craft.aftermath",
+    "tone.lush"
+  ],
+  "prohibited": [
+    "heat.scene.open-door",
+    "intimacy-craft.consent-forward-consummation"
+  ],
+  "remove_coordinates": [],
+  "heat_target": "heat.scene.high-tension",
+  "intimacy_modes": [
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.charged-first-contact",
+    "intimacy-craft.no-consummation"
+  ],
+  "manifested_tropes": [
+    "trope.competence-attraction",
+    "trope.charged-restraint",
+    "trope.institutional-proximity"
+  ],
+  "pacing": [
+    "0–10% arrival and hook",
+    "10–25% Fulcrum enchantment",
+    "25–45% Livia's uncanny reads",
+    "45–65% wrist-contact exercise and erotic charge",
+    "65–82% Mara's control",
+    "82–94% partial collapse and residual mystery",
+    "94–100% Jonah's recognition, Mara's decision, and chapter hook"
+  ],
+  "tone": [
+    "tone.suspenseful",
+    "tone.uncanny",
+    "tone.lush"
+  ],
+  "atmosphere": "Beautiful institutional hospitality becomes social pressure: witnesses, status, and the compound's curated ease alter what each person can safely reveal.",
+  "relationship_result": "Mara and Jonah move from strangers to mutually recognizing possible allies; attraction and trust increase, but neither claims or resolves the relationship.",
+  "version": "1",
+  "schema_version": "fiction-harness.v1"
+}

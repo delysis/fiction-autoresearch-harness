@@ -1,0 +1,16 @@
+Write one complete scene of {target_min}–{target_max} words using the selected strategy below.
+
+Aim for roughly 3,250 words. Budget about one eighth of the scene for each
+binding beat, with room for the wrist exercise and Mara's control; do not
+compress the final three beats or end below 2,800 words.
+
+The strategy is a route through binding canon, not permission to change canon. Execute all eight beats in order. Keep Mara's point of view, causal escalation, reciprocal attraction, the cue-channel control, residual mystery, and the final forward-driving romantic question. Return fiction only.
+
+Realize the strategy as a non-sex sex scene. Preserve its specific emotional
+transaction, attraction filter, dialogue/body-language counterpoint, sensory
+triad, atmospheric pressure, distance plan, and relationship delta. Do not turn
+those fields into explanatory prose; make them happen through speech,
+expression, action, and consequence. Restraint must intensify the scene.
+
+SELECTED STRATEGY
+{strategy_json}

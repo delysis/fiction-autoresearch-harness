@@ -1,0 +1,32 @@
+{
+  "emotional_offer": "Sympathy/Observation",
+  "emotional_counteroffer": "Dismissal/Judgment",
+  "relationship_history": "Past romantic entanglement",
+  "present_stakes": "Social observation and character critique",
+  "dialogue_act_sequence": [
+    "Reporting event",
+    "Interruption/Emotional outburst",
+    "Re-entry/Attention seeking",
+    "Character introduction/Critique"
+  ],
+  "body_language_counterpoint": "Weeping vs. Seizing attention",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close to objective description",
+  "physical_logistics": [
+    "Dining setting",
+    "Room downstairs",
+    "Presence of multiple characters"
+  ],
+  "agency_actions": [
+    "Marie bringing dishes",
+    "Susie directing attention",
+    "Arthur observing"
+  ],
+  "relationship_delta": "None apparent",
+  "story_state_change": "Shift in focus to a new character",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

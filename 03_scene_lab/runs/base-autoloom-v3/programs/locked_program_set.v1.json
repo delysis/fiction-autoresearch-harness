@@ -1,0 +1,65 @@
+{
+  "campaign_hash": "9ac55bddf62bab363aa8b2ec5a1e34175f00b7373a47583f2c61928bcd1a328c",
+  "plan_set_hash": "077295a5d6fed047d0462d7cdce819882f2564fbb415383b5cab1d79ef399c75",
+  "programs": {
+    "married-explicit": [
+      {
+        "cell_id": "married-explicit",
+        "counteroffer": "Simon activates the release button with his teeth, then sets a clear limit to how far she must stretch before he surrenders.",
+        "embodied_engine": "Each release brings a new object: an empty water bottle, then a letter half-torn along the wrong fold, then a small red candle.",
+        "ending_motion": "Simon holds her open palm, and her skin stays warm enough to melt a little red wax left on his index finger.",
+        "image_system": "A loose water bead on Simon's lip, the first new line written over an old one, and the last bright drop before darkness.",
+        "offer": "Esther catches a falling object with her other hand and holds it just beyond Simon's reach, making every retrieval an offering.",
+        "pressure_engine": "Simon's prosthetic left hand locks on a shared object while testing a new grip mechanism, physically combining them without warning.",
+        "program_hash": "7fc7a662d63697c8b04f635f60a468f49d301b818cca1e3c3dda5a9fb3c04e83",
+        "program_id": "married-explicit.941003.1",
+        "proposal_seed": 941003,
+        "raw_proposal_hash": "55c03629423c8c328a342da823c1a008c683fd7351769bf3cad1e5f3e28484f6",
+        "reversal": "She lets the candle's red wax drip where both can see it before blowing it out and choosing another."
+      },
+      {
+        "cell_id": "married-explicit",
+        "counteroffer": "He locks the cuffs tightly, touching her shoulder before turning to face her.",
+        "embodied_engine": "The paper and wax seal warm between their arms as his breathing quickens; she can feel each word she didn't write becoming someone else's choice.",
+        "ending_motion": "Esther leans across their arms, sealing the paper back in wax with her fingertip, while Simon's gaze traces her moving lips and their joined hands press closer to the bed.",
+        "image_system": "Wax-sealed envelope, the warmth of a wine bottle, Simon's hands wrapped in white gauze.",
+        "offer": "She proposes the hand-lock and explains: \"We agreed years ago I wouldn't use our history against you, but there may be things I did not choose.\"",
+        "pressure_engine": "A wine box conceals an envelope labeled \"TO BE DESTROYED BY HER,\" creating three options: ignore it, open it together, or let either hand force the other through the lock.",
+        "program_hash": "e16a8456137e2f1b14ac5f2f3839489e00aedd1b22760d385975cb199a072918",
+        "program_id": "married-explicit.941083.1",
+        "proposal_seed": 941083,
+        "raw_proposal_hash": "7b4dc6f6a5bebecaa467255290c4bc206df135a1c0da4e93bfda01c6ad6717a6",
+        "reversal": "Instead of incriminating evidence, the envelope reveals Simon's deliberate plan to save her from an assignment that would have separated them permanently."
+      },
+      {
+        "cell_id": "married-explicit",
+        "counteroffer": "Simon finds a familiar knot she has worked into the sheets, lets his hand rest there as long as hers, then pulls her to safety with him.",
+        "embodied_engine": "Every tremor means a change: Simon's grip goes from casual to exact, then loose again, then hard again, then gone entirely.",
+        "ending_motion": "She presses the coin with both her initials between them, then moves the bed's damaged headboard against another wall.",
+        "image_system": "Loose change catching light in the cracks, a sharp crease in one torn picture, Simon's wristwatch counting wrong.",
+        "offer": "Esther turns on the light, holds his wrist, and makes a joke that she hopes will make him open his eyes.",
+        "pressure_engine": "The bed shakes from an earthquake shock small enough not to crack the plaster but large enough to wake Esther before Simon.",
+        "program_hash": "68c003eff54c130ec9b7081db7f1edad320cd647896ce6e6a70f10b8ecb1d731",
+        "program_id": "married-explicit.941003.2",
+        "proposal_seed": 941003,
+        "raw_proposal_hash": "55c03629423c8c328a342da823c1a008c683fd7351769bf3cad1e5f3e28484f6",
+        "reversal": "Simon finds his wallet in the rubble of their bedside table and hands her the bill marked <em>first touch</em>."
+      },
+      {
+        "cell_id": "married-explicit",
+        "counteroffer": "Simon turns his back to the light, then lets her catch his shadow while he shifts into another, better memory.",
+        "embodied_engine": "Each outline has two purposes: showing his old uniform shape, then erasing it in time to become hers.",
+        "ending_motion": "Esther reaches her hand to his bare chest as he steps through the beam of light to the other side.",
+        "image_system": "A branch moving in the dark, rain against the window, a long mark in his hand's shadow.",
+        "offer": "Esther draws the blind open halfway, makes the dim outline of a tree count as an open window for one story about an old trip.",
+        "pressure_engine": "The light flickers in one room and stays dim when they switch it off and on; their first touch searches for one another's exact shape in darkness.",
+        "program_hash": "f88af35a3eb4b67a15aa4b1ee9f38aa229250387e9e9864b5d3102d47e18b022",
+        "program_id": "married-explicit.941003.3",
+        "proposal_seed": 941003,
+        "raw_proposal_hash": "55c03629423c8c328a342da823c1a008c683fd7351769bf3cad1e5f3e28484f6",
+        "reversal": "The real outline shows the real story when he points to the dark wet spot and names the tree that brought them to the right town."
+      }
+    ]
+  },
+  "record_type": "AutoloomLockedProgramSet"
+}

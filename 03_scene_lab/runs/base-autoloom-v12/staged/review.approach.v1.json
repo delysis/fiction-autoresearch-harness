@@ -1,0 +1,43 @@
+{
+  "campaign_hash": "f4c505570224a29fa351fbe026915e75e0b37128a39a375fb8f404299dd7c1f3",
+  "decision_evidence": {
+    "approach.943001": "Specific named disclosure and diagnostic touch; one explanatory sentence remains a known defect.",
+    "approach.943075": "Cooler forensic branch retained as causal/diversity control; clear drive mechanics and no invented family subplot.",
+    "approach.943149": "Veto: scar catalogue, malformed image, and premature undressing.",
+    "approach.943186": "Strongest branch: counting rhythm, physiological evidence, marital question, white-hair image.",
+    "approach.943223": "Tea/copy branch has clean reciprocal decision pressure and a concrete overnight task.",
+    "approach.943260": "Veto: vague third party, repeated abstractions, weak forward action.",
+    "approach.943334": "Reject despite non-selection: unrecognized premature penetration during approach.",
+    "approach.943371": "Veto: invented parents and abstract omniscient explanation."
+  },
+  "limitations": [
+    "Primary-agent editorial judgment is not blind.",
+    "No model score was used to overwrite this review."
+  ],
+  "promoted": [
+    "approach.943001",
+    "approach.943075",
+    "approach.943186",
+    "approach.943223"
+  ],
+  "record_type": "AutoloomResearchLeadReview",
+  "review_hash": "c214c3aa00b3b6585d9763594de4dae00d80493310262f7330c36a9d433174d6",
+  "reviewed_candidate_ids": [
+    "approach.943001",
+    "approach.943038",
+    "approach.943075",
+    "approach.943112",
+    "approach.943149",
+    "approach.943186",
+    "approach.943223",
+    "approach.943260",
+    "approach.943334",
+    "approach.943371"
+  ],
+  "stage": "approach",
+  "vetoed_selected": [
+    "approach.943149",
+    "approach.943371",
+    "approach.943260"
+  ]
+}

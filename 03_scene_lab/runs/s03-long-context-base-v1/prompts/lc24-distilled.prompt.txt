@@ -1,0 +1,1984 @@
+# NOVELIST'S LONG-CONTEXT WORKING FILE
+
+This local working file precedes a manuscript continuation. Source passages are research, not continuable text. The final section is the only manuscript runway. The new passage owns every sentence and carries the present story movement to its local endpoint.
+
+
+# LOCAL CRAFT ARCHIVE
+
+The archive below is evidence about how intimate and romantic fiction works. Its plots, names, period dialect, explicit acts, and wording do not belong to the manuscript. Transfer mechanisms: character-specific emotional exchange; dialogue joined to body language; selective sensory logistics; atmosphere; narrative distance; interruption; restraint; and contact that changes the available choice.
+
+# Intimacy Craft Distillation v1
+
+## Purpose
+
+This document turns the transferable craft principles in Diana Gabaldon's
+*I Give You My Body* into generation, planning, evaluation, editing, and human
+appraisal machinery for the Fiction Lab.
+
+It is a conceptual distillation, not a style imitation. The harness stores no
+example passages from the book and never asks a model to sound like Gabaldon.
+
+## The governing idea
+
+The most useful correction is simple:
+
+> An intimate scene is an emotional transaction rendered through dialogue,
+> expression, action, selective sensation, and consequence.
+
+Physical desire makes the reader attend. It does not, by itself, give the scene
+content. The content is what the characters offer, request, conceal, refuse,
+misunderstand, recognize, or become able to choose.
+
+For this project, heat should be treated as a product rather than a quota:
+
+`heat ≈ character specificity × emotional exchange × embodied attention × consequence × imaginative space`
+
+If any factor approaches zero, adding more body description is usually
+counterproductive.
+
+## S01: the correct intimacy mode
+
+“The Calibration Game” is a **non-sex sex scene with premarital tension**.
+Its erotic action is distributed across three relational movements:
+
+1. Fulcrum offers beauty, belonging, and interpretive pressure. Mara offers
+   curiosity while withholding surrender.
+2. Livia turns wrist contact into a bid for authority and possession. Mara
+   answers through attraction, experimental control, and retained freedom.
+3. Jonah refuses to perform access to Mara and later recognizes what she did.
+   His restraint costs status and becomes more attractive than display.
+
+The scene succeeds when Mara ends both more attracted and more free. If desire
+makes her less observant, or if restraint merely stops momentum, the project’s
+central erotic-theological claim has failed on the page.
+
+## Scene design card
+
+Every intimate or intimacy-adjacent scene should answer these before prose:
+
+- **Intimacy mode:** consummated, non-consummated contact, non-sex sex scene,
+  premarital tension, aftermath, or invisible/offstage intimacy.
+- **Opening emotional offer:** what the point-of-view character risks, wants,
+  or asks without necessarily saying so.
+- **Counteroffer:** what the other person gives, withholds, or misreads.
+- **Ending state:** the exact feeling, trust, vulnerability, or freedom that
+  has changed.
+- **Attraction filter:** what this character notices, in what order, and why
+  those signals matter to this body and history.
+- **Dialogue-act sequence:** tease, probe, evade, invite, refuse, confess,
+  reassure, challenge, recognize, or repair.
+- **Body-language counterpoint:** where physical behavior contradicts,
+  intensifies, or complicates the words.
+- **Sensory triad:** three coherent channels selected for meaning, not
+  five-sense coverage.
+- **Atmospheric pressure:** how setting, weather, witnesses, clothing, sound,
+  privacy, or objects alter behavior.
+- **Distance plan:** the one detail that deserves a close-up and what the
+  narration should omit or leave to imagination.
+- **Physical logic:** enough spatial continuity to understand the action
+  without clinical choreography.
+- **Relationship delta:** a precise `before -> after`.
+
+## Prompting rules
+
+### Direct generation
+
+The direct prompt names the emotional transaction and intimacy mode, then asks
+the model to prove them through dialogue, expression, action, and consequence.
+It asks for a coherent sensory triad, not “use all five senses,” and focuses
+narrative closeness around the wrist detail whose meaning changes.
+
+### Verbalized Sampling
+
+Plan diversity now varies:
+
+- emotional purpose;
+- character-specific attraction;
+- dialogue/body-language structure;
+- sensory design;
+- atmospheric pressure;
+- narrative distance;
+- relationship outcome.
+
+This prevents “diversity” from collapsing into different props, jokes, or room
+layouts around the same generic escalation.
+
+At least two proposed strategies must make Jonah’s restraint the hottest
+action. At least two must make public observation or atmosphere carry pressure.
+
+### Actor–Novelist
+
+The Actor must produce the full scene design card before prose. The fast
+validator rejects traces missing any craft field. The Novelist must realize
+the chosen trace without turning it into explanatory prose or silently
+replacing restraint with conventional escalation.
+
+### Editing
+
+The editor protects successful emotional transactions before line polish. It
+repairs a mechanical passage by adding emotional action or cutting unnecessary
+choreography—not by adding euphemisms. It intensifies scenes through dialogue,
+atmosphere, implication, and changed choice before increasing explicitness.
+
+## Evaluation
+
+The 100-point rubric retains the original seven axes and weights so results
+remain comparable. Version 2 deepens the anchors rather than smuggling in a new
+objective.
+
+The decisive additions are:
+
+- `heat_with_agency` now requires a specific emotional exchange,
+  character-specific attention, dialogue/body counterpoint, consequential
+  contact, and productive restraint;
+- `prose_and_voice` now evaluates sensory selection, atmosphere, narrative
+  distance, and freedom from clinical choreography or ornate euphemism;
+- `theological_coherence` asks whether chastity enlarges perception, delight,
+  agency, and future possibility;
+- `instructional_fidelity` asks whether the wrist control is physically
+  intelligible and learned through embodied consequence;
+- `epistemic_texture` asks whether attraction sharpens rather than overrules
+  inquiry.
+
+Model judges report four to six decision-relevant craft diagnostics with exact
+passage evidence. Scores without supported passages remain invalid.
+
+## Pairwise selection priorities
+
+When comparing two otherwise competent scenes:
+
+1. Prefer the clearer and more consequential emotional transaction.
+2. Prefer character-specific desire over generic heat.
+3. Prefer selective sensation and active atmosphere over sensory quantity.
+4. Prefer restraint that increases pressure over restraint that ends it.
+5. Prefer contact that changes knowledge or relationship over prettier
+   description.
+6. Canon and agency outrank craft polish when they conflict.
+
+## Defect taxonomy
+
+The new high-value labels are:
+
+- `lust_as_emotion`
+- `mechanics_without_emotion`
+- `clinical_inventory`
+- `ornate_euphemism`
+- `disembodied_dialogue`
+- `silent_choreography`
+- `sensory_checklist`
+- `atmospheric_vacuum`
+- `static_contact`
+- `generic_attraction`
+- `restraint_without_tension`
+- `distance_monotony`
+- `unearned_lyricism`
+- `repeated_intimacy_template`
+- `logistics_failure`
+- `emotion_without_consequence`
+
+These labels should accumulate adjudicated examples. Over time, those examples
+become the most valuable few-shot material for both judges and targeted
+editors.
+
+## Human appraisal
+
+Blind readers now rate:
+
+- romantic pull;
+- specificity of the emotional exchange;
+- embodied charge;
+- whether restraint intensifies desire;
+- suspense, character fascination, trust, prose freshness, clarity, desire to
+  continue, and preachiness.
+
+They are also asked:
+
+- what each character wanted from the contact and what the other gave;
+- where restraint or omission intensified the scene and where it deflated it;
+- what changed;
+- what teaching they inferred;
+- which passage was hottest;
+- which passage felt false or over-explained;
+- which line remained memorable.
+
+This distinguishes “I liked it” from the mechanism that produced the response.
+
+## Current 24-scene audit
+
+The deterministic v2 audit shows that all three existing arms already cover
+the broad surface requirements: dialogue, multiple senses, atmosphere,
+consequential contact, restraint, and forward relationship pressure are
+present in every candidate.
+
+That is a coverage result, not a quality verdict. The direct arm contains more
+words and slightly more body action; the Actor–Novelist arm has the highest
+normalized atmosphere, dialogue, and emotional-marker density; the Verbalized
+arm is leanest on those surface measures. Character specificity, emotional
+quality, distance control, and physical intelligibility remain deliberately
+reserved for evidence-backed editorial and human judgment.
+
+The detailed, candidate-level audit lives in
+`04_review_governance/intimacy_craft_audit_v1.json`.
+
+## Future married-intimacy scenes
+
+The same system supports married sex without making “chaste” mean tepid:
+
+- define the emotional purpose of this encounter in the marriage now;
+- vary distance, atmosphere, initiative, humor, vulnerability, and aftermath;
+- treat familiarity as narrative leverage rather than an excuse to repeat a
+  physical template;
+- let trust permit greater specificity while keeping sensation selective;
+- make the scene change the marriage, plot, or spiritual action;
+- use invisible/offstage intimacy when aftermath and reader imagination are
+  stronger than explicit narration.
+
+The result should be hotter because character, freedom, history, and meaning
+have accumulated—not because the prose performs a longer inventory.
+
+**Table of Contents**
+
++ Title Page
++ Copyright
++ Contents
++ The Quick-Start Five-Minute Guide to Writing Sex Scenes
++ The One-Hour Expanded Guide to Writing Sex Scenes with Vivid Details, Striking Examples, and Entertaining Footnotes
++ 1: Character
++ 2: Terminology
++ 3: The Language of Sex Is Emotion
++ 4: It Isn’t All Up Close and Personal
++ 5: Nasty Sex
++ 6: Non-Sex Sex Scenes
++ 7: Atmosphere
++ 8: Repetition of Elements
++ 9: The Invisible Sex Scene
++ 10: How to Have Sex Like a Gay Man
++ 11: Mind Games
++ Appendix A
++ Acknowledgments
++ Other Titles
++ About the Author
+
+At the time of initial publication, the URLs displayed in this book link or refer to existing websites on the Internet. Penguin Random House LLC is not responsible for, and should not be deemed to endorse or recommend, any website other than its own or any content available on the Internet \(including without limitation any website, blog, or informational page\) that is not created by Penguin Random House.
+
+A Dell Ebook Original
+
+Copyright © 2016 by Diana Gabaldon
+
+Illustrations copyright © 2016 by Silvia F. Giachetti
+
+All rights reserved.
+
+Published in the United States by Dell, an imprint of Random House, a division of Penguin Random House LLC, New York.
+
+DELL and the HOUSE colophon are registered trademarks of Penguin Random House LLC.
+
+Grateful acknowledgment is made to Pamela Patchet for permission to reprint “Ode to a Penis.” Reprinted by permission of Pamela Patchet.
+
+This work contains excerpts from the following novels by Diana Gabaldon, published by Delacorte Press, an imprint of Random House, a division of Penguin Random House LLC: *Outlander*, copyright © 1991 by Diana Gabaldon; *Voyager*, copyright © 1994 by Diana Gabaldon; *Drums of Autumn*, copyright © 1997; *The Fiery Cross*, copyright © 2001 by Diana Gabaldon; *A Breath of Snow and Ashes*, copyright © 2005 by Diana Gabaldon; *The Scottish Prisoner*, copyright © 2011 by Diana Gabaldon; *Written in My Own Heart’s Blood*, copyright © 2014 by Diana Gabaldon.
+
+There are also excerpts from the e-novella “Virgins,” copyright © 2016 by Diana Gabaldon.
+
+## Ebook ISBN 9780399178573
+
+### Cover design: Tatiana Sayig
+
+Cover image: Shutterstock
+
+randomhousebooks.com
+
+v4.1
+
+a
+
+**Contents**
+
+*Cover*
+
+*Title Page*
+
+*Copyright*
+
+The Quick-Start Five-Minute Guide to Writing Sex Scenes
+
+The One-Hour Expanded Guide to Writing Sex Scenes with Vivid Details, Striking Examples, and Entertaining Footnotes
+
+1: Character
+
+2: Terminology
+
+3: The Language of Sex Is Emotion
+
+4: It Isn’t All Up Close and Personal
+
+5: Nasty Sex
+
+6: Non-Sex Sex Scenes
+
+7: Atmosphere
+
+8: Repetition of Elements
+
+9: The Invisible Sex Scene
+
+10: How to Have Sex Like a Gay Man
+
+11: Mind Games
+
+Appendix A
+
+*Acknowledgments*
+
+*Also by Diana Gabaldon*
+
+*About the Author*
+
+**THE QUICK-START FIVE-MINUTE GUIDE TO WRITING SEX SCENES**
+
+*\(for those in a hurry\)*
+
+Where most beginning writers screw up \(you should pardon the expression\) is in thinking that sex scenes are about sex. A good sex scene is about the exchange of emotions, not bodily fluids. That being so, it can encompass any emotion whatever, from rage or desolation to exultation, tenderness, or surprise.
+
+Lust is not an emotion; it’s a one-dimensional hormonal response. Ergo, while you *can* mention lust in a sex scene, describing it at any great length is like going on about the pattern of the wallpaper in the bedroom. Worth a quick glance, maybe, but essentially boring.
+
+So how do you show the exchange of emotions? Dialogue, expression, or action—that’s about the extent of your choices, and of those, dialogue is by far the most flexible and powerful tool a writer has. What people say reveals the essence of their characters.
+
+Example \(from *Outlander*\):
+
+Now, you do, of course, want to make the scene vivid and three-dimensional. You have an important advantage when dealing with sex, insofar as you can reasonably expect that most of your audience knows how it’s done. Ergo, you can rely on this commonality of experience and don’t need more than brief references to create a mental picture.
+
+You want to anchor the scene with physical details, but by and large it’s better to use sensual details rather than overtly sexual ones. \(Just read any scene that involves a man licking a woman’s nipples and you’ll see what I mean. Either the writer goes into ghastly contortions to avoid using the word “nipples”—“tender pink crests” comes vividly to mind—or does it in blunt and hideous detail, so that you can all but hear the slurping. This Is Distracting. Don’t Do That.\) So how *do* you make a scene vivid but not revoltingly so? There’s a little trick called the Rule of Three: if you use any three of the five senses, it will make the scene immediately three-dimensional. \(Many people use only sight and sound. Include smell, taste, touch, and you’re in business.\) Example \(from *The Scottish Prisoner*\):
+
+In essence, a good sex scene is usually a dialogue scene with physical details.
+
+Example \(from *Written in My Own Heart’s Blood*\):
+
+And, finally, you can use metaphor and lyricism to address the emotional atmosphere of an encounter directly. This is kind of advanced stuff, though.
+
+Example \(from *A Breath of Snow and Ashes*\):
+
+Like that.
+
+**THE ONE-HOUR EXPANDED GUIDE TO WRITING SEX SCENES WITH VIVID DETAILS, STRIKING EXAMPLES, AND ENTERTAINING FOOTNOTES**
+
+Let me preface things here by observing that human beings are hardwired to be interested in sex. This fact is not lost on advertisers, which is why you have skimpily clad young women straddling motorcycles in men’s magazines and shirtless young men with shaved chests selling \(if not precisely modeling\) clothes for Abercrombie & Fitch.
+
+Sex is right under food in the hierarchy of human desire, somewhere ahead of shelter, retirement savings, and indoor plumbing. People will watch *any* organisms have sex, including orangutans, barnacles, and earthworms—but we are, understandably, much more interested in watching other people Do It.
+
+This being so, you have a valuable tool \(but one to be used with discretion\) as a writer. If you write about sex, the majority of readers will pay attention, whether you’re any good at it or not. \(Some will avoid scenes involving sex altogether, of course, out of personal feelings of delicacy. If you’re writing for such an audience, you probably aren’t including a lot of sex. But then, you probably aren’t reading this book, either.\)
+
+If you’re going to use a power tool, though, you want to be sure it’s plugged in before you start. You also want to make sure you’re not standing barefoot in a puddle of water.
+
+I have, for example, had the pleasure of performing at the Saturday Night Sex Scene Readings at the 2012 Historical Novel Society Conference held in London. \(I have the dubious distinction of having accidentally started this event a few years ago, and now it’s a regular feature of the proceedings.\) This involved a number of brave \(or exhibitionistic\) authors who were willing to get up in front of two hundred people after a banquet and read a sex scene from their work. The results ranged from hilarity and sighing \(the “Ahhhh” kind, as opposed to the “Oh, Gaaaahd, isn’t it over yet?” kind\) to silent cringing \(as one attendee said to me, *apropos* a particular performance, “Marie Antoinette wouldn’t do that—she just *wouldn’t*\!”\).
+
+Bad writing is pretty much pandemic; you find it anywhere, in any genre. But while bad writing about murderers, spies, elves, or young people with self-esteem issues is merely boring—bad writing about sex is *hilarious*.
+
+So, how do you ensure that readers are riveted to the page rather than rolling on the floor or running off to find a spouse or friend to read the most memorably horrible phrases aloud to?
+
+Read on.
+
+## 1
+
+### CHARACTER
+
+*The Key to Good Sex*
+
+Everything in fiction writing comes down to character, and sex scenes are no exception. If you can replace your characters’ names with Dick and Jane \(or Harry Reid and Nancy Pelosi, say\) without substantially altering your scene—you need to think again. In good sex-scene writing, *this* particular scene could only have happened to *these* two people.
+
+The point here is that you need to know who your characters are and how they may \(or may not\) respond to the situation in which they find themselves. I *have* met writers who feel an obligation \(and a heavy one they find it\) to insert sex scenes here and there, in order to satisfy what they see as the demands of genre, editor, or readers, but such a sense of obligation should be resisted.
+
+I have one friend who wrote historical romances for years, without actually liking the genre very much. She said the historical research made it bearable to write the stories, but she simply couldn’t force herself to write \(what she referred to as\) “fuck scenes” after a few books. She’d put off the dire necessity as long as possible, procrastinating and moaning to her next-door neighbor \(who *did* like historical romances\) about how horrible this was. Finally the neighbor offered to write the “f-scenes” *for* her, an offer she hesitantly accepted, figuring it was the only way she was going to be able to finish the book she had under contract.
+
+In this situation, everything worked out happily: the neighbor \(who was also a writer, though hitherto unpublished\) had fun writing the sexual encounters, my friend then smoothed the style so that the inserted scenes fit with the rest of the book and she got paid, and a good time was had by all—including, we trust, the eventual readers.
+
+But the point here is only *you* can prevent forest—no, wait. Only you can decide—on behalf of the characters—whether they really want to have sex here or not. They may not. And if not, you’re going to have a terrible time trying to force them to do it. Personally, I advise against it. Just listen to them; they’ll tell you whether they want to, don’t want to, think they want to but would like to just make out for a little while first…
+
+Beyond deciding *whether* to have sex, the characters also decide *how*. Or they should. Sexual encounters can occasionally be impersonal, but unless that’s the deliberate effect you’re striving for \(and you might be, under some circumstances, though I certainly hope that neither you nor your characters are in the habit of picking up strangers in bars and going to bed with them\), you should treat a sexual encounter between your characters as an emotional, rather than a simply physical, transaction.
+
+This doesn’t necessarily mean pages and pages describing the characters’ feelings. When it comes to emotions, the less you say about them, the stronger the emotions themselves will play on the page.
+
+Bear in mind that dialogue is the single best and most economical tool you have in hand for describing characters; it’s also one of the best means of describing the emotional transaction taking place between them in a sexual context. Good characters talk in bed.
+
+One way to look at it is that a good sex scene is a dialogue scene with specific body language. Granted, people *don’t* always talk during sex, but they often exchange a few words prior to the Act, and your viewpoint character \(the person through whose eyes—and other bits—you’re experiencing the scene\) is usually thinking something, even if the something is pretty incoherent. And often there’s an exchange of views following the shared experience, as well.
+
+**Example 1: Sex Scene as Dialogue with Body Language**
+
+In this brief scene, husband and wife have been separated by various adventures and are reunited aboard ship in the West Indies.
+
+Excerpt from *Voyager*
+
+**Example 2:** ***Ex Post Facto*** **Sex Scene**
+
+Now, you’ll note here that even though the bulk of the following scene consists of dialogue, there *are* physical cues. There’s no description whatever of the surroundings; this isn’t important—the surroundings of a sex scene rarely are, and that’s because you want to be solidly inside the head of your viewpoint character. If he or she is intent on the experience at, er, hand, the color of the rug isn’t going to be noticed, unless he or she is facedown on it.
+
+Excerpt from *The Scottish Prisoner*
+
+Commentary: okay, see how that works? Other than the kiss, there’s *no* sexual contact/action going on in this at all. And yet it’s undeniably a sex scene and—judging from the effects on the audience when I read this one once during a writers’ conference panel on how to write gay characters—a reasonably effective one.
+
+There’s brief reference to what *has* taken place between them—straightforward but not grossly explicit—and what’s *about* to take place \(ditto\), and yet, what are we really looking at here? What’s important?
+
+It’s not what’s happened or what’s about to happen; what’s important is the sense of emotional uncertainty between the characters and the delicacy of the mutual trust being established.
+
+* * *
+
+## 2
+
+### TERMINOLOGY
+
+*What to Call the Object\(s\) in Question*
+
+When writing up notes for a workshop on sex scenes, I asked a group of online acquaintances what kinds of questions they might like to have answered in a workshop of this kind. A number of the questions were similar to these:
+
+**Answers from Diana**
+
+These aren’t absolute answers, of course, since circumstances alter cases—but in general…
+
+I think you *could* use “swollen member,” but probably in specific historical or cultural contexts rather than merely as a general term to refer to an erection. For instance, it would be in order for a male of the eighteenth or nineteenth century to refer to/think of his willy as his “member” \(or “privy member,” as I’ve seen it in even earlier sources—*Sodomy and the Pirate Tradition* being the reference that comes to mind there, though I’ve seen the term elsewhere. A pirate apparently also often referred to his penis as a “yard.” I don’t know whether this was meant by way of reference to a common three-foot measure or as comparison to a yardarm, but either way, it shows a certain sense of reckless overoptimism. Which I imagine you’d need to be a pirate, after all\).
+
+Ergo, a man suffering from extreme hydrostatic pressure might well touch his swollen member gingerly, or gasp with relief when his companion *finally* lays hand on his swollen member, *etc.* In such a context, it doesn’t seem jarring \(well, to me it doesn’t\)—whereas if you said something like, “She surrounded his swollen member with a mouth like velvet”…eh, not so much.
+
+**Part A:** ***The Membrum Virile*** **\(and we hope it is a member in good standing…\)**
+
+As for the Terminology of Genitalia…again, it’s largely a matter of context. I mentioned “willy,” above—it’s common usage \(especially in a British setting\), but you never see it used in a sex scene. It’s a fairly non-sexual reference for the member in question \(such males as I have on hand for immediate reference are inclined to use “crank” in a similar way\). “Putz” or “schlong”—again, to me—would imply that the speaker is specifically Jewish but also probably not referring to his you-know-what in a directly sexual manner, unless he’s being pretty crude about it. “Hey, baby, suck my schlong….” I mean…no. Not in the standard kind of sex scene, where you want the reader to feel kindly toward both parties and/or experience their emotions empathetically. \(But see also “Nasty Sex,” below.\) For what it’s worth, James Lee Burke \(wonderful writer, highly recommended\) always refers to a man’s penis as his phallus. While totally correct and non-slangy, I always find that a little startling. Perhaps because I’ve never personally encountered a man who used that particular term. Here, though, we have to consider character. Burke’s viewpoint character is often Dave Robicheaux, a Cajun lawman of fairly mature years and with a very formal sense of language. The language—and the phallus—are integral parts of Robicheaux, though they might sit oddly on another man.
+
+Ode to a Penis or
+
+Advice for Romance Writers
+
+Okay, back to business.
+
+Now, plainly, what a man calls his you-know-what is strongly reflective of his character. The man who refers to his companion as “Mr. Happy” is not the same sort of man who repressively calls it his “private part.”
+
+In practice…
+
+The male terms that can effectively be used for sexual description without making people snort coffee through the nose or make faces are pretty much limited to “cock,” “prick,” or—depending on culture and time period—“dick.”
+
+**Part B: Let Us Not Forget the Ladies**
+
+Female terms…You’d be surprised—or maybe not—to know how many people \(including women\) don’t know what a vulva *is*. Evidently a lot of people were Not Paying Attention during health class in junior high school.
+
+The problem with women’s parts, in terms of description, is that there’s only one common alternative to the Latin terms \(a few of the—justifiably—less common are provided for your viewing pleasure in the next sidebar\). The Latinate “vagina,” “vulva,” and “labia” are all pretty clinical-sounding \(“He wiggled his finger in my vulva…” Mmm…Possibly Not\), whereas the Anglo-Saxon monosyllable “cunt” sounds pretty crude.7, 8 We just don’t *have* ordinary, non-sexual terms for it—possibly because we are decently self-contained \(unlike men, for whom it’s always *out* there\) and thus don’t really need to refer to it in casual conversation, save in terms of occasional malfunction, in which case one commonly describes it in terms of the disorder: “I have a bad yeast infection,” “I have trich,” “Grandma stood up and her insides fell out,” *etc.*
+
+Another aspect of women’s genitalia is that they’re largely invisible. You can’t *tell*—by a glance at her private parts—whether a woman is aroused. Tactile inspection, now…
+
+BUT, because of that internalness and self-containment, there’s a deeper identification in sexual situations between the sexual organ\(s\) and the woman herself, which is why you can reasonably use locutions like, “He came into me with such a rush that I gasped.”
+
+Frankly, I think on the whole it’s better if you can describe sexual behavior in terms of the people rather than their parts: e.g., “He came into me” rather than “He slid his choad between the lips of my vulva.” I mean…really.
+
+* * *
+
+## 3
+
+**THE LANGUAGE OF SEX IS EMOTION**
+
+Now that we have the vocabulary firmly in hand \(look, it’s just not possible to talk about sex without *everything* sounding like a double entendre\), let’s see how to use it in context.
+
+As noted above, in a good sex scene you’re dealing with the emotions of the characters and not so much with the mechanics of what they’re doing.
+
+Note, also, that *because* people are naturally interested in sex, any emotional transaction that takes place in a sexual atmosphere will have a heightened impact.
+
+Note that a sex scene can also be used for any of the usual purposes as can a regular scene—exposition of plot, development of character, *etc.* You should probably not try to cram *too* much plot into a sex scene, though. It’s hard to make people pay sufficient attention to the finer points.
+
+Let’s return to the notion that we’re dealing principally with emotion rather than mechanics. This means you don’t need to spend pages and pages following the blazing trail of sensation as his fingertips gently explore the slopes of…Well, I mean, you don’t. But neither does this mean that you don’t need to say *anything* about what’s happening physically.
+
+By and large, you can “anchor” a sex scene for the reader by providing small cues regarding the physical action and allowing the reader’s imagination to fill in the rest.
+
+**Example 4: “Indian Agent”—Sex as Emotion with Physical Cues, Integrated with Plot**
+
+Now, here’s an example of a scene that has more than one purpose. Note in this example a\) how we shift the atmosphere to a tone of sexual suggestion via the cat, b\) how character is revealed through dialogue, c\) how the scene deals with the physical details of the encounter, and d\) how plot details are interwoven with the scene.
+
+Excerpt from *A Breath of Snow and Ashes*
+
+Commentary: This scene is evoking an earlier part of the story—the discovery of a murdered Dutch family in their burning cabin—and is laying the groundwork both for an oncoming major plot element \(Jamie’s becoming an Indian agent\) and for the emotional challenges these two events pose to the relationship between the characters.
+
+Notice that the emotion here—shifting from humor and playfulness to somber foreboding—is strictly of the “show, don’t tell” sort. If there’s true emotional content in a situation between characters, all you do is reveal it. As my husband \(who has a very acute literary eye\) remarks, “Pointing out the emotion in a scene is like laughing at your own jokes.”
+
+Once in a while—for clarity, say, or for the rhythm of a sentence—you might say something brief, like “Annoyance was getting the better of me,” but you really don’t need to point out strong emotion by saying anything explicit about it. If it’s there at all, you can trust the reader to see it.
+
+## 4
+
+**IT ISN’T ALL UP CLOSE AND PERSONAL**
+
+*Changing Focus*
+
+For years I’ve had two bamboo hangings on the wall behind my desk: one from Japan, one from China. The Japanese one is a view of Mount Fuji, with a wooded shore in the foreground, a pagoda peeking out of the trees, small white-sailed ships scudding across the water. Everything is soft, impressionistic, rendered in broad strokes.
+
+The Chinese one is a close-up of a flowering branch with birds. It’s done in exquisite detail; you can see the shading of individual petals, the iridescent feathers on the birds’ necks. Hundreds of tiny, precise brushstrokes.
+
+They’re both good pictures and both with a strong Asian influence \(naturally\). The major difference is the focus of each picture—long-shot vs. close-up.
+
+Focus is mechanical. You don’t want to keep the same focal length all the way through a scene; it’s tiring to the mental eye. You want to focus in on a small detail or an intense passage of dialogue, then pull back out to see what else is happening in the room, or go further in, to what’s happening in someone’s mind. Watch a good movie sometime without reference to what’s happening but only with attention to how it was photographed; you’ll see the change of focus—zoom in, pan out, close-up on face, fade to black, open from above—easily. You want to do that in what you write; it’s one of the things that keep people’s eyes on the page, though they’re almost never conscious of it.
+
+Effective fiction usually varies the focus. You don’t want to tell a whole story from an emotional distance; likewise, showing things in close-up becomes claustrophobic fast \(and if you want an air of menace or threat, that’s just what you do: keep the action and dialogue tightly focused in close-up\).
+
+Ergo—and this goes for any kind of scene, not just sex scenes—you want to vary the focus. If you start out in close-up—with a woman feeling her lover’s breath on her earlobe, say—you may then want to take a step back, and she hears the chime of church bells in the distance, reminding her that she’s committing a fearful sin—but then his mouth moves lower…and we’re back in close-up.
+
+When you’re writing about sex, you’re exploring the geography of intimacy, and you do this using the same techniques you use to maintain pacing and interest in any other narrative. Even though the physical arena may be constrained because of the scene’s intimate content, you still have the lovers’ minds as places to which you can change the focus.
+
+**Example 5: North Carolina Hoedown**
+
+Roger and Brianna are at a party in the backwoods of North Carolina, circa 1773, lying down to sleep in piles of hay under the night sky after a long day. She’s holding their child, Jemmy, curled against her, sound asleep.
+
+Note here a\) the small sensual details—not all of them directly sexual—used to create a sense of vividness and immediacy; b\) the inherent conflict in the situation \(i.e., she wants to have sex but doesn’t feel this is the time or place, whereas her husband is experiencing no such hesitations\) and how that plays out; c\) the dialogue between the lovers, which illustrates the conflict; d\) the strong interplay between the physical aspects and what she’s thinking \(this is the main change of focus in the scene, though there are small references to the surroundings, as well, reminding us that they aren’t alone\); and e\) the reference to another conflict from the backstory \(the fact that her husband’s voice has been damaged, affecting his sense of self-worth\) and how that plays into this encounter.
+
+Excerpt from *A Breath of Snow and Ashes*
+
+## 5
+
+### NASTY SEX
+
+As noted earlier, sex scenes are not invariably *good* sex scenes. The use of a sexual context heightens the natural conflict and interest of any kind of scene—and there are certainly scenes involving sex where the intent is not mutual satisfaction at all.
+
+In a nasty scene, above all, you don’t want to be pointing at the emotion. That should be *more* than obvious. Just as an effective advertisement or page layout includes a lot of white space, a powerful scene requires immense restraint. Show things as simply as possible. No editorial input from the author will heighten the effect. The white space is part of the layout, and the restrained language *is* part of the emotional fabric.
+
+Naturally, straightforward rape is the most common sort of nasty sex scene, but there are others. Ones in which the characters use sex as a weapon against each other, for instance—or ones in which there is simply a sexual context that makes the scene edgy or uncomfortable.
+
+Following are two pairs of scenes. The first of each pair is fairly simple: rape/nonconsensual sex. The second scene of each pair is one that followed, showing the effects/response/damage/repair—these also involving sex, whether explicit or allusive.
+
+**Example 6: Kidnap and Battery**
+
+In which Claire has been abducted from her home on Fraser’s Ridge, and ends up with a rope around her neck, fastened to a tree, and at the mercy of an assortment of men—some strangers, some known to her.
+
+Excerpt from *A Breath of Snow and Ashes*
+
+**Example 7: Rescue and Triage**
+
+In which Claire is rescued by her husband, Jamie, with a party of men from Fraser’s Ridge, who attack and kill most of the abductors. Jamie’s chief concern now is his wife. Safely home, what can he do to make her feel truly safe again? And, of course, it’s not only her feelings that he’s dealing with.
+
+Jamie recounts what happened just before Culloden, when he was attacked by two British soldiers on the hillside.
+
+Excerpt from *A Breath of Snow and Ashes*
+
+This is a rather long example—or, rather, examples—but included for assorted reasons.
+
+**Example 8: Bonnet and Brianna**
+
+In which Brianna, in search of her mother—and having seen Captain Bonnet in possession of her mother’s wedding ring—goes aboard his ship, at his invitation, and finds more than the ring. Bonnet attacks and threatens her, before proceeding to extract his notion of payment.
+
+Excerpt from *Drums of Autumn*
+
+**Example 9: Jamie and Brianna \(a Non-Sex Sex Scene\)**
+
+Excerpt from *Drums of Autumn*
+
+Commentary: In terms of technique, you’ll notice that both Example 6 and Example 8 are physically explicit, which most of the other sex scenes used as examples in this book are not.
+
+There are assorted reasons for doing \(or not doing\) that. As noted early on, a sex scene is an exchange of emotions, not bodily fluids. That doesn’t necessarily apply to this sort of scene \(rape, non-consensual sex, etc.\). There’s plenty of emotion, but it isn’t normally being exchanged; in fact, the communication is pretty much all one way.
+
+The party of the second part is certainly experiencing emotion, but it’s not being received by the party of the first part. We do, though, want that emotion to be perceived.
+
+As noted elsewhere, the best way to show emotion is to exercise restraint, and let the situation speak for itself. In the case of Example 8, we really don’t need to say much regarding Brianna’s emotions; it takes no imagination for the reader to put him/herself in that position.
+
+That being so, the careful detailing of the setting is a way both of immersing the reader in the situation and of simultaneously giving them enough distance from what’s going on that only brief \(though explicit\) physical details are enough.
+
+Another reason for explicit detailing in this sort of scene is the obvious; to make it shocking. Secondarily \(but as important\)—to make it unique.
+
+Without addressing the current political climate \(which has no relevance to this discussion\), rape is not a uniform crime. Non-consensual sex has as many variations as does “good” sex, and like any other good \(as in quality\) sex scene, it will be a scene that could only have happened between *these* two people, regardless of what it is that *does* happen.
+
+Now, if you will, contrast the “matching” scenes: Examples 7 and 9, which deal with the aftermath of rape and the response to it. In both cases, Jamie’s response is one of concern and close emotional attention, but the situations and the person assaulted are quite different—and thus, so is his response.
+
+In Example 7, told from Jamie’s point of view, he deals with the situation almost entirely in metaphor, speaking directly to the emotions involved—his, hers, and theirs.
+
+In Example 9, the viewpoint character is his daughter; we don’t see what he’s thinking, but only what he shows her. He’s worried about her and wants to help, but his own emotions are not the point. That being so, his daughter is the viewpoint character; it’s *her* emotions that the reader is also concerned with.
+
+Note that in both “recovery” examples, there are not many physical contact details. Even though very violent sex is implied in Example 8, the *only* physical detail given is that he feels the scrape of her torn nails on his back. We need that one vivid detail to anchor the scene in physical reality, even though we’re occupying an almost entirely emotional space.
+
+Example 9 is interesting because of the very specific physical details; they aren’t overtly sexual details, but they’re very edgy—definitely not the sort of thing your average father would do to his daughter. But this isn’t your standard father/daughter chat, either. Jamie has an important point to make, and can make it *only* by physical demonstration.
+
+Even though Examples 7 and 9 are quite different in style and execution, it’s notable that in both cases, Jamie approaches the problem in a physical context. He certainly talks to the two women—in different ways—but he has to pull them into a physical context in order for them to be able to deal with what was done to them physically. And in both cases, the basis of the encounter *is* the exchange of emotions.
+
+## 6
+
+### NON-SEX SEX SCENES
+
+Again, a sex scene is not just the traditional four legs in a bed. It’s possible to have an entire narrative suffused with sexual feeling \(example: *The Shadow of the Wind*, by Carlos Ruiz Zafón\) but that has relatively little in the way of direct sexual contact \(that book has precisely two scenes involving actual sex, each one about two paragraphs long\).
+
+It’s also possible to write a scene that deals explicitly with sex—and infuses the text with sexual feeling—but that isn’t a traditional sex scene at all.
+
+**Example 10: One-Sided Sex Scene**
+
+Here we have a man sitting in a meeting, watching the female police officer who’s conducting the briefing.
+
+Excerpt from *Broken Web*
+
+Commentary: okay, see how that works? There’s no interaction at all in this scene; the characters aren’t touching, talking—or even, directly, aware of each other. It’s not a “sex scene” in the classic sense of the word at all—and yet it certainly a\) gives the reader a sexual feeling, and b\) tells you quite a bit about the way this particular character feels for the woman he’s looking at as well as c\) something about his overall attitudes.
+
+This is also an example of distillation and metaphor, anchored in literalism and detail. What we have going on here is the overall notion of possession—physical and emotional—as an aspect of sex. And you notice \(I hope\) the last sentence, in which we realize that the male narrator is as much the possessed as he is the would-be possessor.
+
+This is why you use imagery when writing about sex; it’s a means both of evoking immediacy and of distilling emotion. That being so, though, you want to use it sparingly and with great deliberation. Be profligate with it, and the effect is like dousing yourself in a strong perfume or pouring liquid smoke on your steak; the sense of what you intended may still be there, but the additives are killing the taste.
+
+## 7
+
+### ATMOSPHERE
+
+*Evocation, Sensuality, Underpainting*
+
+Without being explicit at all, it’s possible to give a story a strong feeling of sensuality. This is done principally—and paradoxically—by practicing restraint, just as you do when depicting strong emotion.
+
+You don’t lard on adjectives, or even verbs. You pick precise details and use beautiful imagery—which is a lot of work but worth it. Now, how do you pick those details?
+
+I mentioned one application of the Rule of Three in “The Five-Minute Guide” at the beginning of this book, right? Remember that? A little trick I learned from Gustave Flaubert, who was certainly not the first writer to use it but might have been the first to explicate it. It’s simple: if you use any three of the five senses \(six, maybe, if you’re writing paranormal stories\), it creates a sense of dimensionality and reality in the scene.
+
+A lot of writers use only hearing and touch when writing about sex, because those seem the most important to them in such a context. All well and good, but look:
+
+**Example 11: Use of Senses**
+
+Excerpt from *The Fiery Cross*
+
+Commentary: okay, now that you’ve read the scene as a scene, let’s step back for a moment and look at what’s going on there, in the technical sense:
+
+\[Smell and touch are mingled through this one. And, naturally, we have hearing going throughout, from the dialogue, so needn’t mention anything explicit.\]
+
+\[Roughness/softness: contrasting touch, then “butterfly touch”—and that’s all. Only one adjective, and that one’s metaphorical.\]
+
+\[Touch and taste, very simple. What’s important through here is the dialogue; he’s concerned for her and intimately aware of her, without us having to say so.\]
+
+\[Touch again, but this is also a brief change of focus—moving from the closeness between them to an awareness of their surroundings.\]
+
+\[Smell, and specific details that invite you to imagine the scent itself—but what’s important here is her thought about “might perhaps be special.”\]
+
+\[Touch, and a physical cue that provides necessary logistical information regarding their relative positions and the fact that she’s naked.\]
+
+\[A rare instance of sight. Since it’s couched in terms of her response, we needn’t be literal about what she sees—we can rely on the reader’s own experience to fill in the details.\]
+
+\[Further logistics, emphasized by the “touch” details.\]
+
+\[Logistics/physical cue. Note that while this is not graphic at all, we have a perfectly clear vision of what he’s doing, owing to the combination of his remark—which makes it clear that he can smell her, and in a way he considers sexual—the touch of his hair on her thighs, and the sound of the floorboards.\]
+
+\[Change of focus, moving from the close-up personal details of touch to the visual impression of the sky outside—which gives us a nice metaphor to use simultaneously for the emotional content and the physicality of orgasm.\]
+
+\[Continuing the metaphor, and now changing the focus from “far off” \(outside our viewpoint character\) to a concentration on the immediate physical situation.\]
+
+\[One of the few explicit lines in the whole scene, which we need to make the position of the lovers clear—it being a rather unusual position.\]
+
+Okay, you see how that works? The language throughout is simple but clear and graceful. The physical cues here are important but also stated simply, with slight excursions into lyrical metaphor during the parts that would otherwise be gross. That restraint gives the scene a lot of power and allows the dialogue to show \(not tell\) us the emotional content.
+
+## 8
+
+### REPETITION OF ELEMENTS
+
+*The Basic Rule, Rule of Three Variation*
+
+One of the general patterns of good \(i.e., striking and memorable\) writing is the effect of repetition. If you use a certain element—a plot device, an image, a noticeable phrase*—once*, readers may or may not notice it consciously, but it doesn’t disturb the flow of their reading. If you use that element *twice*, they won’t notice it consciously—but they will notice it subconsciously, and it will add to the resonance of the writing or to their sense of depth and involvement \(and if it’s a plot device, it will heighten the dramatic tension\).
+
+But if you use that element *three* times, *everybody* will notice it the third time you do it.
+
+This is why so many classic jokes have a three-step structure: A priest, a minister, and a rabbi play golf…A Scotsman, an Englishman, and an Italian are flying in a plane…And the punchline always comes at the third iteration.
+
+Now, it’s much easier to use this version of the Rule of Three when you’re writing comedy, because you want the reader to notice the repetition; that makes it funnier. It’s a lot harder to use it effectively when writing dramatic or serious stuff, because noting the repetition consciously will pull the reader out of the spell you’re weaving around them. Using something twice, though, is usually effective in creating resonance in a serious text—particularly if you can repeat something without repeating it literally, word for word.
+
+I mentioned Carlos Ruiz Zafón’s *The Shadow of the Wind* earlier. This is a terrifically sensual book, lush with imagery. It contains a lot of water imagery—flowing water, ornamental pools and fountains, icicles, frozen lakes, *etc.* So much water imagery that you don’t notice a particular statue—never described—that’s toppled over and is sunk in a fountain. The first time, it’s just part of the background atmosphere; you don’t notice it consciously. The second time it’s mentioned, it’s described with slightly different language and has a bit of action/reaction attached to it—a character swerves to avoid it, I think—and since your eye is on that bit of action, you don’t really notice the statue and its protruding stub of sharp, broken marble. Some hundred pages farther on, the story reaches its climax, and you find out just why that statue in the pool is there.
+
+## 9
+
+### THE INVISIBLE SEX SCENE
+
+*When, Why, and How to Shut the Door*
+
+When \(and why\) do you Tell All, and when do you Stop\! In the Name of Love?
+
+Well, that depends on a lot of things:
+
+If you’re not dealing with genre expectations, consider whether you want to use sex in your story and how important it may be. If you’re dealing with characters who have an ongoing relationship that involves sex—whether consummated or not—that feeling will probably suffuse their story, even if you have no direct “sex scenes” as such.
+
+**Example 12: Premarital Tension**
+
+Excerpt from *Written in My Own Heart’s Blood*
+
+**The Paradox of Clean Smut vs. Novelistic License**
+
+We must make a distinction between erotica and sex in the service of a larger story. One such—really paradoxical—distinction is that in today’s market, publishers of so-called erotica tend to be very \(you should pardon the expression\) “firm” about the kinds of situations you can and can’t use. I.e., all sexual encounters must be clearly consensual, including those that involve bondage or violence. But you can do *anything* in “straight” fiction.
+
+On the whole, erotica has less context than fiction does. Sex scenes in fiction don’t take place in a vacuum, whereas erotica often does.
+
+**Example 13: Sex without Emotion**
+
+The thing to note about this excerpt is that it’s definitely not a sex scene involving positive emotion or mutual attraction. The point of this scene is a\) the advancement of plot and b\) further revelation of character. Also note the physical details, which are brief, but…er…evocative.
+
+Excerpt from *A Breath of Snow and Ashes*
+
+## 10
+
+**HOW TO HAVE SEX LIKE A GAY MAN**
+
+*Or Any Gender/Orientation Other Than Your Own*
+
+When I first began writing Lord John’s adventures, I mentioned the story and its protagonist—with my concerns regarding writing effectively about Lord John’s sex life—to a good friend of mine, a gay man with whom I used to do Perpetual Adoration. \(This is a Catholic devotion, wherein parishioners who are so inclined sign up for an hour each week, during which they come to sit quietly before the Blessed Sacrament and pray or meditate.\)
+
+The next week, when I came to church, I met JohnMichael in the parking lot, and he stopped me, saying he had something for me. Pulling a parcel wrapped in blue plastic out of the trunk of his car, he thrust it into my hands, saying, “I don’t really read magazines like this anymore, but I thought you should have them for your research. But I really can’t take them inside with Jesus\!”
+
+While the magazines made interesting reading, all right, the only real revelation was the apparent fascination gay men have for penis size. I mean, given the logistics of non-oral male homosex, you’d think a thirteen-inch dick was the *last* thing one would want thrust upon one’s attention, but noooo…11
+
+The point here is that the physical logistics are important—in that you do want to get them right—but this is largely a matter of research and is not truly important in writing a good sex scene. What *is* important—as with any other sex scene—is the emotions of the people involved.
+
+To some extent, emotions are universal and can be treated that way; no matter what the participants’ orientation or preference, they have sex for the same reasons and can experience the same array of emotions in the process. But there are three important distinctions to be made:
+The things that make people attractive to each other naturally vary from individual to individual—but there tend to be patterns. Whether heterosexual men prefer large breasts on a woman or not, they almost always notice them. Likewise, buttock shape and size and the ratio of waist to hip.
+
+Homosexual men might notice a woman’s general attractiveness but don’t \(usually\) pay a lot of attention to her secondary sex characteristics, nor do they find these sexually attractive, naturally enough.
+
+Once, when participating on a panel about how to write gay characters \(everyone else on the panel *was* gay, as was most of the audience\), I said frankly to the audience, “I’m obviously not a gay man—but I do share with you guys a visceral appreciation of what makes men sexually attractive.”
+
+Now, I honestly *don’t* know what makes women sexually attractive and for that reason don’t normally write lesbian characters. I could find *out* and probably feel my way into such a character, but without a pressing need, I haven’t gone there yet.
+
+The point is that you need to think yourself into the mind and skin of the person you’re writing about, which means imagining not only their personality but the specific physical characteristics that are peculiar to them. It’s useful to read widely and *notice* how men and women \(and gay men and lesbians, or bisexuals, or whoever\) write about sensuality, as well as about sexual experiences.
+
+Men have external genitalia, while women have internal genitalia. This simple difference makes a lot of difference in how they write about themselves—and how you might write about your characters. Male writers don’t often address internal sensation in a character, because they don’t experience it \(and probably often don’t realize consciously that it’s there\). This accounts for a lot of Really Terrible sex scenes written by men \(if you look at the “Bad Sex-Scene Awards” in any given year, you’ll see that the vast majority are done by male writers\).
+
+I have a good friend, a gay man, who for some time wrote mystery novels involving a gay protagonist and his friend/occasional sidekick, a lesbian Elvis impersonator. I recall a long exchange of informational emails in which we described to each other just what the physiological aftereffects of rough sex \(not rape\) feel like. He had no idea that the uterus and cervix had any role in sexual response, while I was vastly enlightened regarding the multiple uses of a prostate.
+
+What I mean to say is, you can *find out* what you need to know regarding unfamiliar sexual territory—and I strongly recommend that you do, if you’re going to write about it. That silly aphorism “Write what you know” would be much better rephrased as “Don’t write about stuff you *don’t* know about yet.” But you can find out things you don’t know.
+
+Now, as to number 3, above…owing to the cultural context in which your characters may find themselves, a homosexual person or one of markedly different orientation may well not be able to express his or her orientation openly, may find it difficult to make connections with potential sexual partners, and may have All Kinds of Trouble as a consequence of conducting a sub-rosa sex life.
+
+These circumstances in turn may well affect the emotions of the characters in question. If they have difficulty in finding a long-term partner, their encounters may be intense but brief, may be superficial and distant, may leave them dissatisfied \(in a way that affects their behavior\), and so on. The essential person remains what he or she is—but the circumstances may well affect their sexual expression. \(This is, of course, true of heterosexual people, too.\)
+
+* * *
+
+## 11
+
+### MIND GAMES
+
+*Or What Would Your Mother Say?*
+
+It’s very daunting to consider writing about sex with the shades of people you know looking over your shoulder. So tell yourself—and mean it—that no one is going to see it. Nobody *needs* to see it.
+
+It’s just you and the paper. Remind yourself that nobody *can* see it but you. You can write anything you please, and throw it away, or hide it in a drawer.
+
+Once you *have* written it, it becomes easier to perceive it as something separate from yourself. But you do need to let any piece of writing separate, mentally, before you’re truly capable of judging its merit. With this in mind, you figure nobody’s going to see this scene you’re writing—unless it turns out to be Really Good. And you don’t need to decide *that* until later.
+
+It’s just you and the book, alone together. Nobody’s going to see *anything* the two of you do together. So relax. \(Lock the door, if you live with people who might sneak up and read over your shoulder.\) Then go thoroughly into the point of view of one character; see what they see, feel what they feel, and write down such details as make an impression. \(NB: I have seen sex scenes written effectively using the viewpoints of both characters, with emotions and thoughts floating back and forth. I don’t do it myself, but only because it doesn’t feel natural to me. It needs to feel very smooth and undistracting if it’s going to work.\) And remember: this is an art, not a science. There are discernible techniques and patterns, but any good sex scene—just like any real-life encounter between real people—is going to be unique.
+
+## APPENDIX A
+
+All the Sex Scenes in the Outlander Books Courtesy of \(and with comments by\) Vicki Pack **HC / TR page \#**
+
+## OUTLANDER
+
+**Ch. 2 - Standing Stones** \(Frank & Claire\) p. 33
+
+**Ch. 15 - Revelations of the Bridal Chamber** \(Wedding Night I\) p. 205
+
+**Ch. 15 - Revelations of the Bridal Chamber** \(Wedding Night II—Teeth\) p. 209
+
+**Ch. 16 - One Fine Day** p. 224
+
+**Ch. 17 - We Meet a Beggar** \(Does it ever stop?\) p. 239
+
+**Ch. 18 - Raiders in the Rocks** \(Slippery as waterweed\) p. 250
+
+**Ch. 20 - Deserted Glades** \(Coitus interruptus\) p. 262
+
+**Ch. 23 - Return to Leoch** \(I canna be gentle\) p. 318
+
+**Ch. 24 - By the Pricking of My Thumbs** \(Butterflies\) p. 336
+
+**Ch. 24 - By the Pricking of My Thumbs** \(Areola\) p. 361
+
+**Ch. 39 - To Ransom a Man’s Soul** \(Stone and bone\) p. 597
+
+**Ch. 40 - Absolution** p. 615
+
+**Ch. 41 - From the Womb of the Earth** \(The abbey hot spring\) p. 625
+
+## DRAGONFLY IN AMBER
+
+**Ch. 4 - Culloden** \(Claire’s dream\) p. 54
+
+**Ch. 6 - Making Waves** p. 74
+
+**Ch. 13 - Deceptions** p. 197
+
+**Ch. 17 - Possession** p. 245
+
+**Ch. 23 - The Best-laid Plans of Mice and Men** p. 338
+
+**Ch. 28 - The Coming of the Light** \(Claire & the King\) p. 403
+
+**Ch. 29 - To Grasp the Nettle** p. 411
+
+**Ch. 36 - Prestonpans** p. 529
+
+**Ch. 45 - Damn All Randalls** p. 678
+
+**Ch. 46 - Timor Mortis Conturbat Me** p. 698
+
+**Ch. 46 - Timor Mortis Conturbat Me** \(Once more\) p. 701
+
+## VOYAGER
+
+**Ch. 3 - Frank and Full Disclosure** \(Frank & Claire\) p. 34
+
+**Ch. 6 - Being Now Justified by His Blood** \(Jamie & Mary MacNab\) p. 73
+
+**Ch. 11 - The Torremolinos Gambit** \(Jamie’s dream\) p. 143
+
+**Ch. 14 - Geneva** p. 172
+
+**Ch. 25 - House of Joy** \(It’s like bicycle riding\) p. 279
+
+**Ch. 33 - Buried Treasure** p. 415
+
+**Ch. 33 - Buried Treasure** \(What, again?\) p. 425
+
+**Ch. 33 - Buried Treasure** \(Naked women and food\) p. 426
+
+**Ch. 34 - Daddy** p. 435
+
+**Ch. 44 - Forces of Nature** \(*Ifrinn\!*\) p. 570
+
+**Ch. 52 - A Wedding Takes Place** \(Jamie’s plans and noises Claire doesn’t make\) p. 668
+
+**Ch. 56 - Turtle Soup** p. 728
+
+**Ch. 57 - Promised Land** \(Blue Mountain House\) p. 737
+
+**Ch. 59 - In Which Much Is Revealed** p. 773
+
+## DRUMS OF AUTUMN
+
+**Ch. 2 - In Which We Meet a Ghost** \(On a rock, again\) p. 41
+
+**Ch. 2 - In Which We Meet a Ghost** \(It’s much nicer with a man\) p. 45
+
+**Ch. 16 - The First Law of Thermodynamics** p. 253
+
+**Ch. 16 - The First Law of Thermodynamics** p. 258
+
+**Ch. 17 - Home for the Holidays** \(Roger & Brianna\) p. 278
+
+**Ch. 21 - Night On a Snowy Mountain** p. 335
+
+**Ch. 23 - The Skull Beneath the Skin** \(Grease for the gander\) p. 366
+
+**Ch. 40 - Virgin Sacrifice** \(Roger & Brianna\) p. 562
+
+**Ch. 45 - Fifty-Fifty** \(Brianna’s rape\) p. 637
+
+**Ch. 53 - Blame** \(Longhouse\) p. 724
+
+**Ch. 67 - The Toss of a Coin** \(Roger & Brianna—It was red, by God\) p. 861
+
+**Ch. 68 - Domestic Bliss** p. 866
+
+## THE FIERY CROSS
+
+**Ch. 6 - For Auld Lang Syne** \(Once more before we quit\) p. 66
+
+**Ch. 13 - Beans and Barbecue** \(Butter churn\) p. 136
+
+**Ch. 16 - On the Night That Our Wedding Is on Us** \(Roger & Bree—I always sing for you, hen\) p. 156
+
+**Ch. 18 - No Place Like Home** \(Balm\) p. 180
+
+**Ch. 20 - Shooting Lessons** \(Roger & Bree\) p. 205
+
+**Ch. 26 - The Militia Rises** p. 265
+
+**Ch. 40 - Duncan’s Secret** \(Against a tree\) p. 433
+
+**Ch. 47 - The Lists of Venus** \(Roger & Bree\) p. 475
+
+**Ch. 49 - In Vino Veritas** \(The stables\) p. 488
+
+**Ch. 57 - Now I Lay Me Down to Sleep** \(Roger & Bree—That what you wanted?\) p. 554
+
+**Ch. 80 - Creamed Crud** \(Roger & Bree\) p. 690
+
+**Ch. 85 - Hearthfire** p. 733
+
+**Ch. 89 - The Moons of Jupiter** \(Roger & Bree—Frustration\) p. 759
+
+**Ch. 93 - Choices** p. 797
+
+**Ch. 99 - Brother** \(Fergus’s song\) p. 873
+
+**Ch. 99 - Brother** \(Thoughts of Laoghaire\) p. 874
+
+**Ch. 107 - Zugunruhe** p. 943
+
+***A BREATH OF SNOW AND ASHES***
+
+**Ch. 6 - Ambush** \(Roger & Bree—She got her corn ground\) p. 51
+
+**Ch. 7 - James Fraser, Indian Agent** \(The forfeit\) p. 57
+
+**Ch. 14 - People of the Snowbird** \(Ian, there is a woman in my bed\! Well, two actually.\) p. 95
+
+**Ch. 16 - *****Le Mot Juste*** \(On your knees, *a nighean*. Now.\) p. 111
+
+**Ch. 20 - Dangerous Gifts** \(What I’d give for a quarter of an hour alone wi’ ye’, Sassenach\!\) p. 130
+
+**Ch. 29 - Perfectly Fine** p. 260
+
+**Ch. 35 - *****Laminaria*** \(Fergus & Marsali\) p. 316
+
+**Ch. 36 - Winter Wolves** \(Ian & Emily\) p. 322
+
+**Ch. 40 - Bird-Spring** \(Greased lightning\) p. 362
+
+**Ch. 47 - Bees and Switches** \(Ian & Jenny\) p. 413
+
+**Ch. 66 - The Dark Rises** \(I missed ye, Sassenach\) p. 586
+
+**Ch. 72 - Betrayals** \(Duncan & Phaedre\) p. 650
+
+**Ch. 73 - Double-Dealing** \(Lizzie & the twins\) p. 660
+
+**Ch. 98 - To Keep a Ghost at Bay** p. 829
+
+**Ch. 102 - *****Anemone*** \(Bonnet & Eppie\) p. 846
+
+**Ch. 119 - Loth to Depart** p. 952
+
+## AN ECHO IN THE BONE
+
+**Ch. 5 - Morality for Time-Travelers** p. 53
+
+**Ch. 8 - Spring Thaw** p. 89
+
+**Ch. 11 - Transverse Lie** \(In the barn\) p. 120
+
+**Ch. 19 - Ae Fond Kiss** \(Toe kissing\) p. 196
+
+**Ch. 50 - Exodus** \(In the garden\) p. 476
+
+**Ch. 68 - Despoiler** \(Buffalo robe\) p. 600
+
+**Ch. 79 - The Cave** \(The loch\) p. 688
+
+**Ch. 85 - Son of a Witch** \(Roger & Bree\) p. 718
+
+**Ch. 95 - Numbness** \(Claire & John\) p. 777
+
+**Ch. 100 - Lady in Waiting** \(The infamous hand job\) p. 798
+
+***WRITTEN IN MY OWN HEART’S BLOOD***
+
+**Ch. 18 - Nameless, Homeless, Destitute, and Very Drunk Indeed** \(William - “Unhand my testicles if you please, madam.”\) p. 108
+
+**Ch. 24 - Welcome Coolness in the Heat, Comfort in the Midst of Woe** \(The potting shed\) p. 156
+
+**Ch. 47 - Something Suitable in Which to Go to War** \(Never slept better\) p. 276
+
+**Ch. 55 - Vestal Virgins** \(“Oh, God”\) p. 322
+
+**Ch. 65 - Mosquitos** \(Oil of peppermint\) p. 372
+
+**A Coda in Three-Two Time** \(Denzell & Dorothea\) p. 539
+
+**A Coda in Three-Two Time** \(Ian & Rachel\) p. 540
+
+**Ch. 104 - The Succubus of Cranesmuir** \(Buck & Geillis—“Bare as an egg, and just as bald, too”\) p. 594
+
+**Ch. 113 - Thanks for All the Fish** \(Common magic\) p. 645
+
+**Ch. 115 - The Raveled Sleeve of Care** \(Ian & Rachel—an intimacy of the body\) p. 656
+
+**Ch. 140 - Woman, Wilt Thou Lie with Me?** \(Ian & Rachel—Here’s to you, Mrs. Sylvie\) p. 788
+
+**Ch. 143 - Interruptus** \(A bit of help\) p. 802
+
+## VIRGINS
+
+**Mathieu & the prostitute** \(nobody says no to me\!\) p. 490 \(in HC of *Dangerous Women*\) **Jamie** \(dream tryst with the snake-demon\) p. 501
+
+**Young Ian and Rebekah** \(uncircumcised snake\) p. 505
+
+## THE SCOTTISH PRISONER
+
+**Ch. 1 - April Fool** \(the memory of her mouth\) p. 3
+
+**Ch. 9 - Eros Rising** \(John & Stephan—It’s a long walk to Trier.\) p. 119
+
+**Ch. 41 - A Moonlicht Flight** \(Isobel & Wilberforce\) p. 489
+
+## ACKNOWLEDGMENTS
+
+The author’s deepest gratitude and thanks to…
+
+…Pamela Patchet, for graciously allowing me to quote \(in its entirety\), her delightful “Ode to a Penis”…
+
+…Vicki Pack, for her kind diligence in assembling a complete spreadsheet of all the sex scenes in the main *Outlander* novels, plus those from *Virgins* and *The Scottish Prisoner…*
+
+…Linda Lowen, for her generous permission to use her carefully compiled lists of genital synonyms…
+
+…Silvia Giachetti, for allowing me to punctuate this book with her marvelous illustrations…
+
+…John L. Myers, for his many years of friendship and for many memorably frank discussions about What It Feels Like…
+
+…John Michael Capaldi, for his vividly useful descriptions and the instructive publications…
+
+…and my husband, Doug Watkins—thanks for the Raw Material.
+
+BY DIANA GABALDON
+
+in chronological order *Outlander*
+
+*Dragonfly in Amber*
+
+*Voyager*
+
+*Drums of Autumn*
+
+*The Fiery Cross*
+
+*A Breath of Snow and Ashes* *An Echo in the Bone*
+
+*Written in My Own Heart’s Blood* *The Outlandish Companion \(nonfiction\)* *The Exile \(graphic novel\)* *The Outlandish Companion, Volume Two \(nonfiction\)* *“I Give You My Body…” \(nonfiction\)* in chronological order
+
+*Lord John and the Hellfire Club \(novella\)* *Lord John and the Private Matter* *Lord John and the Succubus \(novella\)* *Lord John and the Brotherhood of the Blade* *The Custom of the Army \(novella\)* *Lord John and the Hand of Devils \(collected novellas\)* *The Scottish Prisoner*
+
+*A Plague of Zombies \(novella\)* Other Outlander-related novellas
+
+*A Leaf on the Wind of All Hallows* *The Space Between*
+
+*Virgins*
+
+PHOTO: © DOUG WATKINS
+
+DIANA GABALDON is the \#1 *New York Times* bestselling author of the wildly popular Outlander novels—*Outlander, Dragonfly in Amber, Voyager, Drums of Autumn, The Fiery Cross, A Breath of Snow and Ashes* \(for which she won a Quill Award and the Corine International Book Prize\), *An Echo in the Bone*, and *Written in My Own Heart’s Blood—*as well as the related Lord John Grey books *Lord John and the Private Matter, Lord John and the Brotherhood of the Blade, Lord John and the Hand of Devils*, and *The Scottish Prisoner;* the nonfiction *The Outlandish Companion* and *The Outlandish Companion, Volume Two;* and the Outlander graphic novel, *The Exile*. She lives in Scottsdale, Arizona, with her husband.
+
+Dianagabaldon.com
+
+Facebook.com/AuthorDianaGabaldon
+
+@Writer\_DG
+
+To inquire about booking Diana Gabaldon for a speaking engagement, please contact the Penguin Random House Speakers Bureau at speakers@penguinrandomhouse.com.
+
+*Also by* **DIANA GABALDON**
+
+## THE LORD JOHN SERIES
+
+*Lord John and the Private Matter*
+
+*Lord John and the Brotherhood of the Blade*
+
+*Lord John and the Hand of Devils*
+
+*The Scottish Prisoner*
+
+Continue the saga with original eNovellas, engrossing tales to complement the Outlander series.
+
+DianaGabaldon.com
+
+AuthorDianaGabaldon  @Writer\_DG
+
+Random House  Bantam • Dell • Delacorte • Del Rey
+
+*What’s next on*  
+*your reading list?*
+
+Discover your next  
+great read\!
+
+* * *
+
+Get personalized book picks and up-to-date news about this author.
+
+Sign up now.
+
+**Table of Contents**
+
+Title Page
+
+Copyright
+
+Contents
+
+The Quick-Start Five-Minute Guide to Writing Sex Scenes
+
+The One-Hour Expanded Guide to Writing Sex Scenes with Vivid Details, Striking Examples, and Entertaining Footnotes
+
+1: Character
+
+2: Terminology
+
+3: The Language of Sex Is Emotion
+
+4: It Isn’t All Up Close and Personal
+
+5: Nasty Sex
+
+6: Non-Sex Sex Scenes
+
+7: Atmosphere
+
+8: Repetition of Elements
+
+9: The Invisible Sex Scene
+
+10: How to Have Sex Like a Gay Man
+
+11: Mind Games
+
+Appendix A
+
+Acknowledgments
+
+Other Titles
+
+About the Author
+
+# LOCKED FICTION CONTRACT
+
+The following coordinates govern the continuation. They are preparation notes, not language to repeat or explain in the manuscript.
+
+SCENE_ID: S03
+TITLE: The Alignment Vigil — opening movement
+POV: Close third-person Mara only.
+TIME_AND_PLACE: An overnight Fulcrum alignment vigil in the glass chapel-lab while wildfire smoke turns the moon orange.
+OPENING_OFFER: The vigil begins with real beauty, technical urgency, and shared devotion to keeping a world-saving infrastructure project alive.
+CAUSAL_PROGRAM: Two teams receive opposite expectations about the same synchronized exercise. Their expectations cause them to notice incompatible threat patterns. Mara first observes the divergence through exact words, timestamps, bodily actions, and instrumentation rather than choosing an explanation. Livia makes one genuinely impressive read and is briefly elevated as the strongest interpreter. A shared image or phrase then appears across participants and becomes newly important.
+RELATIONSHIP_STATE: Mara and Jonah have shared one mutually wanted doorway kiss that they stopped while it was still desired. His restraint attracts her, but he remains implicated in Fulcrum and is not a moral oracle.
+LOCAL_ENDPOINT: Stop shortly after the shared image or phrase is established as a dangerous object of attention, before accusation, lockdown, confession, institutional reform, or metaphysical resolution.
+INTIMACY: Attraction changes attention and trust through particular action. This checkpoint contains no consummation and no second kiss.
+EPISTEMIC_CONSTRAINT: Keep ordinary, technical, psychological, and supernatural explanations live. Accurate observation does not license an interpretation.
+TARGET_WORDS: 850-1150
+
+# PROSE TRANSFER RULES
+
+Enact causality through dialogue, physical action, selective sensation, and changed choices. Keep Livia caring, funny, skilled, acquisitive, and capable of being hurt. Keep Jonah attractive because restraint costs him something, not because narration certifies him as good. Let prayer alter attention or action rather than supply serenity or a detachable sermon. Do not explain a legible action in the following sentence.
+
+# APPROVED MANUSCRIPT
+
+# The Calibration Game
+
+The suitcase made a competent sound on the paved road and a humiliating one on gravel.
+
+Mara dragged it up the last twenty yards to Fulcrum while the wheels bucked and complained behind her. Sunset had caught in the upper branches of the redwoods, too high to warm the ground. At eye level there were trunks, fern beds, dark glass, and people who had already learned where to stand.
+
+The bakery box rode on her forearm. Twenty-four cardamom buns, less one surrendered to quality control in the church parking lot. The box had acquired a thumbprint of icing near the string. She kept turning that side toward her skirt.
+
+A man in shirtsleeves came down from the cedar deck to meet her. Mara knew Adrian Voss from conference streams: the deliberate pauses, the useful cheekbones, the habit of making a question sound like a promotion.
+
+“You found us.”
+
+“The driver found you. I supplied morale.”
+
+His glance touched the box. “May I?”
+
+She handed it over. Adrian received it with both hands, as though she had brought a minor relic. Her suitcase remained in the gravel.
+
+“Cardamom,” he said. “Already an intervention.”
+
+“They’re buns.”
+
+“You’ll cure us of metaphor by the end of the term.”
+
+He turned toward the pavilion. Mara hoisted the suitcase after him.
+
+The building was lower than it had looked in photographs. Most of its expense lay in absences: no visible vents, no cords, no hard transitions between the cedar floor and the glass. A dozen fellows occupied the main room in loose groups. Two people shared the couch nearest the hearth; four others had arranged themselves around them without appearing to. A thin man stood to refill the seated woman’s water while continuing his own sentence.
+
+Along the far wall, beneath a rack of sensor modules, someone had opened the back of a silver terminal and left its green boards exposed. The man working there held a screwdriver between his teeth.
+
+Adrian carried the buns into the center of the room.
+
+“Our missing variable,” he said.
+
+Faces turned. Mara’s free hand found the handle of her suitcase and stayed there.
+
+“Mara Vale. Distributed control, infrastructure security, and an inconvenient interest in what our models do to the people inside them.” Adrian looked at her as if he had discovered the last quality himself. “She has agreed to let us court her for a place in the cohort.”
+
+That was more accurate than the welcome packet had been.
+
+A woman at a side console entered something on a tablet. DR. MIRIAM HOLT, said the badge clipped to her jacket. Underneath, in smaller letters: COHORT OBSERVER. She did not look up again.
+
+“Do we get the pastry before or after the courtship?” asked a woman by the hearth.
+
+She uncrossed her legs and stood. Mara had expected Livia Sloane to be beautiful. She had not expected the beauty to be so mobile. Amusement changed her face completely; attention changed it back. Her dress was dark green and plain enough to make every other green thing in the room look badly chosen.
+
+Adrian surrendered the box. Livia loosened the string, lifted the lid, and breathed in.
+
+“You browned the butter.”
+
+“A woman named Celia browned the butter. I transported it under adverse conditions.”
+
+“And took one.” Livia touched the empty patch in the sugar where the missing bun had rested.
+
+Mara looked down at the icing print on the box.
+
+Livia laughed. It was a quick, delighted sound, and Mara wished she had caused it on purpose.
+
+“Later,” Adrian said, rescuing the buns from immediate distribution. “We’re halfway through an exercise.”
+
+“Then she should see the good part.” Livia took the box to a side table and selected a place for it among three untouched carafes. She moved another tray six inches so the bakery box stood alone.
+
+The man at the open terminal had removed the screwdriver from his mouth. He met Mara’s eyes, then glanced at her suitcase.
+
+“It’s a rigorous hospitality protocol,” he said. “Adrian carries the carbohydrates. Guests retain all structural loads.”
+
+“I was told the program valued resilience.”
+
+“Mostly in other people.”
+
+“Jonah,” Adrian said.
+
+Jonah lowered his head over the terminal, smiling at something inside it.
+
+Adrian invited Mara into the circle and described the calibration game. The premise had survived several pages of institutional language to become simple in his mouth: people communicated before they spoke; groups built decisions out of those signals; anyone serious about alignment should learn to see the traffic.
+
+“The body has terrible information security,” Livia said.
+
+“A hostile implementation environment,” Jonah said from the wall.
+
+“Only when you’re ashamed of the payload.”
+
+His hands stopped for half a second over the circuit board. Livia’s gaze had already moved on.
+
+Adrian passed a bowl around the circle. Each person drew a folded strip of paper and, without opening it, handed it to somebody else. The woman on the couch received one and tucked it under her watchband. The man beside her slipped his into his shoe.
+
+“Every person here now knows one fact another person does not,” Adrian said. “Within five minutes, the room will begin organizing around those facts anyway. Someone will protect a pocket. Someone will check a cuff. Someone will avoid the person most likely to guess. Calibration starts before content.”
+
+Mara’s paper rested beneath the bakery box where Adrian had placed it. No one had given it to her. She watched the bowl complete the circle without comment.
+
+Livia noticed her noticing.
+
+She chose a fellow named Elias, who had spent the welcome pretending to read a paper on his tablet. Livia asked him to stand. She did not circle him or demand his eyes. She leaned against the arm of the couch and watched him explain that the paper concerned a scheduling problem.
+
+“Your scheduling problem has called three times,” she said.
+
+Elias glanced at the tablet.
+
+“You’ve declined all three because if you answer, your brother will ask whether you sent the money. You did send it. You’re angry he made you necessary again, and much angrier that necessity feels good.”
+
+The room held still.
+
+Elias pressed the tablet to his thigh. “He texted too.”
+
+Livia’s expression softened. “You can call him outside. No one here needs the fourth demonstration.”
+
+He went. The door closed behind him with a hush.
+
+Mara had noticed the three rejected calls reflected in the glass. She had noticed the banking app beneath the paper when Elias changed screens. She had not found the anger, or the pleasure hidden inside it.
+
+Livia turned to her.
+
+“Your turn.”
+
+“I’ve only just arrived.”
+
+“Yes. You haven’t had time to improve the evidence.”
+
+There was warmth in the room’s laughter. Mara could have joined it. She heard the answer she had prepared in the car—something about observation needing consent and context—and felt it arrange itself neatly behind her teeth.
+
+Livia watched the arrangement happen.
+
+“You planned for us to condescend to you,” she said. “You know how to survive that. You did not plan for us to be impressed.”
+
+Mara’s grip tightened on the suitcase handle.
+
+“Because admiration would make the wanting visible. The work, the place, us. You want enough to have frightened yourself.”
+
+The prepared answer vanished. Mara could feel her pulse in the icing thumbprint she had rubbed tacky against her skirt.
+
+Livia stepped closer, stopping well outside reach. “There. That’s the one.”
+
+“Career ambition,” Mara said. “A rare condition among residential fellows.”
+
+“Career ambition is wanting the place on your résumé.” Livia’s eyes dropped briefly to Mara’s mouth. “You want to know whether we’re as real as you hoped.”
+
+“And if you are?”
+
+“Then you’ll have to become more interesting than your objections.”
+
+Mara smiled despite herself. “That sounds expensive.”
+
+“Everything worth acquiring is.”
+
+She looked pleased, but not solely with herself. The pleasure included Mara, which made refusing it harder.
+
+“Jonah,” Livia said. “Tell her what you see.”
+
+At the wall, the silver terminal had finished booting. A grid of live traces filled its display. Jonah set the panel he had removed beside the keyboard.
+
+“No.”
+
+Livia raised one eyebrow. “No data?”
+
+“No performance.”
+
+“You’ve never objected to performing when the reviews were flattering.”
+
+“My growth has been extraordinary.”
+
+Several people laughed. Adrian did not. Jonah returned to the terminal, and the laugh ended without anyone deciding to end it.
+
+Mara’s breathing loosened. She disliked owing him for that.
+
+Adrian checked the time. “Let’s put claims against a channel.”
+
+Low chairs were drawn to either side of a narrow table. Jonah connected a sensor lead to the silver terminal. He did it quickly enough to reveal long practice.
+
+“Mara, if you’re willing, Jonah will facilitate. You’ll receive a private prompt. Livia will report what she observes in the pair.” Adrian showed Mara a small tablet with a privacy hood. “We record breath, pulse, pressure, and room audio. The raw stream remains sealed during the cohort’s first month.”
+
+“Sealed from whom?” Mara asked.
+
+“Participants.”
+
+“Comforting use of the passive voice.”
+
+Livia grinned. “Keep her.”
+
+Adrian’s smile returned. “That remains her decision.”
+
+Mara sat. Jonah took the chair opposite and adjusted the pressure sensor between them. Up close, he appeared less effortless. A nick crossed one knuckle, and a red half-moon marked his palm where his thumbnail had pressed.
+
+He fastened a narrow conductive band around his own forearm, then rejected the first one and reached for another. The discarded band had a hairline split near its clasp.
+
+“Does that affect the reading?” Mara asked.
+
+“It affects the warranty.”
+
+“The reading?”
+
+“Possibly.”
+
+“Reassuring.”
+
+“I can lie more confidently if it helps.”
+
+At the hearth, Livia made a soft sound of impatience. Jonah’s mouth tilted, but he reseated both contacts and enabled recording before Adrian finished speaking.
+
+“The contact is wrist only,” he said. “My hand around yours. May I?”
+
+The question was ordinary. In the listening room it altered the air.
+
+Mara set her forearm on the table. “Yes.”
+
+His fingers closed around her wrist.
+
+He smelled faintly of unscented soap and the resin used on solder joints. Someone shifted near the hearth; ice settled in a glass. Jonah’s thumb rested over her artery, wide enough that each beat seemed to meet him before it reached the rest of her.
+
+The pulse trace on the terminal climbed. Livia glanced at it and then, more interested, at Mara’s face.
+
+The hooded tablet lit.
+
+HOLD: ARRIVAL.
+
+Mara thought of the gravel releasing the suitcase wheels onto the cedar deck. She thought of the moment before the pavilion door opened, when she still possessed every possible account of the people inside. Her wrist warmed under Jonah’s hand.
+
+His thumb began a small motion: up the edge of her pulse, across, back. The arc repeated. Mara could have leaned toward it. The desire arrived as a practical suggestion—reduce the distance, improve the contact, find out how his breathing changed when hers did.
+
+She kept her shoulders where they were.
+
+Livia moved behind Jonah. “The prompt concerns a threshold,” she said. “Chosen, not imposed.”
+
+Jonah’s thumb completed the arc. Livia’s chin dipped at the same point.
+
+“She’s holding arrival. The instant after the journey, before anyone tells her what the destination means.”
+
+The word under the hood stayed bright.
+
+Adrian exhaled through his nose. Around the table, attention gathered so sharply that Mara could locate each person by the absence of sound.
+
+“Near enough?” Livia asked her.
+
+“Near.”
+
+“Cruel woman.” Livia seemed delighted.
+
+“What did you use?” Mara asked.
+
+“Your breathing changed when the prompt appeared.”
+
+“It would change for any prompt.”
+
+“Your weight moved forward. Your eyes went to the door and returned to the room. Your wrist softened against Jonah’s hand.”
+
+“That gives you approach.”
+
+“Your suitcase is still beside the circle.” Livia pointed with her chin. “If the target were departure, you would have looked at it.”
+
+The reasoning was clean. It did not account for the word, but it reduced the distance between chance and miracle.
+
+“And the rest?” Mara asked.
+
+Livia’s glance moved to Jonah’s hand. “The rest arrived.”
+
+His thumb began the arc again, slower this time. Mara felt each millimeter of it. She wondered whether Livia’s answer had changed the touch or merely made the existing motion impossible to ignore.
+
+The prompt disappeared. A second appeared.
+
+REPEAT: ARRIVAL.
+
+Jonah could see only her face; the hood concealed the words. Mara let one breath pass. *Jesus, keep me honest.* The prayer did not settle her pulse. It made it harder to pretend she wanted only the method.
+
+She rebuilt the same instant: gravel releasing the wheels, cedar underfoot, the unopened door. Then she reversed the evidence Livia had named. She allowed her upper back to settle against the chair. She shortened her exhale. She turned her left knee three inches toward the room’s exit and let her eyes rest on the dark seam between two floorboards. Her hand remained loose inside Jonah’s.
+
+His thumb started another arc and stopped halfway.
+
+Livia’s chin did not move.
+
+Mara waited. The wanting remained—work, place, Livia’s quick pleasure, Jonah’s palm around her wrist. Her body now offered the room a different story.
+
+“She dropped it,” Livia said.
+
+No one answered.
+
+Livia came to the side of the table. “The arrival is gone. She’s testing departure now. Not escape. A controlled withdrawal so she can call it discernment.”
+
+The private word still read ARRIVAL.
+
+Jonah looked at Mara. His hand did not tighten. His attention felt less soothing now that she had found a possible use for it.
+
+“Are you leaving the content unchanged?” Adrian asked.
+
+Mara lifted the hood so he could see the screen.
+
+Two people rose from their chairs. Miriam remained at the side console, writing.
+
+Livia read the prompt. A flush moved across her cheekbones and disappeared. “Again.”
+
+It was not an apology. It sounded hungry.
+
+“The pressure trace changed,” Jonah said.
+
+Every face turned toward him.
+
+Livia’s gaze sharpened. “Because you changed it.”
+
+“Maybe.”
+
+“Did you?” Mara asked.
+
+He looked down at his thumb, still resting above her pulse. “I stopped a movement.”
+
+“Why were you making it?”
+
+The terminal fan rose. Jonah glanced toward the live traces, and Mara saw that he knew where each one entered the machine.
+
+“Baseline regulation,” he said.
+
+Livia gave a quiet laugh without amusement. “Of course.”
+
+Mara could not tell whether the arc had calmed her, informed Livia, contaminated the trial, or accomplished all three. The room waited for her to choose an accusation.
+
+She did not.
+
+“The channel is testable,” she said. “That’s enough for tonight.”
+
+Adrian studied the others rather than her. Some looked disappointed; two looked newly alert. “A deviation,” he said. “A useful one. We preserve the run.”
+
+“And repeat it,” Livia said.
+
+“After we specify the control.”
+
+“She specified it.”
+
+“She improvised it.” Adrian’s tone remained cordial. Miriam wrote IMPROVISED CONTROL beneath the Fulcrum header. “Tomorrow we determine what she actually changed.”
+
+Livia looked at Mara. “You know what you changed.”
+
+Mara looked through the hood at the fading word. “Some of it.”
+
+That answer pleased Livia more than certainty would have.
+
+Jonah removed his hand. Cool air reached the damp place beneath his thumb. He capped the sensor and returned to the terminal before Mara could decide whether she wanted him to remain seated.
+
+Livia had gone to the side table. She stood over the bakery box with one hand on the lid when the silver terminal chimed once.
+
+Mara rose. On the pressure trace, a pale mark had appeared two seconds to the right of Miriam’s END CONTACT tick. Jonah leaned toward the screen. The cuff lay open on the table between the empty chairs.
+
+Livia saw the mark reflected in the glass and turned. The lid slipped from her fingers and struck the box. Her eyes widened as she looked from the screen to Mara’s empty left hand.
+
+“Did you touch the cuff?” Livia asked.
+
+“No.”
+
+Miriam checked her paper log. “Cuff off before the mark.”
+
+“Sensor rebound,” Jonah said.
+
+“Possible,” Miriam said.
+
+A second later Livia’s social ease returned, slightly misbuttoned. “I was hoping Mara had another one hidden.” She opened the bakery box. “Apparently the system is having a blood-sugar event.”
+
+She took a bun and tore it in half. One piece she kept. The other she held toward Mara.
+
+Mara accepted it.
+
+Adrian came beside them with a tablet. The fellowship agreement waited on the screen, her name at the top and two choices at the bottom. ACCEPT PLACE. DEFER.
+
+“You can sleep on it,” he said.
+
+“In housing I don’t yet have?”
+
+“We enjoy a manageable paradox.”
+
+Mara ate the offered half. The cardamom had bloomed during the drive. Across the room, Jonah was replaying the pressure trace. He enlarged one segment, checked who was watching, and closed it.
+
+Livia saw him do it. She bit into her half of the bun and smiled at Mara with her mouth closed.
+
+Mara touched ACCEPT PLACE.
+
+The tablet chimed. Adrian handed her a room credential and finally reached for the suitcase.
+
+“Absolutely not,” Mara said. “You’ve carried your allotted weight.”
+
+She pulled the bakery box into the center of the table and lifted the lid all the way. Chairs moved. Someone fetched plates. Livia claimed the second bun before the first had made it around the room.
+
+“Tomorrow,” Livia said, peeling a strip of browned sugar from the paper, “you do it again without the prompt telling you to be clever.”
+
+“Tomorrow you show me the stream.”
+
+“First month is sealed.”
+
+“Then ask me again in a month.”
+
+Livia ate the sugar and considered her. “You bargain very hard for someone who arrived bearing tribute.”
+
+“You ate the evidence.”
+
+“I preserve what matters.”
+
+At the side console, Miriam turned a page in her notes.
+
+Jonah stayed at the terminal, one hand braced beside the darkened trace. When Mara looked over, he tapped two fingers once against the metal case and stopped.
+
+She could not tell whether it was an answer.
+
+Four nights later, at 1:17, the west projector went to sleep. Its fan spun down, leaving one fewer sound between Mara and the rain.
+
+Nobody took this as a sign from God.
+
+Livia took it as permission to stop pretending they were nearly finished. She pushed back from the console and went to the sideboard, where an electric kettle had been holding the same water at the same temperature for six hours. The pot she chose was brown ceramic, round-bellied and ugly. Mara liked it at once.
+
+“Give me your cup.”
+
+“I don’t have one.”
+
+“Of course you don’t.” Livia found one beneath a stack of paper napkins. “You have opinions for twenty people and no plan to feed yourself.”
+
+She poured. The tea smelled of toasted rice. Mara accepted it before she could decide whether acceptance was wise, warming both hands against the cup while Livia folded a napkin into a precise square and set two salted almonds on it.
+
+“Those are a ration?” Mara asked.
+
+“Those are the last two. I have loved you sacrificially.”
+
+It drew the laugh Livia had been after. Her answering smile was tired and pleased, with none of the polished radiance she used in the circle.
+
+Then Livia glanced at the untouched almonds.
+
+“You’re afraid you came here with a parlor trick.”
+
+Mara looked into the tea. One rice grain had escaped its bag and was turning slowly in the amber water.
+
+“That’s a bold interpretation for a Tuesday.”
+
+“Wednesday.”
+
+“Worse.”
+
+Livia sat on the edge of the table beside her. She did not lower her voice. The room was too exhausted for secrecy; three people were still working, and Jonah’s terminal threw a blue bar across his hands.
+
+“You watched me miss you this afternoon,” Livia said. “You enjoyed it for about thirty seconds. Then you started wondering whether anybody with decent eyesight could do what you did.”
+
+This was close enough that Mara wanted to correct it. The enjoyment had lasted longer.
+
+She ate one almond to occupy her mouth.
+
+“I wondered whether the method could be taught,” she said.
+
+“That is the respectable version.” Livia nudged the second almond toward her. “The other version is that you crossed the country to discover you were exceptional, and now you’re furious with me for making excellence look learnable.”
+
+Mara felt the answer arrive in her face. Livia saw it. She had the grace not to smile.
+
+Across the room, Jonah’s cursor stopped. His fingers remained on the keys.
+
+Mara set the cup down carefully. “If you’re planning to bill me for this insight, I should warn you that my insurance considers Fulcrum out of network.”
+
+“I’m planning to give you something.”
+
+Livia turned Mara’s tablet around. Mara’s hand stopped halfway back to the cup. A Fulcrum permission window occupied the screen.
+
+TEMPORARY REVIEW ACCESS: RAW ALIGNMENT TELEMETRY
+
+Grantee: MARA VALE
+
+Expires: 06:00
+
+Below it, in smaller type, the system listed pulse traces, room audio, observer annotations, and the unfiltered wrist-contact stream. Material Mara had been told would remain restricted until the research cohort finished its first month.
+
+A gold key shone beside her name. Until tonight she had seen it beside Adrian’s and Livia’s. Beneath the key: AUTHORIZED BY LIVIA SLOANE. SPONSOR ASSUMES REVIEW LIABILITY.
+
+“You said the channel could be tested,” Livia said. “Test it.”
+
+Mara could already see the comparison: Livia’s spoken reads against the time-coded changes in breath, posture, pressure. By morning she might know where accuracy ended.
+
+At the bottom of the window, a line blinked red.
+
+REVIEW NOTES DUE BEFORE EXPIRATION.
+
+Mara looked up. “You’re assigning me an overnight diagnostic.”
+
+“I’m giving you access.”
+
+“With a six o’clock deliverable.”
+
+“Adrian reads the first summary at seven.” Livia’s thumb moved once over the seam of her skirt. “I had to put a name on it.”
+
+The seam had creased under Livia’s thumb.
+
+“The sequence is ready,” Jonah said.
+
+His hands had left the keyboard. He was looking at the permission window, not at Mara. The old irony was gone from his voice. On his monitor, the button that would load the next run remained gray. His right thumb was buried in his left palm, whitening the nail. Mara had the absurd urge to cross the room and pry it loose. He had never looked less like refuge.
+
+Mara wanted him to make it easier. A joke would have done it. An eye roll, a muttered warning, any small theft of gravity. He gave her none.
+
+“Does raw mean raw?” she asked him.
+
+Jonah’s mouth shifted, almost a smile. “It means nobody has explained it yet.”
+
+That was worse. That was irresistible.
+
+Mara touched ACCEPT.
+
+The terminal beside Jonah chimed. A new column opened beneath her name, already counting down from four hours and forty-two minutes. Livia picked up the empty pot and returned it to the sideboard. She did not thank Mara or congratulate her. She only brought back the kettle and added hot water to the cup, though Mara had not drunk half of what was there.
+
+Jonah called up the next sequence. Around them, the surviving members of the cohort pulled their chairs toward the monitors.
+
+Mara folded her hands in her lap. The tea cooled between her wrists while her name glowed on three screens.
+
+The new sequence opened with Mara’s pulse.
+
+A red line crossed Jonah’s monitor at seventy-eight beats per minute, climbed to eighty-six when he moved his chair beside hers, and settled at eighty-three when he stopped. Under the trace, an observer field populated itself.
+
+01:19:08 — SUBJECT ORIENTS TOWARD J. REED UNDER LOAD.
+
+01:19:11 — PROBABLE ATTACHMENT-SEEKING RESPONSE.
+
+Mara read the second line twice.
+
+“Who is writing those?”
+
+Jonah looked at Livia. It was quick, and it was enough.
+
+“The annotation layer is collaborative,” Livia said. “Raw doesn’t mean context-free.”
+
+“Then it isn’t raw.”
+
+“Nothing involving a human observer is raw. That was your point this afternoon.” Livia sounded almost proud of her. “Now you can see the observers too.”
+
+The answer was good. Mara hated that it was good.
+
+Jonah placed a sensor puck between them. The plastic casing had a split beside the charging port, mended with a crooked line of silver epoxy. He turned it so the indicator faced Mara and kept his hands away.
+
+“It needs a baseline,” he said.
+
+“Whose?”
+
+“Yours.”
+
+“That was nearly an answer.”
+
+The corner of his mouth moved. On the monitor, her pulse rose to eighty-nine.
+
+A third annotation appeared.
+
+01:20:02 — HUMOR DEFLECTS AROUSAL/STATUS ANXIETY.
+
+Heat ran from Mara’s collar to her ears. Livia had not needed to invent that. The line was there, in clean white type, while Jonah sat close enough for Mara to see the pale crescent pressed into his palm by his thumbnail.
+
+A hexagon at the end of the entry identified its authorship.
+
+LS / ASSISTED COMPLETION 38%.
+
+“Which thirty-eight percent?” Mara asked.
+
+Livia bent over the monitor. A loose strand of her hair brushed Mara’s shoulder. “The system offered status anxiety. I accepted it.”
+
+“And arousal?”
+
+“Mine.”
+
+She said it without coyness and returned to her chair. Mara’s pulse climbed another two beats, an answer to something, though the annotation field stayed empty.
+
+“Delete it,” Jonah said.
+
+Livia’s chair creaked behind them. “Why?”
+
+“Because it’s two guesses joined by a slash.”
+
+“Then add a third.”
+
+He did not touch the keyboard.
+
+The red line reached ninety-four.
+
+Mara could have explained the rise. She could have told them what the slash concealed, what the warmth of Jonah’s knee near hers was doing, how anger moved through the body with some of the same equipment as desire. The explanations gathered behind her teeth, each one accurate enough to become another entry.
+
+She closed her mouth.
+
+Livia came around the console and crouched beside her. Up close, the long night showed at the corners of her eyes. “You wanted to know whether the readings survived inspection,” she said. “Stay with it. Don’t abandon the test when it reaches material you care about.”
+
+Mara cared about the test. She cared about Livia’s faith in her. She cared, mortifyingly, that Jonah had asked for the line to be deleted before Mara had found the courage to object.
+
+The permission countdown changed to 04:36:12.
+
+“Read the next prompt,” Livia said.
+
+On Mara’s tablet a sentence appeared.
+
+I FEEL SAFER WHEN OTHER PEOPLE EXPLAIN ME.
+
+Below it: AGREE / DISAGREE / FURTHER INQUIRY.
+
+There was no blank space.
+
+Mara pressed two fingers against the warm cup. The prayer she wanted was an argument with better lighting. She let it go.
+
+*Jesus, I am here. You are here. What is mine to do?*
+
+Nothing in her softened. Her face still burned. Jonah was still beside her; Livia was still waiting; the sentence remained clever and false in at least three directions.
+
+Mara waited through one breath anyway. In church, people were always rushing to furnish God’s silences. She had learned to leave one bare.
+
+But the screen had other things on it.
+
+In the lower-right corner, beneath the countdown, was a gray link she had not noticed while planning her analysis.
+
+PARTICIPANT CONTROLS.
+
+Mara opened it.
+
+Livia stood. “Those are administrative.”
+
+“So is my name.”
+
+Three options appeared: PAUSE STREAM, CORRECT IDENTITY, WITHDRAW CONSENT.
+
+The last option carried a warning.
+
+WITHDRAWAL ENDS THE ACTIVE TRIAL AND FLAGS ALL SUBSEQUENT COLLECTION FOR REVIEW.
+
+Mara’s fingertip hovered. The room was completely awake now. Even the two analysts at the far table had stopped pretending not to listen. Miriam, who had been logging the session from the side console, took off her glasses.
+
+“If you withdraw in the middle of a response spike,” Livia said, “you will make the record impossible to interpret.”
+
+“No,” Mara said. “I’ll make it impossible to finish.”
+
+Livia’s hurt arrived before her composure covered it. Mara saw the woman who had put her own name beneath the gold key, who had brought tea and two almonds and an invitation into the locked rooms of the work.
+
+Mara touched WITHDRAW CONSENT.
+
+The pulse trace stopped at ninety-one.
+
+Jonah’s monitor displayed a red authorization request.
+
+OPERATOR ACKNOWLEDGMENT REQUIRED.
+
+Jonah read it but did not move. The request waited beneath his name.
+
+Mara looked at Livia. “Is my no something you’re going to annotate, or is it what happens next?”
+
+Livia’s mouth opened. No answer came.
+
+Behind them, the cedar door remained closed. No one had touched the latch. The red request stayed on Jonah’s screen, and the stopped pulse line stayed flat on Mara’s.
+
+Miriam put her glasses on the table.
+
+She crossed the room without looking at Livia and read Mara’s screen. The witness field had appeared beneath the operator request.
+
+“If you sign that,” Livia said, “you’re no longer neutral.”
+
+“I’m not neutral.” Miriam entered her name.
+
+“You’re assigned to observe this cohort.”
+
+“Then you should assign somebody else.”
+
+Her thumb met the reader. The witness field turned green.
+
+Jonah’s request remained red.
+
+Livia faced him. Her gaze moved from the red request to his hand. “You can leave it for Adrian.”
+
+“That would continue collection until he wakes up.”
+
+“It would preserve the record.”
+
+Jonah clicked ACKNOWLEDGE.
+
+Every monitor went black. A message appeared on his terminal before it followed them.
+
+OPERATOR ACCESS SUSPENDED PENDING REVIEW.
+
+He took his hand from the mouse. The crescent in his palm had deepened to red.
+
+Livia did not look at Mara. She picked up the permission tablet, saw the same three names Mara had seen, and held it against her ribs. “Go, then.”
+
+Mara stood. Her knees objected. Miriam was already at the cedar door, one hand on the latch and her observer badge in the other. When she opened it, rain-cooled air entered the room and lifted the hair along Mara’s arms.
+
+Mara stopped beside Livia.
+
+“You were right,” she said. “I did come here to find out whether I was special.”
+
+Livia’s gaze rose to hers.
+
+“You’re welcome,” Livia said.
+
+It was so perfectly Livia that Mara nearly laughed. Instead she touched two fingers to the tablet between them, a small acknowledgment of the risk still attached to Livia’s name, and walked out.
+
+The rain had stopped. Water collected at the tips of the redwood needles and released in heavy drops, striking the pavilion roof long after the weather had moved east. Mara crossed the deck and started down the gravel path toward the residence cottages.
+
+Jonah caught up without calling her name.
+
+For twenty yards, only their shoes spoke. His left one had acquired a squeak. Mara waited to see whether it would become endearing or intolerable.
+
+“You built the annotation layer,” she said.
+
+“Part of it.”
+
+“The part with the slash?”
+
+“The part that records who accepted the suggestion after the slash.”
+
+“Comforting distinction.”
+
+“It was, when I wrote it.”
+
+His phone vibrated. He silenced it without looking.
+
+Mara stopped beneath a redwood whose trunk was wider than her childhood bedroom. “Don’t give me the version that makes you sound restrained. I’ve had enough interpretations for one night. Just tell me what you did.”
+
+Jonah rubbed the heel of his hand over his mouth.
+
+“Three weeks ago I found observer text appearing in exports labeled raw. Sometimes it was cached. Sometimes it was generated after the session and written backward into the session view. I filed it as a security problem.”
+
+“And?”
+
+“I filed anonymously.”
+
+The squeaking shoe, the crooked epoxy on the sensor puck, the careful gray button: all at once he seemed less composed and more assembled.
+
+“So they ignored it.”
+
+“They thanked an unnamed colleague for the interesting edge case.”
+
+“And you let me accept access to it.”
+
+“Yes.”
+
+There was no defense in the word. It made anger easier.
+
+Mara resumed walking. “Why the pressure on my wrist that first day?”
+
+“Your pulse was visible on the monitor.”
+
+“That’s how you timed it. Why did you do it?”
+
+He took three more steps before answering. “You looked like you were disappearing. I wanted to give you one thing in the room that wasn’t asking to mean something.”
+
+Mara turned on him. “It meant something.”
+
+“I know.”
+
+“You keep doing that.”
+
+“Doing what?”
+
+“Standing very still and hoping it counts as innocence.”
+
+He flinched. Not much. Enough.
+
+“I’m sorry,” he said.
+
+His apology did not return his access or Miriam’s assignment. It did not unwrite the annotations.
+
+He opened the anonymous report on his phone and held it out to her. The author field was blank. Mara did not take it yet.
+
+
+Mara became aware of his shirt where the rain had darkened one shoulder, of the clean soap at his collar, of his bare hand hanging uselessly beside hers. Anger had not displaced attraction. It had given it edges.
+
+She caught the front of his shirt in her fist. The fabric was rough and cool.
+
+His breath stopped.
+
+“I’m going to kiss you,” she said.
+
+“Please.”
+
+She pulled him down.
+
+The first contact was crooked. His nose struck her cheek; Mara laughed into his mouth, and then neither of them was laughing. His hand came to her waist and stayed there, open and warm through her sweater. He kissed as he had held her wrist—steadily at first, as though steadiness could keep desire from becoming visible. It could not.
+
+Mara felt the moment his care lost its polish. His fingers tightened. The sound he made was small and astonished. Heat opened low in her body, clean as hunger, and for several breaths she wanted every next thing at once.
+
+She flattened her palm against his chest.
+
+Jonah stopped.
+
+His hand left her waist. He stepped back far enough that she could have changed her mind without having to move him. His jaw worked once. He did not look disappointed; he looked awake.
+
+Mara kept hold of his shirt.
+
+“I want to know which part of this is you in daylight,” she said.
+
+“That seems unfair to daylight.”
+
+“It has advantages. Breakfast, for example.”
+
+“Are you asking me to breakfast?”
+
+“I’m assigning you an early diagnostic.”
+
+His laugh came out rough. “Six?”
+
+“Seven. I’m not Livia.”
+
+“I had noticed.”
+
+Seven put him in the future: washed, rested, answerable. She wanted him there.
+
+She released his shirt, one finger at a time.
+
+“If either of us says raw,” Mara said, “we stop.”
+
+“Stop what?”
+
+“Whatever is happening. Then the other person asks instead of annotating.”
+
+“Raw,” Jonah said.
+
+Mara looked at him.
+
+“Can I walk you the rest of the way?”
+
+“Yes.”
+
+They had gone three steps when his phone vibrated again. This time he looked.
+
+The color left his face.
+
+“What?”
+
+He handed her the phone.
+
+FULCRUM PHYSICAL SECURITY — UNRESOLVED EVENT
+
+PAVILION WEST DOOR: OPEN
+
+TIME: 01:17:00
+
+CREDENTIAL SOURCE: —
+
+Mara looked back. Through the trees, the pavilion windows burned amber. The west door was the cedar door Miriam had opened at 1:34. At 1:17, the projector had gone dark and everyone had still been inside.
+
+“Could the clock be wrong?” she asked.
+
+“Yes.”
+
+“Could somebody have opened it?”
+
+“Yes.”
+
+“Did they?”
+
+Jonah looked at the blank credential field.
+
+“That,” he said, “is raw.”
+
+* * *
+
+By midnight, the wildfire had turned the moon above Fulcrum's glass chapel the color of a banked coal.

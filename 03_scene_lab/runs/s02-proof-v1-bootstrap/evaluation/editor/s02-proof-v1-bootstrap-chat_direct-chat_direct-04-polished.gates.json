@@ -1,0 +1,134 @@
+{
+  "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+  "eligible": true,
+  "gates": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "n exact countertime. One was hers.\n\nMara looked once through the glass at Jonah's retreating back, then closed the door."
+    },
+    "concrete_story_hook": {
+      "concrete_object": true,
+      "passed": true,
+      "unresolved_or_anomalous": true
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3524
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": true,
+      "romantic_future": true
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6499
+    },
+    "no_internal_signature_replay": {
+      "ngram_words": 16,
+      "passed": true,
+      "repeated_passages": []
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 444
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 1552
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 3208
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 6626
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 9180
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 9977
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 13840
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 15840
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 18517
+        }
+      ],
+      "legacy_carry_forward": {
+        "basis": "ending-only repair begins after every historically passed required beat; legacy run is not migrated to future detector",
+        "first_changed_character": 19845,
+        "last_required_beat_character": 18517,
+        "repaired_continuation_hash": "1bc4f98ecf82ef55053761290613a1fd050be90ccdf6f5ae56cb4dc46f2e88ee",
+        "source_continuation_hash": "3e6b4a68a35f0d5cd1578faba56baea9575dcba13011c61d7f3800b446c785d9",
+        "source_gate_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s02-proof-v1-bootstrap/evaluation/deterministic/s02-proof-v1-bootstrap-chat_direct-chat_direct-04.json"
+      },
+      "passed": true
+    }
+  }
+}

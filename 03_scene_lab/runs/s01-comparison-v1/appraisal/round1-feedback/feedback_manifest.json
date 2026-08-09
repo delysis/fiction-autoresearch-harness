@@ -1,0 +1,67 @@
+{
+  "blind_check": {
+    "checked_files": [
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/all-three.html",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/all-three.md",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/pair-AB.html",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/pair-AB.md",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/pair-AC.html",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/pair-AC.md",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/pair-BC.html",
+      "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/appraisal/round1-feedback/reader/pair-BC.md"
+    ],
+    "leaks": [],
+    "passed": true
+  },
+  "package_id": "3c1d3e8fbd2c",
+  "packets": [
+    {
+      "html": "reader/all-three.html",
+      "labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "markdown": "reader/all-three.md",
+      "packet_id": "all-three"
+    },
+    {
+      "html": "reader/pair-AB.html",
+      "labels": [
+        "A",
+        "B"
+      ],
+      "markdown": "reader/pair-AB.md",
+      "packet_id": "pair-AB"
+    },
+    {
+      "html": "reader/pair-AC.html",
+      "labels": [
+        "A",
+        "C"
+      ],
+      "markdown": "reader/pair-AC.md",
+      "packet_id": "pair-AC"
+    },
+    {
+      "html": "reader/pair-BC.html",
+      "labels": [
+        "B",
+        "C"
+      ],
+      "markdown": "reader/pair-BC.md",
+      "packet_id": "pair-BC"
+    }
+  ],
+  "rating_dimensions": [
+    "romantic_pull",
+    "heat",
+    "character_fascination",
+    "trust",
+    "prose_freshness",
+    "desire_to_continue",
+    "preachiness"
+  ],
+  "record_type": "HumanFeedbackPacketManifest",
+  "schema_version": "human-feedback.v1"
+}

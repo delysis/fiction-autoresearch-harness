@@ -1,0 +1,67 @@
+{
+  "blind_check": {
+    "checked_files": [
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/all-three.html",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/all-three.md",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/pair-AB.html",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/pair-AB.md",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/pair-AC.html",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/pair-AC.md",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/pair-BC.html",
+      "03_scene_lab/runs/s02-proof-v1-bootstrap/appraisal/balanced_pairs/reader/pair-BC.md"
+    ],
+    "leaks": [],
+    "passed": true
+  },
+  "package_id": "4892c110faa1",
+  "packets": [
+    {
+      "html": "reader/all-three.html",
+      "labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "markdown": "reader/all-three.md",
+      "packet_id": "all-three"
+    },
+    {
+      "html": "reader/pair-AB.html",
+      "labels": [
+        "A",
+        "B"
+      ],
+      "markdown": "reader/pair-AB.md",
+      "packet_id": "pair-AB"
+    },
+    {
+      "html": "reader/pair-AC.html",
+      "labels": [
+        "A",
+        "C"
+      ],
+      "markdown": "reader/pair-AC.md",
+      "packet_id": "pair-AC"
+    },
+    {
+      "html": "reader/pair-BC.html",
+      "labels": [
+        "B",
+        "C"
+      ],
+      "markdown": "reader/pair-BC.md",
+      "packet_id": "pair-BC"
+    }
+  ],
+  "rating_dimensions": [
+    "romantic_pull",
+    "heat",
+    "character_fascination",
+    "trust",
+    "prose_freshness",
+    "desire_to_continue",
+    "preachiness"
+  ],
+  "record_type": "HumanFeedbackPacketManifest",
+  "schema_version": "human-feedback.v1"
+}

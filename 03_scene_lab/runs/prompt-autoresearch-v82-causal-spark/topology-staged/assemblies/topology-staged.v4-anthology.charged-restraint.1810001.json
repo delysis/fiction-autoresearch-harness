@@ -1,0 +1,42 @@
+{
+  "artifact_id": "topology-staged.v4-anthology.charged-restraint.1810001",
+  "manuscript_hash": "c00834c9e4a6f53a5f26aee23c6eb476f6a019b74eb94a577880cbbdf2b4cf87",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n",
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+      "raw_char_end": 998,
+      "raw_char_start": 0,
+      "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v75-runway-search/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.1750019.txt",
+      "role": "derived-opening-runway-prefix",
+      "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+      "text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da"
+    },
+    {
+      "call_id": "topology-staged.v4-anthology.charged-restraint.1810001.spark",
+      "raw_char_end": 96,
+      "raw_char_start": 1,
+      "raw_hash": "b15b482e85c8e13b7d4b4e9ece7a2aa1b8d678b9bf747c7df609fe29e8a10268",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v82-causal-spark/topology-staged/raw/topology-staged.v4-anthology.charged-restraint.1810001.spark.txt",
+      "role": "topology-causal-spark",
+      "span_id": "topology-staged.v4-anthology.charged-restraint.1810001.spark",
+      "text_hash": "4ad338969a57330abe28420960bda6aab3955447809ce697780c5b2398a7c9ef"
+    },
+    {
+      "call_id": "topology-staged.v4-anthology.charged-restraint.1810001.continuation",
+      "raw_char_end": 0,
+      "raw_char_start": 0,
+      "raw_hash": "fa7b8d85020d879a12ad95ae7771ea6ee86cf4e36640eed622d1b9209fcda2ad",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v82-causal-spark/topology-staged/raw/topology-staged.v4-anthology.charged-restraint.1810001.continuation.txt",
+      "role": "topology-counteroffer-continuation",
+      "span_id": "topology-staged.v4-anthology.charged-restraint.1810001.continuation",
+      "text_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

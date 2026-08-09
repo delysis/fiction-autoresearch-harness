@@ -1,0 +1,199 @@
+{
+  "index_hash": "ae61b5e554131366ead566053cba053b72ec6b466f541329368669af61aeaf57",
+  "query": {
+    "desired_features": {
+      "agency_density": 0.012,
+      "conflict_density": 0.012,
+      "dialogue_ratio": 0.35,
+      "explicit_intimacy_density": 0.0,
+      "interiority_density": 0.008,
+      "intimacy_action_density": 0.0,
+      "romance_density": 0.006,
+      "sensory_channels": 3,
+      "sentence_length_mean": 17,
+      "sentence_length_variation": 11
+    },
+    "excluded_facets": [
+      "explicit-intimacy"
+    ],
+    "included_authors": [
+      "W. Somerset Maugham"
+    ],
+    "maximum_per_work": 4,
+    "maximum_scenes": 4,
+    "minimum_stage_heat": 0.0,
+    "mmr_lambda": 0.82,
+    "preferred_facets": [
+      "charismatic-manipulation",
+      "psychological-romance",
+      "dialogue-rich",
+      "social-threat",
+      "interior"
+    ],
+    "query_id": "s01-charismatic-entrance.v1",
+    "query_text": "A new arrival stands at the end of a social room with all eyes upon him, takes an attitude of command through theatrical behavior, provokes amused attention, and turns being watched into power while observers make dry judgments about him.",
+    "required_facets": [
+      "adult"
+    ],
+    "source_token_budget": 6000,
+    "stage": "charismatic-room-capture"
+  },
+  "record_type": "LiteraryRetrievalResult",
+  "retrieval_hash": "6851117ca9a2d2e8c8ad61c785321ab5e0d09a79df1a07143687c274544631f1",
+  "selected": [
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.699913,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "plot-coupled",
+        "psychological-romance"
+      ],
+      "features": {
+        "agency_density": 0.003261,
+        "conflict_density": 0.003261,
+        "dialogue_ratio": 0.333696,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.003261,
+        "intimacy_action_density": 0.002174,
+        "romance_density": 0.008696,
+        "sensory_channels": 3,
+        "sentence_length_mean": 19.166667,
+        "sentence_length_variation": 9.809293
+      },
+      "mmr_score": 0.633929,
+      "rank": 1,
+      "scene_id": "maugham.magician.c001.s002",
+      "score_components": {
+        "craft_geometry": 0.993557,
+        "facet": 0.4,
+        "lexical": 1.0,
+        "size": 0.8,
+        "stage_heat": 0.08696
+      },
+      "text_hash": "e35ed733f6c8da968bb70c4036078f39a8b3dd117e2ed9bc701defd60e35ccf9",
+      "title": "The Magician",
+      "token_estimate": 1252,
+      "word_count": 920,
+      "work_id": "maugham.magician"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.680886,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "psychological-romance",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.008421,
+        "conflict_density": 0.003158,
+        "dialogue_ratio": 0.407368,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.002105,
+        "intimacy_action_density": 0.002105,
+        "romance_density": 0.004211,
+        "sensory_channels": 5,
+        "sentence_length_mean": 16.37931,
+        "sentence_length_variation": 7.014339
+      },
+      "mmr_score": 0.52947,
+      "rank": 2,
+      "scene_id": "maugham.magician.c003.s002",
+      "score_components": {
+        "craft_geometry": 0.938053,
+        "facet": 0.4,
+        "lexical": 0.996166,
+        "size": 0.764706,
+        "stage_heat": 0.0842
+      },
+      "text_hash": "688b52db65b4c1ecfbce0b4580e8848cb8917ea5cdcbc4299a5e0a035978244d",
+      "title": "The Magician",
+      "token_estimate": 1292,
+      "word_count": 950,
+      "work_id": "maugham.magician"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.633343,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "plot-coupled",
+        "psychological-romance"
+      ],
+      "features": {
+        "agency_density": 0.00684,
+        "conflict_density": 0.005472,
+        "dialogue_ratio": 0.815321,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.0,
+        "intimacy_action_density": 0.004104,
+        "romance_density": 0.005472,
+        "sensory_channels": 3,
+        "sentence_length_mean": 17.404762,
+        "sentence_length_variation": 11.088517
+      },
+      "mmr_score": 0.490292,
+      "rank": 3,
+      "scene_id": "maugham.magician.c007.s004",
+      "score_components": {
+        "craft_geometry": 0.936154,
+        "facet": 0.4,
+        "lexical": 0.723563,
+        "size": 0.977647,
+        "stage_heat": 0.16416
+      },
+      "text_hash": "5f62a9b2ef4f70fb28bfe9ec7e39f6cf48ffef3390827d3b06d5530e81b5f675",
+      "title": "The Magician",
+      "token_estimate": 995,
+      "word_count": 731,
+      "work_id": "maugham.magician"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.608857,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "interior",
+        "plot-coupled",
+        "psychological-romance",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.005083,
+        "conflict_density": 0.002541,
+        "dialogue_ratio": 0.640407,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.008895,
+        "intimacy_action_density": 0.001271,
+        "romance_density": 0.008895,
+        "sensory_channels": 4,
+        "sentence_length_mean": 15.134615,
+        "sentence_length_variation": 15.468366
+      },
+      "mmr_score": 0.466615,
+      "rank": 4,
+      "scene_id": "maugham.magician.c008.s002",
+      "score_components": {
+        "craft_geometry": 0.975093,
+        "facet": 0.6,
+        "lexical": 0.533848,
+        "size": 0.956471,
+        "stage_heat": 0.05084
+      },
+      "text_hash": "ccb51dc43ff0bdc65744f4b34ff2f4f4d2fbd1b03e621b95312425950678f683",
+      "title": "The Magician",
+      "token_estimate": 1071,
+      "word_count": 787,
+      "work_id": "maugham.magician"
+    }
+  ],
+  "selected_token_estimate": 4610,
+  "selection_method": "fts5-bm25+craft-geometry+facets+mmr+work-cap",
+  "unused_source_tokens": 1390,
+  "version": "literary-apprenticeship.v1"
+}

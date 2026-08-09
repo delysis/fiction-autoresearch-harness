@@ -1,0 +1,27 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“Here is somebody I don’t know,” said Susie.
+
+“But I do, at least, by sight,” answered Burdon. He leaned over to Dr
+Porhoët who was sitting opposite, quietly eating his dinner and
+enjoying the nonsense which everyone talked. “Is not that your
+magician?”
+
+“Oliver Haddo,” said Dr Porhoët, with a little nod of amusement.
+
+The new arrival stood at the end of the room with all eyes upon him. He
+threw himself into an attitude of command and remained for a moment
+perfectly still.
+
+“You look as if you were posing, Haddo,” said Warren huskily.
+
+“He couldn’t help doing that if he tried,” laughed Clayson.
+
+Oliver Haddo slowly turned his glance to the painter.
+
+“I grieve to see, O most excellent Warren, that the ripe juice of the
+_aperitif_ has glazed your sparkling eye.”
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

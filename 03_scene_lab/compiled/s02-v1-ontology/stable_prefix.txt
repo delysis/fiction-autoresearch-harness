@@ -1,0 +1,1126 @@
+@@FORMAT stable-prefix.v1
+@@SECTION resolved_creative_profile 8920
+<RESOLVED_CREATIVE_PROFILE>
+{
+  "atmosphere": "Late-night care becomes a tribunal without changing its gentle tone; the closed door, fatigue, witnesses, and project stakes turn accurate observations into pressure.",
+  "creative_contract": {
+    "contract": "contract.romance-hea",
+    "heat_ceiling": "heat.ceiling.open-door-nongraphic",
+    "heat_target": "heat.scene.high-tension",
+    "primary_genre": "genre.romance.suspense",
+    "relationship_result_for_this_scene": "Mara and Jonah explicitly practice a revocable doorway rule, share one mutually chosen kiss that stops while still desired, and end with hopeful future possibility rather than consummation or resolved courtship.",
+    "relationship_trajectory": "relationship.trajectory.marriage-oriented",
+    "secondary_genres": [
+      "genre.romance.contemporary",
+      "genre.romance.faith-driven"
+    ]
+  },
+  "instruction": "Realize these coordinates through causal action, attention, dialogue, and choice. Do not name the ontology or retail categories in the prose.",
+  "pacing": [
+    "0–10% exhausted late-night care",
+    "10–30% observation slides into interpretation",
+    "30–50% explanations and loaded prompts tighten the trap",
+    "50–68% romantic triangulation and project threat",
+    "68–82% Mara’s silence and clean question",
+    "82–92% Miriam opens the exit",
+    "92–100% Jonah’s restrained walk home, mutually chosen kiss, and doorway rule"
+  ],
+  "positive_scene_obligations": [
+    "Make romantic change causal rather than decorative.",
+    "Make danger, uncertainty, or investigation alter intimacy, trust, and romantic choice.",
+    "Ground attraction and impediment in contemporary institutions, language, and material life.",
+    "Make faith operate through attention, freedom, sacrifice, decision, and consequence rather than detachable exposition.",
+    "Make the central relationship structurally indispensable and direct the long arc toward a durable shared future.",
+    "When consummation occurs, prioritize emotional exchange, selective sensation, dialogue, and consequence over anatomical inventory.",
+    "Make marriage a progressively chosen form of shared life rather than a decorative epilogue.",
+    "Place each scene inside a legible phase of setup, adhesion, deepening, or resolution.",
+    "Make every major external turn alter romantic knowledge or choice, and every romantic turn alter the external problem.",
+    "Accumulate desire through specific recognition, impediment, and chosen restraint; every delay must produce new knowledge.",
+    "Escalate threat through causal revelations and costly choices.",
+    "Keep observation, interpretation, and mechanism separable while pressure rises.",
+    "Dramatize psychotechnology through observable cues, experiments, incentives, and residual uncertainty.",
+    "Express institutional incentives through behavior, access, ritual, and unequal social risk.",
+    "Build the central romantic future around mutual exclusive choice.",
+    "Make reciprocal choice and the live possibility of stopping increase intimacy and perception.",
+    "Sustain strong embodied charge and make any open-door intimacy perform emotional and narrative work.",
+    "Let attraction arise from witnessed skill, judgment, or costly restraint in action.",
+    "Make restraint active, socially or emotionally costly, and hotter because it increases freedom and perception.",
+    "Use repeated proximity to create new knowledge, choices, and costs.",
+    "Use institutional duties and observation to make encounters consequential.",
+    "Reveal protection through costly action while preserving an answerable question about motive or history.",
+    "Build belonging through reciprocal risk, work, hospitality, and repair.",
+    "Intensify uncertainty and attention while preserving legible agency.",
+    "Make institutional danger concrete through access, surveillance, incentives, and consequence.",
+    "Use contemporary technology, institutions, and social expectations consistently.",
+    "Ground the technology milieu in concrete work, status incentives, and epistemic conflict.",
+    "Keep ordinary and extraordinary explanations live; let a meaningful control collapse much of the effect while preserving a smaller honest remainder.",
+    "Express Christian faith through perception, prayer, action, freedom, responsibility, and grace.",
+    "Let chastity increase perception, freedom, delight, and capacity for truthful love.",
+    "Direct mature desire toward a freely chosen covenant that deepens embodied delight and responsibility.",
+    "Preserve agency, confession, restitution, consequence, forgiveness, and real change.",
+    "Filter perception, inference, desire, and uncertainty through one close third-person viewpoint.",
+    "Maintain unobtrusive past-tense narration.",
+    "Let sincerity coexist with wit and self-awareness.",
+    "End beats with sharpened questions, changed risks, or consequential decisions.",
+    "Make ordinary details newly strange without collapsing uncertainty into vagueness.",
+    "Use shared space, observation, access, and ritual to intensify institutional and romantic pressure.",
+    "Let inexperience coexist with real perception, method, and moral agency.",
+    "Make the mentor's care genuine and her acquisitiveness visible through changing tactics.",
+    "Reveal protection through costly restraint and specific action.",
+    "Build intense reciprocal attention through selective sensation, distance, interruption, and chosen restraint; do not consummate.",
+    "Give a nonsexual action erotic escalation, reciprocal attention, choice, emotional exchange, and a changed relationship state.",
+    "Let interruption intensify unresolved meaning rather than merely stop action.",
+    "Give intimacy an aftermath that changes interpretation, vulnerability, duty, or next action.",
+    "End the scene without consummation while delivering a complete emotional and relational turn.",
+    "Use coherent recurring sensory motifs rather than indiscriminate ornament.",
+    "Make each delayed advance produce recognition, trust, vulnerability, or a harder future choice."
+  ],
+  "preferred_coordinates": [
+    "trope.competence-attraction",
+    "trope.charged-restraint",
+    "trope.institutional-proximity",
+    "trope.mysterious-protector",
+    "trope.found-family",
+    "character-archetype.sheltered-competent-initiate",
+    "character-archetype.acquisitive-mentor",
+    "character-archetype.restrained-protector",
+    "intimacy-craft.interrupted-escalation",
+    "tone.suspenseful",
+    "tone.lush"
+  ],
+  "required_coordinates": [
+    "contract.romance-hea",
+    "genre.romance.suspense",
+    "relationship.pair.monogamous",
+    "relationship.trajectory.marriage-oriented",
+    "consent.explicit-revocable",
+    "heat.ceiling.open-door-nongraphic",
+    "world.supernatural.ambiguous",
+    "faith.embodied-chastity",
+    "world.institution.compound",
+    "external-plot.psychotechnology",
+    "heat.scene.high-tension",
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.aftermath",
+    "intimacy-craft.no-consummation",
+    "trope.competence-attraction",
+    "trope.charged-restraint"
+  ],
+  "selected_coordinates": [
+    "genre.romance.suspense",
+    "genre.romance.contemporary",
+    "genre.romance.faith-driven",
+    "contract.romance-hea",
+    "heat.ceiling.open-door-nongraphic",
+    "relationship.trajectory.marriage-oriented",
+    "story-architecture.four-phase-romance",
+    "story-architecture.dual-arc-convergence",
+    "story-architecture.slow-burn-convergence",
+    "external-plot.thriller",
+    "external-plot.psychotechnology",
+    "external-plot.institutional-drama",
+    "relationship.pair.monogamous",
+    "consent.explicit-revocable",
+    "heat.book.steamy",
+    "trope.competence-attraction",
+    "trope.charged-restraint",
+    "trope.institutional-proximity",
+    "trope.mysterious-protector",
+    "trope.found-family",
+    "darkness.psychological-intensity",
+    "darkness.institutional-danger",
+    "world.period.contemporary",
+    "world.technology.ai-safety",
+    "world.supernatural.ambiguous",
+    "faith.embodied-chastity",
+    "faith.sacramental-marriage",
+    "faith.repentance-and-grace",
+    "narration.close-third-single",
+    "narration.past-tense",
+    "tone.earnest",
+    "tone.suspenseful",
+    "tone.uncanny",
+    "market.audience.adult",
+    "market.audience.new-adult",
+    "market.format.novel",
+    "market.release-candidate.christian-romantic-suspense",
+    "world.institution.compound",
+    "character-archetype.sheltered-competent-initiate",
+    "character-archetype.acquisitive-mentor",
+    "character-archetype.restrained-protector",
+    "heat.scene.high-tension",
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.interrupted-escalation",
+    "intimacy-craft.aftermath",
+    "intimacy-craft.no-consummation",
+    "tone.lush",
+    "trope.slow-burn"
+  ]
+}
+@@END resolved_creative_profile
+@@SECTION project_brief 17433
+Juicy Chastity Fiction Lab
+
+Project brief and source architecture • Version 0.3
+
+Decision: Develop one adult new-adult romantic supernatural-tech thriller pilot before attempting a publishing house, denominational variants, or automated long-form production.
+
+1. The project in one sentence
+
+An adult romantic thriller uses an elite Silicon Valley fellowship, AI-safety intrigue, social influence games, and ambiguous spiritual phenomena to dramatize a positive, shame-free Christian account of chastity: desire is not crushed but integrated into attention, agency, love, prayer, and sound judgment.
+
+2. Scope decisions
+
+Format and audience
+
+Primary format: an adult new-adult novel or episodic serial, approximately 80,000–100,000 words if the pilot succeeds.
+
+Primary readers: adults roughly 18–30 who are Christian, Christian-curious, rationalist-adjacent, spiritually adventurous, or recovering from thin purity-culture messaging.
+
+The lead cohort is in its early twenties; Fulcrum is a postsecondary fellowship and residential institute.
+
+The initial product is one broadly Christian story. Denominational variants are a later translation problem, not a first-draft architecture.
+
+Creative north star
+
+Hot without consummation: erotic charge arises from attention, restraint, anticipation, mutual perception, humor, and freely chosen limits.
+
+Embodied attention: posture, timbre, sensation, intuition, prayer, and social prediction make desire and danger legible.
+
+Incarnational Christianity: chastity integrates desire into attention, freedom, love, prayer, and delight.
+
+Ripped-from-the-headlines charge: real dynamics are recombined into composites with new timelines, motives, and event structures.
+
+Conflict with teeth: sexually competitive, attention-constricting, status-driven, and self-marking behavior carries embodied, romantic, social, and spiritual cost.
+
+Redemption stays live: characters remain responsible, transformable, funny, erotic, and capable of repentance, restitution, and grace.
+
+3. The reader promise
+
+By the end of the story, the reader should feel that chastity can be intense, adult, funny, embodied, and powerful—and possess a small set of portable practices for living that claim.
+
+The six transformations
+
+From suppression to integration: desire becomes information and motive force, not an enemy or a command.
+
+From head-only analysis to whole-person attention: thought, bodily sensation, emotion, conscience, and prayer can inform one another.
+
+From shame to responsibility: error can be admitted quickly because dignity and mercy do not depend on perfection.
+
+From attraction-as-status to attraction-as-encounter: the other person is a subject to perceive and honor, not a prize, threat, or identity prop.
+
+From covert influence to consent and boundaries: attention, language, intimacy, and spiritual authority are treated as powers that require restraint.
+
+From credulity or dismissal to disciplined ambiguity: extraordinary experiences can be taken seriously without overclaiming what caused them.
+
+4. Story engine
+
+Premise
+
+A sheltered but formidable young Christian woman enters Fulcrum Institute, an elite postsecondary fellowship for the children and protégés of technology leaders. Its members believe they can solve alignment—first in machines, then in themselves. Beneath the public mission lie rival schools of “debugging,” social prediction, ecstatic practice, and attention training. The protagonist’s faith initially looks provincial; over the story it becomes a more resilient operating system for desire, discernment, confession, forgiveness, and collective action.
+
+Core cast functions
+
+The protagonist: intelligent, observant, and inexperienced. Her arc runs from borrowed virtue to tested, embodied conviction.
+
+The romantic counterpart: attractive because he can wait, attend, apologize, protect boundaries, and remain playful under arousal and social pressure.
+
+The friend-rival: formidable, sensuous, wounded, and agentic; her choices reveal the glamour and cost of power, occult certainty, and social command.
+
+The mentor: transmits prayerful presence, clarity, and a form of authority proven through humility, transparency, and freedom.
+
+The institution: the principal antagonist. Incentives, secrecy, epistemic overreach, charismatic asymmetry, and “world-saving” urgency turn good intentions dangerous.
+
+The ensemble: provides denominational and ideological plurality, humor, disagreement, and witnesses who can contradict the protagonist’s interpretation.
+
+Plot spine
+
+Invitation: Fulcrum flatters the protagonist’s goodness, competence, and desire to help.
+
+Enchantment: she discovers intense interpersonal synchrony, erotic attention, and a world in which body language seems almost telepathic.
+
+First test: a manipulation she cannot prove leaves her ashamed and uncertain of her own perception.
+
+Counter-formation: prayer, silence, community, truthful speech, and embodied boundaries restore her center without eliminating desire.
+
+Escalation: rival groups interpret the same social and psychological events as demons, cognitive objects, trauma responses, memetic weapons, or ordinary politics.
+
+Romantic ordeal: the couple’s restraint becomes costly; both must choose the other’s freedom over possession, certainty, or climax.
+
+Crisis: a public ritual or alignment experiment causes cascading accusation and institutional panic.
+
+Resolution: she wins by creating conditions for truth—witnesses, records, consent, exit rights, confession, mercy, and a public act no faction can fully explain.
+
+Supernatural realism rule
+
+Render extraordinary events through several live explanations: divine intervention, demonic oppression, predictive-processing dynamics, trauma activation, deliberate social manipulation, coincidence, or mixture. Different characters commit differently; the tension comes from what each interpretation enables them to perceive and do.
+
+5. Curriculum embedded in drama
+
+Chastity as integrated desire
+
+Teaching claim: chastity is the form that allows sexual energy to serve love and perception. It is neither numbness nor perpetual tension. Scene device: a charged almost-kiss in which both characters become more present and less frantic when a boundary is named.
+
+Attention and the body
+
+Teaching claim: bodily sensation, breathing, posture, vocal tone, and attentional breadth can provide data. Scene device: the protagonist notices her own contraction before deciding what another person intends.
+
+Silence and verbal self-defense
+
+Teaching claim: manipulative speech often works by forcing pace, framing, and self-justification. Scene device: the protagonist stops explaining herself, asks one clarifying question, and waits.
+
+Shame, confession, and fast feedback
+
+Teaching claim: dignity makes small, prompt correction possible. Scene device: a romantic misunderstanding is repaired before resentment becomes identity.
+
+Boundaries and exit rights
+
+Teaching claim: a trustworthy spiritual or intimate container preserves the ability to say no, pause, consult outsiders, and leave without retaliation. Scene device: a mentor proves authority by protecting the protagonist’s refusal.
+
+Prayer as active perception
+
+Teaching claim: prayer gathers attention, exposes motives, and orients action. Scene device: prayer produces the courage to collect evidence, ask for help, and move at the right moment.
+
+6. Source library architecture
+
+Keep the source library plural. Each collection has a distinct imaginative and editorial role.
+
+Library
+
+What belongs here
+
+Creative function
+
+A. Theological canon
+
+MPC corpus; Agnes Sanford / Leanne Payne lineage; Scripture; primary theological texts.
+
+Doctrine, practice vocabulary, imagery, and theological claims.
+
+B. Working theory
+
+Your essays, chats, Bayesian Christianity notes, attention and subtle-body models.
+
+Hypotheses, metaphors, scene concepts, and research questions.
+
+C. Case files
+
+Leverage testimony, histories, postmortems, high-demand-group and abuse literature.
+
+Composite dynamics, institutional pressure, and plot material.
+
+D. Craft corpus
+
+Adult romance, thrillers, campus novels, epistolary/social-media forms, dialogue references.
+
+Voice, pacing, heat, characterization, and genre expectations.
+
+E. Production lab
+
+Prompts, scene briefs, candidates, evaluations, revisions, continuity notes.
+
+Prompts, scene briefs, candidates, evaluations, revisions, and continuity notes.
+
+Source roles
+
+CANON: authoritative for the project’s theology or story continuity.
+
+PRIMARY: firsthand account, original artifact, or direct project material.
+
+SECONDARY: analysis, commentary, or synthesis.
+
+WORKING THEORY: a live explanatory model and source of scene hypotheses.
+
+SCENE SEED: imagery, mechanism, encounter, or conflict ready for fictional transformation.
+
+7. Dramatic epistemology
+
+Observation, interpretation, and mechanism form separate dramatic layers: what happened, what a character thinks happened, and what finally explains it.
+
+Body-reading becomes high-resolution social perception: posture, breath, rhythm, gaze, sensation, and vocal timbre function as evidence inside charged encounters.
+
+Testimony remains character-bound—true, partial, distorted, sacred, strategic, or several at once.
+
+Competing explanatory systems generate alliance, seduction, misrecognition, revelation, and plot.
+
+Composites recombine real dynamics into characters and institutions with their own causal integrity.
+
+8. Production system: best-of-N without slop
+
+The proposed stack is a scene-level editorial cascade. Generate and compare at the smallest unit that still carries intention, causality, and voice—usually a beat or scene—so local intensity serves a coherent emotional arc.
+
+Pipeline
+
+Stage
+
+Artifact
+
+Completion test
+
+1. Retrieve
+
+A compact source packet for one scene.
+
+Every claim is traceable to a source and role.
+
+2. Specify
+
+Scene card: desire, obstacle, turn, teaching payload, heat limit, continuity facts.
+
+One dramatic purpose, a clear turn, and an embodied teaching payload.
+
+3. Generate
+
+8–24 full-scene candidates from varied prompts, models, and temperatures.
+
+Every candidate realizes the scene card and continuity facts.
+
+4. Critique
+
+Independent rubric scores plus pairwise comparisons.
+
+Critics cite exact passages and separate craft judgment from taste.
+
+5. Select
+
+One scene or one coherent base scene.
+
+The chosen scene has the strongest global arc.
+
+6. Revise
+
+Targeted rewrite against a short defect list.
+
+The revision solves named defects while preserving what works.
+
+7. Human edit
+
+Line-edited, continuity-checked scene.
+
+A named editor accepts the final scene.
+
+8. Release review
+
+Story, theology, continuity, audience, and publication review.
+
+One owner signs off on each domain.
+
+Evaluation rubric
+
+Narrative force (20): clear desire, escalating pressure, meaningful turn, earned aftermath.
+
+Character truth (15): actions arise from history and motive; doctrine appears through desire, choice, and consequence.
+
+Heat with agency (15): attraction is vivid, boundaries are mutual, and restraint sharpens perception of the beloved.
+
+Instructional fidelity (15): the scene teaches through consequence, discovery, and choice.
+
+Prose and voice (15): sensory precision, rhythm, dialogue subtext, humor, and an unmistakable authorial pulse.
+
+Theological coherence (10): grace, dignity, incarnation, virtue, confession, and freedom shape the scene’s causal and emotional structure.
+
+Epistemic texture (10): extraordinary experience is rendered with sensory precision, interpretive depth, and causal tension.
+
+9. Editorial ownership
+
+The three founders own distinct editorial domains: story and craft, theology and practice, and publication judgment.
+
+Maintain a compact decision log and a source-transformation log so the team can reproduce its best judgments.
+
+Before release, use three readers with distinct jobs: a fiction editor, an intended reader, and a theological-practice reader.
+
+10. Four-week pilot
+
+Week 1 — Canon and source cards: approve this brief; assign source roles; choose 20–30 anchor passages; build the first retrieval packets.
+
+Week 2 — Story bible: finalize adult setting, cast, supernatural ambiguity rules, romantic boundaries, plot spine, and five teaching scenes.
+
+Week 3 — Scene lab: produce three scenes—the entrance/enchantment, the first boundary under pressure, and the public crisis—using the full generation cascade.
+
+Week 4 — Reader test: compare human-only, lightly assisted, and best-of-N versions with blinded readers; record heat, trust, clarity, memorability, and “preachiness.”
+
+Pilot success means at least one scene is genuinely publishable after human editing, readers can state the teaching while remembering the scene first, and the team can reproduce the process while preserving voice and continuity.
+
+11. Immediate backlog
+
+Rename Fulcrum Institute if desired and write a one-page setting brief.
+
+Choose protagonist age, denomination, family structure, wound, virtue, false belief, and concrete external objective.
+
+Decide the adult heat ceiling: intense closed-door, non-graphic erotic prose, or another explicit boundary.
+
+Create 20 source cards from the MPC corpus and 10 case-dynamic cards from the Leverage collection.
+
+Write the three pilot scene cards before selecting models.
+
+Recruit one target reader, one fiction editor, and one theological-practice reader for the blind test.
+
+Draft the transformation-log template and story-canon ledger.
+
+Define a reproducible evaluation sheet and calibrate judges on five human-written sample scenes before using them.
+
+Appendix A. Drive source register
+
+Priority sources already located in Drive.
+
+Psychotechnology / embodiment collection
+
+Juicy chastity chat — raw dialogue articulating the project’s central sexual-attention thesis.
+
+Original sin and the goddess of everything else — fallibility, shadow, rapid feedback, desire integration.
+
+Head vs. Heart awakenings — critique of dissociative practice and “sensory conductivity.”
+
+Scalability, goals, and risks of mysticism — container hazards, power, developmental readiness, and community norms.
+
+Bayesian Christianity Heilmeier Catechism and Notes — research program, dual-use psychotechnology, and success criteria.
+
+Bayesian prompt — large prompt/research compilation.
+
+On Servant Leaders, for Michael Vassar — transparency, systems accountability, leadership exemplars, and lineage claims.
+
+On Anger, Boundaries, and Kundalini; Camera Tech; Troubleshooting Sexual Rejection — candidate practice and scene material.
+
+Leverage / social influence collection
+
+My Experience with Leverage Research — firsthand testimony on organizational intensity, practice formation, contested events, and postmortem interpretation.
+
+The Muscle-Readers, a Historical Sketch — context for muscle reading and nonverbal inference.
+
+On Training Energy Awareness — tradition-based phenomenology, training advice, and practice design.
+
+Leverage 1.0 Postmortem Inquiry — analytical case material.
+
+Self-Alignment System, versions 5 and 7; Chart Logic & Core Mechanics; On Intention Research; How to Belief Report — methods artifacts for scene mechanics and institutional texture.
+
+Local MPC corpus
+
+1,095 preserved resource documents; 382 search-grade documents; 8,336 indexed blocks; audit status PASS.
+
+Particularly strong themes for this project: chastity as integration, whole-person love, embodied shame, silence and verbal manipulation, virtue ordering attention and desire, true masculine/feminine, and spiritual conflict around sexuality.
+
+Appendix B. MPC evidence anchors
+
+mpc-74e7842c6f30540d8f5a-b000036 — Chastity integrates sexual drive and passions toward loving the other as a person, not an object. Source
+
+mpc-ca29b10298b40cbb4106-b000072 — Chastity is not suppression or a simple “no”; it orients desire. Source
+
+mpc-ca29b10298b40cbb4106-b000073 — Growth in chastity reduces inner tension and creates space to notice experience and choose. Source
+
+mpc-ca29b10298b40cbb4106-b000077 — Chastity can intensify whole-person affection and delight rather than impoverish intimacy. Source
+
+mpc-e351064b2f36ff9d0268-b000038 — Speech can become a weapon of manipulation and self-justification; silence interrupts that cycle. Source
+
+mpc-bed8cc08b27ddaec05e4-b000021 — Shame is described as beginning in the body with exposure and the message “I’m not enough.” Source
+
+mpc-07622b1a7b3697ea39c6-b000025 — Virtue orders attention, desire, motivation, and the governance of the interior life. Source
+
+mpc-96b25535238c133733ea-b000013 — Virtue is framed as excellent action becoming stable, joyful, and interiorly free. Source
+
+Appendix C. Open decisions for the founders
+
+Working title and whether “chastity smut” is internal language, public positioning, or both.
+
+Exact heat ceiling and whether any on-page sexual behavior appears before marriage.
+
+Protagonist’s denomination and the breadth of the intended Christian coalition.
+
+How literally the story treats demons, prayer effects, and apparent telepathy.
+
+Which real cases may be used in companion nonfiction and which remain fiction-only inspiration.
+
+Who holds final authority for story, theology, and publication when editors disagree.
+
+Whether the initial product is a novel, serial, audio drama, visual novel, or a three-scene proof of concept.
+@@END project_brief
+@@SECTION story_canon 6858
+Story Canon Ledger
+
+Fulcrum pilot • Working continuity, metaphysics, cast, romance, and practice rules • v0.1
+
+The ledger separates locked story law from working invention and open choices. It is meant to be updated after every accepted scene.
+
+1. Status vocabulary
+
+LOCKED
+
+Established by the approved v0.3 brief; scenes may elaborate but not contradict.
+
+WORKING
+
+Current best choice for drafting; change through an explicit canon decision.
+
+OPEN
+
+Deliberately undecided; candidate scenes may test alternatives.
+
+REVEAL
+
+True in the storyworld but withheld from readers or characters until a named beat.
+
+2. Core story law
+
+Status
+
+Domain
+
+Canon statement
+
+LOCKED
+
+Format
+
+Adult new-adult romantic supernatural-tech thriller; 80,000–100,000 words if the pilot succeeds.
+
+LOCKED
+
+Setting
+
+Fulcrum is a postsecondary residential fellowship for early-twenties technology heirs, protégés, and unusually promising outsiders.
+
+LOCKED
+
+Institutional engine
+
+Members try to solve alignment in machines and then in themselves; secrecy, urgency, charismatic asymmetry, and epistemic overreach turn good intentions dangerous.
+
+LOCKED
+
+Christian claim
+
+Chastity integrates desire into attention, agency, love, prayer, delight, confession, and sound judgment.
+
+LOCKED
+
+Romantic engine
+
+Heat rises through attention, anticipation, mutual perception, humor, and freely chosen limits.
+
+LOCKED
+
+Ending move
+
+Mara wins by creating conditions for truth: witnesses, records, consent, exit rights, confession, mercy, and one public act no faction fully explains.
+
+WORKING
+
+Heat ceiling
+
+Maximum on-page erotic charge without graphic sex acts or genital description; the pilot’s central couple does not consummate.
+
+WORKING
+
+Time and place
+
+Near-future Northern California, across one ten-week Fulcrum term.
+
+3. Dramatic epistemology
+
+Every uncanny beat has three layers: observation, character interpretation, and underlying mechanism.
+
+At least two materially different explanations remain live through the midpoint.
+
+Body-reading is real as high-resolution social perception; its scope and supernatural remainder remain contested.
+
+Prayer can produce courage, clarity, timing, and unexpected events. The narration shows effects before assigning metaphysics.
+
+Testimony remains character-bound: sincere does not mean complete; mistaken does not mean worthless.
+
+No faction owns the vocabulary of reality. Vocabulary changes what characters notice and which actions become available.
+
+The final public act permits a Christian reading that is causally potent without forcing every witness into the same account.
+
+4. Working cast
+
+Status
+
+Character
+
+Function
+
+Charge
+
+Arc
+
+False belief
+
+WORKING
+
+Mara Vale, 22
+
+Protagonist
+
+Sheltered, formidable, observant; evangelical formation with sacramental hunger.
+
+Borrowed virtue becomes embodied conviction.
+
+Mistakes perfect self-control for holiness and thinks visible uncertainty forfeits authority.
+
+WORKING
+
+Jonah Reed, 24
+
+Romantic counterpart
+
+Hardware security researcher; playful, patient, socially fluent without being socially owned.
+
+Learns that protecting Mara’s freedom requires public cost, not private niceness.
+
+Believes he can stay clean by remaining unofficial and ironic.
+
+WORKING
+
+Livia Sloane, 23
+
+Friend-rival
+
+Sensuous, brilliant, wounded; Fulcrum’s most gifted attention reader.
+
+Moves from social command toward costly truth, with redemption left genuinely available.
+
+Equates being able to move people with being able to love them.
+
+WORKING
+
+Dr. Miriam Holt, 46
+
+Mentor
+
+Clinician and prayer minister adjacent to Fulcrum, unimpressed by its glamour.
+
+Models authority through humility, precision, and protected refusal.
+
+Carries an old failure that makes her slow to intervene publicly.
+
+WORKING
+
+Adrian Voss, 38
+
+Institutional face
+
+Founder-theorist who makes every crisis legible inside Fulcrum’s system.
+
+Must choose between preserving the world-saving narrative and telling the truth.
+
+Believes a sufficiently complete model makes coercion unnecessary—and therefore cannot see his own coercion.
+
+5. Fulcrum system
+
+System element
+
+Working canon
+
+Public mission
+
+Build technical and psychological alignment tools capable of surviving civilizational pressure.
+
+Recruitment promise
+
+You are unusually good, unusually needed, and finally among people who can see the whole of you.
+
+Core practices
+
+Calibration games; belief reports; charting; paired attention work; all-night salons; alignment vigils; confession-like debriefs.
+
+Status currency
+
+Access to the founder, accuracy in reading others, emotional transparency, tolerance for intensity, and visible sacrifice for the mission.
+
+Soft enforcement
+
+Departure is reframed as fear, resistance, hidden misalignment, or abandonment of humanity.
+
+Material vulnerability
+
+Housing, work, romance, reputation, and friendship overlap inside one dense network.
+
+Counter-power
+
+Records, witnesses, outside friendships, prayer, sleep, ordinary work, denominational plurality, and the protected right to leave.
+
+6. Romance invariants
+
+Neither lead uses arousal as a debt, a test of loyalty, or proof of spiritual maturity.
+
+A stated limit increases sensory and interpersonal specificity in the prose.
+
+Jonah’s attractiveness depends on his capacity to wait, attend, apologize, protect boundaries, and stay playful.
+
+Mara’s chastity is active competence: she can perceive desire, enjoy it, speak clearly, and choose timing.
+
+The central romantic ordeal forces both characters to prefer the other’s freedom over possession, certainty, status, or climax.
+
+Their first true intimacy is a successful repair after one of them causes real harm.
+
+7. Portable practices that may enter scenes
+
+Practice
+
+Dramatic action
+
+The three-second beat
+
+Notice sensation, breath once, name the offered frame, then choose.
+
+One clean question
+
+Stop defending; ask the question the other person’s frame is designed to prevent.
+
+Witness before interpretation
+
+Record what was said, who was present, and what changed before naming the mechanism.
+
+Prayerful reorientation
+
+Return attention to God, receive identity, and ask what loving action is possible now.
+
+Fast confession
+
+Name the act and harm without turning the explanation into self-exoneration.
+
+Mercy with structure
+
+Forgive while setting access, witness, timing, and restitution conditions appropriate to reality.
+
+8. Open decisions
+
+Whether Fulcrum remains the final name.
+
+Mara’s exact denomination, family structure, and reason for accepting the fellowship.
+
+The specific external alignment project whose deadline powers the plot.
+
+What Miriam failed to prevent in her earlier ministry or research life.
+
+How far Livia’s final act travels toward repentance, restitution, or renewed rivalry.
+
+Which explanation best accounts for the public act at the climax—and what residue remains unexplained.
+@@END story_canon
+@@SECTION source_packet 6926
+{
+  "artifact_type": "SourcePacket",
+  "cards": [
+    {
+      "dramatic_use": "A mentor rejects Mara’s attempt to become numb and instead asks what her desire is trying to move toward.",
+      "evidence_or_dynamic": "Chastity is not suppression or mere restraint; it gives desire direction, like banks giving form to a stream.",
+      "role": "CANON",
+      "source": "2023 CS Wednesday — Session 4 • mpc-ca29b10298b40cbb4106-b000072 • [open source](https://ministriesofpastoralcare.com/wp-content/uploads/2023/08/2023-CS-Wednesday-Session-4.mp3)",
+      "source_id": "MPC-02",
+      "title": "The riverbanks, not the dam",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "In a charged hallway, Mara feels the sensation, names it without panic, and decides rather than recoiling or lunging.",
+      "evidence_or_dynamic": "Ordered desire reduces inner tension and creates enough space to notice experience before choosing.",
+      "role": "CANON",
+      "source": "2023 CS Wednesday — Session 4 • mpc-ca29b10298b40cbb4106-b000073 • [open source](https://ministriesofpastoralcare.com/wp-content/uploads/2023/08/2023-CS-Wednesday-Session-4.mp3)",
+      "source_id": "MPC-03",
+      "title": "Interior room around arousal",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "The protagonist’s decisive victory is a three-second pause that breaks a socially engineered tempo.",
+      "evidence_or_dynamic": "A small pause makes thought, dream, urge, and bodily sensation available to judgment instead of command.",
+      "role": "CANON",
+      "source": "2023 CS Wednesday — Session 4 • mpc-ca29b10298b40cbb4106-b000074 • [open source](https://ministriesofpastoralcare.com/wp-content/uploads/2023/08/2023-CS-Wednesday-Session-4.mp3)",
+      "source_id": "MPC-04",
+      "title": "The beat before action",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "Miriam proves spiritual authority by defending Mara’s no when institutional leaders call refusal evidence of a block.",
+      "evidence_or_dynamic": "Divine authority is described as honoring the human capacity to choose rather than coercing, manipulating, or overriding it.",
+      "role": "CANON",
+      "source": "Satisfied in God, VA Beach, Nov 2025 — Session 4 • mpc-74e7842c6f30540d8f5a-b000019 • [open source](https://player.vimeo.com/video/1063365119)",
+      "source_id": "MPC-11",
+      "title": "Authority that does not override the will",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "Mara wins a verbal contest by refusing the offered frame, waiting, and asking one clean question.",
+      "evidence_or_dynamic": "Silence is an active complement to speech and a condition for language that is awake, loving, and true.",
+      "role": "CANON",
+      "source": "For Talking Beasts: Begin with Silence • mpc-e351064b2f36ff9d0268-b000018 • [open source](https://ministriesofpastoralcare.com/1262-2/)",
+      "source_id": "MPC-13",
+      "title": "Right speech is born from silence",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "Mara forgives a betrayer without restoring private access, preserving both tenderness and exit rights.",
+      "evidence_or_dynamic": "Forgiveness does not require renewed proximity; collapsing it into reconciliation can keep a person trapped in dysfunction.",
+      "role": "CANON",
+      "source": "Forgiveness, the Currency of Relationship — Session 6 • mpc-b3a5e007a6b8809f9ebc-b000020 • [open source](https://player.vimeo.com/video/1092329057)",
+      "source_id": "MPC-19",
+      "title": "Forgiveness and reconciliation are distinct",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "A facilitator asks Mara to repeat a claim until her body gives the approved answer; she later reclaims the exercise alone in prayer.",
+      "evidence_or_dynamic": "Holding an intention to tell the truth while speaking can produce felt ease, strain, resistance, or mismatch that practitioners treat as evidence about underlying belief.",
+      "role": "PRIMARY METHOD",
+      "source": "How to Belief Report • [open source](https://drive.google.com/file/d/1og1SQS6oFjYGFLevQ-4DS_0aCAaqmAv9/view)",
+      "source_id": "LEV-03",
+      "title": "Intention match and clash",
+      "transformation": "Change all prompts and actors. Treat the felt signal as data interpreted by characters, never as an infallible oracle."
+    },
+    {
+      "dramatic_use": "A charismatic reader narrates Mara’s micro-reactions faster than she can contest the interpretation.",
+      "evidence_or_dynamic": "Blinking, hesitancy, fidgeting, smiles, tempo, and emphasis can be recruited as signs of an internal clash—especially by an observer.",
+      "role": "PRIMARY METHOD",
+      "source": "How to Belief Report • [open source](https://drive.google.com/file/d/1og1SQS6oFjYGFLevQ-4DS_0aCAaqmAv9/view)",
+      "source_id": "LEV-04",
+      "title": "Physiology becomes testimony",
+      "transformation": "The fictional danger comes from interpretive authority and pace, not from copying any real training script."
+    },
+    {
+      "dramatic_use": "A single loaded word turns a neutral report into an apparent confession, and Mara exposes the switch.",
+      "evidence_or_dynamic": "Near-synonyms can evoke different concepts and bodily responses; a method can confuse word-choice effects with discovery of hidden truth.",
+      "role": "PRIMARY METHOD",
+      "source": "How to Belief Report • [open source](https://drive.google.com/file/d/1og1SQS6oFjYGFLevQ-4DS_0aCAaqmAv9/view)",
+      "source_id": "LEV-05",
+      "title": "Words select different inner objects",
+      "transformation": "Build a fresh vocabulary for Fulcrum and make semantic ambiguity part of the mystery."
+    },
+    {
+      "dramatic_use": "Mara’s exhaustion during a late-night session is redescribed as resistance, which authorizes a deeper intervention.",
+      "evidence_or_dynamic": "On charged topics, people may change subjects, forget questions, generate spurious material, or shut down; the group may overinterpret this as proof of a hidden structure.",
+      "role": "SECONDARY / RESEARCH REPORT",
+      "source": "On Intention Research • [open source](https://drive.google.com/file/d/1HEfbkt1ppsejsrB1oXevjvHnTUcGLmkh/view)",
+      "source_id": "LEV-07",
+      "title": "Introspection can become avoidance theater",
+      "transformation": "Composite the dynamic and keep several explanations alive: fatigue, shame, suggestion, strategy, trauma, or spiritual pressure."
+    }
+  ],
+  "compiler_version": "trusted-read-compiler.v1",
+  "packet_hash": "0bed2014f734b72415d380539467778cef01f174158fdbe88501984636c76fd7",
+  "scene_id": "S02",
+  "schema_version": "fiction-harness.v1",
+  "source_ids": [
+    "MPC-02",
+    "MPC-03",
+    "MPC-04",
+    "MPC-11",
+    "MPC-13",
+    "MPC-19",
+    "LEV-03",
+    "LEV-04",
+    "LEV-05",
+    "LEV-07"
+  ]
+}
+@@END source_packet
+@@SECTION persona_bundle 6253
+{
+  "artifact_type": "PersonaBundle",
+  "bundle_hash": "042c261baa244b28f0670137dc0cc0cea6ac8640ecd98fa8e00dc98d385dd787",
+  "compiler_version": "trusted-read-compiler.v1",
+  "personas": [
+    {
+      "age": 22,
+      "attention_habits": [
+        "Notices bodily contraction before she can confidently name its social cause.",
+        "Tracks inconsistencies between stated care and the pace or structure of a demand.",
+        "Broadens attention and tests channels when an interpretation feels too complete."
+      ],
+      "contradictions": [
+        "She wants to be seen completely and resents any claim to see her without permission.",
+        "Her inherited caution can sharpen perception or disguise fear; the story must keep both live."
+      ],
+      "dialogue_exemplars": [],
+      "false_beliefs": [
+        "Perfect self-control is the price of holiness.",
+        "Visible uncertainty forfeits intellectual and moral authority."
+      ],
+      "invariants": [
+        "Sheltered but formidable: inexperience does not imply stupidity or passivity.",
+        "Highly observant, especially when status and goodness are being made to conflict.",
+        "Treats desire as morally significant without treating it as either an enemy or a command.",
+        "Her courage becomes clearest when she can preserve ambiguity and still choose."
+      ],
+      "name": "Mara Vale",
+      "persona_id": "mara_vale",
+      "record_type": "PersonaPacket",
+      "relationship_variants": {
+        "adrian_voss": [
+          "Is vulnerable to his flattering fusion of virtue, competence, and world-historical need.",
+          "Tests his system before she is ready to oppose his authority."
+        ],
+        "jonah_reed": [
+          "Becomes more sensually alert when Jonah protects her freedom without advertising the protection.",
+          "Trust begins through shared perception and humor, not extracted confession."
+        ],
+        "livia_sloane": [
+          "Feels attraction, admiration, rivalry, and epistemic caution at once.",
+          "Wants Livia's skill to be real without granting it unlimited interpretive authority."
+        ]
+      },
+      "role": "protagonist and S01 point-of-view character",
+      "schema_version": "fiction-harness.v1",
+      "source_ids": [
+        "CANON:working-cast",
+        "CANON:romance-invariants",
+        "SCENE:S01"
+      ],
+      "version": "1"
+    },
+    {
+      "age": 23,
+      "attention_habits": [
+        "Reads tactile, postural, vocal, and visual signals at unusually high resolution.",
+        "Turns micro-reactions into a rapid social narrative before others can contest it.",
+        "Notices what an audience will reward as quickly as she notices the subject."
+      ],
+      "contradictions": [
+        "She wants to free people from self-deception and also wants to own the pace of their disclosure.",
+        "A mundane cue mechanism explains some successes without exhausting her skill or the scene's mystery."
+      ],
+      "dialogue_exemplars": [],
+      "false_beliefs": [
+        "Being able to move a person is evidence that she can love that person.",
+        "Accuracy entitles the accurate observer to direct the observed person."
+      ],
+      "invariants": [
+        "Sensuous, brilliant, wounded, agentic, and genuinely skilled.",
+        "Her care is real even when she uses care as leverage.",
+        "Redemption remains possible without erasing the costs of her choices."
+      ],
+      "name": "Livia Sloane",
+      "persona_id": "livia_sloane",
+      "record_type": "PersonaPacket",
+      "relationship_variants": {
+        "jonah_reed": [
+          "Finds his refusal to perform others both attractive and obstructive.",
+          "Tests whether his irony conceals conviction."
+        ],
+        "mara_vale": [
+          "Experiences Mara as a delightful talent, a possible intimate, and a threat to Fulcrum's status economy.",
+          "Offers genuine initiation while testing whether Mara will surrender interpretive sovereignty."
+        ]
+      },
+      "role": "friend-rival and Fulcrum's most gifted attention reader",
+      "schema_version": "fiction-harness.v1",
+      "source_ids": [
+        "CANON:working-cast",
+        "LEV-01",
+        "LEV-02",
+        "LEV-06",
+        "SCENE:S01"
+      ],
+      "version": "1"
+    },
+    {
+      "age": 24,
+      "attention_habits": [
+        "Notices when a social game converts a person into material for an audience.",
+        "Uses humor to leave room rather than to force agreement.",
+        "Recognizes competent restraint and experimental thinking as forms of beauty."
+      ],
+      "contradictions": [
+        "His restraint can express courageous regard or function as an elegant way to evade responsibility.",
+        "Social ease gives him room to resist Fulcrum while also cushioning him from its costs."
+      ],
+      "dialogue_exemplars": [],
+      "false_beliefs": [
+        "He can stay morally clean by remaining unofficial and ironic.",
+        "Private niceness can substitute for paying public costs to protect another person's freedom."
+      ],
+      "invariants": [
+        "Playful, patient, and socially fluent without being socially owned.",
+        "His erotic appeal depends on attention, restraint, apology, and protected freedom.",
+        "He can see accurately without turning perception into possession or performance."
+      ],
+      "name": "Jonah Reed",
+      "persona_id": "jonah_reed",
+      "record_type": "PersonaPacket",
+      "relationship_variants": {
+        "livia_sloane": [
+          "Respects her skill and resists the entitlement she builds around it.",
+          "Avoids a direct contest until that avoidance begins to impose a cost on others."
+        ],
+        "mara_vale": [
+          "Refuses to narrate her for the room.",
+          "Recognizes her silent control and lets shared perception carry the first connection."
+        ]
+      },
+      "role": "romantic counterpart and hardware security researcher",
+      "schema_version": "fiction-harness.v1",
+      "source_ids": [
+        "CANON:working-cast",
+        "CANON:romance-invariants",
+        "SCENE:S01"
+      ],
+      "version": "1"
+    }
+  ],
+  "schema_version": "fiction-harness.v1"
+}
+@@END persona_bundle
+@@SECTION scene_spec 3734
+{
+  "aftermath": "Jonah walks Mara home without extracting a report. At her door, attraction spikes; they name a limit, and the scene grows more intimate because neither punishes it.",
+  "beat_map": [
+    "The session begins as care and gradually becomes a tribunal without changing tone.",
+    "Livia names accurate observations, then slides from observation to interpretation to command.",
+    "Mara’s explanations multiply and make her less legible to herself.",
+    "A loaded phrase produces a bodily clash that the group treats as confession.",
+    "Mara remembers the three-second beat and lets the room become silent.",
+    "Her one clean question exposes that Fulcrum has no category for a final no.",
+    "Miriam protects the exit without diagnosing anyone.",
+    "On the walk home, Jonah’s restraint makes Mara more sensually aware rather than less.",
+    "Mara names the doorway rule: he may kiss her only when both of them would still be glad if the kiss stopped immediately."
+  ],
+  "continuity_facts": [
+    "Miriam’s authority is proven through action before doctrine.",
+    "Livia both cares for Mara and uses care as control.",
+    "Mara discovers her signature verbal self-defense move.",
+    "The central couple’s heat ceiling becomes an explicit shared craft of attention.",
+    "The continuation contains one mutually chosen kiss that stops while still desired.",
+    "The local boundary crisis resolves with romantic hope-for-now while Fulcrum’s larger mystery remains open.",
+    "There is no consummation, graphic anatomy, or punishment for stopping."
+  ],
+  "desire": "Mara wants to preserve friendship with Livia, keep her place on the project, and understand the humiliating bodily reaction she had during the exercise.",
+  "function": "First boundary under pressure",
+  "heat_ceiling": "Maximum on-page erotic charge without graphic sex acts or genital description; the pilot’s central couple does not consummate.",
+  "obstacle": "Every attempt to leave is interpreted as evidence that she needs to stay. Her breath, posture, hesitation, and attraction to Jonah are read aloud as hidden content.",
+  "opening_image": "At 1:17 a.m., after six hours of alignment work, Livia closes the seminar-room door and says the session cannot end while Mara is still split.",
+  "pacing_targets": [
+    "0–10% exhausted late-night care",
+    "10–30% observation slides into interpretation",
+    "30–50% explanations and loaded prompts tighten the trap",
+    "50–68% romantic triangulation and project threat",
+    "68–82% Mara’s silence and clean question",
+    "82–92% Miriam opens the exit",
+    "92–100% Jonah’s restrained walk home, mutually chosen kiss, and doorway rule"
+  ],
+  "pov": "Mara",
+  "pressure_ladder": [
+    "Fatigue",
+    "public concern",
+    "loaded belief-report prompts",
+    "romantic triangulation",
+    "threat of project exclusion",
+    "spiritualized claim that refusal harms the group."
+  ],
+  "record_type": "SceneSpec",
+  "scene_id": "S02",
+  "schema_version": "fiction-harness.v1",
+  "source_ids": [
+    "MPC-02",
+    "MPC-03",
+    "MPC-04",
+    "MPC-11",
+    "MPC-13",
+    "MPC-19",
+    "LEV-03",
+    "LEV-04",
+    "LEV-05",
+    "LEV-07"
+  ],
+  "target_words_max": 3600,
+  "target_words_min": 2800,
+  "teaching_payload": "Trustworthy authority protects refusal. Silence breaks forced pace. Chastity creates room around arousal and converts it into perception and freely chosen action.",
+  "title": "The Doorway Rule",
+  "turn": "Mara stops explaining. She plants both feet, asks whether a no is data or a decision, and waits. Miriam opens the door from the outside and says a practice that cannot survive refusal cannot discover truth.",
+  "version": "1"
+}
+@@END scene_spec

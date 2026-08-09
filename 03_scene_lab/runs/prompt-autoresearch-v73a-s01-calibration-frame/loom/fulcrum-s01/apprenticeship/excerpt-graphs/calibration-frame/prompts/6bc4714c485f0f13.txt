@@ -1,0 +1,33 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“The other day the Chien Noir was the scene of a tragedy,” said Susie.
+“Marie broke off relations with her lover, who is a waiter at
+Lavenue’s, and would have no reconciliation. He waited till he had a
+free evening, and then came to the room downstairs and ordered dinner.
+Of course, she was obliged to wait on him, and as she brought him each
+dish he expostulated with her, and they mingled their tears.”
+
+“She wept in floods,” interrupted a youth with neatly brushed hair and
+fat nose. “She wept all over our food, and we ate it salt with tears.
+We besought her not to yield; except for our encouragement she would
+have gone back to him; and he beats her.”
+
+Marie appeared again, with no signs now that so short a while ago
+romance had played a game with her, and brought the dishes that had
+been ordered. Susie seized once more upon Arthur Burdon’s attention.
+
+“Now please look at the man who is sitting next to Mr Warren.”
+
+Arthur saw a tall, dark fellow with strongly-marked features, untidy
+hair, and a ragged black moustache.
+
+“That is Mr O’Brien, who is an example of the fact that strength of
+will and an earnest purpose cannot make a painter. He’s a failure, and
+he knows it, and the bitterness has warped his soul. If you listen to
+him, you’ll hear every painter of eminence come under his lash. He can
+forgive nobody who’s successful, and he never acknowledges merit in
+anyone till he’s safely dead and buried.”
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

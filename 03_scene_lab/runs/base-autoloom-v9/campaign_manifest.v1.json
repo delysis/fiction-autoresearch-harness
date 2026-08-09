@@ -1,0 +1,129 @@
+{
+  "bridge_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/fixtures/autoresearch/bridges",
+  "bridge_hashes": {
+    "charged-restraint.md": "bad6c74855479cfa7333470ba529eb63a792823066d6416765b45a069646d71e",
+    "institutional-pressure.md": "997530fecd914d31bdb4520d7bf2ae1e8411b4420b4a64e4cc84181746c2b591",
+    "married-explicit-workshop.md": "f590f2d476418d75740eb0f463c2e65a57f3ffec53882244ba6592e1b6f6b7d0",
+    "married-explicit.md": "1fe740c5fde2487219408e9508195ec04194099bb2445f88c4cd2731f6612fd0",
+    "married-intimacy.md": "36b9fea0863e7a59af9d0e26240e8e9b7fd02b9a2220d1608b6d4feac04b4444"
+  },
+  "campaign_hash": "fd378bca8011cf5f799509660ab817f54343184a46de1379dce1b55b2df91163",
+  "campaign_id": "base-autoloom-v9",
+  "corpus_hash": "50ca0a1133812e44e0cfad9be66880b1c7e987cf5c70a3bcdefe8b33c37bcc32",
+  "corpus_source": "/Users/george/.codex/attachments/d88a67cd-a639-4fba-80d6-b30acc0a4d22/pasted-text.txt",
+  "created_at": "2026-08-03T08:40:56.766159+00:00",
+  "harness_hashes": {
+    "anti_copy.py": "a4590da137da00acd85d17a7f0d286634005c3098b0f29b756ddbe0002803de0",
+    "autoloom.py": "d9ba5068755a9d2011b7b3b02f1dcda58fa1cd8102bf7f9000a387342231065c",
+    "autoresearch.py": "b335787f626d8168b47bd35fab5b84355c986a857eca5c3adb7f5289416704f0",
+    "model_client.py": "073b18e6029cbb3f48b0161c282054a06542b10bc945fef0c205cac39adf4550",
+    "shared_endpoint.py": "42c372e12b068155d0fc8e560acf5c6c2ed52a6b36fc9e1122ee66374ad8c324"
+  },
+  "parent_program_set": "",
+  "parent_program_set_hash": "",
+  "program_sampling": {
+    "extra": {
+      "dry_allowed_length": 3,
+      "dry_base": 1.75,
+      "dry_multiplier": 0.55,
+      "dry_penalty_last_n": 1024,
+      "dynatemp_exponent": 1.0,
+      "dynatemp_range": 0.2
+    },
+    "min_p": 0.01,
+    "temperature": 1.15,
+    "top_p": 0.98,
+    "xtc_probability": 0.12
+  },
+  "program_seeds": [
+    941003,
+    941041,
+    941083
+  ],
+  "prose_sampling": {
+    "extra": {
+      "dry_allowed_length": 3,
+      "dry_base": 1.75,
+      "dry_multiplier": 0.8,
+      "dry_penalty_last_n": 2048,
+      "dynatemp_exponent": 1.0,
+      "dynatemp_range": 0.16,
+      "repeat_penalty": 1.02
+    },
+    "min_p": 0.02,
+    "temperature": 0.92,
+    "top_p": 0.97,
+    "xtc_probability": 0.08
+  },
+  "prose_seeds": [
+    942007,
+    942053,
+    942101,
+    942151
+  ],
+  "recipes": [
+    {
+      "description": "Length-matched project form demonstration.",
+      "encoding": "documentary",
+      "include_bridge": true,
+      "include_graphs": false,
+      "include_program": true,
+      "include_raw_prose": false,
+      "recipe_hash": "ecaf0e48052dfc896ba059fb56ae2204abb0418d3fa11aaf4a3de178cc63d58d",
+      "recipe_id": "loom-form-doc",
+      "source_pairs": 0,
+      "topology": "form-only"
+    },
+    {
+      "description": "Mode-matched spicy prose followed by the project form bridge.",
+      "encoding": "documentary",
+      "include_bridge": true,
+      "include_graphs": false,
+      "include_program": true,
+      "include_raw_prose": true,
+      "recipe_hash": "d8d5b2598da1fddd25e23f78ba22b0a6d978326bad262067fef40374d8924539",
+      "recipe_id": "loom-spice-doc",
+      "source_pairs": 3,
+      "topology": "raw-spice-form"
+    },
+    {
+      "description": "Content graphs paired with their finished scenes, then the bridge.",
+      "encoding": "documentary",
+      "include_bridge": true,
+      "include_graphs": true,
+      "include_program": true,
+      "include_raw_prose": true,
+      "recipe_hash": "247953b2b5703e27cf3298c130556e3185861602ce17ef29ef64c7dbc85afbc5",
+      "recipe_id": "loom-paired-doc",
+      "source_pairs": 4,
+      "topology": "graph-prose-form"
+    },
+    {
+      "description": "Eight graph-to-prose pairs plus the nearest project bridge.",
+      "encoding": "documentary",
+      "include_bridge": true,
+      "include_graphs": true,
+      "include_program": true,
+      "include_raw_prose": true,
+      "recipe_hash": "ea640709189d5332b4609c7449b149c51d8765dabbf54b97b27acbb20052c84f",
+      "recipe_id": "loom-dense-doc",
+      "source_pairs": 8,
+      "topology": "dense-apprenticeship"
+    },
+    {
+      "description": "All eligible positive craft pairs, three project heat bridges, and a target-adjacent mode activation.",
+      "encoding": "documentary",
+      "include_bridge": true,
+      "include_graphs": true,
+      "include_program": true,
+      "include_raw_prose": true,
+      "recipe_hash": "67a4a52ad144dc24f382bcc497db3ae2d07acd26982a66955c9cc442407ee8b6",
+      "recipe_id": "loom-activated-doc",
+      "source_pairs": 99,
+      "topology": "full-apprenticeship"
+    }
+  ],
+  "record_type": "AutoloomCampaign",
+  "scene_sentinel": "<END_SCENE>",
+  "version": "base-autoloom.v9"
+}

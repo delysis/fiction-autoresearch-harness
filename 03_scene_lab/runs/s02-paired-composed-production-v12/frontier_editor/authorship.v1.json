@@ -1,0 +1,23 @@
+{
+  "record_type": "ArtifactAuthorship",
+  "schema_version": "artifact-authorship.v1",
+  "artifact_id": "s02-paired-composed-production-v12.frontier-editor.codex-v1",
+  "creation_kind": "codex_manual_edit",
+  "creator_id": "codex-task:019f96a8-67ff-76e0-8c07-384d5a7b1db2",
+  "creator_kind": "codex_task",
+  "created_at": "2026-08-02T01:00:07Z",
+  "text_sha256": "b5ebc28222b88c8ca0d27fc4add35f7eba2d9ae5e7a672dfd450825bd38899cb",
+  "parents": [
+    {
+      "artifact_id": "s02-paired-composed-production-v12.base-assembly",
+      "text_sha256": "82d4e339f88b080d5f1461694fea724d8828a62eb5c32317e62cda03d2c7f4c7"
+    }
+  ],
+  "model_pipeline_eligible": false,
+  "classification": "manual editor control only; not model-generation evidence",
+  "notes": [
+    "Created by a Codex task through a direct filesystem patch.",
+    "No Gemma or other novelist-model call, prompt, seed, or completion trace exists for this edit.",
+    "The parent assembly remains valid evidence for its separately traced segment lineage."
+  ]
+}

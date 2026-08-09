@@ -1,0 +1,10 @@
+{
+  "campaign_hash": "335ada0a6aa0af724010adab370860498cdfe237c6b220fb3c57446ce867a34a",
+  "eligible_runway_ids": [
+    "runway.graph-paired-canon-bookfront.charged-restraint.961019"
+  ],
+  "pool_hash": "75f6ec4806737dd4943b994f9f089ab63a9b0ea72a582358660d8beb3535a708",
+  "record_type": "SampledGeneratedRunwayPool",
+  "selection_policy": "no-automatic-promotion; read-only-critic-or-explicit-research-lead-selection-required",
+  "version": "gemma-fiction-autoresearch.v4"
+}

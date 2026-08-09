@@ -1,0 +1,126 @@
+{
+  "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+  "eligible": false,
+  "gates": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04-polished",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": " the project was far larger than Livia’s reads, and for the first time, Mara felt she had the tools to begin solving it."
+    },
+    "concrete_story_hook": {
+      "concrete_object": true,
+      "passed": true,
+      "unresolved_or_anomalous": true
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": false,
+      "word_count": 3755
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6730
+    },
+    "no_internal_signature_replay": {
+      "ngram_words": 16,
+      "passed": true,
+      "repeated_passages": []
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "livia_offers_specific_care",
+          "found": true,
+          "position": 413
+        },
+        {
+          "beat": "truth_overclaims_entitlement",
+          "found": true,
+          "position": 630
+        },
+        {
+          "beat": "mara_error_has_cost",
+          "found": true,
+          "position": 4197
+        },
+        {
+          "beat": "ambiguous_embodied_evidence",
+          "found": true,
+          "position": 6171
+        },
+        {
+          "beat": "attention_recovers_judgment",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "mara_creates_exit_condition",
+          "found": true,
+          "position": 9598
+        },
+        {
+          "beat": "miriam_protects_exit",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 16035
+        },
+        {
+          "beat": "kiss_stops_and_shared_practice",
+          "found": true,
+          "position": 18667
+        }
+      ],
+      "passed": false
+    }
+  }
+}

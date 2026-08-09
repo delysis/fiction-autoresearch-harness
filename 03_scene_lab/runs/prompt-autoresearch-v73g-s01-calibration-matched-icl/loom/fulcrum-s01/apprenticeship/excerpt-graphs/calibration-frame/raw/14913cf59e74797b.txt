@@ -1,0 +1,32 @@
+{
+  "emotional_offer": "Defiance",
+  "emotional_counteroffer": "Unnoticed observation",
+  "relationship_history": "Implied social dynamic",
+  "present_stakes": "Imminent confinement and escape planning",
+  "dialogue_act_sequence": [
+    "Challenge",
+    "Self-talk/Internal deliberation"
+  ],
+  "body_language_counterpoint": [
+    "Archly looking up",
+    "Calm movement"
+  ],
+  "sensory_channels": [
+    "Sight",
+    "Speech"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": [
+    "Handkerchief offered",
+    "Staircase ascent",
+    "Room locking"
+  ],
+  "agency_actions": [
+    "Challenging Mr. Wylie",
+    "Internal planning for escape"
+  ],
+  "relationship_delta": "Isolation",
+  "story_state_change": "Increased sense of entrapment",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,27 @@
+{
+  "emotional_offer": "Disgust",
+  "emotional_counteroffer": "Constraint",
+  "relationship_history": "None apparent",
+  "present_stakes": "Social obligation",
+  "dialogue_act_sequence": [
+    "Exclamatory request",
+    "Self-questioning",
+    "Internal decision"
+  ],
+  "body_language_counterpoint": "Withdrawal, rising",
+  "sensory_channels": [
+    "Sight",
+    "Taste"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Champagne serving, standing",
+  "agency_actions": [
+    "Drinking",
+    "Questioning",
+    "Rising"
+  ],
+  "relationship_delta": "Negative",
+  "story_state_change": "Shift in internal resolve",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

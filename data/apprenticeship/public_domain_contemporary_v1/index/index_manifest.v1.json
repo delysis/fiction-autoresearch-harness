@@ -1,0 +1,17 @@
+{
+  "corpus_hash": "cc4c32ad4bc42864e0b856a248960e8f91f55ccaadb1102b1d8ff3ec8a3a7f2b",
+  "corpus_manifest": "/Users/george/mpc/juicy_chastity_fiction_lab/data/apprenticeship/public_domain_contemporary_v1/corpus_manifest.v1.json",
+  "corpus_manifest_hash": "dbfa91d11354c210f7409986749dac8d17a2789239e9b80185a9d5c4e3f96625",
+  "database": "/Users/george/mpc/juicy_chastity_fiction_lab/data/apprenticeship/public_domain_contemporary_v1/index/literary_scenes.v1.sqlite",
+  "index_hash": "ae61b5e554131366ead566053cba053b72ec6b466f541329368669af61aeaf57",
+  "partition_protocol": "profiling for prompts; calibration and holdout for measurement",
+  "record_type": "LiterarySceneIndex",
+  "scene_count": 272,
+  "scene_hash_root": "9af8ebb03aa90647025194d4a8b9ec59718abaa77bbbecaf2ad77a9b702b780c",
+  "version": "literary-apprenticeship.v1",
+  "work_scene_counts": {
+    "maugham.magician": 87,
+    "montgomery.blue-castle": 87,
+    "von-arnim.enchanted-april": 98
+  }
+}

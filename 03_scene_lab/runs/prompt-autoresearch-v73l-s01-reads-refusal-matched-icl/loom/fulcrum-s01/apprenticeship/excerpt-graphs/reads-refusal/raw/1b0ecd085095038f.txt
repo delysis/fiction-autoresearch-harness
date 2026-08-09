@@ -1,0 +1,39 @@
+{
+  "emotional_offer": "Comforting reassurance",
+  "emotional_counteroffer": "Internal dissent",
+  "relationship_history": "Established affection",
+  "present_stakes": "Social interaction with Mr. Wylie",
+  "dialogue_act_sequence": [
+    "Objection",
+    "Reassurance/Advice",
+    "Refusal",
+    "Persuasion",
+    "Final Refusal"
+  ],
+  "body_language_counterpoint": [
+    "Crying cessation",
+    "Slow, thoughtful walking",
+    "Coloring",
+    "Head shaking"
+  ],
+  "sensory_channels": [
+    "Taste (tea)",
+    "Sight (autumn colors)"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": [
+    "Afternoon tea",
+    "Walk in gorge",
+    "Dinner",
+    "Entrance hall"
+  ],
+  "agency_actions": [
+    "Obedience to Minnie",
+    "Walking",
+    "Refusal to participate in experiment"
+  ],
+  "relationship_delta": "Increased tension/resistance",
+  "story_state_change": "Shift from distress to guarded composure",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,21 @@
+{
+  "labels": {
+    "A": {
+      "identity": "candidate-a",
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-a-gift-status.codex.v1.md",
+      "sha256": "7db2afa282d90117b24d193c0cac66e23aa1483086a6dcd9962f9ab6d504eb36"
+    },
+    "B": {
+      "identity": "candidate-b",
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+      "sha256": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce"
+    },
+    "C": {
+      "identity": "candidate-c",
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-c-method-audit.codex.v1.md",
+      "sha256": "cba075af0240d896ba890d8247e4826dfafaec0703071f9cfcd684e8d009dfbd"
+    }
+  },
+  "seed": 51703,
+  "version": "s01-atom-rewrite-blind-key.v1"
+}

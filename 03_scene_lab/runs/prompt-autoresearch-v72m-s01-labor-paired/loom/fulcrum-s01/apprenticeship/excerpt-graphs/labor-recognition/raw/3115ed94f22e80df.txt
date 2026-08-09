@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Disgust",
+  "emotional_counteroffer": "Social pressure",
+  "relationship_history": "None established",
+  "present_stakes": "Social obligation",
+  "dialogue_act_sequence": [
+    "Criticism",
+    "Exhortation",
+    "Self-questioning",
+    "Declaration of intent"
+  ],
+  "body_language_counterpoint": "Withdrawal, rising",
+  "sensory_channels": [
+    "Sight",
+    "Taste"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Room setting, serving",
+  "agency_actions": [
+    "Drinking",
+    "Questioning",
+    "Rising"
+  ],
+  "relationship_delta": "None",
+  "story_state_change": "Internal shift in mood",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

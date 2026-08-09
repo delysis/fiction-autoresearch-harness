@@ -1,0 +1,42 @@
+{
+  "artifact_id": "topology-branch.topology-staged.v4-anthology.charged-restraint.1820029.2830067",
+  "manuscript_hash": "95210c6eef2dbeac20fc1c5c2a8bfc522ae09174d18e82c156411ddfa6494a4e",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n",
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+      "raw_char_end": 998,
+      "raw_char_start": 0,
+      "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v75-runway-search/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.1750019.txt",
+      "role": "derived-opening-runway-prefix",
+      "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+      "text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da"
+    },
+    {
+      "call_id": "topology-staged.v4-anthology.charged-restraint.1820029.spark",
+      "raw_char_end": 1019,
+      "raw_char_start": 1,
+      "raw_hash": "3afd3c5c78d6f476cb7e40bf33248b9611960c6f4746bb6b580e20010d64d54b",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v85-dramatic-dwell-spark/topology-staged/raw/topology-staged.v4-anthology.charged-restraint.1820029.spark.txt",
+      "role": "topology-causal-spark",
+      "span_id": "topology-staged.v4-anthology.charged-restraint.1820029.spark",
+      "text_hash": "55046e8a37e62702ee82b2131c521724474a5ee80a8e725667b5290e83bc3b27"
+    },
+    {
+      "call_id": "topology-branch.topology-staged.v4-anthology.charged-restraint.1820029.2830067.continuation",
+      "raw_char_end": 768,
+      "raw_char_start": 1,
+      "raw_hash": "4b16deafdd230739bbd8ceab5bea45cd051f9e6f1641d483b658b6ac52995645",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v85-dramatic-dwell-spark/topology-branch/raw/topology-branch.topology-staged.v4-anthology.charged-restraint.1820029.2830067.continuation.txt",
+      "role": "topology-counteroffer-branch",
+      "span_id": "topology-branch.topology-staged.v4-anthology.charged-restraint.1820029.2830067.continuation",
+      "text_hash": "5c8d2e84211aecd3af6bf8663c138b0bf5c181cd788d862decfcbb6ba5bd5c33"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

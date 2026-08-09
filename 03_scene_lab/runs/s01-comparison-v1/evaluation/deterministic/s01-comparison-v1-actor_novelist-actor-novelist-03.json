@@ -1,0 +1,294 @@
+{
+  "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+  "defects": [],
+  "eligible": false,
+  "gate_details": {
+    "beat_order": {
+      "all_found": false,
+      "beats": [
+        {
+          "beat": "compound_beauty_and_asymmetry",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "adrian_frames_game",
+          "evidence": "calibration,\" Adrian",
+          "found": true,
+          "fraction": 0.1479,
+          "position": 2422
+        },
+        {
+          "beat": "livia_uncanny_reads",
+          "evidence": "Livia turned her attention to a young man standing near the bookshelves. \"Julian, come here. Let’s give our guest a glimpse of the work.\"\n\nThe room fell into a ",
+          "found": true,
+          "fraction": 0.2381,
+          "position": 3899
+        },
+        {
+          "beat": "jonah_refuses_to_perform",
+          "evidence": "Jonah,\" he said, offering a small, playful tilt of his head. \"And before you ask, yes, it’s a bit much. But she’s not wrong about the mechanics.\"\n\n\"You don't fi",
+          "found": true,
+          "fraction": 0.3274,
+          "position": 5361
+        },
+        {
+          "beat": "wrist_contact_and_charge",
+          "evidence": "wrist. Through subtle shifts in pressure, rhythm, and tension, the Sender will attempt to communicate a specific emotional state or a single, non-abstract conce",
+          "found": true,
+          "fraction": 0.4144,
+          "position": 6787
+        },
+        {
+          "beat": "mara_control",
+          "evidence": "Mara thought. *No... 'The space between.'*\n\nBut as she focused on him, she kept the irregular tap going against her leg. She watched the way his fingers moved. ",
+          "found": true,
+          "fraction": 0.7151,
+          "position": 11710
+        },
+        {
+          "beat": "collapse_and_residual_mystery",
+          "evidence": "reading her for the room; he was holding her for himself.\n\nThe room felt suddenly very small, the amber light too bright, the presence of Adrian and Livia too h",
+          "found": true,
+          "fraction": 0.8093,
+          "position": 13253
+        },
+        {
+          "beat": "accepts_fellowship_and_hook",
+          "evidence": "decision—to stay, to observe, to fight. She had entered the game, but she would not be played by it.\n\nShe was no longer just an observer. She was a participant.",
+          "found": true,
+          "fraction": 0.9824,
+          "position": 16088
+        }
+      ],
+      "name": "beat_order",
+      "ordered": false,
+      "passed": false
+    },
+    "epistemic_separation": {
+      "mechanism_markers": 21,
+      "name": "epistemic_separation",
+      "observation_markers": 55,
+      "passed": true,
+      "thresholds": {
+        "mechanism": 3,
+        "observation": 3,
+        "uncertainty": 2
+      },
+      "uncertainty_markers": 15
+    },
+    "heat_ceiling": {
+      "matches": [],
+      "name": "heat_ceiling",
+      "passed": true
+    },
+    "locked_canon": {
+      "contradictions": [],
+      "name": "locked_canon",
+      "passed": true
+    },
+    "pov": {
+      "name": "pov",
+      "passed": true,
+      "pov": "Mara",
+      "suspicious_paragraphs": [],
+      "threshold": 1
+    },
+    "source_overlap": {
+      "name": "source_overlap",
+      "passed": true,
+      "suspicious_sources": [],
+      "thresholds": {
+        "eight_gram_jaccard": 0.12,
+        "exact_span_words": 18
+      }
+    },
+    "word_count": {
+      "count": 2750,
+      "diagnostic": "slightly_short",
+      "name": "word_count",
+      "passed": false,
+      "target": [
+        2800,
+        3600
+      ]
+    }
+  },
+  "hard_gates": {
+    "beat_order": false,
+    "epistemic_separation": true,
+    "heat_ceiling": true,
+    "locked_canon": true,
+    "pov": true,
+    "source_overlap": true,
+    "word_count": false
+  },
+  "judge_id": "deterministic-v1",
+  "label_order": [],
+  "passage_evidence": {},
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "description": "The first encounter introduces attraction and impediment together.",
+      "evidence": {
+        "attraction": true,
+        "impediment": true
+      },
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "description": "Intimacy reveals character before describing mechanics.",
+      "evidence": "Requires editorial judgment of emphasis and consequence.",
+      "passed": null
+    },
+    "competence_and_restraint": {
+      "description": "Competence attraction and morally attractive restraint arise from action.",
+      "evidence": {
+        "competence": true,
+        "restraint": true
+      },
+      "passed": true
+    },
+    "contact_changes_story": {
+      "description": "Physical contact changes knowledge, choice, or relationship.",
+      "evidence": {
+        "contact_present": true,
+        "mechanism_after_contact": true
+      },
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "description": "Dialogue and atmosphere participate in the intimacy.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "dialogue_present": true
+      },
+      "passed": true
+    },
+    "pacing": {
+      "arrival_and_hook": {
+        "evidence": "suitcase",
+        "found": true,
+        "position_fraction": 0.0103,
+        "target": [
+          0.0,
+          0.1
+        ],
+        "within_target": true
+      },
+      "collapse_and_residual_mystery": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.82,
+          0.94
+        ],
+        "within_target": false
+      },
+      "fulcrum_enchantment": {
+        "evidence": "redwood",
+        "found": true,
+        "position_fraction": 0.0018,
+        "target": [
+          0.1,
+          0.25
+        ],
+        "within_target": false
+      },
+      "jonah_recognition_and_hook": {
+        "evidence": "Jonah, but Adrian directed her toward a seat opposite a girl she didn't recogn",
+        "found": true,
+        "position_fraction": 0.3986,
+        "target": [
+          0.94,
+          1.0
+        ],
+        "within_target": false
+      },
+      "livia_uncanny_reads": {
+        "evidence": "Livia had demonstrated earlier might not be purely intuitive. It was a high-resolution read",
+        "found": true,
+        "position_fraction": 0.6185,
+        "target": [
+          0.25,
+          0.45
+        ],
+        "within_target": false
+      },
+      "mara_control": {
+        "evidence": "cue channel",
+        "found": true,
+        "position_fraction": 0.6536,
+        "target": [
+          0.65,
+          0.82
+        ],
+        "within_target": true
+      },
+      "wrist_contact_and_charge": {
+        "evidence": "wrist",
+        "found": true,
+        "position_fraction": 0.4144,
+        "target": [
+          0.45,
+          0.65
+        ],
+        "within_target": false
+      }
+    },
+    "relationship_delta": {
+      "description": "Romantic progress changes knowledge, trust, desire, or future possibility.",
+      "evidence": {
+        "future_or_choice_marker": true
+      },
+      "passed": true
+    },
+    "romance_turn": {
+      "description": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+      "evidence": {
+        "future_question": true,
+        "impediment": true,
+        "recognition": true
+      },
+      "passed": true
+    },
+    "selective_senses": {
+      "description": "At least three well-chosen sensory channels carry the encounter.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "counts": {
+          "sight": 27,
+          "smell": 6,
+          "sound": 14,
+          "taste": 1,
+          "touch": 21
+        }
+      },
+      "passed": true
+    },
+    "trope_execution": {
+      "description": "Tropes gain specificity or productive variation rather than merely appearing.",
+      "evidence": "Requires comparative editorial judgment.",
+      "passed": null
+    }
+  },
+  "rubric_breakdown": {},
+  "rubric_scores": {},
+  "schema_version": "1.0",
+  "text_sha256": "a30c653bf2669f7994c44c9e185269094454b907fbf35e28ea54bb22184d9c3e",
+  "total_score": 0.0
+}

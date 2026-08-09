@@ -1,0 +1,14 @@
+{
+  "inheritance_hash": "e799989e977eb155d21f65acc114e7b178ffd73c923250e86d82e27e6b62b5f2",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "fulcrum-s01": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v72b-s01-status-service-apprentice",
+  "source_campaign_hash": "fc85051e172bf1841d587917569187a92867b06297912446197042431b1c99c1",
+  "source_lock_hash": "0b9245cd3f491d7daa549319b1392ff1845de69232eff88edeb9c33d5f7a1ac3",
+  "target_campaign_hash": "b6b3c4f9a5463315c0288596d294f7024bc5fe9ea5afa13a83facdcabe3f65e2",
+  "target_lock_hash": "a23702c838b84f61b6e924536e045d3fc04405390154faabf6aac0cd9f283e35",
+  "verified_at": "2026-08-08T18:14:42.844343+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

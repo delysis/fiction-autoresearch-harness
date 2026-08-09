@@ -1,0 +1,26 @@
+{
+  "query_id": "married-explicit-transaction.v1",
+  "query_text": "Married lovers convert anger about a dangerous unilateral decision into chosen bodily intimacy; dialogue, touch, sensory attention, and a material secret remain causally active through completion and a joint decision.",
+  "stage": "embodied-transaction",
+  "required_facets": ["adult", "embodied-intimacy", "explicit-intimacy"],
+  "included_authors": ["D. H. Lawrence"],
+  "preferred_facets": ["embodied-intimacy", "marriage", "relationship-conflict", "choice-and-agency", "sensory-dense", "plot-coupled"],
+  "excluded_facets": ["coercive", "counterexample"],
+  "desired_features": {
+    "dialogue_ratio": 0.24,
+    "romance_density": 0.024,
+    "conflict_density": 0.015,
+    "agency_density": 0.024,
+    "sensory_channels": 5,
+    "interiority_density": 0.009,
+    "intimacy_action_density": 0.022,
+    "explicit_intimacy_density": 0.005,
+    "sentence_length_mean": 17,
+    "sentence_length_variation": 12
+  },
+  "maximum_scenes": 8,
+  "maximum_per_work": 6,
+  "source_token_budget": 24000,
+  "mmr_lambda": 0.72,
+  "minimum_stage_heat": 0.35
+}

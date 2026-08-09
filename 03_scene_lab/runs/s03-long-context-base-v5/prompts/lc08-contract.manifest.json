@@ -1,0 +1,28 @@
+{
+  "arm": {
+    "arm_id": "lc08-contract",
+    "control_density": "full",
+    "evidence_variant": "none",
+    "layout": "contract-first",
+    "target_prompt_words": 8000
+  },
+  "component_hashes": {
+    "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+    "evidence": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+    "preamble": "10b7b622d75540714e386b06c61ee19553a3bc33f1af9084e19c284285ef8808"
+  },
+  "component_words": {
+    "contract": 297,
+    "evidence": 0,
+    "manuscript": 5886,
+    "preamble": 347
+  },
+  "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+  "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+  "prompt_hash": "eb66a7b76776a74e0a00108e89c5d892f227b26cbbe9ca7ba55d97e47f9bf673",
+  "prompt_path": "03_scene_lab/runs/s03-long-context-base-v5/prompts/lc08-contract.prompt.txt",
+  "prompt_words": 6231,
+  "record_type": "LongContextPrompt",
+  "version": "long-context.base31.v5"
+}

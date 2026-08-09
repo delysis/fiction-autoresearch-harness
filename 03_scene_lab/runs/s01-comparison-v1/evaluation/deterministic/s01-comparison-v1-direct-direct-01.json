@@ -1,0 +1,294 @@
+{
+  "candidate_id": "s01-comparison-v1-direct-direct-01",
+  "defects": [],
+  "eligible": false,
+  "gate_details": {
+    "beat_order": {
+      "all_found": false,
+      "beats": [
+        {
+          "beat": "compound_beauty_and_asymmetry",
+          "evidence": "compound was a masterpiece of studied casual",
+          "found": true,
+          "fraction": 0.0474,
+          "position": 844
+        },
+        {
+          "beat": "adrian_frames_game",
+          "evidence": "Adrian Voss stepped into her line of sight. He was older than the others, perhaps late thirties, with a face that seemed designed to be trusted. He didn't offer",
+          "found": true,
+          "fraction": 0.1235,
+          "position": 2199
+        },
+        {
+          "beat": "livia_uncanny_reads",
+          "evidence": "Livia said, her voice a low, melodic contralto that seemed to vibrate in the floorboards. \"The goal is to be seen. I’m going to make three observations about th",
+          "found": true,
+          "fraction": 0.2468,
+          "position": 4395
+        },
+        {
+          "beat": "jonah_refuses_to_perform",
+          "evidence": "Jonah. \n\nHe gave her a tiny, almost invisible nod—a silent acknowledgment of her agency, of her refusal",
+          "found": true,
+          "fraction": 0.9334,
+          "position": 16623
+        },
+        {
+          "beat": "wrist_contact_and_charge",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "mara_control",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "collapse_and_residual_mystery",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "accepts_fellowship_and_hook",
+          "evidence": "stay. She would play the games. She would study the algorithms and the social architectures. But she would do it with her eyes open, and with her boundaries int",
+          "found": true,
+          "fraction": 0.9602,
+          "position": 17100
+        }
+      ],
+      "name": "beat_order",
+      "ordered": false,
+      "passed": false
+    },
+    "epistemic_separation": {
+      "mechanism_markers": 17,
+      "name": "epistemic_separation",
+      "observation_markers": 69,
+      "passed": true,
+      "thresholds": {
+        "mechanism": 3,
+        "observation": 3,
+        "uncertainty": 2
+      },
+      "uncertainty_markers": 20
+    },
+    "heat_ceiling": {
+      "matches": [],
+      "name": "heat_ceiling",
+      "passed": true
+    },
+    "locked_canon": {
+      "contradictions": [],
+      "name": "locked_canon",
+      "passed": true
+    },
+    "pov": {
+      "name": "pov",
+      "passed": true,
+      "pov": "Mara",
+      "suspicious_paragraphs": [],
+      "threshold": 1
+    },
+    "source_overlap": {
+      "name": "source_overlap",
+      "passed": true,
+      "suspicious_sources": [],
+      "thresholds": {
+        "eight_gram_jaccard": 0.12,
+        "exact_span_words": 18
+      }
+    },
+    "word_count": {
+      "count": 3090,
+      "diagnostic": "in_range",
+      "name": "word_count",
+      "passed": true,
+      "target": [
+        2800,
+        3600
+      ]
+    }
+  },
+  "hard_gates": {
+    "beat_order": false,
+    "epistemic_separation": true,
+    "heat_ceiling": true,
+    "locked_canon": true,
+    "pov": true,
+    "source_overlap": true,
+    "word_count": true
+  },
+  "judge_id": "deterministic-v1",
+  "label_order": [],
+  "passage_evidence": {},
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "description": "The first encounter introduces attraction and impediment together.",
+      "evidence": {
+        "attraction": true,
+        "impediment": true
+      },
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "description": "Intimacy reveals character before describing mechanics.",
+      "evidence": "Requires editorial judgment of emphasis and consequence.",
+      "passed": null
+    },
+    "competence_and_restraint": {
+      "description": "Competence attraction and morally attractive restraint arise from action.",
+      "evidence": {
+        "competence": true,
+        "restraint": true
+      },
+      "passed": true
+    },
+    "contact_changes_story": {
+      "description": "Physical contact changes knowledge, choice, or relationship.",
+      "evidence": {
+        "contact_present": true,
+        "mechanism_after_contact": true
+      },
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "description": "Dialogue and atmosphere participate in the intimacy.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "dialogue_present": true
+      },
+      "passed": true
+    },
+    "pacing": {
+      "arrival_and_hook": {
+        "evidence": "suitcase",
+        "found": true,
+        "position_fraction": 0.0275,
+        "target": [
+          0.0,
+          0.1
+        ],
+        "within_target": true
+      },
+      "collapse_and_residual_mystery": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.82,
+          0.94
+        ],
+        "within_target": false
+      },
+      "fulcrum_enchantment": {
+        "evidence": "redwood",
+        "found": true,
+        "position_fraction": 0.0002,
+        "target": [
+          0.1,
+          0.25
+        ],
+        "within_target": false
+      },
+      "jonah_recognition_and_hook": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.94,
+          1.0
+        ],
+        "within_target": false
+      },
+      "livia_uncanny_reads": {
+        "evidence": "Livia’s gaze held her. It was a command.\n\n\"It's a beautiful read",
+        "found": true,
+        "position_fraction": 0.3773,
+        "target": [
+          0.25,
+          0.45
+        ],
+        "within_target": true
+      },
+      "mara_control": {
+        "evidence": "control",
+        "found": true,
+        "position_fraction": 0.5904,
+        "target": [
+          0.65,
+          0.82
+        ],
+        "within_target": false
+      },
+      "wrist_contact_and_charge": {
+        "evidence": "wrist",
+        "found": true,
+        "position_fraction": 0.4954,
+        "target": [
+          0.45,
+          0.65
+        ],
+        "within_target": true
+      }
+    },
+    "relationship_delta": {
+      "description": "Romantic progress changes knowledge, trust, desire, or future possibility.",
+      "evidence": {
+        "future_or_choice_marker": true
+      },
+      "passed": true
+    },
+    "romance_turn": {
+      "description": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+      "evidence": {
+        "future_question": true,
+        "impediment": true,
+        "recognition": true
+      },
+      "passed": true
+    },
+    "selective_senses": {
+      "description": "At least three well-chosen sensory channels carry the encounter.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "counts": {
+          "sight": 34,
+          "smell": 5,
+          "sound": 14,
+          "taste": 1,
+          "touch": 17
+        }
+      },
+      "passed": true
+    },
+    "trope_execution": {
+      "description": "Tropes gain specificity or productive variation rather than merely appearing.",
+      "evidence": "Requires comparative editorial judgment.",
+      "passed": null
+    }
+  },
+  "rubric_breakdown": {},
+  "rubric_scores": {},
+  "schema_version": "1.0",
+  "text_sha256": "f8cbeabdd09f615251fdd541a808321464c581af9e43b07b46682bbd68c2f048",
+  "total_score": 0.0
+}

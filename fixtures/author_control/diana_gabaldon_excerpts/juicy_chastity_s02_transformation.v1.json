@@ -1,0 +1,22 @@
+{
+  "record_type": "TransformationMap",
+  "map_id": "diana-gabaldon-excerpt-to-juicy-chastity-s02.v1",
+  "author_profile_id": "diana-gabaldon.excerpt-control.v1",
+  "version": "1.0",
+  "rules": {
+    "gabaldon.scene.emotion-through-physical-action": "preserve",
+    "gabaldon.dialogue.body-language-counterpoint": "transpose",
+    "gabaldon.intimacy.character-before-mechanics": "preserve",
+    "gabaldon.imagery.selective-sensory-logistics": "transpose",
+    "gabaldon.discourse.embodied-close-viewpoint": "transpose",
+    "gabaldon.prose.plain-detail-lyric-release": "transpose"
+  },
+  "target_semantics": {
+    "gabaldon.dialogue.body-language-counterpoint": ["Use contemporary American speech particular to Mara, Livia, Miriam, and Jonah; pair it with body language that changes the exchange."],
+    "gabaldon.imagery.selective-sensory-logistics": ["Use present-day compound objects and bodily cues through two or three precise senses; each detail establishes position, pressure, or desire."],
+    "gabaldon.discourse.embodied-close-viewpoint": ["Stay in Mara's close third-person experience and infer every other mind from action, timing, voice, and posture."],
+    "gabaldon.prose.plain-detail-lyric-release": ["Write contemporary idiomatic prose, mostly plain and concrete; reserve lyrical expansion for a real turn in pressure or intimacy."]
+  },
+  "target_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "schema_version": "1.0"
+}

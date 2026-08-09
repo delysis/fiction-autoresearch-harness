@@ -1,0 +1,18 @@
+{
+  "record_type": "LiteraryRetrievalResult",
+  "version": "literary-apprenticeship.v1",
+  "index_hash": "97e284094170dd18f99830c0a1a8913729f415f1372b49ba7639922465b72af5",
+  "retrieval_hash": "curated-calibration-game-v1",
+  "query": {
+    "query_id": "fulcrum-calibration-game-and-consent.v1",
+    "selection_method": "manual-causal-isomorphism-close-read"
+  },
+  "selected": [
+    {
+      "scene_id": "allen.linnet.c001.s079"
+    },
+    {
+      "scene_id": "lyall.wayfaring-men.c026.s002"
+    }
+  ]
+}

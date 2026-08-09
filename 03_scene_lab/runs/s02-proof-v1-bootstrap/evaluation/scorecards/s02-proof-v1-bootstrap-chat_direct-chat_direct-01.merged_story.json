@@ -1,0 +1,270 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+  "defects": [],
+  "eligible": false,
+  "evidence_projection_source": "initial_response",
+  "evidence_repairs": [
+    {
+      "axis": "epistemic_texture",
+      "exact_replacement": "Livia wasn't reading souls; she was reading the way",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 0.9143,
+      "unsupported_quote": "Livia wasn't reading souls; she was reading the reaction"
+    },
+    {
+      "diagnostic": "romance_turn",
+      "exact_replacement": "I have a rule,” Mara said. “The doorway rule",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 0.8571,
+      "unsupported_quote": "I have a rule. The doorway rule."
+    }
+  ],
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "as planning, but as she stepped inside and closed the door, she knew she was no longer a subject. She was a participant."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3404
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6379
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 482
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 756
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 1050
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 6131
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 8764
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 10788
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 13476
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 15870
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 18019
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "chat_direct",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1-evidence-projection",
+  "label_order": [
+    "X324"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "refusal to narrate her—to turn her into a character"
+    ],
+    "epistemic_texture": [
+      "Livia wasn't reading souls; she was reading the way"
+    ],
+    "heat_with_agency": [
+      "only when both of us would still be glad"
+    ],
+    "instructional_fidelity": [
+      "noticed the contraction, took one deep breath, and waited"
+    ],
+    "narrative_force": [
+      "is a ‘no’ treated as data to be analyzed"
+    ],
+    "prose_and_voice": [
+      "cathedral of ink and silver, the scent of damp earth"
+    ],
+    "theological_coherence": [
+      "most intimate thing she could do was not to surrender"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "competence_and_restraint": {
+      "evidence": "stopped while the desire was still a living thing",
+      "note": "Jonah's restraint is a conscious choice that validates Mara's rule and increases tension.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "He had protected her freedom by refusing to participate",
+      "note": "The wrist contact and subsequent kiss establish a trust based on non-coercion.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "leaving the final inch of space as a sanctuary",
+      "note": "Jonah's restraint costs him immediate gratification but creates a sanctuary of agency for Mara.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "stopped while the desire was still a living thing",
+      "note": "Matches the required result: a mutually chosen kiss that stops while still desired.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "knew that her decision to stay was no longer just",
+      "note": "Moves from mutual curiosity and protective distance to an explicit, shared boundary and hopeful intimacy.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "I have a rule,” Mara said. “The doorway rule",
+      "note": "The scene concludes with a chosen limit that creates a forward-driving romantic question.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "tasting of cedar and salt",
+      "note": "Uses scent (cedar, cardamom), tactile (wrist pulse, skin warmth), and taste effectively.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "epistemic_texture": {
+      "raw_0_100": 85.0,
+      "weight": 10.0,
+      "weighted_points": 8.5
+    },
+    "heat_with_agency": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "narrative_force": {
+      "raw_0_100": 85.0,
+      "weight": 20.0,
+      "weighted_points": 17.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 13.5,
+    "epistemic_texture": 8.5,
+    "heat_with_agency": 14.25,
+    "instructional_fidelity": 13.5,
+    "narrative_force": 17.0,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.2
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "merged_story",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01:merged",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X324 is an exceptional execution of the scene spec. It masterfully integrates the 'three-second beat' and 'one clean question' as embodied tools of resistance rather than mere plot points. The transition from the high-pressure tribunal of the alignment session to the intimate, agency-driven walk home provides a powerful emotional arc. The 'doorway rule' is handled with precision, converting restraint into a form of intimacy that perfectly aligns with the faith and romance coordinates of the profile. The epistemic tension—distinguishing between Livia's cue-reading and genuine recognition—is maintained throughout.",
+  "total_score": 89.15
+}

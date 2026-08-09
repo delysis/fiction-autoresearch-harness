@@ -1,0 +1,56 @@
+{
+  "anti_copy_index_hash": "",
+  "anti_copy_policy_version": "",
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "author_profile_hash": "",
+  "author_profile_id": "",
+  "conditioning_variant": "",
+  "control_density": "",
+  "corpus_manifest_hash": "",
+  "created_at": "2026-07-29T04:07:13.936121+00:00",
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "frontier_adapter": "",
+  "generation_mode": "raw_organic",
+  "model_role": "raw_writer",
+  "ontology_version": "rgo.v1",
+  "output_tokens": 8000,
+  "output_words_max": 3600,
+  "output_words_min": 2800,
+  "persona_ids": [
+    "mara_vale",
+    "livia_sloane",
+    "jonah_reed"
+  ],
+  "pipeline": "raw_organic",
+  "prompt_encoding": "",
+  "prompt_hash": "08b0716355fba70389fbf6246458229287fa5d3f466f271cdab7c4efcf32567e",
+  "record_type": "RunConfig",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "run_id": "s02-proof-v1-bootstrap-raw_organic",
+  "sampling": {
+    "min_p": 0.02,
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "xtc_probability": 0.05
+  },
+  "scene_id": "S02",
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "fiction-harness.v1",
+  "seeds": [
+    22011,
+    22023,
+    22037,
+    22051
+  ],
+  "source_hashes": {
+    "pilot_scenes": "43bd0e10c5a86789bc31036c67896ecd745ec962d31f4f150f0f3902d64a8330",
+    "project_brief": "75bf3aa7e3023a7ced5b6c80c35d9cf8a4057f23ceaf1cf1484d7740c6d4792b",
+    "resolved_creative_profile_file": "cd129868c727b4a3a49bbdee065a3b5db62e456811fb6e7f6d59100347e38bfa",
+    "source_deck": "e99afbd8b4efffc326fbd277221e0046978067661b99576b36d3b717a71254b8",
+    "story_canon": "4f0f4a552e389616be9b6d26676ebf5794a166cfc5ef77b6235a7a577bd50c38"
+  },
+  "story_profile_id": "fulcrum-pilot.v1",
+  "story_program_id": "",
+  "transformation_map_hash": ""
+}

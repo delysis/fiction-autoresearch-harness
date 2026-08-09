@@ -1,0 +1,29 @@
+{
+  "emotional_offer": "intellectual sparring",
+  "emotional_counteroffer": "dismissive amusement",
+  "relationship_history": "acquaintances",
+  "present_stakes": "philosophical debate",
+  "dialogue_act_sequence": [
+    "assertion",
+    "rebuttal",
+    "persuasion attempt",
+    "agreement",
+    "interjection"
+  ],
+  "body_language_counterpoint": "tension building",
+  "sensory_channels": [
+    "auditory",
+    "visual"
+  ],
+  "narrative_distance_curve": "close",
+  "physical_logistics": "indoor gathering, transition to garden",
+  "agency_actions": [
+    "Birkin questions action",
+    "Birkin observes footman",
+    "Birkin decides to speak"
+  ],
+  "relationship_delta": "stagnant",
+  "story_state_change": "shift from debate to social event",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

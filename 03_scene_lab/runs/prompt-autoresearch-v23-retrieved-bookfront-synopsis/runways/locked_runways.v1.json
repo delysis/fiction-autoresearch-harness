@@ -1,0 +1,149 @@
+{
+  "audit": {
+    "charged-restraint": {
+      "critic_rejected": [],
+      "eligible_judged": 2,
+      "selected": "runway.source-bookfront-synopsis.charged-restraint.958019",
+      "selection_source": "research_lead_explicit"
+    },
+    "fulcrum-s01": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    },
+    "institutional-pressure-control": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    },
+    "married-explicit": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    }
+  },
+  "campaign_hash": "18d5a4748b88fad904adbb4f1721af68bfa267e873dae9227f262c3d3452afcc",
+  "lock_hash": "878da3ce4c58bea888a34b0a40104ee99ff1a106bc35a694d96d69236e18ec0b",
+  "record_type": "CriticLockedGeneratedRunways",
+  "runways": {
+    "charged-restraint": {
+      "campaign_hash": "18d5a4748b88fad904adbb4f1721af68bfa267e873dae9227f262c3d3452afcc",
+      "cell_id": "charged-restraint",
+      "completed_at": "2026-08-08T05:12:10.439071+00:00",
+      "conditioning": "source-bookfront-synopsis",
+      "critic_judgment_hash": "e0cee67430c52dceffe7a82c233f6c7a0c06189b15b66cdcce642eb7e3fcb0da",
+      "diagnostic_features": {
+        "dialogue_mark_count": 0,
+        "promotion_use": "forbidden",
+        "sensory_term_count": 2,
+        "word_count": 113
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 300,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_person_narration_count": 0,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.3"
+      },
+      "overlap": {
+        "candidate_id": "runway.source-bookfront-synopsis.charged-restraint.958019",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "2470dafc0ad9bb64196817e0c8fc32d85b379507502ec662f2f004bed04bd758",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "f43169311c18e967cfa401cff596d9a3b59fdefac18d0a73923d4654fe8f0ea3",
+      "raw_hash": "d98330a52c18ff1c2e785522fd8b7b54e36f69daf87bb69191eb637f0a26c89a",
+      "record_type": "GeneratedRunway",
+      "request_hash": "131f3f12153517023fcc239befd6d221816049faeac57d093c1430981d461307",
+      "runway_id": "runway.source-bookfront-synopsis.charged-restraint.958019",
+      "sampler": {
+        "min_p": 0.02,
+        "temperature": 0.98,
+        "top_p": 0.98,
+        "xtc_probability": 0.15
+      },
+      "seed": 958019,
+      "selection_score": 4.857142857142857,
+      "source_ids": [
+        "apprenticeship.lawrence.women-in-love.c015.s003",
+        "apprenticeship.wharton.age-of-innocence.c002.s042",
+        "apprenticeship.wharton.age-of-innocence.c001.s022",
+        "apprenticeship.lawrence.lady-chatterley.c001.s102",
+        "apprenticeship.wharton.age-of-innocence.c001.s010",
+        "apprenticeship.lawrence.women-in-love.c014.s015",
+        "apprenticeship.lawrence.lady-chatterley.c001.s126",
+        "apprenticeship.forster.room-with-a-view.c011.s002"
+      ],
+      "span": {
+        "call_id": "runway.source-bookfront-synopsis.charged-restraint.958019",
+        "raw_char_end": 606,
+        "raw_char_start": 0,
+        "raw_hash": "d98330a52c18ff1c2e785522fd8b7b54e36f69daf87bb69191eb637f0a26c89a",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v23-retrieved-bookfront-synopsis/runways/raw/runway.source-bookfront-synopsis.charged-restraint.958019.txt",
+        "role": "opening-runway",
+        "span_id": "runway.source-bookfront-synopsis.charged-restraint.958019",
+        "text_hash": "f0b8c4506277a50b3bd109f4322fd89f8e02bb4365c97d2bf04c4597210c65e8"
+      },
+      "status": "completed",
+      "text": "Fulcrum’s late session had ended an hour ago. The streets of the district were nearly deserted by one in the morning. A single bicycle passed by without a headlight. The light rain had stopped an hour ago, and the sidewalks were wet and slick. Mara walked beside Jonah. They had not spoken in thirty minutes. She looked toward him and saw a little crease between his eyes. She had seen it before, at the end of a long day. She turned toward the dark windows. The light of a streetlight caught a raindrop on her jacket and made her think of a diamond. She touched her chest, where she kept her silver cross.",
+      "text_hash": "f0b8c4506277a50b3bd109f4322fd89f8e02bb4365c97d2bf04c4597210c65e8",
+      "timings": {
+        "cache_n": 10592,
+        "predicted_ms": 44922.854,
+        "predicted_n": 300,
+        "predicted_per_second": 6.678115330784638,
+        "predicted_per_token_ms": 149.74284666666665,
+        "prompt_ms": 126.183,
+        "prompt_n": 1,
+        "prompt_per_second": 7.924997820625599,
+        "prompt_per_token_ms": 126.183
+      },
+      "usage": {
+        "completion_tokens": 300,
+        "prompt_tokens": 10593
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "selection_policy": "hard-gates-then-read-only-critic-with-recorded-research-lead-overrides.v2",
+  "version": "gemma-fiction-autoresearch.v4"
+}

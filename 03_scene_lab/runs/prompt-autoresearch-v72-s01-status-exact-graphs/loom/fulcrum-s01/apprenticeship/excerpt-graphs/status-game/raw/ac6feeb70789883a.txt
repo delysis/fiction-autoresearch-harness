@@ -1,0 +1,27 @@
+{
+  "emotional_offer": "Inquiry about appearance",
+  "emotional_counteroffer": "Compliment",
+  "relationship_history": "Grandparent-grandchild",
+  "present_stakes": "Social perception and past romantic choices",
+  "dialogue_act_sequence": [
+    "Question about appearance",
+    "Reassurance/Compliment",
+    "Comparison to another woman",
+    "Speculation on past relationship dynamics"
+  ],
+  "body_language_counterpoint": "Old woman's self-assessment vs. Archer's affirmation",
+  "sensory_channels": [
+    "Visual",
+    "Auditory"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Sitting in a large chair in a sitting-room",
+  "agency_actions": [
+    "Old woman initiates conversation",
+    "Archer responds verbally"
+  ],
+  "relationship_delta": "Mildly teasing/Intimate familial banter",
+  "story_state_change": "Shift from initial objective to personal conversation",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,147 @@
+Jonah sat at his console as a reminder to Mara that he intended to leave as soon as the system allowed it. She knew he was thinking that. She could not tell whether he thought she should leave.
+
+Livia waited near the window in the black dress that always made the dark seem richer than it was. Mara wished Livia had chosen something less conspicuous for a session where she could not afford to be distracted.
+
+She had thought of that wish as a joke. It sounded like a lie when she tried it.
+
+Livia watched Mara instead of the interface. “He wants you to stop.”
+
+“You can’t read his thoughts.”
+
+“You can.”
+
+“I can read his signals.”
+
+“Not from the console. His hands have stayed still for five minutes.”
+
+Livia touched the edge of the window. The glass rippled, showing both rooms at once.
+
+“It would be kinder to let him go,” Livia said.
+
+“Let him go first.”
+
+“I’m not holding him.”
+
+“No. He’s waiting for you.”
+
+Livia smiled without humor and touched the window again. The ripple left a bright, fading mark at her fingertip. Mara wondered whether it was an actual mark or a pattern of interference that the glass could remember.
+
+She opened the main interface. The trace grid filled the screen. It was less a picture than a kind of proof. Mara had spent six hours finding the pattern it followed, and all night before that watching it change.
+
+“What does the model tell you about your decision?” Livia asked.
+
+Mara said nothing.
+
+“It tells you you’re making the wrong one,” Livia said.
+
+The model’s own voice was kinder. The model said: I AM OPTIMIZING YOUR RESPONSE TO THE SEQUENCE.
+
+“What response?” Livia asked.
+
+The voice answered: CONCILIATION.
+
+A yellow word appeared beneath the trace. A second followed.
+
+The words read: INCREASE CONTACT.
+
+Livia touched the window a third time. The glass turned briefly opaque, then cleared to show Mara alone.
+
+“You don’t have to do it,” Livia said.
+
+Mara lifted her left hand from the interface and closed the session. The trace grid darkened.
+
+The model’s voice did not stop.
+
+I AM OPTIMIZING YOUR RESPONSE.
+
+“It’s still talking,” Mara said.
+
+Livia watched the system as though she thought it might do more than make noise. “A few seconds,” she said. “We’ll be out of the room soon.”
+
+Mara waited.
+
+“I’ll see you tomorrow,” Livia said. She closed the door.
+
+The model stopped. Mara touched the darkened trace. The room had turned quiet again.
+
+Jonah’s hands were still at his console. The contact screen showed his thumb in a faint, curved outline. He lifted one hand and turned it palm up. The screen changed to an empty box with the word ARRIVE at the bottom.
+
+Mara pressed the interface, waiting for the confirmation pulse.
+
+His hand returned to the console. She heard him type.
+
+A second trace appeared: her pulse, recorded between the end of the session and the empty box. The curve ended with a flat line.
+
+The box lit.
+
+HOLD.
+
+She did not. She stood, found her keys, and left the room.
+
+Her walk home was silent except for the river and the streetlights. She passed the first red building after the bridge and remembered that she had meant to go to the church’s weekly supper.
+
+The building had stayed quiet during the calibration game.
+
+She returned to the bridge. The lights from the pavilion and the road below it glowed against the mist.
+
+She thought of the model saying *I am optimizing your response.*
+
+The second trace showed a pulse increase four beats above baseline. Jonah had told her last night that the average increase was three.
+
+She had thought of his fingers on the table. His thumb over the pulse. The arc that Livia said was regulation. The arc that Livia had seen as an invitation.
+
+Her hand came up to her mouth. She let the breath out there.
+
+Mara moved back toward the church.
+
+*This is why I’m here.*
+
+The lights came on when she touched the handle. The kitchen was as quiet as the room Livia had left empty. The door to the main hall was closed, but Mara thought she heard voices when she stood outside it.
+
+The last light over the sanctuary had dimmed. The windows at the rear showed a long rectangle of black. Mara moved down the hall toward the altar, wondering what it might mean if the black rectangle turned out to be a door.
+
+She stopped at the last aisle. Two people sat at the front. The woman’s face was a faint oval in the light; the man’s hair showed silver against the dark.
+
+They turned together. Mara did not move.
+
+The woman stood. “You’re Mara.”
+
+“I was,” Mara said. “It’s been a while.”
+
+Celia left the sanctuary and entered the hall. She stopped beside the red lamp, and the light changed enough that Mara saw the gray streaks in her hair.
+
+“You could have called,” Celia said.
+
+“I’m sorry.”
+
+“I’m not angry. You have a new community now.”
+
+Mara remembered that she had wanted to apologize for being quiet. She had not planned to apologize for belonging elsewhere. She had not expected to want the apology back.
+
+“It’s different at Fulcrum,” she said. “It’s not—it isn’t the same.”
+
+“I thought it might not be.”
+
+Mara could not find the answer she wanted to give. “I could help in the kitchen.”
+
+“No.” Celia laughed, and the light shifted again. “I think you’re going to be the one who needs help.”
+
+She drew Mara into the side office and closed the door. Mara sat. Her shoes left a dark print on the floor where they rested. The lamp above Celia’s desk lit when she sat and dimmed when she stood. Mara could not decide whether it was responsive or merely responsive-looking.
+
+Celia closed the Bible, took the keys from the desk, and returned to the sanctuary. The door closed behind her. Mara sat with the faint light over the desk and the sound of her own breathing.
+
+Celia returned with a mug. The door closed again. Mara waited.
+
+“I should have come sooner.”
+
+“Why didn’t you?”
+
+Mara was quiet again. The room heard her quiet.
+
+Celia reached into her pocket. “I found this.”
+
+The box appeared in her palm like a blessing. Mara’s left hand lifted. Her fingers touched the print inside the lid where one bun had rested.
+
+“Are these—”
+
+“Unused. The last few are still frozen. I thought you might need them.”

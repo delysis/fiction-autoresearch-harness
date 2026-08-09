@@ -1,0 +1,141 @@
+Mara stood in the conference room among open notebooks, empty water bottles, and six people waiting for Livia to finish reading a telemetry stream.
+
+Jonah had closed his laptop. His hands still rested on the desk where they had typed, empty but not idle. The others waited by the glass door, moving only when their own bodies became uncomfortable. Mara was the only one to check her watch.
+
+Livia glanced at it.
+
+“One minute,” she said.
+
+Two people laughed.
+
+Mara checked it again. She could not have taken the risk of leaving Livia in charge of the data, but she could have walked out if she had been more tired. The room felt it would not stop until she did.
+
+Livia clicked past another sequence. “Last run for tonight.”
+
+She poured amber tea from a ceramic carafe and slid the cup toward Mara. Mara took it without meeting Livia’s eyes. The tea was warm. The ceramic was not.
+
+“Why did you make me wait for the data?” Mara asked.
+
+Livia smiled into her own cup. “I didn’t make you. You refused the other ways out.”
+
+“We’ve seen the patterns, and—”
+
+“No, we haven’t. You saw them. You had the best access to the raw data and the strongest impulse to discover the truth. The rest of us needed time to make that observation. I wanted you to be the first to know the first thing.”
+
+Mara had typed her first name in the overnight access form. It had been the closest thing to consent she had found.
+
+Livia turned away before Mara could ask whether it was the right one.
+
+The final telemetry sequence opened. Three traces rose on the screen, a yellow one for Mara, a red one for Jonah, and a blue one for Livia. Mara saw the initial rise and the drop without reading it as a response. The room already felt closed, the way a conversation did when it had reached a decision and had no need for strangers.
+
+Livia pointed to a peak in the middle of the yellow trace. “Mara’s pulse jumped at the pressure interruption.”
+
+“She stopped the arc,” Jonah said.
+
+Mara had forgotten the arc until Livia’s nod brought it back. She still could not tell whether it had been a cue or a coincidence.
+
+Livia drew a line between the pressure interruption and the yellow peak.
+
+“That is not causal,” Mara said.
+
+The circle laughed again. Livia’s gaze softened. “I said it was a hypothesis.”
+
+“I didn’t say it was yours.”
+
+“Who’s?”
+
+“Mine,” Mara said. “I stopped the movement so we would both see when the cue channel broke. You wouldn’t have seen the break if I hadn’t broken it.”
+
+“Yes.”
+
+“And I was wrong about the break.”
+
+Livia drank some of her tea. “What did you learn?”
+
+“How much data I was missing.” Mara looked away. “How much I wanted that missing data to come from you.”
+
+“Did you get it?”
+
+“Yes.”
+
+Livia smiled. “Then that was not a failure.”
+
+Mara picked at a loose thread near the cup’s handle. The thread broke. The room remained quiet.
+
+“I’m afraid of you.”
+
+Livia put her tea down. The cup made a soft sound on the cedar table. The circle held still enough to hear it.
+
+“I’m not sorry.” She spoke to Mara, but her eyes moved around the room. “You needed to be afraid of something. It had to be the right kind of thing. I did not make the fear. I merely noticed it.”
+
+Mara felt the room move closer to her. She looked away from Livia again and saw that the others had come up to the table. Two men in her cohort were now within arms’ length of her, close enough that she could smell their soap.
+
+Livia came forward too.
+
+“And now you know the fear is useful. That was the purpose.”
+
+Mara’s grip tightened on the cup. “Was it the only purpose?”
+
+“No. I’ve been waiting to see you this close.”
+
+“Why?”
+
+“You wanted to know whether we were as real as you hoped. Now I want to know whether you were as real as I thought.”
+
+The air against Mara’s skin changed. It was not the heat of attraction, or the dread of exposure. The room had stopped making space. It waited to be filled.
+
+Mara could have tried to take her seat again. She could have stood. She could have moved a chair closer and spoken with less effort. The choices were all small. They would not matter until she made one of them.
+
+Her pulse rose on the yellow trace. The room waited.
+
+Jonah had not moved.
+
+Mara set the tea on the table. The ceramic cup left a darker circle in the oil.
+
+Livia’s eyes brightened. “You’re not afraid of us.”
+
+Mara pressed the small of her back against the edge of the table, steadying herself against it. “I’m afraid of being here this much.”
+
+The room waited for more, but she was finished.
+
+Livia’s smile returned, this time with teeth. “You’re still afraid of the wanting.”
+
+“I’m tired.”
+
+“I could have told you that.”
+
+“No, you couldn’t.” Mara looked down at the cup. “Not until I named it. You’ve never seen that kind of exhaustion. You don’t know the pattern.”
+
+Livia lifted the cup and placed it beneath Mara’s hand. “Then be afraid of it.”
+
+Mara did not move.
+
+The room waited.
+
+“This isn’t where it gets real,” she said. “The real part happens after the doors close.”
+
+Livia did not take that as a dismissal. She moved closer to the table, her skirt pressing against Mara’s calf.
+
+“Will you help me find it?” she asked.
+
+“If you won’t show me without teaching me.”
+
+Livia’s mouth tilted. “I’ve been teaching you since the first day. You don’t always like my methods.”
+
+“Because I can see your methods.” Mara met her eyes. “You can’t see mine.”
+
+Livia’s face lit. She could have left it there, but she did not. She stepped back.
+
+“You don’t have to accept it,” she said.
+
+Mara waited.
+
+“We’ll still take you if you want to stay, but that part doesn’t make you stay.”
+
+“That’s the part I’m here for.”
+
+“No one else knows how hard it will be.”
+
+Mara reached for the handle. The room exhaled through its nose. She could feel the air move when she touched the cup, and for one second it mattered.
+
+Then the cup was warm in her hand again and the moment was over.

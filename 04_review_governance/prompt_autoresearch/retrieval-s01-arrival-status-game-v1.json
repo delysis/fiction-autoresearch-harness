@@ -1,0 +1,389 @@
+{
+  "index_hash": "ae61b5e554131366ead566053cba053b72ec6b466f541329368669af61aeaf57",
+  "query": {
+    "desired_features": {
+      "agency_density": 0.02,
+      "conflict_density": 0.013,
+      "dialogue_ratio": 0.24,
+      "explicit_intimacy_density": 0.0,
+      "interiority_density": 0.016,
+      "intimacy_action_density": 0.0,
+      "romance_density": 0.008,
+      "sensory_channels": 3,
+      "sentence_length_mean": 18,
+      "sentence_length_variation": 12
+    },
+    "excluded_facets": [
+      "explicit-intimacy"
+    ],
+    "included_authors": [],
+    "maximum_per_work": 3,
+    "maximum_scenes": 9,
+    "minimum_stage_heat": 0.0,
+    "mmr_lambda": 0.72,
+    "preferred_facets": [
+      "arrival",
+      "social-comedy",
+      "dry-humor",
+      "social-constraint",
+      "choice-and-agency",
+      "charismatic-manipulation",
+      "psychological-romance",
+      "dialogue-rich",
+      "interior"
+    ],
+    "query_id": "s01-arrival-status-game.v1",
+    "query_text": "A technically competent adult woman arrives alone at an unusually beautiful exclusive place. Hospitality reveals a small but concrete status asymmetry through who assumes another person's labor. She notices the transaction with dry social intelligence. A charismatic man turns her accurate observation into a social or psychological game, creating curiosity, pressure, and the possibility of attraction.",
+    "required_facets": [
+      "adult"
+    ],
+    "source_token_budget": 16000,
+    "stage": "arrival-status-game"
+  },
+  "record_type": "LiteraryRetrievalResult",
+  "retrieval_hash": "03f35c6e46ce8e5cdc9b232577322c0e6aa0b7c906f75efc9cf2bc366938910b",
+  "selected": [
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.639669,
+      "facets": [
+        "adult"
+      ],
+      "features": {
+        "agency_density": 0.003571,
+        "conflict_density": 0.00119,
+        "dialogue_ratio": 0.0,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.002381,
+        "intimacy_action_density": 0.005952,
+        "romance_density": 0.004762,
+        "sensory_channels": 3,
+        "sentence_length_mean": 16.8,
+        "sentence_length_variation": 17.418381
+      },
+      "mmr_score": 0.520562,
+      "rank": 1,
+      "scene_id": "von-arnim.enchanted-april.c013.s001",
+      "score_components": {
+        "craft_geometry": 0.941579,
+        "facet": 0.0,
+        "lexical": 1.0,
+        "size": 0.894118,
+        "stage_heat": 0.23808
+      },
+      "text_hash": "1912808ceb05d7d43017a3246b998a0916294ff7bfb01b0ae6f6bc8c8fb7f20e",
+      "title": "The Enchanted April",
+      "token_estimate": 1143,
+      "word_count": 840,
+      "work_id": "von-arnim.enchanted-april"
+    },
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.615502,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "romantic-comedy",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.004301,
+        "conflict_density": 0.001075,
+        "dialogue_ratio": 0.330108,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.004301,
+        "intimacy_action_density": 0.0,
+        "romance_density": 0.010753,
+        "sensory_channels": 2,
+        "sentence_length_mean": 9.3,
+        "sentence_length_variation": 6.140847
+      },
+      "mmr_score": 0.460378,
+      "rank": 2,
+      "scene_id": "montgomery.blue-castle.c026.s001",
+      "score_components": {
+        "craft_geometry": 0.953579,
+        "facet": 0.222222,
+        "lexical": 0.922909,
+        "size": 0.788235,
+        "stage_heat": 0.0
+      },
+      "text_hash": "173e92924257b9677cfe68c15b756d4f473c188de6650009e78f495e83093ef2",
+      "title": "The Blue Castle",
+      "token_estimate": 1265,
+      "word_count": 930,
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.588229,
+      "facets": [
+        "adult",
+        "choice-and-agency",
+        "dialogue-rich",
+        "interior",
+        "marriage",
+        "psychological-romance",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.019048,
+        "conflict_density": 0.003175,
+        "dialogue_ratio": 0.473016,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.009524,
+        "intimacy_action_density": 0.002116,
+        "romance_density": 0.003175,
+        "sensory_channels": 5,
+        "sentence_length_mean": 11.52439,
+        "sentence_length_variation": 6.937395
+      },
+      "mmr_score": 0.43563,
+      "rank": 3,
+      "scene_id": "maugham.magician.c014.s004",
+      "score_components": {
+        "craft_geometry": 0.882962,
+        "facet": 0.444444,
+        "lexical": 0.68487,
+        "size": 0.770588,
+        "stage_heat": 0.08464
+      },
+      "text_hash": "8975feb348e583ae1066e5d719a513944577e4fdbe0134b34d813dd370de6c1e",
+      "title": "The Magician",
+      "token_estimate": 1286,
+      "word_count": 945,
+      "work_id": "maugham.magician"
+    },
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.636811,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "interior",
+        "marriage",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.008464,
+        "conflict_density": 0.003628,
+        "dialogue_ratio": 0.23821,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.008464,
+        "intimacy_action_density": 0.004837,
+        "romance_density": 0.019347,
+        "sensory_channels": 3,
+        "sentence_length_mean": 11.328767,
+        "sentence_length_variation": 11.680747
+      },
+      "mmr_score": 0.404501,
+      "rank": 4,
+      "scene_id": "von-arnim.enchanted-april.c012.s004",
+      "score_components": {
+        "craft_geometry": 0.968241,
+        "facet": 0.222222,
+        "lexical": 0.830202,
+        "size": 0.909412,
+        "stage_heat": 0.19348
+      },
+      "text_hash": "5e6debd13018b22c7b928cbcd12211d54ff38be9deebb7bb7902edd210bec51d",
+      "title": "The Enchanted April",
+      "token_estimate": 1125,
+      "word_count": 827,
+      "work_id": "von-arnim.enchanted-april"
+    },
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.606856,
+      "facets": [
+        "adult",
+        "plot-coupled",
+        "romantic-comedy",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.004161,
+        "conflict_density": 0.004161,
+        "dialogue_ratio": 0.098474,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006935,
+        "intimacy_action_density": 0.0,
+        "romance_density": 0.0,
+        "sensory_channels": 3,
+        "sentence_length_mean": 12.016667,
+        "sentence_length_variation": 8.993501
+      },
+      "mmr_score": 0.385508,
+      "rank": 5,
+      "scene_id": "montgomery.blue-castle.c009.s002",
+      "score_components": {
+        "craft_geometry": 0.979037,
+        "facet": 0.111111,
+        "lexical": 0.902435,
+        "size": 0.965882,
+        "stage_heat": 0.0
+      },
+      "text_hash": "6ccdf8c43233a68fd5f2e8a704ae02d206462cf2c2fb7a9b4effe7f27378692d",
+      "title": "The Blue Castle",
+      "token_estimate": 981,
+      "word_count": 721,
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.608376,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "plot-coupled",
+        "romantic-charge",
+        "romantic-comedy",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.008415,
+        "conflict_density": 0.001403,
+        "dialogue_ratio": 0.258065,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.004208,
+        "intimacy_action_density": 0.001403,
+        "romance_density": 0.014025,
+        "sensory_channels": 3,
+        "sentence_length_mean": 11.688525,
+        "sentence_length_variation": 8.013392
+      },
+      "mmr_score": 0.382214,
+      "rank": 6,
+      "scene_id": "montgomery.blue-castle.c008.s004",
+      "score_components": {
+        "craft_geometry": 0.975762,
+        "facet": 0.222222,
+        "lexical": 0.797932,
+        "size": 0.956471,
+        "stage_heat": 0.05612
+      },
+      "text_hash": "312a435da2c3ff880e11bed7fda92de846223297ed140895cb51c2991f955cde",
+      "title": "The Blue Castle",
+      "token_estimate": 970,
+      "word_count": 713,
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.590088,
+      "facets": [
+        "adult",
+        "interior",
+        "marriage",
+        "plot-coupled"
+      ],
+      "features": {
+        "agency_density": 0.011148,
+        "conflict_density": 0.004459,
+        "dialogue_ratio": 0.039019,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.010033,
+        "intimacy_action_density": 0.00223,
+        "romance_density": 0.006689,
+        "sensory_channels": 2,
+        "sentence_length_mean": 15.20339,
+        "sentence_length_variation": 15.04995
+      },
+      "mmr_score": 0.373236,
+      "rank": 7,
+      "scene_id": "von-arnim.enchanted-april.c002.s002",
+      "score_components": {
+        "craft_geometry": 0.946841,
+        "facet": 0.111111,
+        "lexical": 0.85096,
+        "size": 0.827059,
+        "stage_heat": 0.0892
+      },
+      "text_hash": "f5451317b39818318cdf453420a705c38410f7b0114e014026a79659b27f5cc3",
+      "title": "The Enchanted April",
+      "token_estimate": 1220,
+      "word_count": 897,
+      "work_id": "von-arnim.enchanted-april"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.531565,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "psychological-romance",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.007743,
+        "conflict_density": 0.001106,
+        "dialogue_ratio": 0.426991,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.0,
+        "intimacy_action_density": 0.003319,
+        "romance_density": 0.007743,
+        "sensory_channels": 4,
+        "sentence_length_mean": 18.08,
+        "sentence_length_variation": 11.830199
+      },
+      "mmr_score": 0.335919,
+      "rank": 8,
+      "scene_id": "maugham.magician.c003.s001",
+      "score_components": {
+        "craft_geometry": 0.97873,
+        "facet": 0.222222,
+        "lexical": 0.505891,
+        "size": 0.818824,
+        "stage_heat": 0.13276
+      },
+      "text_hash": "0ff6cf8687ae3ed248b081de5b02593829b4984461c6c553697719c1b784afe1",
+      "title": "The Magician",
+      "token_estimate": 1230,
+      "word_count": 904,
+      "work_id": "maugham.magician"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "base_score": 0.538361,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "marriage",
+        "plot-coupled",
+        "psychological-romance",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.01056,
+        "conflict_density": 0.002112,
+        "dialogue_ratio": 0.249208,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006336,
+        "intimacy_action_density": 0.00528,
+        "romance_density": 0.021119,
+        "sensory_channels": 3,
+        "sentence_length_mean": 16.910714,
+        "sentence_length_variation": 11.219048
+      },
+      "mmr_score": 0.332613,
+      "rank": 9,
+      "scene_id": "maugham.magician.c002.s001",
+      "score_components": {
+        "craft_geometry": 0.98482,
+        "facet": 0.222222,
+        "lexical": 0.48651,
+        "size": 0.768235,
+        "stage_heat": 0.2112
+      },
+      "text_hash": "acc7c905e769169118efaaa9f2a4047113ced0214cfc4cda241b9b06ba13e215",
+      "title": "The Magician",
+      "token_estimate": 1288,
+      "word_count": 947,
+      "work_id": "maugham.magician"
+    }
+  ],
+  "selected_token_estimate": 10508,
+  "selection_method": "fts5-bm25+craft-geometry+facets+mmr+work-cap",
+  "unused_source_tokens": 5492,
+  "version": "literary-apprenticeship.v1"
+}

@@ -1,0 +1,440 @@
+{
+  "cadence_delta_per_1000_words": 12.0731,
+  "cadence_rate_ratio": 18.2473,
+  "continuation": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "interpretive_coda": {
+          "count": 2,
+          "evidence": [
+            {
+              "evidence": "mortifyingly, that Jonah had asked for the line to be deleted before Mara had found the courage to object. The permission countdown changed to 04:36:12.",
+              "match": "Mara had found",
+              "position": 8034
+            },
+            {
+              "evidence": "way. In church, people were always rushing to furnish God’s silences. She had learned to leave one bare. But the screen had other things on it. In the lo",
+              "match": "She had learned",
+              "position": 8767
+            }
+          ],
+          "per_1000_words": 0.7
+        },
+        "merely": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "not_x_but_y": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "profound": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "quiet": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "simply": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "sudden": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 0.7,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 2,
+      "word_count": 2857
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 7,
+          "sufficiently_sampled": false,
+          "turns": 3
+        },
+        "Livia": {
+          "content_vocabulary_size": 25,
+          "dialogue_words": 51,
+          "sufficiently_sampled": true,
+          "turns": 9
+        },
+        "Mara": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 16,
+          "sufficiently_sampled": false,
+          "turns": 5
+        },
+        "She": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 1,
+          "sufficiently_sampled": false,
+          "turns": 1
+        },
+        "You": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 2,
+          "sufficiently_sampled": false,
+          "turns": 1
+        }
+      },
+      "comparable_speaker_count": 1,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": null,
+      "mean_unigram_frequency_cosine": null,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [],
+      "possible_voice_indistinctness": null,
+      "unattributed_passages": 97
+    },
+    "explanatory_gloss": {
+      "evidence": [],
+      "glosses_per_100_dialogue_passages": 0.0,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 0,
+      "quoted_passages": 116
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "direction": "prefix_higher",
+  "heuristic": true,
+  "interpretation": "Sectional surface-style comparison for editorial review only. A flag does not prove different authorship or poor prose, but a large same-POV shift should be read in the merged manuscript.",
+  "possible_style_discontinuity": true,
+  "prefix": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 3,
+          "evidence": [
+            {
+              "evidence": "Mara sat, she felt the weight of the room’s collective attention. It felt like a physical pressure against her skin. Livia began to speak, her obser",
+              "match": "felt like",
+              "position": 4555
+            },
+            {
+              "evidence": "said it, as if the truth belonged to Livia by right of discovery. It felt like an invasion. Mara’s instinct was to explain, to defend her motives, t",
+              "match": "felt like",
+              "position": 5162
+            },
+            {
+              "evidence": "belonged here yet. But for the first time since she had arrived, she felt like she was actually seeing the room, rather than just being seen by it.",
+              "match": "felt like",
+              "position": 17144
+            }
+          ],
+          "per_1000_words": 1.0084
+        },
+        "interpretive_coda": {
+          "count": 5,
+          "evidence": [
+            {
+              "evidence": "the clockwork underneath—was a sudden, hot surge in Mara's chest. But she realized that to expose it would be to join the game. It would be to turn the",
+              "match": "she realized",
+              "position": 9950
+            },
+            {
+              "evidence": "soul with the truth. As she watched the shadows deepen in the forest, Mara realized that the truth wasn't something you found by being perfectly transpar",
+              "match": "Mara realized",
+              "position": 16059
+            },
+            {
+              "evidence": "as a cue, a tool for Livia to use. But as she replayed the sensation, she realized the rhythm hadn't been a signal for Livia. It had been a conversation",
+              "match": "she realized",
+              "position": 16531
+            },
+            {
+              "evidence": "re like a recognition. She wasn't sure if she belonged here yet. But for the first time since she had arrived, she felt like she was actually seeing the room",
+              "match": "for the first time",
+              "position": 17098
+            },
+            {
+              "evidence": "y toward the dormitories—a brief, silent acknowledgment in his stride—Mara knew that her decision to stay was no longer just an intellectual pursuit.",
+              "match": "Mara knew",
+              "position": 17326
+            }
+          ],
+          "per_1000_words": 1.6807
+        },
+        "merely": {
+          "count": 3,
+          "evidence": [
+            {
+              "evidence": "astating lapse in her composure. For a heartbeat, the \"oracle\" looked merely like a girl who had miscalculated. Livia tried to recover, her eyes",
+              "match": "merely",
+              "position": 11471
+            },
+            {
+              "evidence": "assing student—a quick comment about a hidden anxiety—but the student merely blinked, unimpressed. The spell of the \"oracle\" had not just been bro",
+              "match": "merely",
+              "position": 13426
+            },
+            {
+              "evidence": "ity Livia had wielded all evening had plummeted into the realm of the merely talented, her readings now sounding like the cold-reading tricks of a",
+              "match": "merely",
+              "position": 13635
+            }
+          ],
+          "per_1000_words": 1.0084
+        },
+        "not_x_but_y": {
+          "count": 7,
+          "evidence": [
+            {
+              "evidence": "in relaxed dominance. She was beautiful in a way that felt engineered—not by surgery, but by a profound, terrifying awareness of her own effect. Her eyes were dark and restless, scanning the room with the precisio",
+              "match": "not by surgery, but by a profound, terrifying awareness of her own effect",
+              "position": 3435
+            },
+            {
+              "evidence": "the precision of a lidar sweep. \"New arrival,\" Livia said. Her voice wasn't unkind, but it had the edge of a challenge. \"The one with the sacramental hunger. I could smell the incense on y",
+              "match": "wasn't unkind, but it had the edge of a challenge",
+              "position": 3636
+            },
+            {
+              "evidence": "gnal would attempt to transmit a specific, non-verbal emotional state—not a thought, but a physiological shift—and the Receiver would attempt to identify it. The pairings were assigned. When it was Mara’s turn, she found hers",
+              "match": "not a thought, but a physiological shift—and the Receiver would attempt to identify it",
+              "position": 6959
+            },
+            {
+              "evidence": "to a \"guarded\" stance of disciplined privacy. She tightened her core, not with tension, but with a centered, quiet stillness. She changed the frequency of her breath, making it shallow and rhyth",
+              "match": "not with tension, but with a centered, quiet stillness",
+              "position": 10452
+            },
+            {
+              "evidence": "he emotional heat of the room. She felt the shift in Jonah. His grip didn't change, but his eyes widened by a fraction of a millimeter. He had felt the change in the signal. Livia leaned closer, her face",
+              "match": "didn't change, but his eyes widened by a fraction of a millimeter",
+              "position": 10670
+            },
+            {
+              "evidence": "was a look of profound shock, as if Livia had seen something in Mara—not a cue, not a signal, but a fundamental quality—that she hadn't expected to find in this place. Mara searched her memory for what could have caused it, but there wa",
+              "match": "not a cue, not a signal, but a fundamental quality—that she hadn't expected to find in this place",
+              "position": 14114
+            },
+            {
+              "evidence": "le,\" a voice said. She looked up. Jonah was still looking at her. He wasn't smiling, but there was a glint of something in his eyes—not triumph, but a deep, quiet recognition. He knew what she had done. He knew she hadn't failed the task; she h",
+              "match": "wasn't smiling, but there was a glint of something in his eyes—not triumph, but a deep, quiet recognition",
+              "position": 14723
+            }
+          ],
+          "per_1000_words": 2.3529
+        },
+        "profound": {
+          "count": 5,
+          "evidence": [
+            {
+              "evidence": "was beautiful in a way that felt engineered—not by surgery, but by a profound, terrifying awareness of her own effect. Her eyes were dark and restl",
+              "match": "profound",
+              "position": 3460
+            },
+            {
+              "evidence": "to narrate her—to turn her into a character in Livia’s play—felt more profound than any of Adrian’s welcoming platitudes. He wasn't playing the \"cha",
+              "match": "profound",
+              "position": 6390
+            },
+            {
+              "evidence": "ut then she looked at Jonah. He was watching her, his gaze steady and profoundly patient. He wasn't asking her to perform. He was giving her the space",
+              "match": "profoundly",
+              "position": 8831
+            },
+            {
+              "evidence": "had been wide with a genuine, startled recognition. It was a look of profound shock, as if Livia had seen something in Mara—not a cue, not a signal",
+              "match": "profound",
+              "position": 14059
+            },
+            {
+              "evidence": "settling mystery remained. Mara felt a wave of relief, followed by a profound, trembling exhaustion. She pulled her hand away from Jonah’s, the los",
+              "match": "profound",
+              "position": 14440
+            }
+          ],
+          "per_1000_words": 1.6807
+        },
+        "quiet": {
+          "count": 4,
+          "evidence": [
+            {
+              "evidence": "ivacy. She tightened her core, not with tension, but with a centered, quiet stillness. She changed the frequency of her breath, making it shallow",
+              "match": "quiet",
+              "position": 10491
+            },
+            {
+              "evidence": ",\" Jonah said, his voice calm and infuriatingly simple. \"It just went quiet.\" The silence that followed was not the curated silence of the redwo",
+              "match": "quiet",
+              "position": 11212
+            },
+            {
+              "evidence": "t there was a glint of something in his eyes—not triumph, but a deep, quiet recognition. He knew what she had done. He knew she hadn't failed the",
+              "match": "quiet",
+              "position": 14811
+            },
+            {
+              "evidence": "the way Livia’s certainty had collapsed under the weight of a single, quiet choice. She had come to Fulcrum to find out if she could align her s",
+              "match": "quiet",
+              "position": 15915
+            }
+          ],
+          "per_1000_words": 1.3445
+        },
+        "simply": {
+          "count": 3,
+          "evidence": [
+            {
+              "evidence": "refreshments, looking less like a founder and more like a man who had simply stepped out of a very important conversation. He was polished, his pr",
+              "match": "simply",
+              "position": 2312
+            },
+            {
+              "evidence": "asn't playing the \"charming outsider\" role the group expected. He was simply... there. And in his stillness, Mara felt a strange, flickering sense",
+              "match": "simply",
+              "position": 6516
+            },
+            {
+              "evidence": "le do.\" He didn't offer her a hand. He didn't try to comfort her. He simply stood there, a solid, unpretentious presence in the middle of the shi",
+              "match": "simply",
+              "position": 15209
+            }
+          ],
+          "per_1000_words": 1.0084
+        },
+        "sudden": {
+          "count": 8,
+          "evidence": [
+            {
+              "evidence": "the glass doors, the sheer competence of the atmosphere made her feel suddenly, sharply provincial. The social map of the room was legible even bef",
+              "match": "suddenly",
+              "position": 1542
+            },
+            {
+              "evidence": "peak.\" He led her toward the center, and as she moved, Mara felt the sudden, sharp prickle of being watched. It wasn't the casual glance of curio",
+              "match": "sudden",
+              "position": 3046
+            },
+            {
+              "evidence": "wondering if her presence here is an error of judgment.\" Mara felt a sudden, hollow sensation in her stomach. It wasn't just that Livia was right",
+              "match": "sudden",
+              "position": 4996
+            },
+            {
+              "evidence": "om’s intensity, which had been directed at her as a subject of study, suddenly narrowed into a dyad. As she reached out, her skin brushed his. The",
+              "match": "suddenly",
+              "position": 7250
+            },
+            {
+              "evidence": ". It wasn't a sexual jolt, though the heat was unmistakable; it was a sudden, violent increase in sensory input. His skin was warm, his grip stead",
+              "match": "sudden",
+              "position": 7418
+            },
+            {
+              "evidence": "rip away the glamour and show the room the clockwork underneath—was a sudden, hot surge in Mara's chest. But she realized that to expose it would",
+              "match": "sudden",
+              "position": 9911
+            },
+            {
+              "evidence": "she focused on a different, more internal sensation: the feeling of a sudden, cooling shadow. She consciously altered her posture. She moved from",
+              "match": "sudden",
+              "position": 10257
+            },
+            {
+              "evidence": "and away from Jonah’s, the loss of contact leaving her skin feeling a sudden, sharp void where his warmth had been. \"You're a very difficult pers",
+              "match": "sudden",
+              "position": 14558
+            }
+          ],
+          "per_1000_words": 2.6891
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 12.7731,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 38,
+      "word_count": 2975
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Adrian": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 7,
+          "sufficiently_sampled": false,
+          "turns": 2
+        },
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 4,
+          "sufficiently_sampled": false,
+          "turns": 2
+        },
+        "Livia": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 18,
+          "sufficiently_sampled": false,
+          "turns": 5
+        },
+        "Mara": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 19,
+          "sufficiently_sampled": false,
+          "turns": 3
+        }
+      },
+      "comparable_speaker_count": 0,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": null,
+      "mean_unigram_frequency_cosine": null,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [],
+      "possible_voice_indistinctness": null,
+      "unattributed_passages": 37
+    },
+    "explanatory_gloss": {
+      "evidence": [
+        {
+          "cue": "she realized",
+          "narration": "the delta. Livia wasn't just reading Mara; she was reading the interaction between Mara and the subtle cues Jonah was providing. The desire to expose the mechanism—to strip away the glamour and show the room the clockwork underneath—was a sudden, hot surge in ",
+          "position": 9664,
+          "quote": "read",
+          "shared_content_terms": []
+        },
+        {
+          "cue": "He knew",
+          "narration": "a voice said. She looked up. Jonah was still looking at her. He wasn't smiling, but there was a glint of something in his eyes—not triumph, but a deep, quiet recognition. He knew what she had done. He knew she hadn't failed the task; she had mastered the tool.",
+          "position": 14605,
+          "quote": "You're a very difficult person to read, Mara Vale,",
+          "shared_content_terms": []
+        }
+      ],
+      "glosses_per_100_dialogue_passages": 4.0816,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 2,
+      "quoted_passages": 49
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "thresholds": {
+    "cadence_delta_per_1000_words": 5.0,
+    "cadence_rate_ratio": 2.0
+  }
+}

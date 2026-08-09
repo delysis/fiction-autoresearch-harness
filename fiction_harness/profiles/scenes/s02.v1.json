@@ -1,0 +1,65 @@
+{
+  "record_type": "SceneCreativeProfile",
+  "scene_profile_id": "fulcrum-s02.v1",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "ontology_version": "rgo.v1",
+  "scene_id": "S02",
+  "coordinates": [
+    "heat.scene.high-tension",
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.interrupted-escalation",
+    "intimacy-craft.aftermath",
+    "intimacy-craft.no-consummation",
+    "tone.suspenseful",
+    "tone.lush"
+  ],
+  "required": [
+    "heat.scene.high-tension",
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.aftermath",
+    "intimacy-craft.no-consummation",
+    "trope.competence-attraction",
+    "trope.charged-restraint",
+    "consent.explicit-revocable",
+    "world.supernatural.ambiguous"
+  ],
+  "preferred": [
+    "intimacy-craft.interrupted-escalation",
+    "tone.suspenseful",
+    "tone.lush"
+  ],
+  "prohibited": [
+    "heat.scene.open-door",
+    "intimacy-craft.consent-forward-consummation"
+  ],
+  "remove_coordinates": [],
+  "heat_target": "heat.scene.high-tension",
+  "intimacy_modes": [
+    "intimacy-craft.non-sex-sex-scene",
+    "intimacy-craft.aftermath",
+    "intimacy-craft.no-consummation"
+  ],
+  "manifested_tropes": [
+    "trope.competence-attraction",
+    "trope.charged-restraint",
+    "trope.institutional-proximity"
+  ],
+  "pacing": [
+    "0–10% exhausted late-night care",
+    "10–30% observation slides into interpretation",
+    "30–50% explanations and loaded prompts tighten the trap",
+    "50–68% romantic triangulation and project threat",
+    "68–82% Mara’s silence and clean question",
+    "82–92% Miriam opens the exit",
+    "92–100% Jonah’s restrained walk home, mutually chosen kiss, and doorway rule"
+  ],
+  "tone": [
+    "tone.suspenseful",
+    "tone.uncanny",
+    "tone.lush"
+  ],
+  "atmosphere": "Late-night care becomes a tribunal without changing its gentle tone; the closed door, fatigue, witnesses, and project stakes turn accurate observations into pressure.",
+  "relationship_result": "Mara and Jonah explicitly practice a revocable doorway rule, share one mutually chosen kiss that stops while still desired, and end with hopeful future possibility rather than consummation or resolved courtship.",
+  "version": "1",
+  "schema_version": "fiction-harness.v1"
+}

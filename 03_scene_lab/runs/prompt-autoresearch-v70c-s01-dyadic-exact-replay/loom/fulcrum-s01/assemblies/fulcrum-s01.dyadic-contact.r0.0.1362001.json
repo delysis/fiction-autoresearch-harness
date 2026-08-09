@@ -1,0 +1,31 @@
+{
+  "artifact_id": "fulcrum-s01.dyadic-contact.r0.0.1362001",
+  "manuscript_hash": "822d0cfef56d51da9a3004510b12c395994a199fcf346d22eeb2fa8ce893ba4c",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+      "raw_char_end": 556,
+      "raw_char_start": 0,
+      "raw_hash": "52c1edfd57c5be88b280e362eb4ca3e1d25e04bb6c3a76f609feb08725b50d16",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v60-s01-party-runway/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340109.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+      "text_hash": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+    },
+    {
+      "call_id": "fulcrum-s01.dyadic-contact.r0.0.1362001",
+      "raw_char_end": 1068,
+      "raw_char_start": 1,
+      "raw_hash": "d3caaac0f0110f468e853268aea0fc4c4d4b8a258034c26ca8d56b09761769ef",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v70c-s01-dyadic-exact-replay/loom/fulcrum-s01/raw/dyadic-contact/fulcrum-s01.dyadic-contact.r0.0.1362001.txt",
+      "role": "dyadic-contact",
+      "span_id": "fulcrum-s01.dyadic-contact.r0.0.1362001.span",
+      "text_hash": "66a74c687051a39510cf956ea4f63d05af76e7cac67cea81de68ce8e6990e442"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

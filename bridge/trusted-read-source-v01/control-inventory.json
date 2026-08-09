@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "kind": "google-docs-trusted-read-context",
+  "target": {
+    "documentId": "1SrXEmYDxdg0olad3jRirdcsKs7mo0p8FvEr-GcF6ZgU",
+    "title": "Source Card Deck — 20 MPC + 10 Leverage Dynamics v0.1",
+    "revisionId": "AIroW37d9E80uxbVOrgzm1ihv43QSEVQmdoaQNIjIu2A029j74ClknVwvJRuraic6dle2OAKLSGkefcjEdQ8TVCauDf18gk6t3HVWQb4Yphj",
+    "documentUrl": "https://docs.google.com/document/d/1SrXEmYDxdg0olad3jRirdcsKs7mo0p8FvEr-GcF6ZgU",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "derivedControlInventory": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "nativeElementCounts": {},
+    "tabsScanned": [
+      "t.0"
+    ],
+    "controls": [],
+    "nativeElements": []
+  },
+  "editGuidance": {
+    "advisoryOnly": true,
+    "requiresTargetedPreservation": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope.",
+    "warnings": []
+  }
+}

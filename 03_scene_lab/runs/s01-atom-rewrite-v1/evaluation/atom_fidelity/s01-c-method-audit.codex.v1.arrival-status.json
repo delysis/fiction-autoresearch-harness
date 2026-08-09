@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "4c02777977205f85b5bb121f78e53307704eca8554cf1f11ab58bc6c6ed39661",
+  "candidate_id": "s01-c-method-audit.codex.v1",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "I brought something that wasn’t synthesized.",
+      "atom_id": "s01-arr-03",
+      "consequence_evidence": "We’ve been discussing the value of unmanufactured signals.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Four people occupied the broad cushions nearest it",
+      "atom_id": "s01-arr-04",
+      "consequence_evidence": "three others sat upright with tablets on their knees.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Alignment begins before agreement.",
+      "atom_id": "s01-arr-05",
+      "consequence_evidence": "The people nearest the fire laughed first.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "No,” Jonah said.",
+      "atom_id": "s01-arr-09",
+      "consequence_evidence": "Adrian watched Jonah for one beat longer than anyone else did.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

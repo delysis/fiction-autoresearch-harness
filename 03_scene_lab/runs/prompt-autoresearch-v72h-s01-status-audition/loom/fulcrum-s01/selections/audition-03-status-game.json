@@ -1,0 +1,33 @@
+{
+  "audition_version": "movement-audition.v1-base-authored-boundary",
+  "campaign_hash": "1765ab92ef8ea8c11010ba96690954e7fe2bd2438f47dd844ec0bdfa100b76bf",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "status-game",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.status-game.audition.1410001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.audition.1410018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.audition.1410035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.audition.1410052",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.gathering-handoff.audition.1400086",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "d29fcff7a1b2ca5c03ed52c2c48a0b3d46a301a5ac558116955e869bf29bc4a9",
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,168 @@
+{
+  "atom_realization": {
+    "bundle_hash": "0549f411f235037f9360b01621235e9c6387f19486a07ca39b547603e554fa54",
+    "candidate_id": "s02-frontier-novelist-seq1-codex-v1",
+    "endpoint_status": "pass",
+    "invented_conflicts": [],
+    "judge_id": "codex-primary-plus-two-independent-readers.v1",
+    "per_atom": [
+      {
+        "action_evidence": "She poured. The tea smelled of toasted rice.",
+        "atom_id": "s02-a4b-22063-tea",
+        "consequence_evidence": "Mara accepted it before she could decide whether acceptance was wise",
+        "explanation_only": false,
+        "status": "realized"
+      },
+      {
+        "action_evidence": "The other version is that you crossed the country to discover you were exceptional",
+        "atom_id": "s02-a4b-22063-unremarkable",
+        "consequence_evidence": "That’s a bold interpretation for a Tuesday.",
+        "explanation_only": false,
+        "status": "realized"
+      },
+      {
+        "action_evidence": "TEMPORARY REVIEW ACCESS: RAW ALIGNMENT TELEMETRY",
+        "atom_id": "s02-a4b-22063-access",
+        "consequence_evidence": "REVIEW NOTES DUE BEFORE EXPIRATION.",
+        "explanation_only": false,
+        "status": "realized"
+      },
+      {
+        "action_evidence": "The sequence is ready,” Jonah said.",
+        "atom_id": "s02-a4b-22023-jonah-complicity",
+        "consequence_evidence": "On his monitor, the button that would load the next run remained gray.",
+        "explanation_only": false,
+        "status": "realized"
+      },
+      {
+        "action_evidence": "Mara touched ACCEPT.",
+        "atom_id": "s02-a4b-22063-accept",
+        "consequence_evidence": "The terminal beside Jonah chimed.",
+        "explanation_only": false,
+        "status": "realized"
+      },
+      {
+        "action_evidence": "Mara folded her hands in her lap.",
+        "atom_id": "s02-a4b-22063-cooling-tea",
+        "consequence_evidence": "The tea cooled between her wrists while her name glowed on three screens.",
+        "explanation_only": false,
+        "status": "realized"
+      }
+    ]
+  },
+  "candidate_sha256": "4457df5925ec49bff9beb708c6506a8a98ff16e55dbc1a6263f14babb689a51c",
+  "forward_obligations": [
+    "Seq2 must notice that supposedly raw access already includes observer annotations.",
+    "A concrete Christian practice must cause Mara's changed action in Seq2.",
+    "Jonah's complicity or institutional role must cost him something observable.",
+    "The privacy breach and Livia's sponsor liability must have later consequences."
+  ],
+  "independent_review_disposition": "accept_with_surgical_revision_completed",
+  "literary_style": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "interpretive_coda": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "merely": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "not_x_but_y": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "profound": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "quiet": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "simply": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "sudden": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 0.0,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 0,
+      "word_count": 882
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 4,
+          "sufficiently_sampled": false,
+          "turns": 1
+        },
+        "Livia": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 14,
+          "sufficiently_sampled": false,
+          "turns": 2
+        },
+        "Mara": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 4,
+          "sufficiently_sampled": false,
+          "turns": 1
+        },
+        "You": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 2,
+          "sufficiently_sampled": false,
+          "turns": 1
+        }
+      },
+      "comparable_speaker_count": 0,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": null,
+      "mean_unigram_frequency_cosine": null,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [],
+      "possible_voice_indistinctness": null,
+      "unattributed_passages": 22
+    },
+    "explanatory_gloss": {
+      "evidence": [],
+      "glosses_per_100_dialogue_passages": 0.0,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 0,
+      "quoted_passages": 27
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "mechanical_eligible": true,
+  "record_type": "FrontierNovelistSequenceEvaluation",
+  "version": "frontier-novelist-seq-eval.v1",
+  "word_count": 882,
+  "word_range": [
+    875,
+    1100
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "2302967f7dfd2eaccd7859c80a64a0f03e5256953ed031da6ae63ff8d08fbec6",
+  "candidate_id": "s01-b-somatic-control.codex.v2",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "The bakery box rode on her forearm.",
+      "atom_id": "s01-arr-01",
+      "consequence_evidence": "She kept turning that side toward her skirt.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Adrian received it with both hands",
+      "atom_id": "s01-arr-02",
+      "consequence_evidence": "Her suitcase remained in the gravel.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "You planned for us to condescend to you",
+      "atom_id": "s01-arr-07",
+      "consequence_evidence": "The prepared answer vanished.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "No performance.",
+      "atom_id": "s01-arr-09",
+      "consequence_evidence": "the laugh ended without anyone deciding to end it.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

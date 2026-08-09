@@ -1,0 +1,363 @@
+{
+  "index_hash": "7a3f2ce11ef3f1f6b975130819d63edda2658d862fd19482bc22ebbe26b5062a",
+  "query": {
+    "desired_features": {
+      "agency_density": 0.024,
+      "conflict_density": 0.015,
+      "dialogue_ratio": 0.24,
+      "explicit_intimacy_density": 0.005,
+      "interiority_density": 0.009,
+      "intimacy_action_density": 0.022,
+      "romance_density": 0.024,
+      "sensory_channels": 5,
+      "sentence_length_mean": 17,
+      "sentence_length_variation": 12
+    },
+    "excluded_facets": [
+      "coercive",
+      "counterexample"
+    ],
+    "included_authors": [
+      "D. H. Lawrence"
+    ],
+    "maximum_per_work": 6,
+    "maximum_scenes": 8,
+    "minimum_stage_heat": 0.35,
+    "mmr_lambda": 0.72,
+    "preferred_facets": [
+      "embodied-intimacy",
+      "marriage",
+      "relationship-conflict",
+      "choice-and-agency",
+      "sensory-dense",
+      "plot-coupled"
+    ],
+    "query_id": "married-explicit-transaction.v1",
+    "query_text": "Married lovers convert anger about a dangerous unilateral decision into chosen bodily intimacy; dialogue, touch, sensory attention, and a material secret remain causally active through completion and a joint decision.",
+    "required_facets": [
+      "adult",
+      "embodied-intimacy",
+      "explicit-intimacy"
+    ],
+    "source_token_budget": 24000,
+    "stage": "embodied-transaction"
+  },
+  "record_type": "LiteraryRetrievalResult",
+  "retrieval_hash": "4ff3942a39c1d95a2a676f80d6f67720337c223cdbe998f65fc2ec9258c5eca0",
+  "selected": [
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.666053,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "marriage",
+        "plot-coupled",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.01686,
+        "conflict_density": 0.004215,
+        "dialogue_ratio": 0.325606,
+        "explicit_intimacy_density": 0.003161,
+        "interiority_density": 0.007376,
+        "intimacy_action_density": 0.017914,
+        "romance_density": 0.021075,
+        "sensory_channels": 3,
+        "sentence_length_mean": 8.869159,
+        "sentence_length_variation": 7.105459
+      },
+      "mmr_score": 0.539559,
+      "rank": 1,
+      "scene_id": "lawrence.lady-chatterley.c001.s057",
+      "score_components": {
+        "craft_geometry": 0.976075,
+        "facet": 0.5,
+        "lexical": 0.490279,
+        "size": 0.765882,
+        "stage_heat": 0.620129
+      },
+      "text_hash": "5620829ffd657335f48a229317d51857d5a09bccd1cac35f2f7db368db87798d",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1291,
+      "word_count": 949,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.65292,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "plot-coupled",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.006696,
+        "conflict_density": 0.002232,
+        "dialogue_ratio": 0.026786,
+        "explicit_intimacy_density": 0.013393,
+        "interiority_density": 0.00558,
+        "intimacy_action_density": 0.016741,
+        "romance_density": 0.039062,
+        "sensory_channels": 3,
+        "sentence_length_mean": 14.688525,
+        "sentence_length_variation": 16.711183
+      },
+      "mmr_score": 0.41893,
+      "rank": 2,
+      "scene_id": "lawrence.lady-chatterley.c001.s080",
+      "score_components": {
+        "craft_geometry": 0.874312,
+        "facet": 0.333333,
+        "lexical": 0.549422,
+        "size": 0.828235,
+        "stage_heat": 0.768748
+      },
+      "text_hash": "d276b06136f4ff1b2f2d68b259eb8637d8a523432563cf04d38d1bdb092d0513",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1219,
+      "word_count": 896,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.631418,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.001082,
+        "conflict_density": 0.002165,
+        "dialogue_ratio": 0.136364,
+        "explicit_intimacy_density": 0.002165,
+        "interiority_density": 0.003247,
+        "intimacy_action_density": 0.012987,
+        "romance_density": 0.015152,
+        "sensory_channels": 4,
+        "sentence_length_mean": 12.486486,
+        "sentence_length_variation": 10.973239
+      },
+      "mmr_score": 0.399613,
+      "rank": 3,
+      "scene_id": "lawrence.lady-chatterley.c001.s132",
+      "score_components": {
+        "craft_geometry": 0.983294,
+        "facet": 0.333333,
+        "lexical": 0.584011,
+        "size": 0.795294,
+        "stage_heat": 0.444823
+      },
+      "text_hash": "1ffb3ff9816b7eb55c3c97e239fab4697c23294f19c5e4a335f28332ecd436fc",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1257,
+      "word_count": 924,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.617566,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "plot-coupled",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.001059,
+        "conflict_density": 0.005297,
+        "dialogue_ratio": 0.024364,
+        "explicit_intimacy_density": 0.002119,
+        "interiority_density": 0.007415,
+        "intimacy_action_density": 0.013771,
+        "romance_density": 0.03072,
+        "sensory_channels": 2,
+        "sentence_length_mean": 11.8,
+        "sentence_length_variation": 9.029673
+      },
+      "mmr_score": 0.390253,
+      "rank": 4,
+      "scene_id": "lawrence.lady-chatterley.c001.s112",
+      "score_components": {
+        "craft_geometry": 0.958956,
+        "facet": 0.333333,
+        "lexical": 0.550888,
+        "size": 0.771765,
+        "stage_heat": 0.46505
+      },
+      "text_hash": "7582000c262d0a19b9f05cd7a050cc8d5e84dea5cf19a0d74af63e2660298e4d",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1284,
+      "word_count": 944,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.595625,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "plot-coupled",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.003268,
+        "conflict_density": 0.002179,
+        "dialogue_ratio": 0.103486,
+        "explicit_intimacy_density": 0.004357,
+        "interiority_density": 0.001089,
+        "intimacy_action_density": 0.013072,
+        "romance_density": 0.014161,
+        "sensory_channels": 4,
+        "sentence_length_mean": 15.559322,
+        "sentence_length_variation": 10.113376
+      },
+      "mmr_score": 0.3777,
+      "rank": 5,
+      "scene_id": "lawrence.lady-chatterley.c001.s101",
+      "score_components": {
+        "craft_geometry": 0.988256,
+        "facet": 0.5,
+        "lexical": 0.276207,
+        "size": 0.802353,
+        "stage_heat": 0.529403
+      },
+      "text_hash": "22844a71a126683de42e5fc4587b6edc155f1065be34190350d8382793969d2e",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1249,
+      "word_count": 918,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.59142,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "interior",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.007609,
+        "conflict_density": 0.001087,
+        "dialogue_ratio": 0.036957,
+        "explicit_intimacy_density": 0.004348,
+        "interiority_density": 0.008696,
+        "intimacy_action_density": 0.013043,
+        "romance_density": 0.021739,
+        "sensory_channels": 4,
+        "sentence_length_mean": 14.83871,
+        "sentence_length_variation": 9.429182
+      },
+      "mmr_score": 0.373137,
+      "rank": 6,
+      "scene_id": "lawrence.lady-chatterley.c001.s012",
+      "score_components": {
+        "craft_geometry": 0.984396,
+        "facet": 0.333333,
+        "lexical": 0.385288,
+        "size": 0.8,
+        "stage_heat": 0.528254
+      },
+      "text_hash": "dfe6f07ae7e2da2d15fd216535945471e1836d2e028f046f7fb73c1d64d4ef15",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1252,
+      "word_count": 920,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.534187,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "psychological-romance",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.005995,
+        "conflict_density": 0.0,
+        "dialogue_ratio": 0.101918,
+        "explicit_intimacy_density": 0.005995,
+        "interiority_density": 0.003597,
+        "intimacy_action_density": 0.019185,
+        "romance_density": 0.027578,
+        "sensory_channels": 4,
+        "sentence_length_mean": 15.163636,
+        "sentence_length_variation": 11.36464
+      },
+      "mmr_score": 0.330987,
+      "rank": 7,
+      "scene_id": "lawrence.women-in-love.c024.s005",
+      "score_components": {
+        "craft_geometry": 0.989923,
+        "facet": 0.333333,
+        "lexical": 0.0,
+        "size": 0.901176,
+        "stage_heat": 0.761992
+      },
+      "text_hash": "fbfd8350a09ed1e4995905f5a9e949a061cc23257be7dad4e724595a50176760",
+      "title": "Women in Love",
+      "token_estimate": 1135,
+      "word_count": 834,
+      "work_id": "lawrence.women-in-love"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.507055,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "explicit-intimacy",
+        "marriage",
+        "psychological-romance",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.005423,
+        "conflict_density": 0.003254,
+        "dialogue_ratio": 0.0,
+        "explicit_intimacy_density": 0.002169,
+        "interiority_density": 0.006508,
+        "intimacy_action_density": 0.009761,
+        "romance_density": 0.027115,
+        "sensory_channels": 3,
+        "sentence_length_mean": 15.896552,
+        "sentence_length_variation": 13.70463
+      },
+      "mmr_score": 0.312837,
+      "rank": 8,
+      "scene_id": "lawrence.women-in-love.c008.s012",
+      "score_components": {
+        "craft_geometry": 0.92909,
+        "facet": 0.333333,
+        "lexical": 0.249509,
+        "size": 0.797647,
+        "stage_heat": 0.354646
+      },
+      "text_hash": "5800cf386f50ab785aadd8ca6ec1928bc4e5e7eaa8ef9d35b54956bb1c9e4d4a",
+      "title": "Women in Love",
+      "token_estimate": 1254,
+      "word_count": 922,
+      "work_id": "lawrence.women-in-love"
+    }
+  ],
+  "selected_token_estimate": 9941,
+  "selection_method": "fts5-bm25+craft-geometry+facets+mmr+work-cap",
+  "unused_source_tokens": 14059,
+  "version": "literary-apprenticeship.v1"
+}

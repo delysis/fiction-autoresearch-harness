@@ -1,0 +1,22 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+"I'm so sorry," he said impulsively; "but you _are_ among friends here,
+you know."
+
+"Yes--I know. Wherever I go I have that feeling. That's why I came
+home. I want to forget everything else, to become a complete American
+again, like the Mingotts and Wellands, and you and your delightful
+mother, and all the other good people here tonight. Ah, here's May
+arriving, and you will want to hurry away to her," she added, but
+without moving; and her eyes turned back from the door to rest on the
+young man's face.
+
+The drawing-rooms were beginning to fill up with after-dinner guests,
+and following Madame Olenska's glance Archer saw May Welland entering
+with her mother. In her dress of white and silver, with a wreath of
+silver blossoms in her hair, the tall girl looked like a Diana just
+alight from the chase.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

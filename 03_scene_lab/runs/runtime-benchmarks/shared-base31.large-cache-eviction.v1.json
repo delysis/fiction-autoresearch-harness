@@ -1,0 +1,33 @@
+{
+  "record_type": "SharedBase31LargeCacheEvictionObservation",
+  "version": "shared-base31-runtime.v1",
+  "endpoint": "http://127.0.0.1:8097",
+  "server_configuration": {
+    "model": "gemma-4-31b-base-q8_0",
+    "context_tokens": 131072,
+    "parallel_slots": 4,
+    "continuous_batching": true,
+    "unified_kv": true,
+    "kv_type": "q8_0"
+  },
+  "active_call": {
+    "call_id": "full-stack-64k:881003",
+    "task_id": 7288,
+    "prompt_tokens": 62611,
+    "completion_tokens": 1517,
+    "client_elapsed_seconds": 1507.6326434580042,
+    "server_prompt_milliseconds": 2564319.027,
+    "server_completion_milliseconds": 331531.337
+  },
+  "eviction": {
+    "progress_before_tokens": 38912,
+    "server_clock_before": "99:11.992",
+    "evicted_slot": 1,
+    "evicted_cached_tokens": 65039,
+    "evicted_prompt_family": "raw-prose-64k:881003",
+    "next_progress_tokens": 40960,
+    "server_clock_after": "123:32.742",
+    "observed_no_progress_seconds": 1460.75
+  },
+  "interpretation": "Four logical slots share one finite KV pool. Evicting an obsolete 65K-token cache while prefilling another 63K-token family caused a roughly 24.35-minute progress gap. Warm decoding can be shared, but giant cold families require proactive cache lifecycle and prefix-affine scheduling."
+}

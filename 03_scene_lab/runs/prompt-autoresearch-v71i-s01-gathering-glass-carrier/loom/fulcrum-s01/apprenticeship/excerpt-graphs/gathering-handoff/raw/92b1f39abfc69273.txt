@@ -1,0 +1,40 @@
+{
+  "emotional_offer": "Affectionate teasing",
+  "emotional_counteroffer": "Mild disapproval",
+  "relationship_history": "Established partnership",
+  "present_stakes": "Discussion of a recent event",
+  "dialogue_act_sequence": [
+    "Affirmation",
+    "Affectionate address",
+    "Inquiry",
+    "Statement",
+    "Question",
+    "Explanation",
+    "Disapproval"
+  ],
+  "body_language_counterpoint": [
+    "Laughter",
+    "Cigar removal",
+    "Thin smile",
+    "Disapproval gesture"
+  ],
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": [
+    "Cigar holding",
+    "Hand on shoulder"
+  ],
+  "agency_actions": [
+    "Birkin speaking",
+    "Marshall speaking",
+    "Bridegroom responding",
+    "Gerald questioning"
+  ],
+  "relationship_delta": "Slight tension introduced",
+  "story_state_change": "Information shared about the race",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

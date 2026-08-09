@@ -1,0 +1,25 @@
+{
+  "query_id": "fulcrum-calibration-game.v1",
+  "query_text": "An adult newcomer enters a beautiful status-conscious institution, watches socially skilled people make uncanny reads, tests the mechanism through changed behavior, and becomes attracted to a restrained colleague whose refusal costs him status.",
+  "stage": "institutional-initiation",
+  "required_facets": ["adult"],
+  "preferred_facets": ["psychological-romance", "social-constraint", "choice-and-agency", "dialogue-rich", "interior", "romantic-charge", "plot-coupled"],
+  "excluded_facets": ["coercive", "counterexample", "explicit-intimacy"],
+  "desired_features": {
+    "dialogue_ratio": 0.25,
+    "romance_density": 0.014,
+    "conflict_density": 0.016,
+    "agency_density": 0.022,
+    "sensory_channels": 4,
+    "interiority_density": 0.014,
+    "intimacy_action_density": 0.006,
+    "explicit_intimacy_density": 0.0,
+    "sentence_length_mean": 18,
+    "sentence_length_variation": 12
+  },
+  "maximum_scenes": 12,
+  "maximum_per_work": 3,
+  "source_token_budget": 30000,
+  "mmr_lambda": 0.74,
+  "minimum_stage_heat": 0.03
+}

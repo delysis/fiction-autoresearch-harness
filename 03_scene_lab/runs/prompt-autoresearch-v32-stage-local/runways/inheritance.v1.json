@@ -1,0 +1,14 @@
+{
+  "inheritance_hash": "cef1125a4e6f4167d962daac3bda7d551224b399ef062e4d20a41f4c0950d8bb",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "charged-restraint": "eae907f3e4fa14741c8caca9a5c5eda3c7d2901b95a36e8520d0b0ed3252924d"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v30-parallel-books",
+  "source_campaign_hash": "0984e2b7b571b6c4d51475c0ed5bedffddfa05292af262f048d4ad2913357edd",
+  "source_lock_hash": "50f4ea7228df6947719f3d8910e3f50dec09da9d944034dca6071d6d3123ee37",
+  "target_campaign_hash": "6d846f1bac5f327afd940385ccc264357bdb18811d35d81174fa293dc51ddf52",
+  "target_lock_hash": "d20b769a4f891cffe61c2526d16f94debc656cce69d296af017978dd8bf016d9",
+  "verified_at": "2026-08-08T06:56:28.848561+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

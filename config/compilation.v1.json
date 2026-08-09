@@ -1,0 +1,34 @@
+{
+  "compiler_version": "trusted-read-compiler.v1",
+  "scene_id": "S01",
+  "scene_trusted_read": "bridge/trusted-read-scenes-v01/document-text.md",
+  "canon_trusted_read": "bridge/trusted-read-canon-v01/document-text.md",
+  "source_trusted_read": "bridge/trusted-read-source-v01/document-text.md",
+  "persona_fixture": "fixtures/personas/fulcrum_pilot.v1.json",
+  "documents": [
+    {
+      "key": "project_brief",
+      "title": "Juicy Chastity Fiction Lab — Project Brief v0.3",
+      "path": "00_project_brief/Juicy Chastity Fiction Lab — Project Brief v0.3.docx",
+      "format": "docx"
+    },
+    {
+      "key": "source_deck",
+      "title": "Source Card Deck — 20 MPC + 10 Leverage Dynamics v0.1",
+      "path": "bridge/trusted-read-source-v01/document-text.md",
+      "format": "trusted-read-markdown"
+    },
+    {
+      "key": "story_canon",
+      "title": "Story Canon Ledger — Fulcrum Pilot v0.1",
+      "path": "bridge/trusted-read-canon-v01/document-text.md",
+      "format": "trusted-read-markdown"
+    },
+    {
+      "key": "pilot_scenes",
+      "title": "Pilot Scene Cards — S01-S03 v0.1",
+      "path": "bridge/trusted-read-scenes-v01/document-text.md",
+      "format": "trusted-read-markdown"
+    }
+  ]
+}

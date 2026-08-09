@@ -1,0 +1,197 @@
+{
+  "index_hash": "ae61b5e554131366ead566053cba053b72ec6b466f541329368669af61aeaf57",
+  "query": {
+    "desired_features": {
+      "agency_density": 0.012,
+      "conflict_density": 0.008,
+      "dialogue_ratio": 0.25,
+      "explicit_intimacy_density": 0.0,
+      "interiority_density": 0.012,
+      "intimacy_action_density": 0.0,
+      "romance_density": 0.004,
+      "sensory_channels": 2,
+      "sentence_length_mean": 18,
+      "sentence_length_variation": 12
+    },
+    "excluded_facets": [
+      "explicit-intimacy"
+    ],
+    "included_authors": [
+      "Elizabeth von Arnim"
+    ],
+    "maximum_per_work": 4,
+    "maximum_scenes": 4,
+    "minimum_stage_heat": 0.0,
+    "mmr_lambda": 0.82,
+    "preferred_facets": [
+      "arrival",
+      "social-comedy",
+      "social-constraint",
+      "dialogue-rich",
+      "interior"
+    ],
+    "query_id": "s01-status-possession.v1",
+    "query_text": "A guest quietly takes the position of host through seating, service, food, servants, and confident assumptions. Another woman notices the social asymmetry through concrete behavior rather than explanation.",
+    "required_facets": [
+      "adult"
+    ],
+    "source_token_budget": 6000,
+    "stage": "status-possession"
+  },
+  "record_type": "LiteraryRetrievalResult",
+  "retrieval_hash": "8d0be6e58f523ffaef642922d8f4e6471a72a625ab57d62d00bf050a08cbcc25",
+  "selected": [
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.532852,
+      "facets": [
+        "adult",
+        "marriage",
+        "plot-coupled",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.006445,
+        "conflict_density": 0.001074,
+        "dialogue_ratio": 0.092374,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006445,
+        "intimacy_action_density": 0.002148,
+        "romance_density": 0.010741,
+        "sensory_channels": 4,
+        "sentence_length_mean": 17.240741,
+        "sentence_length_variation": 17.46312
+      },
+      "mmr_score": 0.496939,
+      "rank": 1,
+      "scene_id": "von-arnim.enchanted-april.c003.s001",
+      "score_components": {
+        "craft_geometry": 0.944478,
+        "facet": 0.0,
+        "lexical": 0.740297,
+        "size": 0.787059,
+        "stage_heat": 0.08592
+      },
+      "text_hash": "fddd26ed07ac0e482634e99841b3e877f561dd8307daea4f33811e9ddbe08cf5",
+      "title": "The Enchanted April",
+      "token_estimate": 1267,
+      "word_count": 931,
+      "work_id": "von-arnim.enchanted-april"
+    },
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.512272,
+      "facets": [
+        "adult",
+        "interior",
+        "plot-coupled",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.005995,
+        "conflict_density": 0.002398,
+        "dialogue_ratio": 0.159472,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.008393,
+        "intimacy_action_density": 0.004796,
+        "romance_density": 0.010791,
+        "sensory_channels": 4,
+        "sentence_length_mean": 14.135593,
+        "sentence_length_variation": 12.696533
+      },
+      "mmr_score": 0.381429,
+      "rank": 2,
+      "scene_id": "von-arnim.enchanted-april.c003.s002",
+      "score_components": {
+        "craft_geometry": 0.918934,
+        "facet": 0.2,
+        "lexical": 0.451949,
+        "size": 0.901176,
+        "stage_heat": 0.19184
+      },
+      "text_hash": "3f2e52a8f4e37a3997f484e6ba60d05d0a0ca2d6117934e9ea405b98b229d954",
+      "title": "The Enchanted April",
+      "token_estimate": 1135,
+      "word_count": 834,
+      "work_id": "von-arnim.enchanted-april"
+    },
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.497638,
+      "facets": [
+        "adult",
+        "plot-coupled"
+      ],
+      "features": {
+        "agency_density": 0.004494,
+        "conflict_density": 0.002247,
+        "dialogue_ratio": 0.033708,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.004494,
+        "intimacy_action_density": 0.003371,
+        "romance_density": 0.004494,
+        "sensory_channels": 3,
+        "sentence_length_mean": 16.792453,
+        "sentence_length_variation": 18.077776
+      },
+      "mmr_score": 0.375891,
+      "rank": 3,
+      "scene_id": "von-arnim.enchanted-april.c009.s002",
+      "score_components": {
+        "craft_geometry": 0.946142,
+        "facet": 0.0,
+        "lexical": 0.569422,
+        "size": 0.835294,
+        "stage_heat": 0.13484
+      },
+      "text_hash": "d45121570fe370ef21fa930af74a98edd7a4270dd2bd039f30307c6db7727bf2",
+      "title": "The Enchanted April",
+      "token_estimate": 1211,
+      "word_count": 890,
+      "work_id": "von-arnim.enchanted-april"
+    },
+    {
+      "author": "Elizabeth von Arnim",
+      "base_score": 0.498537,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "marriage",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.01373,
+        "conflict_density": 0.006865,
+        "dialogue_ratio": 0.47254,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.002288,
+        "intimacy_action_density": 0.010297,
+        "romance_density": 0.018307,
+        "sensory_channels": 4,
+        "sentence_length_mean": 7.470085,
+        "sentence_length_variation": 6.262864
+      },
+      "mmr_score": 0.371465,
+      "rank": 4,
+      "scene_id": "von-arnim.enchanted-april.c007.s003",
+      "score_components": {
+        "craft_geometry": 0.747668,
+        "facet": 0.2,
+        "lexical": 0.438357,
+        "size": 0.854118,
+        "stage_heat": 0.41188
+      },
+      "text_hash": "b9c75c184276407f1318f3f1b3d3b16f330013ab710cc216f856de23c85d4c31",
+      "title": "The Enchanted April",
+      "token_estimate": 1189,
+      "word_count": 874,
+      "work_id": "von-arnim.enchanted-april"
+    }
+  ],
+  "selected_token_estimate": 4802,
+  "selection_method": "fts5-bm25+craft-geometry+facets+mmr+work-cap",
+  "unused_source_tokens": 1198,
+  "version": "literary-apprenticeship.v1"
+}

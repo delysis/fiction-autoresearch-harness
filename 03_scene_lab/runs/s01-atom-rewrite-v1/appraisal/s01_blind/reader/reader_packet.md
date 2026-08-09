@@ -1,0 +1,1105 @@
+# S01 blind appraisal
+
+## Story A
+
+The gate opened before Mara could decide whether to honk.
+
+She drove through with the bakery box braced against the passenger door and her suitcase lying flat in the back, because arriving at a residential fellowship with one suitcase looked intentional, while arriving with two looked like a person had brought contingencies. The distinction had mattered at noon. Beneath the redwoods, with sunset snagged in their upper branches and three glass buildings watching her come up the drive, it seemed less robust.
+
+The box slid when she stopped. Mara caught it with one hand.
+
+“Fine,” she told the cardamom buns. “At least one of us has yeast.”
+
+A man on the terrace laughed.
+
+Adrian Voss wore a white shirt with its sleeves rolled twice, precisely enough that Mara suspected an assistant or a ruler. He came down the steps as she got out, but stopped short of taking either the suitcase handle or the bakery box. This spared her the small humiliating negotiation over which burden she was permitted to carry.
+
+“Six fifty-nine,” he said. “I was told you were punctual.”
+
+Mara lifted the box. “I brought something that wasn’t synthesized.”
+
+“Even rarer.” Adrian read the church sticker on the lid without appearing to. “A contribution before you’ve been asked. You’ll do well here.”
+
+He made it sound as if she had passed a gate less visible than the one behind them.
+
+The main pavilion had no front desk. It had a long table bearing six kinds of sparkling water and, at the far end, a woman entering notes at a side console. Her observer badge said MIRIAM HOLT. She looked up once, included Mara in the count of the room, and returned to her screen.
+
+Nobody else looked away so cleanly.
+
+A cable crossed the floor beneath a strip of yellow tape. Someone had written TEMPORARY on the tape in permanent black ink.
+
+The people nearest the open doors occupied whole pieces of furniture. Shoes came off. Arms lay along sofa backs. Nearer the walls, fellows worked around one another’s knees and charging cables. A young man vacated half a bench when Adrian glanced at him, then smiled at Mara as though the space had been his idea.
+
+“We’re informal,” Adrian said.
+
+“I can tell.”
+
+His smile sharpened. Mara had meant it both ways and was relieved he had heard at least one.
+
+A woman in a green dress crossed the circle. She was barefoot, carrying somebody else’s coffee, and the room adjusted around her without ever seeming to move. She gave the cup to its owner, stole the strawberry from his plate, and stopped in front of Mara.
+
+“Livia,” Adrian said, unnecessarily.
+
+Livia Sloane’s attention landed first on Mara’s face, then on her shoes, then on the white bakery box held high against her ribs. The sequence was fast enough to feel like one look.
+
+“You brought a shield,” Livia said.
+
+“It’s an offering.” Mara tightened her grip anyway.
+
+“Those have historically been dangerous.”
+
+“Only to people with allergies.”
+
+Livia grinned. It transformed her from beautiful to trouble. “What kind?”
+
+“Cardamom. Honey. The church kitchen was divided on orange peel.”
+
+“And which faction prevailed?”
+
+“The faction that owns the zester.”
+
+Livia took the box from her. Not abruptly; she simply put both hands under it and waited until Mara either surrendered it or made the transfer strange. Her palms were warm against Mara’s knuckles.
+
+“Come settle the matter,” Livia said to the circle. “Our newest fellow has arrived bearing an unresolved schism.”
+
+The box moved away in her hands. Mara’s arms felt conspicuously empty.
+
+Adrian indicated the open place on the bench. “We were beginning calibration.”
+
+“Before dinner?” Mara asked.
+
+“It improves dinner.”
+
+“That is a claim requiring controls.”
+
+Livia set the box on the central table without opening it. “Good. She’s going to be annoying.”
+
+“You say that like a recommendation,” Mara said.
+
+“I meant it as one.”
+
+Adrian took the center of the circle. He did not ask for quiet. He waited, and quiet arranged itself.
+
+“Alignment begins before language,” he said. “Most people think speech is where intention becomes social. By then, the larger part of the event has already occurred. Breath, posture, timing, distance. We spend our lives broadcasting in channels we refuse to acknowledge, then call it intuition when somebody receives us accurately.”
+
+Across from Mara, a fellow named Ethan folded his phone face down on his thigh.
+
+Livia saw it too.
+
+“You sent your father a conciliatory email,” she said.
+
+Ethan’s fingers tightened around the phone.
+
+“Yesterday,” Livia continued. “You removed the apology before sending because you wanted the fact of reaching out without letting him think he’d won. He replied this afternoon. You haven’t opened it.”
+
+Ethan gave a short laugh with no amusement in it. “That’s specific.”
+
+“So is the way you keep checking the first line of the notification without touching the screen.”
+
+He turned the phone over. A preview glowed there. He put his thumb on it, then took his thumb away.
+
+The room held still around him.
+
+From a workstation near the windows, a man said, “Or he forgot the attachment.”
+
+The stillness broke in several places at once. Ethan swore. Someone laughed. Livia turned toward the workstation with a strawberry leaf still caught between two fingers.
+
+“Your commitment to bathos is a medical condition, Jonah.”
+
+“I’m hoping for a grant.”
+
+“Read the newcomer.”
+
+Jonah looked at Mara. “No.”
+
+“Too difficult?”
+
+“She didn’t ask.”
+
+Adrian’s expression remained pleasant. Jonah bent over the sensor puck again, and nobody gave him back the laugh.
+
+The opened sensor puck lay beneath his hands, a screwdriver between his fingers. Dark hair fell across his forehead each time he looked down. He did not take a bow for the laugh he had caused. He did look at Mara, once, with quick interest, before returning the screw to its housing.
+
+Livia came back to Mara.
+
+“You stopped twelve minutes from the gate,” she said.
+
+Mara’s stomach contracted.
+
+Livia touched the doubled strip of tape on the bakery box. “You opened this, checked whether the glaze had survived, and closed it again. You considered eating one. You decided arriving with nineteen would require an explanation.”
+
+“There are eighteen.”
+
+“You ate one in the church parking lot.”
+
+Mara stared at her.
+
+Livia’s eyes brightened. “Didn’t you?”
+
+“Half of one.”
+
+“Ah. Scruples.”
+
+“Quality assurance.”
+
+“Was it good?”
+
+“I brought the other eighteen.”
+
+Livia laughed, delighted rather than triumphant. She laid a finger against the tape and withdrew it. “She can stay.”
+
+Adrian’s gaze moved from Livia to Mara, measuring something that neither woman had offered him. “Let’s give her something harder than pastry.”
+
+Assistants distributed thin sensor bands and paired the circle. Jonah closed the puck, slid it into a charging cradle, and came over at Adrian’s gesture.
+
+“Jonah Reed,” Adrian said. “Hardware security and chronic dissent. He’ll facilitate your first tactile calibration.”
+
+“That sounds consensual when you say it quickly,” Jonah said.
+
+Adrian’s attention moved on before the joke finished costing him anything.
+
+Jonah pulled a low chair opposite Mara’s. Between them, a tablet displayed two red traces and a blank field labeled OBSERVER NOTES. He fastened one sensor loosely around his own wrist, then held out the other.
+
+“May I put this on you?”
+
+The question was ordinary. In the circle, it was almost disruptive.
+
+Mara offered her left arm. “Yes.”
+
+He fitted the band without pinching her skin and rotated the clasp away from the tender inside of her wrist. A green light appeared. Her pulse assembled itself on the tablet in steep little peaks.
+
+“Contact protocol,” Livia said from behind Jonah. “Receiver puts two fingers below the signal’s pulse. Signal recalls an event and holds the bodily state. Receiver reports observation before interpretation.”
+
+“They really say that last part?” Mara asked.
+
+Jonah glanced up. “On the first day.”
+
+“And after?”
+
+“People get promoted.”
+
+Livia nudged his chair with her bare foot. “Try not to poison the controls before we have any.”
+
+Jonah turned his palm upward between them. “You can receive first. If you’d rather stop, stop.”
+
+Mara placed two fingers against his wrist.
+
+His pulse was slower than hers. The skin there was warm, the tendons shifting when he settled his hand on his knee. She had expected contact to simplify him into signals. Instead it made every available fact compete: the nick beside his thumbnail, the faint vibration of a laugh he had not made, the deliberate stillness of his forearm.
+
+“Ready,” Adrian said.
+
+Jonah looked at a prompt on his tablet. His pulse altered by four beats, then steadied.
+
+Mara closed her eyes. There was a tightening under her fingertips that did not match fear. His breathing remained easy. The stillness in his arm required effort; she could feel the effort arriving and being corrected.
+
+“You’re waiting for something to fail,” she said.
+
+The muscles beneath her fingers changed.
+
+“Not hoping,” Mara added. “You think you warned somebody. You’re waiting to learn whether warning them counted.”
+
+Jonah drew breath for a joke. She felt it gather in his chest and travel toward his mouth. Then he let the breath out through his nose.
+
+Nothing came.
+
+His silence put heat under Mara’s skin more efficiently than a clever answer would have. He could have taken the room back. He let her keep what she had found.
+
+Livia clapped once.
+
+“There she is,” she said to the circle. “First pass, no training, and she catches the moral defense under the target state.”
+
+Heads turned. Someone behind Mara asked what the assigned state had been. Jonah removed his wrist from beneath her fingers.
+
+“Relief,” he said.
+
+The word changed the shape of her answer. Mara looked at him. He had offered the room only the prompt, not the thing she had touched underneath it.
+
+Livia leaned over his shoulder to study Mara’s trace. “Her pulse jumped before the second inference.”
+
+“You’re watching the wrong wrist,” Jonah said.
+
+“I’m watching the interesting one.”
+
+Mara’s pulse rose again. The tablet displayed it faithfully.
+
+Livia smiled at the screen. “Exhibit B.”
+
+The group laughed. It was friendly laughter. That made its claim on the moment harder to refuse.
+
+“Switch,” Adrian said.
+
+Jonah moved his chair six inches closer so Mara’s wrist could rest comfortably in his hand. Before he touched her, he waited.
+
+She turned her arm palm-up.
+
+His first two fingers settled below the sensor band. His thumb rested along the side of her wrist, not pressing. The contact was light and exact. Mara became aware of the air at her throat, the seam of her sleeve, the space between his knee and hers. Livia stood just beyond him, close enough that Mara could smell the strawberry on her fingers.
+
+The tablet assigned Mara a state privately.
+
+LOCKED DOOR.
+
+She nearly laughed. Fulcrum had built a machine to request metaphors one at a time.
+
+“Hold the sensation,” Livia said. “Don’t illustrate it. Let him find the event in the body.”
+
+Mara summoned the moment after a church meeting when the last person had left and the old brass latch dropped into place. A finished room. A duty completed. Quiet on the other side of the door.
+
+Jonah’s thumb pressed once.
+
+On the tablet, her pulse climbed.
+
+“She’s closing something,” Livia said. Her gaze was not on Mara’s face. It moved between Jonah’s hand, the red trace, and Mara’s response to his nearness. “Not keeping danger out. Keeping herself unobserved while she decides what version of the truth will be admissible.”
+
+The first part was good. The second part landed near a fear Mara had not placed in the memory.
+
+She took one breath. The three seconds were not long enough to become holy, which made them useful.
+
+Jonah’s thumb pressed again, exactly as the next peak rose on the screen.
+
+Livia watched Mara notice.
+
+There it was: not a thought traveling from one body to another, but a loop. Pulse on glass. Pressure at the wrist. Mara’s response to Jonah. Livia’s appetite for the response. Each fact ordinary enough by itself.
+
+Mara could have named the loop. The room would have admired her for naming it, and the loop would have learned her name.
+
+Instead she slid her wrist farther into Jonah’s hand.
+
+His fingers opened to accommodate her. More skin met skin. Heat moved up her arm, unwelcome only in how much she welcomed it.
+
+Mara changed the memory.
+
+She pictured the church kitchen before dawn: flour on the steel counter, the proofing cloth lifted over a bowl, dough rising because warmth had entered it and been allowed to remain. She let the locked door go. She kept her face, shoulders, and breath where Livia expected them. Beneath Jonah’s hand her pulse began to settle.
+
+Livia tilted her head.
+
+“The bolt is almost home,” she said. “There’s resistance at the last—”
+
+Mara slowed her exhale and brought back the sharp private pleasure of Livia guessing wrong. Her pulse kicked. She gave the kick no posture, no glance, no held breath to explain it.
+
+Jonah’s thumb moved before the red peak appeared.
+
+The pressure was firmer this time. A question, perhaps. Or a correction. Mara did not answer it.
+
+Livia looked at Jonah. “When does it click?”
+
+He watched Mara for one second too long to be neutral.
+
+“It didn’t,” he said. “It went quiet.”
+
+The circle lost its rhythm. A chair creaked. Somebody’s sensor band chimed because its wearer had stopped holding still.
+
+Livia’s smile remained, but surprise parted her lips. “No. There was a closure response.”
+
+“There was a pulse response.” Jonah did not release Mara’s wrist. “You supplied the closure.”
+
+Adrian stepped nearer the tablet. “Run it again.”
+
+“No,” Livia said.
+
+She crouched beside Mara instead. At this height her face was level with Mara’s, her green dress pooling around her feet. She looked tired for the first time. It made her beauty less orderly and more dangerous.
+
+“You changed something after the first peak,” Livia said.
+
+Mara waited.
+
+“You liked being accurately read. Then you noticed you liked it, and you punished the channel.”
+
+That was not wholly wrong. Mara’s mouth went dry.
+
+Livia saw that too. Her expression softened by a degree. “What did you substitute?”
+
+The request was quiet. The circle leaned toward it.
+
+Mara could have answered with the kitchen, the cloth, the living rise under her hands. She wanted Livia to know she had not made herself empty. She wanted Jonah to know it too.
+
+“Another state,” Mara said.
+
+Hurt crossed Livia’s face without lowering her chin. She sat back on her heels.
+
+Adrian studied the other fellows rather than Mara. Three were watching Livia. Two were looking at Jonah’s hand around Mara’s wrist. Ethan had opened his father’s email at last.
+
+“A deviation,” Adrian said. “Potentially a useful one.”
+
+No one applauded.
+
+Jonah loosened his hand. Before his thumb lifted, it gave one small pressure against Mara’s pulse.
+
+This one did not correspond to anything on the tablet. The trace stayed level. Mara had not changed her breath or posture. She looked at him.
+
+His attention was already on the sensor band, brows drawn as though the hardware had said something rude. Interested, certainly. Innocent, not demonstrably.
+
+Mara withdrew her arm.
+
+The room broke apart unevenly. Adrian called two fellows over to review the traces. Livia stood and reclaimed the bakery box from the center table.
+
+“We have neglected the control condition,” she said.
+
+She peeled back the tape. Honey and cardamom entered the room without asking permission. Several people turned before Livia lifted the lid.
+
+“Eighteen,” she said.
+
+“Seventeen and a half,” Mara corrected.
+
+Livia chose one from the center and bit into it. Her eyes closed. The gesture was neither private nor entirely performed.
+
+“The orange-peel faction was right,” she said.
+
+“They usually are. They have equipment.”
+
+Adrian came to stand beside Mara, holding a small brass key on a cedar tag. “The guest room is available if you’d prefer to decide in the morning. This key is for the fellows’ house.”
+
+He offered both possibilities in one hand.
+
+Mara looked past him. Livia was tearing buns in half and distributing them according to an order only she knew. Jonah had returned to the opened sensor puck. He turned the screwdriver once, stopped, and glanced toward Mara’s wrist. At the side console, the calibration trace remained visible: one pale mark for each pressure event, one red line for her pulse.
+
+The final pale mark sat alone. No peak beneath it. No observer note beside it.
+
+“The fellows’ house,” Mara said.
+
+Adrian placed the cedar tag in her palm.
+
+Mara set her suitcase beside the bench and took the bakery box from Livia before it could become hers entirely.
+
+“Napkins,” Mara said. “If you’re going to eat church food, we have rubrics.”
+
+The circle obeyed badly. Honey stuck to fingers and a crumb fell into the sensor cradle. Livia laughed with her mouth full. Jonah came over for the last half of a bun but did not explain the unmatched mark.
+
+Neither did Mara.
+
+## Story B
+
+# The Calibration Game
+
+The suitcase made a competent sound on the paved road and a humiliating one on gravel.
+
+Mara dragged it up the last twenty yards to Fulcrum while the wheels bucked and complained behind her. Sunset had caught in the upper branches of the redwoods, too high to warm the ground. At eye level there were trunks, fern beds, dark glass, and people who had already learned where to stand.
+
+The bakery box rode on her forearm. Twenty-four cardamom buns, less one surrendered to quality control in the church parking lot. The box had acquired a thumbprint of icing near the string. She kept turning that side toward her skirt.
+
+A man in shirtsleeves came down from the cedar deck to meet her. Mara knew Adrian Voss from conference streams: the deliberate pauses, the useful cheekbones, the habit of making a question sound like a promotion.
+
+“You found us.”
+
+“The driver found you. I supplied morale.”
+
+His glance touched the box. “May I?”
+
+She handed it over. Adrian received it with both hands, as though she had brought a minor relic. Her suitcase remained in the gravel.
+
+“Cardamom,” he said. “Already an intervention.”
+
+“They’re buns.”
+
+“You’ll cure us of metaphor by the end of the term.”
+
+He turned toward the pavilion. Mara hoisted the suitcase after him.
+
+The building was lower than it had looked in photographs. Most of its expense lay in absences: no visible vents, no cords, no hard transitions between the cedar floor and the glass. A dozen fellows occupied the main room in loose groups. Two people shared the couch nearest the hearth; four others had arranged themselves around them without appearing to. A thin man stood to refill the seated woman’s water while continuing his own sentence.
+
+Along the far wall, beneath a rack of sensor modules, someone had opened the back of a silver terminal and left its green boards exposed. The man working there held a screwdriver between his teeth.
+
+Adrian carried the buns into the center of the room.
+
+“Our missing variable,” he said.
+
+Faces turned. Mara’s free hand found the handle of her suitcase and stayed there.
+
+“Mara Vale. Distributed control, infrastructure security, and an inconvenient interest in what our models do to the people inside them.” Adrian looked at her as if he had discovered the last quality himself. “She has agreed to let us court her for a place in the cohort.”
+
+That was more accurate than the welcome packet had been.
+
+A woman at a side console entered something on a tablet. DR. MIRIAM HOLT, said the badge clipped to her jacket. Underneath, in smaller letters: COHORT OBSERVER. She did not look up again.
+
+“Do we get the pastry before or after the courtship?” asked a woman by the hearth.
+
+She uncrossed her legs and stood. Mara had expected Livia Sloane to be beautiful. She had not expected the beauty to be so mobile. Amusement changed her face completely; attention changed it back. Her dress was dark green and plain enough to make every other green thing in the room look badly chosen.
+
+Adrian surrendered the box. Livia loosened the string, lifted the lid, and breathed in.
+
+“You browned the butter.”
+
+“A woman named Celia browned the butter. I transported it under adverse conditions.”
+
+“And took one.” Livia touched the empty patch in the sugar where the missing bun had rested.
+
+Mara looked down at the icing print on the box.
+
+Livia laughed. It was a quick, delighted sound, and Mara wished she had caused it on purpose.
+
+“Later,” Adrian said, rescuing the buns from immediate distribution. “We’re halfway through an exercise.”
+
+“Then she should see the good part.” Livia took the box to a side table and selected a place for it among three untouched carafes. She moved another tray six inches so the bakery box stood alone.
+
+The man at the open terminal had removed the screwdriver from his mouth. He met Mara’s eyes, then glanced at her suitcase.
+
+“It’s a rigorous hospitality protocol,” he said. “Adrian carries the carbohydrates. Guests retain all structural loads.”
+
+“I was told the program valued resilience.”
+
+“Mostly in other people.”
+
+“Jonah,” Adrian said.
+
+Jonah lowered his head over the terminal, smiling at something inside it.
+
+Adrian invited Mara into the circle and described the calibration game. The premise had survived several pages of institutional language to become simple in his mouth: people communicated before they spoke; groups built decisions out of those signals; anyone serious about alignment should learn to see the traffic.
+
+“The body has terrible information security,” Livia said.
+
+“A hostile implementation environment,” Jonah said from the wall.
+
+“Only when you’re ashamed of the payload.”
+
+His hands stopped for half a second over the circuit board. Livia’s gaze had already moved on.
+
+Adrian passed a bowl around the circle. Each person drew a folded strip of paper and, without opening it, handed it to somebody else. The woman on the couch received one and tucked it under her watchband. The man beside her slipped his into his shoe.
+
+“Every person here now knows one fact another person does not,” Adrian said. “Within five minutes, the room will begin organizing around those facts anyway. Someone will protect a pocket. Someone will check a cuff. Someone will avoid the person most likely to guess. Calibration starts before content.”
+
+Mara’s paper rested beneath the bakery box where Adrian had placed it. No one had given it to her. She watched the bowl complete the circle without comment.
+
+Livia noticed her noticing.
+
+She chose a fellow named Elias, who had spent the welcome pretending to read a paper on his tablet. Livia asked him to stand. She did not circle him or demand his eyes. She leaned against the arm of the couch and watched him explain that the paper concerned a scheduling problem.
+
+“Your scheduling problem has called three times,” she said.
+
+Elias glanced at the tablet.
+
+“You’ve declined all three because if you answer, your brother will ask whether you sent the money. You did send it. You’re angry he made you necessary again, and much angrier that necessity feels good.”
+
+The room held still.
+
+Elias pressed the tablet to his thigh. “He texted too.”
+
+Livia’s expression softened. “You can call him outside. No one here needs the fourth demonstration.”
+
+He went. The door closed behind him with a hush.
+
+Mara had noticed the three rejected calls reflected in the glass. She had noticed the banking app beneath the paper when Elias changed screens. She had not found the anger, or the pleasure hidden inside it.
+
+Livia turned to her.
+
+“Your turn.”
+
+“I’ve only just arrived.”
+
+“Yes. You haven’t had time to improve the evidence.”
+
+There was warmth in the room’s laughter. Mara could have joined it. She heard the answer she had prepared in the car—something about observation needing consent and context—and felt it arrange itself neatly behind her teeth.
+
+Livia watched the arrangement happen.
+
+“You planned for us to condescend to you,” she said. “You know how to survive that. You did not plan for us to be impressed.”
+
+Mara’s grip tightened on the suitcase handle.
+
+“Because admiration would make the wanting visible. The work, the place, us. You want enough to have frightened yourself.”
+
+The prepared answer vanished. Mara could feel her pulse in the icing thumbprint she had rubbed tacky against her skirt.
+
+Livia stepped closer, stopping well outside reach. “There. That’s the one.”
+
+“Career ambition,” Mara said. “A rare condition among residential fellows.”
+
+“Career ambition is wanting the place on your résumé.” Livia’s eyes dropped briefly to Mara’s mouth. “You want to know whether we’re as real as you hoped.”
+
+“And if you are?”
+
+“Then you’ll have to become more interesting than your objections.”
+
+Mara smiled despite herself. “That sounds expensive.”
+
+“Everything worth acquiring is.”
+
+She looked pleased, but not solely with herself. The pleasure included Mara, which made refusing it harder.
+
+“Jonah,” Livia said. “Tell her what you see.”
+
+At the wall, the silver terminal had finished booting. A grid of live traces filled its display. Jonah set the panel he had removed beside the keyboard.
+
+“No.”
+
+Livia raised one eyebrow. “No data?”
+
+“No performance.”
+
+“You’ve never objected to performing when the reviews were flattering.”
+
+“My growth has been extraordinary.”
+
+Several people laughed. Adrian did not. Jonah returned to the terminal, and the laugh ended without anyone deciding to end it.
+
+Mara’s breathing loosened. She disliked owing him for that.
+
+Adrian checked the time. “Let’s put claims against a channel.”
+
+Low chairs were drawn to either side of a narrow table. Jonah connected a sensor lead to the silver terminal. He did it quickly enough to reveal long practice.
+
+“Mara, if you’re willing, Jonah will facilitate. You’ll receive a private prompt. Livia will report what she observes in the pair.” Adrian showed Mara a small tablet with a privacy hood. “We record breath, pulse, pressure, and room audio. The raw stream remains sealed during the cohort’s first month.”
+
+“Sealed from whom?” Mara asked.
+
+“Participants.”
+
+“Comforting use of the passive voice.”
+
+Livia grinned. “Keep her.”
+
+Adrian’s smile returned. “That remains her decision.”
+
+Mara sat. Jonah took the chair opposite and adjusted the pressure sensor between them. Up close, he appeared less effortless. A nick crossed one knuckle, and a red half-moon marked his palm where his thumbnail had pressed.
+
+He fastened a narrow conductive band around his own forearm, then rejected the first one and reached for another. The discarded band had a hairline split near its clasp.
+
+“Does that affect the reading?” Mara asked.
+
+“It affects the warranty.”
+
+“The reading?”
+
+“Possibly.”
+
+“Reassuring.”
+
+“I can lie more confidently if it helps.”
+
+At the hearth, Livia made a soft sound of impatience. Jonah’s mouth tilted, but he reseated both contacts and enabled recording before Adrian finished speaking.
+
+“The contact is wrist only,” he said. “My hand around yours. May I?”
+
+The question was ordinary. In the listening room it altered the air.
+
+Mara set her forearm on the table. “Yes.”
+
+His fingers closed around her wrist.
+
+He smelled faintly of unscented soap and the resin used on solder joints. Someone shifted near the hearth; ice settled in a glass. Jonah’s thumb rested over her artery, wide enough that each beat seemed to meet him before it reached the rest of her.
+
+The pulse trace on the terminal climbed. Livia glanced at it and then, more interested, at Mara’s face.
+
+The hooded tablet lit.
+
+HOLD: ARRIVAL.
+
+Mara thought of the gravel releasing the suitcase wheels onto the cedar deck. She thought of the moment before the pavilion door opened, when she still possessed every possible account of the people inside. Her wrist warmed under Jonah’s hand.
+
+His thumb began a small motion: up the edge of her pulse, across, back. The arc repeated. Mara could have leaned toward it. The desire arrived as a practical suggestion—reduce the distance, improve the contact, find out how his breathing changed when hers did.
+
+She kept her shoulders where they were.
+
+Livia moved behind Jonah. “The prompt concerns a threshold,” she said. “Chosen, not imposed.”
+
+Jonah’s thumb completed the arc. Livia’s chin dipped at the same point.
+
+“She’s holding arrival. The instant after the journey, before anyone tells her what the destination means.”
+
+The word under the hood stayed bright.
+
+Adrian exhaled through his nose. Around the table, attention gathered so sharply that Mara could locate each person by the absence of sound.
+
+“Near enough?” Livia asked her.
+
+“Near.”
+
+“Cruel woman.” Livia seemed delighted.
+
+“What did you use?” Mara asked.
+
+“Your breathing changed when the prompt appeared.”
+
+“It would change for any prompt.”
+
+“Your weight moved forward. Your eyes went to the door and returned to the room. Your wrist softened against Jonah’s hand.”
+
+“That gives you approach.”
+
+“Your suitcase is still beside the circle.” Livia pointed with her chin. “If the target were departure, you would have looked at it.”
+
+The reasoning was clean. It did not account for the word, but it reduced the distance between chance and miracle.
+
+“And the rest?” Mara asked.
+
+Livia’s glance moved to Jonah’s hand. “The rest arrived.”
+
+His thumb began the arc again, slower this time. Mara felt each millimeter of it. She wondered whether Livia’s answer had changed the touch or merely made the existing motion impossible to ignore.
+
+The prompt disappeared. A second appeared.
+
+REPEAT: ARRIVAL.
+
+Jonah could see only her face; the hood concealed the words. Mara let one breath pass. *Jesus, keep me honest.* The prayer did not settle her pulse. It made it harder to pretend she wanted only the method.
+
+She rebuilt the same instant: gravel releasing the wheels, cedar underfoot, the unopened door. Then she reversed the evidence Livia had named. She allowed her upper back to settle against the chair. She shortened her exhale. She turned her left knee three inches toward the room’s exit and let her eyes rest on the dark seam between two floorboards. Her hand remained loose inside Jonah’s.
+
+His thumb started another arc and stopped halfway.
+
+Livia’s chin did not move.
+
+Mara waited. The wanting remained—work, place, Livia’s quick pleasure, Jonah’s palm around her wrist. Her body now offered the room a different story.
+
+“She dropped it,” Livia said.
+
+No one answered.
+
+Livia came to the side of the table. “The arrival is gone. She’s testing departure now. Not escape. A controlled withdrawal so she can call it discernment.”
+
+The private word still read ARRIVAL.
+
+Jonah looked at Mara. His hand did not tighten. His attention felt less soothing now that she had found a possible use for it.
+
+“Are you leaving the content unchanged?” Adrian asked.
+
+Mara lifted the hood so he could see the screen.
+
+Two people rose from their chairs. Miriam remained at the side console, writing.
+
+Livia read the prompt. A flush moved across her cheekbones and disappeared. “Again.”
+
+It was not an apology. It sounded hungry.
+
+“The pressure trace changed,” Jonah said.
+
+Every face turned toward him.
+
+Livia’s gaze sharpened. “Because you changed it.”
+
+“Maybe.”
+
+“Did you?” Mara asked.
+
+He looked down at his thumb, still resting above her pulse. “I stopped a movement.”
+
+“Why were you making it?”
+
+The terminal fan rose. Jonah glanced toward the live traces, and Mara saw that he knew where each one entered the machine.
+
+“Baseline regulation,” he said.
+
+Livia gave a quiet laugh without amusement. “Of course.”
+
+Mara could not tell whether the arc had calmed her, informed Livia, contaminated the trial, or accomplished all three. The room waited for her to choose an accusation.
+
+She did not.
+
+“The channel is testable,” she said. “That’s enough for tonight.”
+
+Adrian studied the others rather than her. Some looked disappointed; two looked newly alert. “A deviation,” he said. “A useful one. We preserve the run.”
+
+“And repeat it,” Livia said.
+
+“After we specify the control.”
+
+“She specified it.”
+
+“She improvised it.” Adrian’s tone remained cordial. Miriam wrote IMPROVISED CONTROL beneath the Fulcrum header. “Tomorrow we determine what she actually changed.”
+
+Livia looked at Mara. “You know what you changed.”
+
+Mara looked through the hood at the fading word. “Some of it.”
+
+That answer pleased Livia more than certainty would have.
+
+Jonah removed his hand. Cool air reached the damp place beneath his thumb. He capped the sensor and returned to the terminal before Mara could decide whether she wanted him to remain seated.
+
+Livia had gone to the side table. She stood over the bakery box with one hand on the lid when the silver terminal chimed once.
+
+Mara rose. On the pressure trace, a pale mark had appeared two seconds to the right of Miriam’s END CONTACT tick. Jonah leaned toward the screen. The cuff lay open on the table between the empty chairs.
+
+Livia saw the mark reflected in the glass and turned. The lid slipped from her fingers and struck the box. Her eyes widened as she looked from the screen to Mara’s empty left hand.
+
+“Did you touch the cuff?” Livia asked.
+
+“No.”
+
+Miriam checked her paper log. “Cuff off before the mark.”
+
+“Sensor rebound,” Jonah said.
+
+“Possible,” Miriam said.
+
+A second later Livia’s social ease returned, slightly misbuttoned. “I was hoping Mara had another one hidden.” She opened the bakery box. “Apparently the system is having a blood-sugar event.”
+
+She took a bun and tore it in half. One piece she kept. The other she held toward Mara.
+
+Mara accepted it.
+
+Adrian came beside them with a tablet. The fellowship agreement waited on the screen, her name at the top and two choices at the bottom. ACCEPT PLACE. DEFER.
+
+“You can sleep on it,” he said.
+
+“In housing I don’t yet have?”
+
+“We enjoy a manageable paradox.”
+
+Mara ate the offered half. The cardamom had bloomed during the drive. Across the room, Jonah was replaying the pressure trace. He enlarged one segment, checked who was watching, and closed it.
+
+Livia saw him do it. She bit into her half of the bun and smiled at Mara with her mouth closed.
+
+Mara touched ACCEPT PLACE.
+
+The tablet chimed. Adrian handed her a room credential and finally reached for the suitcase.
+
+“Absolutely not,” Mara said. “You’ve carried your allotted weight.”
+
+She pulled the bakery box into the center of the table and lifted the lid all the way. Chairs moved. Someone fetched plates. Livia claimed the second bun before the first had made it around the room.
+
+“Tomorrow,” Livia said, peeling a strip of browned sugar from the paper, “you do it again without the prompt telling you to be clever.”
+
+“Tomorrow you show me the stream.”
+
+“First month is sealed.”
+
+“Then ask me again in a month.”
+
+Livia ate the sugar and considered her. “You bargain very hard for someone who arrived bearing tribute.”
+
+“You ate the evidence.”
+
+“I preserve what matters.”
+
+At the side console, Miriam turned a page in her notes.
+
+Jonah stayed at the terminal, one hand braced beside the darkened trace. When Mara looked over, he tapped two fingers once against the metal case and stopped.
+
+She could not tell whether it was an answer.
+
+## Story C
+
+Mara arrived at Fulcrum with one suitcase, twelve cardamom buns, and no useful way to carry both up a gravel path.
+
+The suitcase kept clipping her ankle. The bakery box required two hands whenever the path tilted. By the third switchback she had developed a method—kick, catch, lift, apologize to the buns—that would have embarrassed her mother and delighted the women who had packed the box after church.
+
+At the top of the hill, glass doors stood open on a room full of people who had mastered luggage by not having any.
+
+“Mara Vale.”
+
+Adrian Voss waited on the terrace in rolled sleeves and spotless shoes. His photograph had made him look severe. In person he had the restful face of a man whose delays occurred to other people.
+
+Mara shifted the box onto one hip. “I brought something that wasn’t synthesized.”
+
+“Perfect.” Adrian relieved her of the buns. The suitcase remained where it was. “We’ve been discussing the value of unmanufactured signals.”
+
+“They’re mostly butter.”
+
+“Even better.”
+
+He carried her offering through the doors as though she had brought a missing piece of apparatus. Mara followed, bumping her suitcase over the threshold.
+
+The room arranged itself around a circular fire sunk into the concrete floor. Four people occupied the broad cushions nearest it, shoes off, legs extended. At the edge, three others sat upright with tablets on their knees. A man at a workbench had a silver sensor open beneath a magnifying lamp. He kept one hand inside its plastic case while he watched Adrian cross the room.
+
+Nobody had assigned the seats. Nobody needed to.
+
+Adrian put the bakery box on the central table. Several faces turned toward it, then toward Mara. A woman in a green dress reached for the ribbon and stopped one finger short.
+
+“Is there a liturgy?” she asked.
+
+Mara recognized Livia Sloane from the fellowship interviews. On video Livia’s attention had been flattering because it arrived through a screen. Here it had temperature. Her eyes moved once over Mara’s damp hair, scraped suitcase, empty ring finger, and the bakery label taped crookedly over an older label for communion wafers.
+
+“You wait until the person who brought them offers,” Mara said.
+
+Livia’s finger curled back. “Excellent. I almost failed the first test.”
+
+She smiled as if failure might be something she collected. Mara liked her immediately and resented the speed of it.
+
+Adrian brought her to the empty cushion between Livia and the workbench. The man with the sensor slid a screw into a magnetic dish. Up close, his hands were broad and nicked across the knuckles. He wore a faded black shirt among acres of linen.
+
+“Jonah Reed,” Adrian said. “Hardware and systems security. Jonah, this is Mara.”
+
+“I heard the suitcase.” Jonah fitted the sensor’s casing together. “Strong opening argument.”
+
+“Against wheels that size.”
+
+“Against optimism.”
+
+Livia opened the bakery box at last. Warm cardamom escaped into the room. She inhaled, closed her eyes, and chose the largest bun without consulting anyone.
+
+“I waited,” she said.
+
+“You did.”
+
+“Please note my growth.”
+
+At the side console, a short-haired woman wearing an OBSERVER badge wrote something on a paper log. Livia leaned around Mara.
+
+“Miriam, you’re not actually noting my bun compliance.”
+
+Miriam did not look up. “No.”
+
+“Her cruelty keeps us rigorous,” Livia told Mara.
+
+Miriam capped her pen. “Welcome to cohort seven.”
+
+The attention around the fire loosened by a degree. Someone tore a bun in half. Jonah took none. He set the repaired sensor beside Miriam’s console, signed a line on her log, and returned to the edge of the circle.
+
+Adrian remained standing. “Alignment begins before agreement. We say one thing, our breathing says another, and a hand resting on a table submits a third report. Most conflict lives in the lag between those reports.”
+
+“That sounds useful,” Mara said, “and terrible for poker.”
+
+“Livia has funded three retreats with poker.”
+
+“Two,” Livia said through cardamom. “The third was baccarat, and correlation is not causation.”
+
+Adrian’s laugh cued the room’s. The people nearest the fire laughed first.
+
+He asked Livia for a baseline demonstration. She wiped sugar from her thumb and turned toward a fellow named Silas. He agreed too quickly, which Mara filed alongside the lifted heel of his left foot.
+
+Livia studied him for perhaps five seconds.
+
+“You sent your father an email today,” she said. “You removed the paragraph that explained why you were angry. Now you’re afraid the shorter version made you crueler.”
+
+Silas’s glass clicked against his tooth.
+
+The group became still enough for the fire to sound mechanical. Mara saw the pieces after Livia named them: the phone facedown by Silas’s knee, the mail icon burned faintly into its screen, the thumb worrying the glass, the effort in his jaw. None of that supplied a father. None supplied a deleted paragraph.
+
+Livia looked pleased, though not surprised. Silas looked grateful and robbed.
+
+“Or,” Jonah said from the workbench, “he forgot the attachment.”
+
+Silas laughed with too much relief. So did Mara.
+
+Livia pointed her half-eaten bun at Jonah. “Alternative hypotheses are not personality.”
+
+“I keep submitting the paperwork.”
+
+“Then give us a read of Mara.”
+
+The remaining laughter disappeared. Mara had a sharp awareness of butter cooling on her fingertips.
+
+Jonah glanced at Adrian. The founder neither rescued nor insisted. That was another form of insistence.
+
+“No,” Jonah said.
+
+Livia tilted her head. “You haven’t looked at her?”
+
+“I’ve looked.”
+
+“Then tell us what you saw.”
+
+“Ask her.”
+
+He returned to the sensor, though it was already closed. Livia’s face held interest before annoyance reached it. Adrian watched Jonah for one beat longer than anyone else did.
+
+Mara could have thanked him. Gratitude would have made his refusal hers, a little alliance formed without her consent. She licked sugar from her thumb instead.
+
+Livia saw that too. Her smile came back crooked.
+
+“You want me to be wrong,” she told Mara.
+
+“I don’t know you well enough to want that.”
+
+“You want me to be excellent and still wrong about you.”
+
+That landed. Mara’s first answer—something about falsifiability—rose cleanly and found no exit.
+
+Livia leaned back on one palm. “You worked very hard to arrive with nothing accidental. One suitcase. Food from the people who formed you. No jewelry anyone can mistake for a promise. You want this place to discover that discipline made you unusual.” Her gaze dropped to Mara’s hands. “And you’re afraid we’ll discover it only made you tidy.”
+
+Heat reached Mara’s face. The impulse to explain her ring finger was so strong she nearly obeyed it. Livia had made six observations, built one elegant trespass, and found a locked door by rattling every handle.
+
+She had also found it.
+
+“How long have you been practicing?” Mara asked.
+
+Livia’s expression warmed. Mara had answered the compliment beneath the theft.
+
+“Long enough to know when somebody asks for the method instead of comfort.” She looked at Adrian. “Let her try the wrist protocol.”
+
+“Before that,” Mara said. “Silas.”
+
+He looked up from his glass.
+
+“Phone facedown, mail icon on the screen, left heel ready to leave. The glass gave you the physical constriction after you named it. Where did his father come from?”
+
+Livia sat straighter. Around the fire, people who had begun reaching for second buns left their hands in the box.
+
+“His mother texts,” Livia said. “His father sends mail with subject lines that sound like committee reports. Silas checks those on a laptop. He checked his phone when I said father because he wanted to know whether I’d seen the message.”
+
+“So prior knowledge.”
+
+“Context.”
+
+“A larger cue channel.”
+
+“You say that as if widening the channel is cheating.”
+
+“I say it as if the width belongs in the result.”
+
+Silas lifted his glass in Mara’s direction. “For the record, the subject line was ‘Follow-up regarding our prior exchange.’”
+
+“That man needs prayer,” Jonah said.
+
+Silas laughed. Livia did too, although she kept her eyes on Mara.
+
+“The paragraph?” Mara asked.
+
+“His draft was twice as long when he opened it this morning.”
+
+“You saw the screen.”
+
+“Its reflection.” Livia pointed toward the dark window behind Silas. “For six seconds. The deleted section is inference. His father is observation. His stomach is feedback after the claim.”
+
+She offered the distinctions without embarrassment. That was more compelling than any insistence on magic would have been. Mara could feel the group listening for her verdict, which irritated her into honesty.
+
+“That’s extremely good,” she said.
+
+“Thank you.”
+
+“You still presented the inference with the confidence of the observation.”
+
+“Confidence is how an observation gets enough time to become useful.”
+
+“Or too expensive to question.”
+
+Livia tore a strip from the bun in her hand and held it out. She kept hold of one end until Mara tugged. They smiled at each other over the torn bread.
+
+“Now,” Livia said, “you may audit my expenses.”
+
+Miriam drew a small monitor from beneath the console and clipped two leads to a fabric cuff. Adrian explained the exercise while she worked. One partner held an image or bodily intention. The other received through light contact at the wrist. Pulse and pressure would appear on the monitor; the stream would be recorded for later cohort review.
+
+“Which role?” Jonah asked Mara under Adrian’s explanation. “Signal or receiver?”
+
+He offered the question quietly, with no effort to make quietness attractive.
+
+“Receiver first.”
+
+“Brave.”
+
+“Less chance you’ll accuse me of optimism.”
+
+The chairs faced each other close enough that Mara had to decide where to put her knees. Jonah solved it by angling one leg aside. The accommodation made her more conscious of the remaining distance.
+
+Miriam fastened the cuff around Jonah’s forearm, then placed his left hand palm-up between them.
+
+“Wrist to wrist,” Adrian said. “Receiver’s fingers above the pulse. Jonah, choose a contained image. Don’t help her.”
+
+Mara laid two fingers against Jonah’s skin.
+
+He was warmer than she expected. Beneath her fingertips, his pulse pushed with calm authority; farther up, a tendon shifted when he adjusted his hand. She smelled solder on his cuff and cardamom on her own skin. The room’s conversation had vanished, leaving the soft fan of Miriam’s monitor and the small wet sound of Livia finishing the last bite of her bun.
+
+Mara closed her eyes.
+
+At first there was only the embarrassment of touching a man while twelve people watched her detect meaning in it. She let embarrassment be a sensation instead of a verdict. Jonah’s breathing shortened. The muscle beneath her middle finger held, released, and held again. His pulse did not hurry. Something in his forearm did.
+
+She pictured resistance because the muscle resisted. A door came next, heavy and badly hung. The image might have been supplied by Adrian’s language or by the entrance behind Jonah. Fatigue arrived with it: the exhaustion of holding a thing shut after forgetting why it needed holding.
+
+Mara opened her eyes. Jonah was watching her mouth.
+
+“You picked a door,” she said.
+
+His gaze moved to hers.
+
+“You’re holding it closed. You’re tired of the handle.”
+
+The line on Miriam’s monitor jumped. Jonah’s easy expression failed, then returned without the ease.
+
+Livia made a delighted sound. “There she is.”
+
+The circle leaned toward them. Jonah’s hand changed under Mara’s fingers. The private accuracy had become a result.
+
+“Was she right?” Adrian asked.
+
+Jonah looked at Mara. A joke gathered in one corner of his mouth. He could have made the door into a server cabinet or a bathroom emergency and restored the room’s preferred temperature.
+
+“Close enough,” he said.
+
+It cost him the laugh. Mara wanted him more for declining it, which made her distrust the wanting.
+
+They switched roles. Miriam moved the cuff to Mara’s arm. A green trace found her pulse on the monitor. Jonah held out his hand, then stopped before contact.
+
+“May I?”
+
+Mara nodded.
+
+His fingers closed around her wrist. His thumb rested just below the cuff. The contact carried less surface than hers had and far more information: the dry pad of his thumb, a shallow nick near his forefinger, the exact pressure required to keep her from mistaking steadiness for possession.
+
+Livia came to stand beside Miriam’s monitor.
+
+“Your target,” Adrian told Mara, “is the sensation of a bolt sliding into a door.”
+
+Mara formed the brass weight of it, the scrape before the bolt seated. Her pulse climbed on the screen. Jonah’s thumb moved in a small arc below it.
+
+Livia nodded.
+
+Mara watched the movement repeat. Pulse spike, thumb arc, Livia’s fractional nod. Jonah’s face held concentration; whether he knew what his hand was reporting was another question.
+
+“Pressure rising,” Livia said. “Containment. There’s pleasure in the containment, which she dislikes me noticing.”
+
+The room laughed softly. The pleasure was real. So was Mara’s irritation. Jonah’s thumb made the arc again, and her attention collapsed onto the place it touched. She wanted to lean forward. She wanted to learn how his mouth changed when he stopped managing it.
+
+Jesus, she thought, with neither eloquence nor alarm.
+
+The prayer did not remove the desire. It returned the rest of the room.
+
+Miriam’s screen showed pulse, not meaning. Livia watched both screen and hand. Jonah watched Mara. Adrian watched the watchers.
+
+Mara kept the bolt in mind. She drew one deeper breath, dropped her shoulders, and let the pleasure remain where it was instead of arranging her body around it. Then she increased the contact, turning her wrist until more of it rested in Jonah’s palm.
+
+His breath caught. His thumb stopped.
+
+The bolt scraped home in Mara’s imagination.
+
+“She’s withdrawing,” Livia said. “No—she’s making the signal harder. There’s a wall now.”
+
+Mara held Jonah’s gaze. He searched for the rhythm under his hand and found her pulse calm enough to be unhelpful.
+
+“Jonah?” Adrian prompted.
+
+His fingers tightened once. Desire moved visibly through his face before he put it away.
+
+“It didn’t click,” he said. “It went quiet.”
+
+Livia’s eyes flicked to him, then back to Mara. “Because she blocked the channel.”
+
+Mara could have explained the breath, the shoulder drop, the altered surface area. Livia’s error tasted bright. For perhaps half a minute, she enjoyed it without qualification.
+
+Adrian stepped closer to Miriam’s monitor. “Mark the deviation at the pressure interruption.”
+
+Miriam wrote the time. Her pen did not speed up for anyone’s discomfort.
+
+“You changed something,” Livia said.
+
+Mara eased her wrist from Jonah’s hand. Cool air found the damp place beneath his thumb.
+
+“Several things.”
+
+“That isn’t the same as receiving.”
+
+“No. It’s a control.”
+
+Livia stared at her, anger and appetite arriving together. Then her attention shifted to Mara’s left shoulder.
+
+“You kept the door,” she said. “Blue paint. Opens inward.”
+
+The card had contained no color. Adrian had supplied only the bolt. Yet the door Mara had pictured was the blue side entrance of her childhood church, opening inward against a swollen frame.
+
+Her shoulder moved before she could stop it.
+
+Livia laughed, low and pleased. “There you are again.”
+
+Mara looked at the monitor, at Jonah’s hand, at Miriam’s precise time mark. Livia might have seen her glance toward the blue dusk in the windows. She might know the common architecture of churches. She might have followed a cue Mara had not found. None of those explanations required magic. None had yet earned dismissal.
+
+“The channel can be tested,” Mara said.
+
+“I know.” Livia’s hurt was brief and clean. “I was hoping you’d ask me to help.”
+
+Adrian picked up Miriam’s log. “Tomorrow, we repeat with masked observers and randomized targets.”
+
+“Tomorrow?” Mara asked.
+
+“If you’re staying.”
+
+Her suitcase waited beside the door, one wheel turned sideways. Jonah had returned to the workbench. He did not look at her until Adrian looked away. Then he touched two fingers to the inside of his own wrist, once, and let his hand fall.
+
+Recognition, or warning. She could not tell which. His repaired sensor sat beside Miriam’s log with his signature beneath it.
+
+Mara went to the central table and opened the bakery box all the way.
+
+“Before anyone schedules my autonomic nervous system,” she said, “we should eat. I brought something.”
+
+Livia was first to reach in. This time she waited until Mara nodded.
+
+Adrian gave Miriam a room key to add to the log. Miriam slid it across the table. Mara took it with cardamom on her fingers.
+
+Jonah chose the smallest bun and leaned against the workbench to eat it. Livia stole a piece from his without asking. He objected too late. The room broke into three conversations, and Mara’s failed suitcase stood among their shoes.
+
+Outside, the redwoods had gone black against the remaining sky. Inside, the pulse trace continued to glow on Miriam’s monitor until she closed the file and wrote Mara’s name on the label.

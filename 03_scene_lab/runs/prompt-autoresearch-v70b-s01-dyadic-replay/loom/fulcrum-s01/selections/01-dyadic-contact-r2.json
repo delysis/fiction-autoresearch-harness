@@ -1,0 +1,16 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "dyadic-contact",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r2.0.1562001",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 2,
+  "selected": [],
+  "selection_seed": 1372112,
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,263 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+  "defects": [],
+  "eligible": true,
+  "evidence_projection_source": "initial_response",
+  "evidence_repairs": [
+    {
+      "axis": "narrative_force",
+      "exact_replacement": "a data point to be analyzed for resistance",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 0.9655,
+      "unsupported_quote": "is a data point to be analyzed for resistance"
+    }
+  ],
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "or the first time in her life, she knew exactly how to leave—and that knowledge made her finally brave enough to remain."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3407
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": true,
+      "romantic_future": true
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6382
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 138
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 641
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 1613
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 6461
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 6937
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 9840
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 11946
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 14079
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 16882
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "raw_organic",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": true,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1-evidence-projection",
+  "label_order": [
+    "X718"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "the way she leaned against the frame created a psychological"
+    ],
+    "epistemic_texture": [
+      "a tremor was just a tremor, that adrenaline was not"
+    ],
+    "heat_with_agency": [
+      "both of us would still be glad if the kiss"
+    ],
+    "instructional_fidelity": [
+      "remembered the three-second beat. She remembered the sensation of the"
+    ],
+    "narrative_force": [
+      "a data point to be analyzed for resistance"
+    ],
+    "prose_and_voice": [
+      "clinical, ozone-scented air of the pavilion to the sharp, pine-heavy"
+    ],
+    "theological_coherence": [
+      "desire that was allowed to exist without being consumed"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "competence_and_restraint": {
+      "evidence": "He became a statue, his muscles coiled but still",
+      "note": "Jonah's immediate cessation of the kiss demonstrates a restraint that validates Mara's agency.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "found a boundary that didn't feel like a wall",
+      "note": "The kiss and subsequent stop transform Mara's fear of being 'captured' into a sense of brave autonomy.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "granting her the absolute sovereignty of the moment",
+      "note": "Jonah's restraint costs him immediate gratification but creates a foundation of trust and respect.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "you may kiss me only when both of us would",
+      "note": "Exactly matches the required 'doorway rule' and non-consummation result.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "you may kiss me only when both of us would",
+      "note": "Moves from mutual observation to an explicit, negotiated boundary of intimacy.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "I'm preserving the exit,\" she replied",
+      "note": "The scene moves from high tension to a chosen limit, creating a forward-driving question of how they will navigate this rule.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of cardamom and redwoods clinging to her skin",
+      "note": "Uses ozone/peppermint, cold air/pine, and cardamom/redwoods to anchor the transition.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "epistemic_texture": {
+      "raw_0_100": 85.0,
+      "weight": 10.0,
+      "weighted_points": 8.5
+    },
+    "heat_with_agency": {
+      "raw_0_100": 98.0,
+      "weight": 15.0,
+      "weighted_points": 14.7
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "narrative_force": {
+      "raw_0_100": 92.0,
+      "weight": 20.0,
+      "weighted_points": 18.4
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 95.0,
+      "weight": 10.0,
+      "weighted_points": 9.5
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 14.25,
+    "epistemic_texture": 8.5,
+    "heat_with_agency": 14.7,
+    "instructional_fidelity": 13.5,
+    "narrative_force": 18.4,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.5
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X718 is an exceptional execution of the scene spec. It masterfully interlocks the institutional danger of Livia's 'alignment' with the romantic tension between Mara and Jonah. The 'three-second beat' and 'one clean question' are not merely mentioned but are the causal engines of the scene's climax. The transition from the clinical pressure of the pavilion to the sensory-rich intimacy of the walk home is seamless. Most importantly, the 'doorway rule' is established not as a prudish restriction, but as a sophisticated craft of attention and consent that increases the erotic charge by preserving agency.",
+  "total_score": 92.05
+}

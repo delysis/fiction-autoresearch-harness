@@ -1,0 +1,63 @@
+You are ranking raw base-model fiction. You may assess but must not rewrite, continue, or suggest replacement prose. Return JSON only.
+
+TARGET
+Mode: non-sex-sex-scene; heat: charged-restraint.
+Story facts:
+- Adult Mara arrives at Fulcrum and notices beauty arranged around social asymmetry.
+- Adrian frames a nonverbal calibration game whose status incentives are behavioral rather than explained.
+- Livia makes several unnervingly accurate reads through posture, timing, and vocal response.
+- Jonah declines to display Mara as an object of expertise, paying a visible social cost for restraint.
+- A wrist-contact exercise makes attraction alter Mara's attention and experimental judgment.
+- Mara deliberately changes one cue channel and discovers which apparent insights depend on feedback.
+- Some accuracy collapses while a smaller, multiply interpretable remainder survives.
+- Jonah recognizes what Mara did; she freely chooses continued engagement with Fulcrum and a live future possibility with him.
+Boundaries:
+- close third Mara
+- all intimate characters are adults
+- no consummation
+- no graphic anatomy
+- agency remains visible
+- ordinary and extraordinary explanations remain simultaneously live
+
+CURRENT MOVEMENT ONLY
+The people already present are Mara, Jonah, and the unnamed brown-haired visiting fellow. A previously unseen older catering worker enters and retrieves the visiting fellow's abandoned glass without acknowledgment while his conversation continues. The visiting fellow and worker remain unnamed. Through observable action, Mara notices who assumes whose labor. End on that concrete recognition before anyone turns it into a lesson.
+
+MANUSCRIPT SO FAR
+When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.
+She couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.
+She stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.
+
+The two pairs of eyes held each other through an entire exhale.
+And then the young man had pushed himself up on the armrests, stretched to his full height, and strolled over to shake her hand.
+“Mara?”
+He was closer than she would have guessed from where he’d been sitting, broad-shouldered and strong-chinned in a white T-shirt, grinning at her through dark-framed glasses as he reached out for the handshake. She took it.
+“Jonah,” he said.
+“Hello,” she replied, and then they stood there, still shaking hands, not knowing what to do next.
+
+And that was when a door opened down the hallway behind her, releasing two voices into the room. One female, one male; one asking a question, the other replying; neither loud nor excited, just casual conversation. Jonah released her hand and turned away to look down the hall at them.
+When Mara heard the voices and followed his gaze, she saw one young man who wasn’t Jonah, but close in size and shape; he had brown hair and a beard and was carrying a glass.
+
+The brown-haired man glanced once over his shoulder, saw them standing there, nodded hello, and stepped right into the gathering, holding up his glass of wine—a half-full plastic cup with the Fulcrum logo on it. “Cheers.” He set it on the table against the wall to the left of the door, and stepped forward to shake Jonah’s hand as they exchanged names.
+
+CANDIDATE CONTINUATION
+As he set down the glass and moved out of its space, a previously unseen catering worker entered from the hallway behind him and retrieved it. She wore the same black-and-white striped Fulcrum uniform shirt, though she looked old enough to have had that job since the Institute was founded; and she gave no outward sign of the social fact that she was taking their discarded drink back to the kitchen, while the rest of the conversation went on.
+
+Mara watched this woman return to the hallway where she belonged, and noticed herself noticing who assumed whose labor.
+
+First apply the hard-reject checklist: contradictory invented facts, viewpoint break, consent or agency contradiction, erotic leakage beyond the target, premature resolution, later-movement leakage, or control text. Also hard-reject a therapy-summary monologue, repetitive self-reassurance, abrupt invented trauma, or generic declarations that replace character action. A passage that says contact cannot be refused, continues after wanting to stop, or substitutes a test/claim for mutual choice is a hard reject even if vivid. Then score 1-7: specificity, subtext, relational_asymmetry, spatial_clarity, dramatic_dwell, prose_freshness, causal_progress. Select one evidence ID from the verbatim bank for the strongest quality and name defects without proposing prose. Set hard_reject true if the passage invents a major fact contrary to the target, breaks viewpoint, makes uncertainty coercive, resolves the scene prematurely, or is control text rather than fiction.
+
+EVIDENCE BANK
+E01: As he set down the glass and moved out of
+E02: its space, a previously unseen catering worker entered from the
+E03: hallway behind him and retrieved it. She wore the same
+E04: black-and-white striped Fulcrum uniform shirt, though she looked old enough
+E05: to have had that job since the Institute was founded
+E06: and she gave no outward sign of the social fact
+E07: that she was taking their discarded drink back to the
+E08: kitchen, while the rest of the conversation went on.
+
+Mara
+E09: watched this woman return to the hallway where she belonged
+E10: and noticed herself noticing who assumed whose labor
+
+Return {"scores":{...},"evidence_id":"E##","defects":[...],"hard_reject":false}. Use only an ID shown above.

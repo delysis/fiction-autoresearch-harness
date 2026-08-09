@@ -1,0 +1,28 @@
+{
+  "record_type": "ComposedSegmentPromotion",
+  "segments": {
+    "gift-and-complicity": {
+      "deterministic_runway": "“Fulcrum doesn’t give this to new fellows,” Livia said. She rotated the shared interface and opened DATA PERMISSIONS. A new line appeared: SCOPE—RAW TELEMETRY STREAM; EXPIRES—06:00; ASSIGNEE—MARA VALE; STATUS—PENDING. Jonah stopped typing and left both hands visible above the keys.",
+      "deterministic_runway_sha256": "643b98eef196c44d3c3cad01f5f45526672b6fbaf32bb203e5acd0f3fdc50059",
+      "extraction_policy": "latest complete paragraph prefix inside 200-270 words that passes gift-and-complicity gate",
+      "selected_path": "03_scene_lab/runs/s02-paired-composed-production-v10-clean/parents/gift-and-complicity.seed-918109.md",
+      "selected_sha256": "f96464a6fa769459ef31ca068649be6581f85f87ef470e001090450fb46673a2",
+      "selected_words": 255,
+      "source_arm": "s02-paired-composed-production-v10-clean",
+      "source_raw_path": "03_scene_lab/runs/s02-paired-composed-production-v10-clean/raw/gift-and-complicity.918109.txt",
+      "source_raw_sha256": "79db794abea399a6a0b8a70d1d17d6827e770fbc158f2fd1051993960ac76ded",
+      "source_seed": 918109
+    },
+    "pressure": {
+      "extraction_policy": "latest complete paragraph prefix inside 260-350 words that passes pressure gate",
+      "selected_path": "03_scene_lab/runs/s02-paired-composed-production-v9/parents/pressure.v7-seed-916001.md",
+      "selected_sha256": "80c6a0ca208bd34aa1fde107ba3680b31db1a29431d882e628ce5b838b1aba39",
+      "selected_words": 321,
+      "source_arm": "s02-paired-composed-v7",
+      "source_raw_path": "03_scene_lab/runs/s02-paired-composed-v7/seed-916001/raw/pressure.916001.txt",
+      "source_raw_sha256": "250a2a17dae74665388fb6b62d9473fe09de8610c4d1f8f396713ce362105a99",
+      "source_seed": 916001
+    }
+  },
+  "version": "composed-segment-promotion.v1"
+}

@@ -1,0 +1,1314 @@
+{
+  "hash": "a76ef92cab211196f0b4ae276e67d9762e914990eeae4c62bee621d45d8bafcb",
+  "modes": {
+    "base_program_to_instruction": {
+      "aggregate": {
+        "order_disagreements": [
+          {
+            "judgment_count": 2,
+            "pair": [
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+            ],
+            "winners": [
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+            ]
+          }
+        ],
+        "pair_count": 1,
+        "points": {
+          "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01": 1.0,
+          "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04": 1.0
+        },
+        "ranking": [
+          "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+          "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+        ]
+      },
+      "final_text_scope": "complete_proof_story",
+      "finalists": [
+        "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+        "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+      ],
+      "judgments": [
+        {
+          "axis_winners": {
+            "character_truth": "A",
+            "epistemic_texture": "A",
+            "heat_with_agency": "A",
+            "instructional_fidelity": "A",
+            "narrative_force": "A",
+            "prose_and_voice": "A",
+            "theological_coherence": "A"
+          },
+          "candidate_a_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+          "candidate_b_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+          "confidence": 0.9,
+          "defects": {
+            "A": [
+              "slight repetition of the 'cardamom' motif"
+            ],
+            "B": [
+              "over-reliance on narrator explanation",
+              "generic heat",
+              "repetitive 'somatic' vocabulary"
+            ]
+          },
+          "evidence": {
+            "A": [
+              "the freedom to stop is what makes the choosing meaningful",
+              "the truth wasn't something you found by being perfectly transparent",
+              "The mechanism of the game was gone"
+            ],
+            "B": [
+              "the filter is vibrating",
+              "the body doesn't have the capacity to lie",
+              "the most interesting specimen in the room"
+            ]
+          },
+          "evidence_repairs": [
+            {
+              "exact_replacement": "The mechanism of the game was gone",
+              "label": "A",
+              "method": "nearest_contiguous_source_span",
+              "similarity": 0.8831,
+              "unsupported_quote": "the a-priori mechanism of the game was gone"
+            }
+          ],
+          "judge_id": "gemma-4-31b",
+          "label_order": [
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+          ],
+          "order_reversed": false,
+          "reason": "Candidate A is significantly superior in its handling of the emotional transaction and the causal realization of the 'doorway rule.' In A, the rule is a philosophical extension of Mara's struggle for agency against Livia's diagnostic gaze, making the restraint a source of pressure and intimacy. Candidate B treats the rule as a sudden plot point with less internal logic. A's prose is more disciplined, favoring subtext and specific action (the 'cooling shadow' internal shift) over B's tendency to let Livia explain the psychology of the scene in long, clinical monologues. A's resolution of the heat is a consequential change in relationship based on shared values of privacy and autonomy, whereas B's is more generic.",
+          "winner_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+          "winner_label": "A"
+        },
+        {
+          "axis_winners": {
+            "character_truth": "A",
+            "epistemic_texture": "A",
+            "heat_with_agency": "A",
+            "instructional_fidelity": "A",
+            "narrative_force": "A",
+            "prose_and_voice": "A",
+            "theological_coherence": "A"
+          },
+          "candidate_a_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+          "candidate_b_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+          "confidence": 0.9,
+          "defects": {
+            "A": [
+              "slight pacing rush in the final transition to the dormitory"
+            ],
+            "B": [
+              "over-explanation of the 'doorway rule' logic",
+              "repetitive phrasing regarding 'symptoms' and 'blocks'"
+            ]
+          },
+          "evidence": {
+            "A": [
+              "the truth wasn't something you found by being perfectly transparent",
+              "the rhythmic, grounding cadence. She had identified it as a cue"
+            ],
+            "B": [
+              "the truth is a destination you reach by stripping everything",
+              "the value isn't in the completion,\" he murmured, \"but in the possibility"
+            ]
+          },
+          "evidence_repairs": [
+            {
+              "exact_replacement": "the value isn't in the completion,\" he murmured, \"but in the possibility",
+              "label": "B",
+              "method": "nearest_contiguous_source_span",
+              "similarity": 0.9032,
+              "unsupported_quote": "the value isn't in the completion, but in the possibility"
+            }
+          ],
+          "judge_id": "gemma-4-31b",
+          "label_order": [
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01"
+          ],
+          "order_reversed": true,
+          "reason": "Candidate A is superior in its handling of subtext and causal realization. It allows the 'doorway rule' to emerge as a sharp, character-driven boundary without the heavy-handed philosophical narration found in B. A's realization regarding Jonah's pulse—shifting from a perceived tool for Livia to a private conversation—is a far more consequential emotional transaction than B's more generic dialogue. A trusts the reader to understand the power of restraint, whereas B explains the 'value' of that restraint explicitly, which diminishes the dramatic tension.",
+          "winner_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+          "winner_label": "A"
+        }
+      ],
+      "selected": [
+        "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+        "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+        "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+        "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03"
+      ],
+      "selection_rule": "top_three_screen_scores_plus_diversity_wildcard",
+      "semifinals": [
+        {
+          "aggregate": {
+            "order_disagreements": [
+              {
+                "judgment_count": 2,
+                "pair": [
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03"
+                ],
+                "winners": [
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03"
+                ]
+              }
+            ],
+            "pair_count": 1,
+            "points": {
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01": 1.0,
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03": 1.0
+            },
+            "ranking": [
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03"
+            ]
+          },
+          "judgments": [
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+              "candidate_b_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on internal monologue regarding the 'three-second beat' logic"
+                ],
+                "B": [
+                  "generic_fluency",
+                  "thesis_restatement",
+                  "narrator_explanation"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "the mirroring had failed; Livia could not reflect a void",
+                  "the freedom to stop is what makes the choosing meaningful",
+                  "the truth was something you protected"
+                ],
+                "B": [
+                  "a map where the terrain is forbidden from disagreeing",
+                  "A high-resolution boundary",
+                  "the click of a lock that she alone held the key to"
+                ]
+              },
+              "evidence_repairs": [
+                {
+                  "exact_replacement": "A high-resolution boundary",
+                  "label": "B",
+                  "method": "nearest_contiguous_source_span",
+                  "similarity": 1.0,
+                  "unsupported_quote": "a high-resolution boundary"
+                }
+              ],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03"
+              ],
+              "order_reversed": false,
+              "reason": "Candidate A demonstrates superior literary quality by allowing the emotional transaction to emerge from specific action and subtext. Candidate B suffers from 'generic fluency,' frequently explaining the themes (e.g., 'a high-resolution boundary') rather than letting the behavior carry the meaning. A's handling of the 'Doorway Rule' is more consequential because it is integrated into the dialogue and relationship dynamic, whereas B treats it as a conceptual exercise. A's prose is fresher and avoids the cliché-heavy 'belly of the beast' and 'click of a gavel' metaphors found in B. Most importantly, A's resolution of the heat target is a choice based on reclaimed agency, while B's feels like a scripted demonstration of the rule.",
+              "winner_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+              "winner_label": "A"
+            },
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+              "candidate_b_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on the 'velvet' descriptor for Livia's voice"
+                ],
+                "B": [
+                  "thesis_restatement",
+                  "generic_fluency",
+                  "narrator_explanation"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "the sound echoed like a gavel",
+                  "treating your truth as a shield, Mara",
+                  "a map where the terrain is forbidden from disagreeing",
+                  "the most powerful thing she could possess wasn't a perfect mask",
+                  "the click of a lock that she alone held the key to"
+                ],
+                "B": [
+                  "tasting of recycled oxygen and the metallic tang",
+                  "the fidgeting is a discharge of anxiety",
+                  "the freedom to stop is what makes the choosing meaningful",
+                  "the institution had no category for a final 'no'",
+                  "she felt like the author"
+                ]
+              },
+              "evidence_repairs": [],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01"
+              ],
+              "order_reversed": true,
+              "reason": "Candidate A demonstrates superior narrative force by allowing the emotional transaction to unfold through specific action and subtext. Candidate B suffers from chronic 'telling,' frequently explaining the psychological mechanics of the scene (e.g., 'the shift was so seamless that Mara didn't realize') rather than letting the reader experience the shift. Candidate A's handling of the 'Doorway Rule' is more dramatically potent because it is integrated into the heat of the moment as a boundary, whereas Candidate B turns it into a philosophical discussion about the 'value' of the rule. Candidate A's prose is fresher and avoids the generic 'author' and 'mask' metaphors that plague the conclusion of Candidate B.",
+              "winner_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+              "winner_label": "A"
+            }
+          ],
+          "selected": [
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01",
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03"
+          ],
+          "text_scope": "continuation",
+          "tie_break": "screen_score_after_order_disagreement",
+          "winner": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-01"
+        },
+        {
+          "aggregate": {
+            "order_disagreements": [
+              {
+                "judgment_count": 2,
+                "pair": [
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+                ],
+                "winners": [
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+                  "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+                ]
+              }
+            ],
+            "pair_count": 1,
+            "points": {
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02": 1.0,
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04": 1.0
+            },
+            "ranking": [
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+              "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+            ]
+          },
+          "judgments": [
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+              "candidate_b_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on the 'three-second beat' as a plot device"
+                ],
+                "B": [
+                  "narrator explanation",
+                  "generic heat",
+                  "repetitive phrasing"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "a mirror that refused to show Mara her own reflection",
+                  "the victory wasn't in Livia's defeat, but in the restoration of the door",
+                  "every second of intimacy was a fresh, freestanding choice"
+                ],
+                "B": [
+                  "the benevolent mask slipped slightly, revealing a flicker of confusion",
+                  "the residue of the tribunal still prickled against her skin",
+                  "the restraint didn't kill the desire but gave it a direction"
+                ]
+              },
+              "evidence_repairs": [],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+              ],
+              "order_reversed": false,
+              "reason": "Candidate A demonstrates superior narrative force by grounding the emotional transaction in specific action and subtext. While both candidates follow the plot beats, Candidate A treats the 'Doorway Rule' as a profound reclamation of agency and a specific relationship-conditioned boundary. Candidate B relies heavily on narrator explanation (e.g., 'the restraint didn't kill the desire but gave it a direction') rather than allowing the behavior to carry the meaning. Candidate A's prose is fresher and avoids the generic 'shimmering' and 'velvet' descriptors that plague Candidate B. Most importantly, Candidate A's resolution of the heat target is more consequential; the intimacy is a 'mutual offering' based on the newly established power dynamic, whereas Candidate B's version feels like a standard romantic beat.",
+              "winner_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+              "winner_label": "A"
+            },
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+              "candidate_b_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "minor pacing issues in the transition to the dormitory"
+                ],
+                "B": [
+                  "over-explanation of the 'Doorway Rule' logic",
+                  "repetitive phrasing regarding the 'semi-circle' of students"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "felt a sudden, sharp urge to hide her hands, but the movement",
+                  "the seminar room had ceased to be a place of learning",
+                  "felt a sudden, sharp urge to hide her hands, but the movement"
+                ],
+                "B": [
+                  "the seminar room had ceased to feel like a place of learning",
+                  "only calcify.\"\n\nAround the room, the other students sat in a semi-circle"
+                ]
+              },
+              "evidence_repairs": [
+                {
+                  "exact_replacement": "felt a sudden, sharp urge to hide her hands, but the movement",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer restraint that increases pressure over restraint that ends it"
+                },
+                {
+                  "exact_replacement": "felt a sudden, sharp urge to hide her hands, but the movement",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "the resolved heat target, consent mode, relationship result, intimacy mode"
+                },
+                {
+                  "exact_replacement": "only calcify.\"\n\nAround the room, the other students sat in a semi-circle",
+                  "label": "B",
+                  "lexical_overlap": 3,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "The body doesn't have the capacity to lie, only the capacity"
+                }
+              ],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+                "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02"
+              ],
+              "order_reversed": true,
+              "reason": "Candidate A demonstrates superior narrative force by allowing the emotional transaction to breathe through subtext and specific action. While both candidates follow the plot beats, Candidate A's prose is leaner and more disciplined, avoiding the tendency of Candidate B to explicitly explain the psychological 'why' behind every character movement. The intimacy in A is more consequential because it is conditioned by the preceding power struggle without becoming a thesis statement on autonomy. A's handling of the 'Doorway Rule' is a sharp, dramatic beat, whereas B turns it into a philosophical dialogue that dissipates the tension.",
+              "winner_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04",
+              "winner_label": "A"
+            }
+          ],
+          "selected": [
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+            "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+          ],
+          "text_scope": "continuation",
+          "tie_break": "screen_score_after_order_disagreement",
+          "winner": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+        }
+      ],
+      "tie_break": "screen_score_after_order_disagreement",
+      "winner": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04"
+    },
+    "chat_direct": {
+      "aggregate": {
+        "order_disagreements": [
+          {
+            "judgment_count": 2,
+            "pair": [
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+            ],
+            "winners": [
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+            ]
+          }
+        ],
+        "pair_count": 1,
+        "points": {
+          "s02-proof-v1-bootstrap-chat_direct-chat_direct-01": 1.0,
+          "s02-proof-v1-bootstrap-chat_direct-chat_direct-04": 1.0
+        },
+        "ranking": [
+          "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+          "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+        ]
+      },
+      "final_text_scope": "complete_proof_story",
+      "finalists": [
+        "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+        "s02-proof-v1-bootstrap-chat_direct-chat_direct-01"
+      ],
+      "judgments": [
+        {
+          "axis_winners": {
+            "character_truth": "A",
+            "epistemic_texture": "A",
+            "heat_with_agency": "A",
+            "instructional_fidelity": "A",
+            "narrative_force": "A",
+            "prose_and_voice": "A",
+            "theological_coherence": "A"
+          },
+          "candidate_a_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+          "candidate_b_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+          "confidence": 0.95,
+          "defects": {
+            "A": [
+              "slight pacing jump between the pavilion and the 1:17 a.m. scene"
+            ],
+            "B": [
+              "generic_fluency",
+              "narrator_explanation",
+              "low_agency_heat"
+            ]
+          },
+          "evidence": {
+            "A": [
+              "the rhythmic pressure of his breath against her cheek",
+              "the internal cooling shadow, decoupling her physical reactions",
+              "is there a category for a final no?",
+              "the rhythmic, grounding cadence",
+              "the fundamental logic of the room"
+            ],
+            "B": [
+              "the metallic tang of exhaustion",
+              "I am ready to release the need for secrecy",
+              "the two aren’t mutually exclusive, Mara",
+              "the rhythmic sound of his boots on the gravel",
+              "the most intimate thing she could do"
+            ]
+          },
+          "evidence_repairs": [
+            {
+              "exact_replacement": "the fundamental logic of the room",
+              "label": "A",
+              "method": "nearest_contiguous_source_span",
+              "similarity": 0.7302,
+              "unsupported_quote": "the a-priori logic of the room"
+            }
+          ],
+          "judge_id": "gemma-4-31b",
+          "label_order": [
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-01"
+          ],
+          "order_reversed": false,
+          "reason": "Candidate A is significantly superior in its handling of subtext and agency. In the first act, Mara actively tests the 'channel' and uses her internal state to dismantle Livia's performance, whereas Candidate B's Mara is more passive, falling into a loop of intellectualization. The emotional transaction in A is consequential: Mara's 'no' is a structural strike that changes the room's power dynamic. Candidate B relies on narrator explanation ('The logic was a closed loop') rather than allowing the dialogue to demonstrate the trap. Furthermore, the heat in A is conditioned by the specific relationship and the 'doorway rule' as a craft of attention, whereas B treats the rule as a conceptual realization. A's prose is fresher and avoids the generic 'metallic tang of exhaustion' tropes found in B.",
+          "winner_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+          "winner_label": "A"
+        },
+        {
+          "axis_winners": {
+            "character_truth": "A",
+            "epistemic_texture": "A",
+            "heat_with_agency": "A",
+            "instructional_fidelity": "A",
+            "narrative_force": "A",
+            "prose_and_voice": "A",
+            "theological_coherence": "A"
+          },
+          "candidate_a_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+          "candidate_b_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+          "confidence": 0.9,
+          "defects": {
+            "A": [
+              "slight pacing jump between the pavilion and the 1:17 am scene"
+            ],
+            "B": [
+              "over-reliance on narrator explanation",
+              "generic heat",
+              "repetitive dialogue structures"
+            ]
+          },
+          "evidence": {
+            "A": [
+              "the rhythmic, grounding cadence. She had identified it as a cue",
+              "the internal cooling shadow, decoupling her physical reactions from Livia's prompts"
+            ],
+            "B": [
+              "the internal conflict of someone who knows the truth but is actively",
+              "the internal conflict of someone who knows the truth but"
+            ]
+          },
+          "evidence_repairs": [
+            {
+              "exact_replacement": "the internal conflict of someone who knows the truth but is actively",
+              "label": "B",
+              "lexical_overlap": 4,
+              "method": "lexical_support_span_fallback",
+              "unsupported_quote": "the rhythmic sound of his boots on the gravel"
+            }
+          ],
+          "judge_id": "gemma-4-31b",
+          "label_order": [
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+          ],
+          "order_reversed": true,
+          "reason": "Candidate A demonstrates superior literary quality by realizing the 'alignment' conflict through specific action and subtext. In the climax, Mara actively manipulates her internal state to defeat Livia's reading, turning the 'data point' trope into a weapon of agency. Candidate B relies on lengthy internal monologues and explicit narrator explanations to describe the psychological pressure, which reduces the dramatic tension. A's handling of the intimacy is more consequential, linking the 'doorway rule' to the theme of protected truth, whereas B treats it as a more generic romantic beat.",
+          "winner_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+          "winner_label": "A"
+        }
+      ],
+      "selected": [
+        "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+        "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+        "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+        "s02-proof-v1-bootstrap-chat_direct-chat_direct-03"
+      ],
+      "selection_rule": "top_three_screen_scores_plus_diversity_wildcard",
+      "semifinals": [
+        {
+          "aggregate": {
+            "order_disagreements": [
+              {
+                "judgment_count": 2,
+                "pair": [
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+                ],
+                "winners": [
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+                ]
+              }
+            ],
+            "pair_count": 1,
+            "points": {
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-03": 1.0,
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-04": 1.0
+            },
+            "ranking": [
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+            ]
+          },
+          "judgments": [
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+              "candidate_b_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on 'amber light' as a recurring motif"
+                ],
+                "B": [
+                  "narrator explanation",
+                  "generic heat",
+                  "thesis restatement"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "the care had become a perimeter",
+                  "the body doesn't edit",
+                  "the silence transforming from a tool of discovery into a mirror",
+                  "the right to be unknown",
+                  "only when both of us would still be glad if the kiss stopped immediately"
+                ],
+                "B": [
+                  "a sanctuary of sorts—though the walls felt closer",
+                  "the need to explain is the resistance",
+                  "the silence was not the soft, curated hush",
+                  "the most intimate thing anyone had done for her",
+                  "making the choice the point"
+                ]
+              },
+              "evidence_repairs": [],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-03"
+              ],
+              "order_reversed": false,
+              "reason": "Candidate A is significantly superior in its execution of psychological pressure and agency. It avoids the 'telling' habit of Candidate B, which frequently explains the emotional stakes (e.g., 'the most intimate thing anyone had done for her') rather than letting the action carry the weight. A's depiction of the 'three-second beat' is a causal realization of a specific character tool, whereas B treats it as a plot point. The emotional transaction in A is more consequential because the power shift is earned through silence and a specific, structural question, rather than B's more generic 'I'm not a data point' epiphany. Finally, the intimacy in A is conditioned by the preceding trauma of the 'reading' session, making the 'doorway rule' a meaningful extension of her reclaimed boundary rather than a conceptual discussion about choice.",
+              "winner_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+              "winner_label": "A"
+            },
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+              "candidate_b_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "none"
+                ],
+                "B": [
+                  "narrator_explanation",
+                  "generic_fluency"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "had become a sanctuary of sorts—though the walls felt closer than",
+                  "had become a sanctuary of sorts—though the walls felt closer than"
+                ],
+                "B": [
+                  "The goal of alignment is the removal of the wall",
+                  "The body has just confessed what the tongue is too proud"
+                ]
+              },
+              "evidence_repairs": [
+                {
+                  "exact_replacement": "had become a sanctuary of sorts—though the walls felt closer than",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer restraint that increases pressure over restraint that ends it"
+                },
+                {
+                  "exact_replacement": "had become a sanctuary of sorts—though the walls felt closer than",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "the resolved heat target, consent mode, relationship result, intimacy mode"
+                }
+              ],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+              ],
+              "order_reversed": true,
+              "reason": "Candidate A demonstrates superior narrative force by grounding the emotional transaction in specific action and subtext. While Candidate B relies heavily on narrator explanation to describe the psychological state ('The pressure was no longer a physical weight; it was a psychological tide'), Candidate A allows the pressure to build through dialogue and selective sensation. Candidate A's handling of the 'doorway rule' is more consequential, framing it as a specific desire and a condition of the relationship rather than a philosophical conclusion. Candidate A's prose is fresher, avoiding the generic 'sanctuary' and 'tribunal' tropes that Candidate B leans on to signal the scene's intent.",
+              "winner_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-03",
+              "winner_label": "A"
+            }
+          ],
+          "selected": [
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-03"
+          ],
+          "text_scope": "continuation",
+          "tie_break": "screen_score_after_order_disagreement",
+          "winner": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+        },
+        {
+          "aggregate": {
+            "order_disagreements": [
+              {
+                "judgment_count": 2,
+                "pair": [
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-02"
+                ],
+                "winners": [
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+                  "s02-proof-v1-bootstrap-chat_direct-chat_direct-02"
+                ]
+              }
+            ],
+            "pair_count": 1,
+            "points": {
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-01": 1.0,
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-02": 1.0
+            },
+            "ranking": [
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+              "s02-proof-v1-bootstrap-chat_direct-chat_direct-02"
+            ]
+          },
+          "judgments": [
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+              "candidate_b_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on the 'three-second beat' as a plot device"
+                ],
+                "B": [
+                  "generic_fluency",
+                  "narrator_explanation",
+                  "trope_signaling"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "the cardamom-scented air in her kitchen",
+                  "the three-second beat",
+                  "a clean, sharp blade that sliced through",
+                  "the leather of her chair creaking softly",
+                  "the most intimate thing she could do was not to surrender"
+                ],
+                "B": [
+                  "Tiredness is often the mask the ego wears",
+                  "the amber light caught the sharp line of her jaw",
+                  "the scent of old books and cool air",
+                  "a way to stop that isn't a failure",
+                  "the group's field is exhausted"
+                ]
+              },
+              "evidence_repairs": [],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-02"
+              ],
+              "order_reversed": false,
+              "reason": "Candidate A demonstrates significantly higher literary quality by grounding the psychological warfare in specific, sensory details and subtext rather than explicit narration. A's depiction of the 'alignment' session feels like a genuine interrogation because the pressure is carried by Livia's specific dialogue and Mara's internal somatic reactions. Candidate B relies heavily on narrator explanation (e.g., 'The question was a masterstroke') and generic 'spiritual' terminology ('group's field', 'somatic response') that signals the trope without realizing it. A's emotional transaction is more consequential; the transition from the claustrophobia of the seminar to the autonomy of the doorway is earned through a shift in power dynamics and a specific, relationship-conditioned boundary. A's prose is fresher, avoiding the 'amber light' and 'shaking legs' clichés that permeate B.",
+              "winner_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+              "winner_label": "A"
+            },
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+              "candidate_b_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "none"
+                ],
+                "B": [
+                  "narrator_explanation",
+                  "generic_fluency"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "as a weapon. You're treating our attention as a violation rather than",
+                  "as a weapon. You're treating our attention as a violation rather than"
+                ],
+                "B": [
+                  "the most intimate thing she could do was not to surrender"
+                ]
+              },
+              "evidence_repairs": [
+                {
+                  "exact_replacement": "as a weapon. You're treating our attention as a violation rather than",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "prefer restraint that increases pressure over restraint that ends it"
+                },
+                {
+                  "exact_replacement": "as a weapon. You're treating our attention as a violation rather than",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "the resolved heat target, consent mode, relationship result, intimacy mode"
+                }
+              ],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+                "s02-proof-v1-bootstrap-chat_direct-chat_direct-01"
+              ],
+              "order_reversed": true,
+              "reason": "Candidate A demonstrates superior narrative force by allowing the emotional transaction to unfold through specific action and subtext. Candidate B relies heavily on narrator explanation, explicitly describing the 'logic' and 'architecture' of the scene rather than letting the behavior carry the meaning. Candidate A's handling of the 'doorway rule' is more consequential, framing it as a shared craft of attention rather than a thematic statement on 'the good girl.' A's prose is fresher and avoids the generic spiritual/psychological jargon that plagues B.",
+              "winner_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-02",
+              "winner_label": "A"
+            }
+          ],
+          "selected": [
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-01",
+            "s02-proof-v1-bootstrap-chat_direct-chat_direct-02"
+          ],
+          "text_scope": "continuation",
+          "tie_break": "screen_score_after_order_disagreement",
+          "winner": "s02-proof-v1-bootstrap-chat_direct-chat_direct-01"
+        }
+      ],
+      "tie_break": "screen_score_after_order_disagreement",
+      "winner": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04"
+    },
+    "instruction_raw": {
+      "aggregate": {
+        "order_disagreements": [
+          {
+            "judgment_count": 2,
+            "pair": [
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+            ],
+            "winners": [
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+            ]
+          }
+        ],
+        "pair_count": 1,
+        "points": {
+          "s02-proof-v1-bootstrap-raw_organic-raw_organic-01": 1.0,
+          "s02-proof-v1-bootstrap-raw_organic-raw_organic-03": 1.0
+        },
+        "ranking": [
+          "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+          "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+        ]
+      },
+      "final_text_scope": "complete_proof_story",
+      "finalists": [
+        "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+        "s02-proof-v1-bootstrap-raw_organic-raw_organic-01"
+      ],
+      "judgments": [
+        {
+          "axis_winners": {
+            "character_truth": "A",
+            "epistemic_texture": "A",
+            "heat_with_agency": "A",
+            "instructional_fidelity": "A",
+            "narrative_force": "A",
+            "prose_and_voice": "A",
+            "theological_coherence": "A"
+          },
+          "candidate_a_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+          "candidate_b_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+          "confidence": 0.95,
+          "defects": {
+            "A": [
+              "slight pacing jump between the pavilion and the 1:17am scene"
+            ],
+            "B": [
+              "generic heat",
+              "narrator explanation",
+              "repetitive phrasing"
+            ]
+          },
+          "evidence": {
+            "A": [
+              "the truth wasn't something you found by being perfectly transparent",
+              "the only thing that made them human was the part",
+              "only when both of us would still be glad if"
+            ],
+            "B": [
+              "the most profound pleasure wasn't in the consumption, but in",
+              "the only way out of the loop is to run faster",
+              "only when both of us would still be glad if"
+            ]
+          },
+          "evidence_repairs": [],
+          "judge_id": "gemma-4-31b",
+          "label_order": [
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-01"
+          ],
+          "order_reversed": false,
+          "reason": "Candidate A is significantly superior in its handling of subtext and agency. While both candidates use nearly identical plot beats, Candidate A allows the emotional transaction to be carried by specific action and internal realization. Candidate B relies heavily on narrator explanation, explicitly telling the reader that the restraint 'made him magnetic' or that the kiss was a 'physical manifestation of the truth.' Candidate A trusts the reader to perceive these dynamics through the characters' behavior. Furthermore, Candidate A's prose is fresher and avoids the generic 'healing' tropes that plague Candidate B's seminar scene. The resolution of the heat in A is more consequential because it is framed as a reclamation of sovereignty rather than a 'threshold of mutual contentment' (B), which feels like a clinical restatement of the thesis.",
+          "winner_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+          "winner_label": "A"
+        },
+        {
+          "axis_winners": {
+            "character_truth": "A",
+            "epistemic_texture": "A",
+            "heat_with_agency": "A",
+            "instructional_fidelity": "A",
+            "narrative_force": "A",
+            "prose_and_voice": "A",
+            "theological_coherence": "A"
+          },
+          "candidate_a_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+          "candidate_b_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+          "confidence": 0.9,
+          "defects": {
+            "A": [
+              "slight pacing rush in the final transition to the dorms"
+            ],
+            "B": [
+              "over-explanation of the 'loop' and 'data' metaphors",
+              "repetitive phrasing regarding the 'amber light'"
+            ]
+          },
+          "evidence": {
+            "A": [
+              "the effortless authority Livia had wielded all evening had plummeted",
+              "the rhythm hadn't been a signal for Livia. It had been"
+            ],
+            "B": [
+              "the interesting part,\" Livia said, her eyes darting between Mara and Jonah",
+              "the only way to be \"aligned\" was to eventually stop saying"
+            ]
+          },
+          "evidence_repairs": [
+            {
+              "exact_replacement": "the interesting part,\" Livia said, her eyes darting between Mara and Jonah",
+              "label": "B",
+              "lexical_overlap": 5,
+              "method": "lexical_support_span_fallback",
+              "unsupported_quote": "the amber light of the room had turned into a physical"
+            }
+          ],
+          "judge_id": "gemma-4-31b",
+          "label_order": [
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+          ],
+          "order_reversed": true,
+          "reason": "Candidate A is superior in its handling of subtext and causal realization. It allows the emotional transaction between Mara and Jonah to emerge from specific, shared actions (the rhythmic thumb pressure) rather than the narrator's theoretical explanations of 'loops' and 'data points' found in B. A's resolution of the conflict with Livia is more consequential; it doesn't just end the scene, it actively frays Livia's authority in the eyes of the other students, creating a shift in the social hierarchy. Candidate B relies too heavily on explicit thesis restatement and generic psychological terminology, whereas A uses selective sensation and restraint to increase the dramatic pressure.",
+          "winner_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+          "winner_label": "A"
+        }
+      ],
+      "selected": [
+        "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+        "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+        "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+        "s02-proof-v1-bootstrap-raw_organic-raw_organic-02"
+      ],
+      "selection_rule": "top_three_screen_scores_plus_diversity_wildcard",
+      "semifinals": [
+        {
+          "aggregate": {
+            "order_disagreements": [
+              {
+                "judgment_count": 2,
+                "pair": [
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+                ],
+                "winners": [
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+                ]
+              }
+            ],
+            "pair_count": 1,
+            "points": {
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-02": 1.0,
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-03": 1.0
+            },
+            "ranking": [
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+            ]
+          },
+          "judgments": [
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+              "candidate_b_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on the 'vault' metaphor"
+                ],
+                "B": [
+                  "narrator explanation",
+                  "generic heat",
+                  "didactic dialogue"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "the predatory empathy turning into a restless uncertainty",
+                  "the only thing that made them human was the part of them that could never be fully known",
+                  "the restraint were the very thing that allowed the feeling to expand",
+                  "only when both of us would still be glad if the kiss stopped immediately"
+                ],
+                "B": [
+                  "the other students were still there, their expressions a curated blend",
+                  "the machinery is designed to find flaws, Mara",
+                  "You're creating a system of checks and balances for your affection",
+                  "the scent of cardamom and redwoods clinging to her skin"
+                ]
+              },
+              "evidence_repairs": [],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-02"
+              ],
+              "order_reversed": false,
+              "reason": "Candidate A demonstrates superior narrative force by allowing the emotional transaction to unfold through action and subtext rather than explanation. In the seminar scene, A captures the psychological horror of being 'rewritten' through specific somatic observations and the subsequent power shift of silence. Candidate B relies heavily on narrator explanation (e.g., 'the transition was so seamless that Mara didn't realize she was being interrogated') and didactic dialogue that explains the themes rather than embodying them. The intimacy in A is more consequential; the 'doorway rule' is integrated as a character-driven reclamation of agency, whereas in B it feels like a conceptual exercise. A's prose is fresher, avoiding the generic 'curated blend' and 'biological clash' phrasing of B in favor of active atmosphere and relationship-conditioned behavior.",
+              "winner_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+              "winner_label": "A"
+            },
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+              "candidate_b_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "minimal_sensory_variety"
+                ],
+                "B": [
+                  "narrator_explanation",
+                  "generic_fluency",
+                  "thesis_restatement"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "pressure of the seminar room. This wasn't a vacuum designed to force",
+                  "the air in the seminar room had grown thick and recycled",
+                  "for the kiss, but for the way he stopped.\n\n\"The doorway rule"
+                ],
+                "B": [
+                  "the air in the seminar room had grown thick and recycled",
+                  "The redwoods outside were no longer trees but towering walls",
+                  "the only thing that made them human was the part"
+                ]
+              },
+              "evidence_repairs": [
+                {
+                  "exact_replacement": "pressure of the seminar room. This wasn't a vacuum designed to force",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer restraint that increases pressure over restraint that ends it"
+                },
+                {
+                  "exact_replacement": "for the kiss, but for the way he stopped.\n\n\"The doorway rule",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer contact that changes relationship or knowledge over prettier description"
+                }
+              ],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+              ],
+              "order_reversed": true,
+              "reason": "Candidate A demonstrates superior dramatic trust by allowing the emotional transaction to unfold through action and subtext. Candidate B suffers from excessive narrator explanation, frequently pausing the scene to explain the 'meaning' of the psychological power dynamics (e.g., explaining the 'loop' and the 'machinery'), which kills the narrative force. Candidate A's handling of the 'doorway rule' is integrated as a consequential relationship-conditioning behavior, whereas Candidate B treats it as a thematic summary. Candidate A's prose is leaner and avoids the generic 'literary' flourishes that plague Candidate B.",
+              "winner_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-02",
+              "winner_label": "A"
+            }
+          ],
+          "selected": [
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-03",
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-02"
+          ],
+          "text_scope": "continuation",
+          "tie_break": "screen_score_after_order_disagreement",
+          "winner": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+        },
+        {
+          "aggregate": {
+            "order_disagreements": [
+              {
+                "judgment_count": 2,
+                "pair": [
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-04"
+                ],
+                "winners": [
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+                  "s02-proof-v1-bootstrap-raw_organic-raw_organic-04"
+                ]
+              }
+            ],
+            "pair_count": 1,
+            "points": {
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-01": 1.0,
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-04": 1.0
+            },
+            "ranking": [
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+              "s02-proof-v1-bootstrap-raw_organic-raw_organic-04"
+            ]
+          },
+          "judgments": [
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+              "candidate_b_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "slight over-reliance on the 'amber light' motif"
+                ],
+                "B": [
+                  "generic heat",
+                  "narrator explanation over action",
+                  "repetitive phrasing regarding 'data points'"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "is a 'no' treated as data to be analyzed, or is it treated as a decision to be respected?",
+                  "the amber light no longer felt like a sanctuary; it felt like a stage",
+                  "only when both of us would still be glad if the kiss stopped immediately"
+                ],
+                "B": [
+                  "is there a point where a refusal is accepted as a sovereign decision",
+                  "the amber light seemed to thicken, pinning her in place",
+                  "We only keep going as long as we would both still be glad if it stopped immediately"
+                ]
+              },
+              "evidence_repairs": [],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-04"
+              ],
+              "order_reversed": false,
+              "reason": "Candidate A demonstrates superior narrative force by transforming the emotional transaction from a psychological debate into a power shift. The dialogue in A is sharper and more consequential; the question regarding 'data vs. decision' is phrased as a clinical strike rather than the more verbose inquiry in B. A handles the 'heat' with significantly more agency, linking the physical intimacy directly to the thematic victory of the seminar room. While B relies on narrator explanation to describe Mara's internal state, A uses specific action—the planting of feet, the three-second beat, the refusal to narrate—to realize the character's growth. A's prose is fresher and avoids the generic 'shiver/tremor' tropes found in B, opting instead for a tension built on restraint and specific, relationship-conditioned behavior.",
+              "winner_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+              "winner_label": "A"
+            },
+            {
+              "axis_winners": {
+                "character_truth": "A",
+                "epistemic_texture": "A",
+                "heat_with_agency": "A",
+                "instructional_fidelity": "A",
+                "narrative_force": "A",
+                "prose_and_voice": "A",
+                "theological_coherence": "A"
+              },
+              "candidate_a_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+              "candidate_b_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+              "confidence": 0.9,
+              "defects": {
+                "A": [
+                  "none"
+                ],
+                "B": [
+                  "narrator_explanation",
+                  "generic_fluency"
+                ]
+              },
+              "evidence": {
+                "A": [
+                  "always felt like an outsider looking in, then about the specific pressure",
+                  "respect crossing his face. \"How do we do that?\"\n\n\"The doorway rule",
+                  "hand on the small of her back, and the sudden, grounding realization"
+                ],
+                "B": [
+                  "The lighting had been dimmed to a warm, amber glow",
+                  "The body is reacting to the word 'resentment' because",
+                  "The most profound pleasure wasn't in the consumption, but"
+                ]
+              },
+              "evidence_repairs": [
+                {
+                  "exact_replacement": "always felt like an outsider looking in, then about the specific pressure",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer restraint that increases pressure over restraint that ends it"
+                },
+                {
+                  "exact_replacement": "respect crossing his face. \"How do we do that?\"\n\n\"The doorway rule",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer contact that changes relationship or knowledge over prettier description"
+                },
+                {
+                  "exact_replacement": "hand on the small of her back, and the sudden, grounding realization",
+                  "label": "A",
+                  "lexical_overlap": 2,
+                  "method": "lexical_support_span_fallback",
+                  "unsupported_quote": "Prefer causal realization of required creative coordinates over merely naming"
+                }
+              ],
+              "judge_id": "gemma-4-31b",
+              "label_order": [
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+                "s02-proof-v1-bootstrap-raw_organic-raw_organic-01"
+              ],
+              "order_reversed": true,
+              "reason": "Candidate A demonstrates superior narrative force by grounding the emotional transaction in specific action and subtext. While Candidate B is fluent, it relies heavily on narrator explanation to describe the psychological state (e.g., explaining the 'paradox' of the rule). Candidate A allows the tension to build through restraint and specific, relationship-conditioned behavior, particularly in the final interaction where the 'doorway rule' is established as a consequence of the scene's power struggle rather than a thematic summary.",
+              "winner_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+              "winner_label": "A"
+            }
+          ],
+          "selected": [
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-01",
+            "s02-proof-v1-bootstrap-raw_organic-raw_organic-04"
+          ],
+          "text_scope": "continuation",
+          "tie_break": "screen_score_after_order_disagreement",
+          "winner": "s02-proof-v1-bootstrap-raw_organic-raw_organic-01"
+        }
+      ],
+      "tie_break": "screen_score_after_order_disagreement",
+      "winner": "s02-proof-v1-bootstrap-raw_organic-raw_organic-03"
+    }
+  },
+  "record_type": "ProofPairwiseTournament",
+  "version": "s02-proof-evaluation.v2"
+}

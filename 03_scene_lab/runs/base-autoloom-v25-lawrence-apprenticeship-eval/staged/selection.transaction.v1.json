@@ -1,0 +1,224 @@
+{
+  "campaign_hash": "7c54c6675989c7c6ab2a549c1d204a7c8d72b235bfe194e9fb2fe3d7f1efdc02",
+  "candidate_count": 3,
+  "eligible_pool": 1,
+  "fallback_used": false,
+  "record_type": "AutoloomStageSelection",
+  "selected": [
+    {
+      "cache": {
+        "cache_n": 13777,
+        "prompt_n": 1
+      },
+      "campaign_hash": "7c54c6675989c7c6ab2a549c1d204a7c8d72b235bfe194e9fb2fe3d7f1efdc02",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-04T01:00:52.014690+00:00",
+      "cumulative_completion": "His face darkened. \"No one. The service sent it back whole.\"\n\n\"But broken.\"\n\nSimon retrieved the drive with two careful movements. One for the table, one for her view. \"We had five hours to replace the data before the courier left.\"\n\n\"I could have done that in two.\" Esther traced his scar with her thumb, listening to his breathing change. \"Or I could have explained why I never break my own seals.\"\n\nSimon lowered his hand to where Esther touched him. \"You were quiet this evening,\" he said. \"Like someone still making decisions inside their head.\"\n\nShe waited another breath before answering. \"Sometimes a conversation isn't a conversation. Sometimes it's the thing you can't change by talking about it.\"\n\nSimon moved his hand up her arm. \"I understood that,\" he said. \"The service might have listened to us both. I decided that was more risk than we could afford.\"\n\nHer finger remained against his chest as she spoke. \"Counting aloud is an operational practice. This is a domestic one.\"\n\nEsther drew the back of Simon's hand across her mouth. The movement traced scars. Her body relaxed when Simon followed the trail.\n\n\"Which decision are we making together now?\" he asked.\n\n\"The house.\"\n\nHis thumb slid down Esther's cheek. \"This morning?\"\n\n\"Tonight.\"\n\nEsther reached for Simon's cock where it lay against his thigh. The dark fabric of his trousers bunched between her fingers. Her touch drew a sharp inhale. When she shifted position, the silk of her nightdress rasped against the wood floor.\n\nSimon raised both hands and cupped her jaw while his mouth slid into her throat. Esther closed her eyes as he kissed her along the column of her neck, each pass slower than the last. His breath warmed the hollow above her breast.\n\n\"When did you begin to doubt our safety here?\" he asked quietly.\n\nEsther opened her eyes and stared at nothing for a long moment. \"The evening the drive failed,\" she said. \"The courier left too quickly and didn't ask for proof.\"\n\nSimon pulled her closer until her breasts pressed against his chest. His hand slid down her ribs and back again, tracing each breath. \"What else did you notice?\"\n\nHer breath hitched at the sound of his voice in her ear. \"The service never asked about your movements during the time we were separated.\"\n\nHis mouth moved against her neck as he spoke. \"I thought that meant they trusted my work.\"\n\nShe turned her head and let his lips slide into the curve of her ear. \"I thought they hadn't bothered to watch us. That the house had never been compromised.\" Her voice dropped to a whisper. \"But you were watching me. So someone else must have been watching us both.\"\n\nSimon paused for a moment, then slid his hands down her arms to hold her wrists against the floor. \"Tell me what we do now.\"\n\nHer breasts rose and fell with his breath. \"We take everything,\" Esther whispered. \"All our private papers, all our work. Nothing stays here. No traces.\"\n\nHe moved one hand to her throat and pressed his thumbs into the pulse points above each wrist. \"And who helps us?\"\n\nEsther watched the veins in his hands as he tightened his grip. \"No one. Not the service. Not anyone we trust with our secrets.\" Her voice grew firmer. \"We do it ourselves. Quietly. Tonight.\"\n\nThe sound of fabric against wood filled the space as he freed his cock from his trousers and slipped a finger into her. \"Like you did before?\" he asked quietly.\n\nShe shifted her hips until she felt the tip of his member. \"Not like before,\" she said. \"Like now.\"\n\nSimon guided her down until her thighs touched the floor. His cock slid into her in one careful movement. She took him slowly, letting each push and pull bring their bodies closer.\n\nAt first he let her set the pace, matching each thrust as if they were following a written script. But Esther had not let any script become safe in years. When he began to quicken, she waited a moment longer, feeling the rhythm settle into something dangerous and true.\n\nThe space above Simon's lip broke open when his control gave way.\n\nEsther's breath caught as she watched him unravel. She quickened her pace, urging him toward his end with small decisive movements.\n\nHis seed burst inside her with a sound no one else in the house would hear. She rode the wave of their release, pushing herself harder until her body shook beneath his weight.",
+      "cumulative_hash": "7b788557b1dbe0193190a73a7bae92efd086888da6efa50a4cd10c97d81166bd",
+      "diagnostics": {
+        "aftermath_signal": 0,
+        "agency_signal": 20,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 3,
+              "evidence": [
+                {
+                  "evidence": "her breast. \"When did you begin to doubt our safety here?\" he asked quietly. Esther opened her eyes and stared at nothing for a long moment. \"Th",
+                  "match": "quietly",
+                  "position": 529
+                },
+                {
+                  "evidence": "trust with our secrets.\" Her voice grew firmer. \"We do it ourselves. Quietly. Tonight.\" The sound of fabric against wood filled the space as he f",
+                  "match": "Quietly",
+                  "position": 1937
+                },
+                {
+                  "evidence": "ousers and slipped a finger into her. \"Like you did before?\" he asked quietly. She shifted her hips until she felt the tip of his member. \"Not lik",
+                  "match": "quietly",
+                  "position": 2109
+                }
+              ],
+              "per_1000_words": 5.4845
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 5.4845,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 3,
+          "word_count": 547
+        },
+        "cliche_hits": [],
+        "completed_intimacy_evidence": [
+          "His seed burst",
+          "their release"
+        ],
+        "completed_intimacy_signal": 2,
+        "contact_signal": 17,
+        "dialogue_turns": 1,
+        "eligible": true,
+        "explicit_signal": 9,
+        "motif_counts": {
+          "again": 7,
+          "body": 1
+        },
+        "motif_saturation": false,
+        "packet_leakage": false,
+        "physical_progression_signal": 6,
+        "plot_payment_signal": 11,
+        "quality_signal": 26.1258,
+        "sensory_channel_count": 5,
+        "sensory_channels": {
+          "sight": true,
+          "smell": false,
+          "sound": true,
+          "taste": true,
+          "temperature": true,
+          "touch": true
+        },
+        "word_count": 547
+      },
+      "finish_reason": "length",
+      "overlap": {
+        "candidate_id": "transaction.approach.943038.1.3",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "b1511509337c94f46aaa6b60232012d7c9b250b35de71e09d3d15dce82f7f0e3",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "3a61672420d17b9ebec93b3cdeeef8509a5bb8399d4b69fa646628cc9626c7fc",
+      "parent_id": "approach.943038",
+      "program_hash": "89c8fa239bc78516df849150e39df5e2cd37fede78851550faa53262de862807",
+      "prompt_hash": "448354eaee225b7810b9c113044aab88731f7785eb6c3b2d653577b7420dfa89",
+      "prompt_tokens": 13777,
+      "raw_hash": "2351e32e9796e9dada7bf46800e5ba8b6af4d2c008b212f2cf3496a8d4e277ec",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v24-lawrence-apprenticeship/staged/raw/transaction/transaction.approach.943038.1.3.txt",
+      "recipe_hash": "444ffc44363e601891151c77344edc79c838e47d1aa792b8881f24a151ef4d8a",
+      "recipe_id": "loom-source-nearest-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 1268035576,
+      "segment": "Esther reached for Simon's cock where it lay against his thigh. The dark fabric of his trousers bunched between her fingers. Her touch drew a sharp inhale. When she shifted position, the silk of her nightdress rasped against the wood floor.\n\nSimon raised both hands and cupped her jaw while his mouth slid into her throat. Esther closed her eyes as he kissed her along the column of her neck, each pass slower than the last. His breath warmed the hollow above her breast.\n\n\"When did you begin to doubt our safety here?\" he asked quietly.\n\nEsther opened her eyes and stared at nothing for a long moment. \"The evening the drive failed,\" she said. \"The courier left too quickly and didn't ask for proof.\"\n\nSimon pulled her closer until her breasts pressed against his chest. His hand slid down her ribs and back again, tracing each breath. \"What else did you notice?\"\n\nHer breath hitched at the sound of his voice in her ear. \"The service never asked about your movements during the time we were separated.\"\n\nHis mouth moved against her neck as he spoke. \"I thought that meant they trusted my work.\"\n\nShe turned her head and let his lips slide into the curve of her ear. \"I thought they hadn't bothered to watch us. That the house had never been compromised.\" Her voice dropped to a whisper. \"But you were watching me. So someone else must have been watching us both.\"\n\nSimon paused for a moment, then slid his hands down her arms to hold her wrists against the floor. \"Tell me what we do now.\"\n\nHer breasts rose and fell with his breath. \"We take everything,\" Esther whispered. \"All our private papers, all our work. Nothing stays here. No traces.\"\n\nHe moved one hand to her throat and pressed his thumbs into the pulse points above each wrist. \"And who helps us?\"\n\nEsther watched the veins in his hands as he tightened his grip. \"No one. Not the service. Not anyone we trust with our secrets.\" Her voice grew firmer. \"We do it ourselves. Quietly. Tonight.\"\n\nThe sound of fabric against wood filled the space as he freed his cock from his trousers and slipped a finger into her. \"Like you did before?\" he asked quietly.\n\nShe shifted her hips until she felt the tip of his member. \"Not like before,\" she said. \"Like now.\"\n\nSimon guided her down until her thighs touched the floor. His cock slid into her in one careful movement. She took him slowly, letting each push and pull bring their bodies closer.\n\nAt first he let her set the pace, matching each thrust as if they were following a written script. But Esther had not let any script become safe in years. When he began to quicken, she waited a moment longer, feeling the rhythm settle into something dangerous and true.\n\nThe space above Simon's lip broke open when his control gave way.\n\nEsther's breath caught as she watched him unravel. She quickened her pace, urging him toward his end with small decisive movements.\n\nHis seed burst inside her with a sound no one else in the house would hear. She rode the wave of their release, pushing herself harder until her body shook beneath his weight.",
+      "segment_hash": "0a84b5e6f35739d5eea59500b25d482341928c63e3040ac48e108d7d2a2dd21a",
+      "source_campaign_hash": "3e24784b806044d226416f228db8bb9d31db3d05e1d6182c8e3ee1509ffee065",
+      "source_candidate_file": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v24-lawrence-apprenticeship/staged/candidates.transaction.jsonl",
+      "source_candidate_file_hash": "c129fa298b93d39023b86f8ae52663f47c9ce7886535229e81336c751ec39c78",
+      "source_ids": [
+        "apprenticeship.lawrence.women-in-love.c008.s012",
+        "apprenticeship.lawrence.women-in-love.c024.s005",
+        "apprenticeship.lawrence.lady-chatterley.c001.s012",
+        "apprenticeship.lawrence.lady-chatterley.c001.s101",
+        "apprenticeship.lawrence.lady-chatterley.c001.s112",
+        "apprenticeship.lawrence.lady-chatterley.c001.s132",
+        "apprenticeship.lawrence.lady-chatterley.c001.s080",
+        "apprenticeship.lawrence.lady-chatterley.c001.s057",
+        "bridge.married-explicit-workshop",
+        "gabaldon.example-03"
+      ],
+      "stage": "transaction",
+      "stage_candidate_id": "transaction.approach.943038.1.3",
+      "started_at": "2026-08-04T00:58:16.607529+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 13777,
+        "predicted_ms": 155144.712,
+        "predicted_n": 1050,
+        "predicted_per_second": 6.7678748857389355,
+        "predicted_per_token_ms": 147.75686857142858,
+        "prompt_ms": 114.263,
+        "prompt_n": 1,
+        "prompt_per_second": 8.751739408207381,
+        "prompt_per_token_ms": 114.263
+      },
+      "transaction_hash": "2cfdf0dbc96e6103b003ed8c67ea70651c7096130a5a7bd89bbc1de8b5ef1a76",
+      "transaction_program": {
+        "body_logic": "His questions draw a sharp inhale. Her hand drops while her hips angle higher. He lowers his face until their breath matches.",
+        "consent_turn": "invitation -> permission question -> negotiated reversal",
+        "counteroffer": "Simon questions her motive and authority while accepting her physical invitation.",
+        "disclosure": "He must admit he had thought only about data integrity and not about them. She can see he has already come around.",
+        "ending_state": "Separate tasks become integrated obligations.",
+        "offer": "Esther counters Simon's control with private knowledge.",
+        "parent_id": "approach.943038",
+        "plot_payment": "Esther claims their intimacy and forces a joint decision through bodily surrender.",
+        "proposal_seed": 944083,
+        "raw_proposal_hash": "df559f6606956b58d43c134e4ec203d2092606208b094761f1371e9977ee2942",
+        "sensory_asymmetry": "wet sound, shifting weight, scar tissue under fingers; one channel leads, one follows, one disrupts",
+        "transaction_id": "transaction-plan.approach.943038.944083.1"
+      },
+      "usage": {
+        "completion_tokens": 1050,
+        "prompt_tokens": 13778
+      }
+    }
+  ],
+  "selection_hash": "bcd7f4def6dfa4bba859d272e4a2ec1a9fa6f4b7eccb99a5f8246cdad7b66284",
+  "selection_method": "off-model-diagnostic-replay-then-seeded-quality-diversity",
+  "selection_seed": 623946881,
+  "source_candidates": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v24-lawrence-apprenticeship/staged/candidates.transaction.jsonl",
+  "source_candidates_hash": "c129fa298b93d39023b86f8ae52663f47c9ce7886535229e81336c751ec39c78",
+  "stage": "transaction",
+  "terminal_failure_count": 0
+}

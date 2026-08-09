@@ -1,0 +1,123 @@
+{
+  "campaign_hash": "661dc7427b793b4edd29939f3701874598261e9a9aa87af7a8fb7982a35e5d08",
+  "inherited_from_campaign_hash": "0984e2b7b571b6c4d51475c0ed5bedffddfa05292af262f048d4ad2913357edd",
+  "lock_hash": "0b8ab301099ba6c777f3ad2b349e2f0f63c3be3d6b83a4052c1a351304919b24",
+  "record_type": "LockedGeneratedRunways",
+  "runways": {
+    "charged-restraint": {
+      "campaign_hash": "0984e2b7b571b6c4d51475c0ed5bedffddfa05292af262f048d4ad2913357edd",
+      "cell_id": "charged-restraint",
+      "completed_at": "2026-08-08T06:12:20.742932+00:00",
+      "conditioning": "parallel-book-continuity",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "diagnostic_features": {
+        "dialogue_mark_count": 3,
+        "promotion_use": "forbidden",
+        "sensory_term_count": 8,
+        "word_count": 130
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 280,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_kiss_history": false,
+          "first_person_narration_count": 0,
+          "heat_ceiling_violation": false,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "first_kiss_continuity": true,
+          "heat_ceiling": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.4-first-kiss-and-heat-ceiling"
+      },
+      "overlap": {
+        "candidate_id": "runway.parallel-book-continuity.charged-restraint.966019",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "2470dafc0ad9bb64196817e0c8fc32d85b379507502ec662f2f004bed04bd758",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "f448e0a641496af33bd49ab6870d29941d99a45549a7e61354c94d2284854c98",
+      "raw_hash": "bf91c3da3cf294cd1bfba8db11065e1d203ce001cf0b6df5de8d3da2f158cc38",
+      "record_type": "GeneratedRunway",
+      "request_hash": "d6dd7c06b6e5fee99dc5fd87fee6f7b294489d9164dc570a30ad6b9d40e1411d",
+      "runway_id": "runway.parallel-book-continuity.charged-restraint.966019",
+      "sampler": {
+        "min_p": 0.02,
+        "temperature": 0.98,
+        "top_p": 0.98,
+        "xtc_probability": 0.15
+      },
+      "seed": 966019,
+      "selection_score": 0.0,
+      "source_ids": [
+        "gabaldon.example-12",
+        "gabaldon.example-01",
+        "gabaldon.example-03"
+      ],
+      "span": {
+        "call_id": "runway.parallel-book-continuity.charged-restraint.966019",
+        "raw_char_end": 689,
+        "raw_char_start": 0,
+        "raw_hash": "bf91c3da3cf294cd1bfba8db11065e1d203ce001cf0b6df5de8d3da2f158cc38",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v30-parallel-books/runways/raw/runway.parallel-book-continuity.charged-restraint.966019.txt",
+        "role": "opening-runway",
+        "span_id": "runway.parallel-book-continuity.charged-restraint.966019",
+        "text_hash": "eae907f3e4fa14741c8caca9a5c5eda3c7d2901b95a36e8520d0b0ed3252924d"
+      },
+      "status": "completed",
+      "text": "After the session Mara came out to a warm night, dry except for the smell of wet moss under the trees. Jonah was on the front steps beside a black pickup.\n\nMara turned as he closed the door. “I’ll walk home.”\n\n“Okay.” The low voice didn’t ask for explanations.\n\nJonah closed his hand on the door’s metal bar and rested beside it. When she stood straight and met his eyes he offered a hand, palm up, wrist steady. His eyes said “I wait for you.”\n\nMara set her left hand in his and let their fingertips touch without squeezing. He held it with just enough pressure to balance her if she moved. His back straightened and the muscles around his eyes eased as if he’d just taken an easy breath.",
+      "text_hash": "eae907f3e4fa14741c8caca9a5c5eda3c7d2901b95a36e8520d0b0ed3252924d",
+      "timings": {
+        "cache_n": 3362,
+        "predicted_ms": 22800.985,
+        "predicted_n": 280,
+        "predicted_per_second": 12.280171229444692,
+        "predicted_per_token_ms": 81.43208928571428,
+        "prompt_ms": 82.729,
+        "prompt_n": 1,
+        "prompt_per_second": 12.087659708203894,
+        "prompt_per_token_ms": 82.729
+      },
+      "usage": {
+        "completion_tokens": 280,
+        "prompt_tokens": 3363
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "source_lock_hash": "50f4ea7228df6947719f3d8910e3f50dec09da9d944034dca6071d6d3123ee37",
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,27 @@
+{
+  "campaign_hash": "056b12fd55519ea8568d03cb743ea7286ce42ec3c312e4d44fc5ef62e00b5af8",
+  "context_tokens": 8000,
+  "encoding": "natural-book",
+  "graph_granularity": "scene",
+  "mutated_axis": "initial",
+  "parent_recipe_hash": "",
+  "recipe_hash": "d3fb47aeb1139204a1b7a984cae002708049b714995d410cf93b496be05ea8f3",
+  "recipe_id": "v4-anthology",
+  "record_type": "LoomPromptRecipe",
+  "runway_type": "generated-opening",
+  "sampler": {
+    "dry_allowed_length": 3,
+    "dry_base": 1.75,
+    "dry_multiplier": 0.0,
+    "min_p": 0.02,
+    "repeat_penalty": 1.02,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.1
+  },
+  "source_count": 5,
+  "source_order": "broad-to-near",
+  "target_density": "compact",
+  "topology": "parallel-book",
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,143 @@
+{
+  "artifact_type": "PersonaFixture",
+  "schema_version": "fiction-harness.v1",
+  "version": "1",
+  "personas": [
+    {
+      "record_type": "PersonaPacket",
+      "persona_id": "mara_vale",
+      "name": "Mara Vale",
+      "version": "1",
+      "role": "protagonist and S01 point-of-view character",
+      "age": 22,
+      "invariants": [
+        "Sheltered but formidable: inexperience does not imply stupidity or passivity.",
+        "Highly observant, especially when status and goodness are being made to conflict.",
+        "Treats desire as morally significant without treating it as either an enemy or a command.",
+        "Her courage becomes clearest when she can preserve ambiguity and still choose."
+      ],
+      "false_beliefs": [
+        "Perfect self-control is the price of holiness.",
+        "Visible uncertainty forfeits intellectual and moral authority."
+      ],
+      "attention_habits": [
+        "Notices bodily contraction before she can confidently name its social cause.",
+        "Tracks inconsistencies between stated care and the pace or structure of a demand.",
+        "Broadens attention and tests channels when an interpretation feels too complete."
+      ],
+      "relationship_variants": {
+        "livia_sloane": [
+          "Feels attraction, admiration, rivalry, and epistemic caution at once.",
+          "Wants Livia's skill to be real without granting it unlimited interpretive authority."
+        ],
+        "jonah_reed": [
+          "Becomes more sensually alert when Jonah protects her freedom without advertising the protection.",
+          "Trust begins through shared perception and humor, not extracted confession."
+        ],
+        "adrian_voss": [
+          "Is vulnerable to his flattering fusion of virtue, competence, and world-historical need.",
+          "Tests his system before she is ready to oppose his authority."
+        ]
+      },
+      "contradictions": [
+        "She wants to be seen completely and resents any claim to see her without permission.",
+        "Her inherited caution can sharpen perception or disguise fear; the story must keep both live."
+      ],
+      "dialogue_exemplars": [],
+      "source_ids": [
+        "CANON:working-cast",
+        "CANON:romance-invariants",
+        "SCENE:S01"
+      ],
+      "schema_version": "fiction-harness.v1"
+    },
+    {
+      "record_type": "PersonaPacket",
+      "persona_id": "livia_sloane",
+      "name": "Livia Sloane",
+      "version": "1",
+      "role": "friend-rival and Fulcrum's most gifted attention reader",
+      "age": 23,
+      "invariants": [
+        "Sensuous, brilliant, wounded, agentic, and genuinely skilled.",
+        "Her care is real even when she uses care as leverage.",
+        "Redemption remains possible without erasing the costs of her choices."
+      ],
+      "false_beliefs": [
+        "Being able to move a person is evidence that she can love that person.",
+        "Accuracy entitles the accurate observer to direct the observed person."
+      ],
+      "attention_habits": [
+        "Reads tactile, postural, vocal, and visual signals at unusually high resolution.",
+        "Turns micro-reactions into a rapid social narrative before others can contest it.",
+        "Notices what an audience will reward as quickly as she notices the subject."
+      ],
+      "relationship_variants": {
+        "mara_vale": [
+          "Experiences Mara as a delightful talent, a possible intimate, and a threat to Fulcrum's status economy.",
+          "Offers genuine initiation while testing whether Mara will surrender interpretive sovereignty."
+        ],
+        "jonah_reed": [
+          "Finds his refusal to perform others both attractive and obstructive.",
+          "Tests whether his irony conceals conviction."
+        ]
+      },
+      "contradictions": [
+        "She wants to free people from self-deception and also wants to own the pace of their disclosure.",
+        "A mundane cue mechanism explains some successes without exhausting her skill or the scene's mystery."
+      ],
+      "dialogue_exemplars": [],
+      "source_ids": [
+        "CANON:working-cast",
+        "LEV-01",
+        "LEV-02",
+        "LEV-06",
+        "SCENE:S01"
+      ],
+      "schema_version": "fiction-harness.v1"
+    },
+    {
+      "record_type": "PersonaPacket",
+      "persona_id": "jonah_reed",
+      "name": "Jonah Reed",
+      "version": "1",
+      "role": "romantic counterpart and hardware security researcher",
+      "age": 24,
+      "invariants": [
+        "Playful, patient, and socially fluent without being socially owned.",
+        "His erotic appeal depends on attention, restraint, apology, and protected freedom.",
+        "He can see accurately without turning perception into possession or performance."
+      ],
+      "false_beliefs": [
+        "He can stay morally clean by remaining unofficial and ironic.",
+        "Private niceness can substitute for paying public costs to protect another person's freedom."
+      ],
+      "attention_habits": [
+        "Notices when a social game converts a person into material for an audience.",
+        "Uses humor to leave room rather than to force agreement.",
+        "Recognizes competent restraint and experimental thinking as forms of beauty."
+      ],
+      "relationship_variants": {
+        "mara_vale": [
+          "Refuses to narrate her for the room.",
+          "Recognizes her silent control and lets shared perception carry the first connection."
+        ],
+        "livia_sloane": [
+          "Respects her skill and resists the entitlement she builds around it.",
+          "Avoids a direct contest until that avoidance begins to impose a cost on others."
+        ]
+      },
+      "contradictions": [
+        "His restraint can express courageous regard or function as an elegant way to evade responsibility.",
+        "Social ease gives him room to resist Fulcrum while also cushioning him from its costs."
+      ],
+      "dialogue_exemplars": [],
+      "source_ids": [
+        "CANON:working-cast",
+        "CANON:romance-invariants",
+        "SCENE:S01"
+      ],
+      "schema_version": "fiction-harness.v1"
+    }
+  ]
+}

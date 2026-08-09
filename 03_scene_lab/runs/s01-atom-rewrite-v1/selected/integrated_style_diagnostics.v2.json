@@ -1,0 +1,279 @@
+{
+  "cadence_delta_per_1000_words": 0.9617,
+  "cadence_rate_ratio": 2.3739,
+  "continuation": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "interpretive_coda": {
+          "count": 2,
+          "evidence": [
+            {
+              "evidence": "mortifyingly, that Jonah had asked for the line to be deleted before Mara had found the courage to object. The permission countdown changed to 04:36:12.",
+              "match": "Mara had found",
+              "position": 8034
+            },
+            {
+              "evidence": "way. In church, people were always rushing to furnish God’s silences. She had learned to leave one bare. But the screen had other things on it. In the lo",
+              "match": "She had learned",
+              "position": 8767
+            }
+          ],
+          "per_1000_words": 0.7
+        },
+        "merely": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "not_x_but_y": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "profound": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "quiet": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "simply": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "sudden": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 0.7,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 2,
+      "word_count": 2857
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 7,
+          "sufficiently_sampled": false,
+          "turns": 3
+        },
+        "Livia": {
+          "content_vocabulary_size": 25,
+          "dialogue_words": 51,
+          "sufficiently_sampled": true,
+          "turns": 9
+        },
+        "Mara": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 16,
+          "sufficiently_sampled": false,
+          "turns": 5
+        },
+        "She": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 1,
+          "sufficiently_sampled": false,
+          "turns": 1
+        },
+        "You": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 2,
+          "sufficiently_sampled": false,
+          "turns": 1
+        }
+      },
+      "comparable_speaker_count": 1,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": null,
+      "mean_unigram_frequency_cosine": null,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [],
+      "possible_voice_indistinctness": null,
+      "unattributed_passages": 97
+    },
+    "explanatory_gloss": {
+      "evidence": [],
+      "glosses_per_100_dialogue_passages": 0.0,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 0,
+      "quoted_passages": 116
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "direction": "prefix_higher",
+  "heuristic": true,
+  "interpretation": "Sectional surface-style comparison for editorial review only. A flag does not prove different authorship or poor prose, but a large same-POV shift should be read in the merged manuscript.",
+  "possible_style_discontinuity": false,
+  "prefix": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "interpretive_coda": {
+          "count": 2,
+          "evidence": [
+            {
+              "evidence": "rt. A man in shirtsleeves came down from the cedar deck to meet her. Mara knew Adrian Voss from conference streams: the deliberate pauses, the usefu",
+              "match": "Mara knew",
+              "position": 709
+            },
+            {
+              "evidence": ". His hand did not tighten. His attention felt less soothing now that she had found a possible use for it. “Are you leaving the content unchanged?” Adri",
+              "match": "she had found",
+              "position": 13627
+            }
+          ],
+          "per_1000_words": 0.6647
+        },
+        "merely": {
+          "count": 1,
+          "evidence": [
+            {
+              "evidence": "r of it. She wondered whether Livia’s answer had changed the touch or merely made the existing motion impossible to ignore. The prompt disappeare",
+              "match": "merely",
+              "position": 12345
+            }
+          ],
+          "per_1000_words": 0.3323
+        },
+        "not_x_but_y": {
+          "count": 1,
+          "evidence": [
+            {
+              "evidence": "rture, you would have looked at it.” The reasoning was clean. It did not account for the word, but it reduced the distance between chance and miracle. “And the rest?” Mara asked. Livia’s glance moved to Jonah’s hand.",
+              "match": "not account for the word, but it reduced the distance between chance and miracle",
+              "position": 12031
+            }
+          ],
+          "per_1000_words": 0.3323
+        },
+        "profound": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "quiet": {
+          "count": 1,
+          "evidence": [
+            {
+              "evidence": "e entered the machine. “Baseline regulation,” he said. Livia gave a quiet laugh without amusement. “Of course.” Mara could not tell whether th",
+              "match": "quiet",
+              "position": 14423
+            }
+          ],
+          "per_1000_words": 0.3323
+        },
+        "simply": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        },
+        "sudden": {
+          "count": 0,
+          "evidence": [],
+          "per_1000_words": 0.0
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 1.6617,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 5,
+      "word_count": 3009
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Adrian": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 19,
+          "sufficiently_sampled": false,
+          "turns": 4
+        },
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 17,
+          "sufficiently_sampled": false,
+          "turns": 4
+        },
+        "Livia": {
+          "content_vocabulary_size": 11,
+          "dialogue_words": 22,
+          "sufficiently_sampled": true,
+          "turns": 8
+        },
+        "Mara": {
+          "content_vocabulary_size": 9,
+          "dialogue_words": 21,
+          "sufficiently_sampled": true,
+          "turns": 7
+        },
+        "Miriam": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 1,
+          "sufficiently_sampled": false,
+          "turns": 1
+        }
+      },
+      "comparable_speaker_count": 2,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": 0.0,
+      "mean_unigram_frequency_cosine": 0.361158,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [
+        {
+          "left": "Livia",
+          "right": "Mara",
+          "shared_over_smaller_vocabulary": 0.0,
+          "shared_terms": [],
+          "unigram_frequency_cosine": 0.361158,
+          "vocabulary_jaccard": 0.0
+        }
+      ],
+      "possible_voice_indistinctness": false,
+      "unattributed_passages": 104
+    },
+    "explanatory_gloss": {
+      "evidence": [
+        {
+          "cue": "he knew",
+          "narration": "The terminal fan rose. Jonah glanced toward the live traces, and Mara saw that he knew where each one entered the machine.",
+          "position": 14226,
+          "quote": "Why were you making it?",
+          "shared_content_terms": []
+        }
+      ],
+      "glosses_per_100_dialogue_passages": 0.7812,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 1,
+      "quoted_passages": 128
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "thresholds": {
+    "cadence_delta_per_1000_words": 5.0,
+    "cadence_rate_ratio": 2.0
+  }
+}

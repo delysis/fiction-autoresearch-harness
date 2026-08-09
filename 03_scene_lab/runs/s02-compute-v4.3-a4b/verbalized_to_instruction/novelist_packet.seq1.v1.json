@@ -1,0 +1,95 @@
+{
+  "character_invariants": {
+    "Jonah": "attracted, observant, implicated in Fulcrum, not a moral oracle",
+    "Livia": "genuinely perceptive and caring; acquisitive about access to Mara",
+    "Mara": "sheltered, technically competent, dryly funny, wants Livia's respect"
+  },
+  "current_state": {
+    "location": "Fulcrum alignment lab",
+    "pov": "Mara, close third person",
+    "session_state": "underway after the S01 calibration"
+  },
+  "manuscript_tail": "mposure. For a heartbeat, the \"oracle\" looked merely like a girl who had miscalculated.\n\nLivia tried to recover, her eyes scanning Mara for a cue she could use to salvage the read. \"Wait,\" Livia said, her voice tighter now, \"I'm sensing a shift. A withdrawal. Mara, you're blocking. You're trying to hide something.\"\n\nMara didn't move. She didn't blink. She maintained the internal cooling shadow, decoupling her physical reactions from Livia's prompts. She watched Livia's face, seeing the frustration mount. Livia reached out, her hand hovering near Mara's shoulder, trying to force a reaction, to provoke a flinch or a gasp that she could narrate as \"repressed fear.\"\n\nBut Mara remained a void. The more Livia pushed, the more the \"read\" collapsed. The precision that had defined the evening was dissolving into guesswork. Livia's voice began to climb in pitch, her observations becoming generic, desperate. \"There's a wall here. A stubbornness. She's resisting the alignment.\"\n\nThe room felt colder. The hierarchy of seating seemed to waver. Adrian Voss stepped forward, his expression unreadable, but his eyes were scanning the group with a new, clinical intensity.\n\n\"An interesting deviation,\" Adrian said, though his voice lacked its earlier warmth. \"A failure of synchrony. Perhaps we need to recalibrate the parameters.\"\n\nLivia recovered quickly, her chin tilting upward in a gesture of dismissal. \"The signal was too noisy,\" she said, her voice clipped. \"The subject wasn't committed to the task. It’s hard to read someone who refuses to be seen.\"\n\nShe turned and walked away, her movements stiff, her command of the light momentarily dimmed.\n\nAs Livia retreated, the atmospheric pressure in the room shifted. The students who had been leaning in, hungry for the revelation, now drifted back, their interest replaced by a cautious, almost suspicious curiosity. Mara watched as Livia attempted one last, casual read on a passing student—a quick comment about a hidden anxiety—but the student merely blinked, unimpressed. The spell of the \"oracle\" had not just been broken for Mara; it had frayed for the room. The effortless authority Livia had wielded all evening had plummeted into the realm of the merely talented, her readings now sounding like the cold-reading tricks of a carnival psychic.\n\nYet, as the tension dissipated, Mara felt a lingering, inexplicable prickle at the base of her neck. Just as Livia had turned to leave, the woman had paused and looked back at Mara. For a split second, Livia’s eyes hadn't been frustrated or calculating; they had been wide with a genuine, startled recognition. It was a look of profound shock, as if Livia had seen something in Mara—not a cue, not a signal, but a fundamental quality—that she hadn't expected to find in this place. Mara searched her memory for what could have caused it, but there was no data point to explain it. The mechanism of the game was gone, but a smaller, more unsettling mystery remained.\n\nMara felt a wave of relief, followed by a profound, trembling exhaustion. She pulled her hand away from Jonah’s, the loss of contact leaving her skin feeling a sudden, sharp void where his warmth had been.\n\n\"You're a very difficult person to read, Mara Vale,\" a voice said.\n\nShe looked up. Jonah was still looking at her. He wasn't smiling, but there was a glint of something in his eyes—not triumph, but a deep, quiet recognition. He knew what she had done. He knew she hadn't failed the task; she had mastered the tool.\n\n\"I'm not trying to be difficult,\" Mara said, her voice barely a whisper. \"I just don't want to be a data point.\"\n\n\"Good,\" Jonah said. He stood up, his movements fluid and unhurried. \"Data points don't have agency. People do.\"\n\nHe didn't offer her a hand. He didn't try to comfort her. He simply stood there, a solid, unpretentious presence in the middle of the shimmering, deceptive beauty of the pavilion. He had protected her freedom by refusing to participate in her exposure, and in doing so, he had become the most interesting thing in the room.\n\nAs the session broke up and the students drifted into smaller, more guarded clusters, Mara stood by the glass wall, watching the last of the light vanish behind the redwoods. The compound was beautiful, yes, but it was a beauty that required a constant, exhausting vigilance.\n\nShe thought of the bakery box in her car, the simple, honest scent of cardamom. She thought of the way Livia’s certainty had collapsed under the weight of a single, quiet choice.\n\nShe had come to Fulcrum to find out if she could align her soul with the truth. As she watched the shadows deepen in the forest, Mara realized that the truth wasn't something you found by being perfectly transparent to others. It was something you protected within yourself, so that when you finally chose to reveal it, it was actually yours.\n\nYet, as she looked back at the room, one thing remained. She remembered the exact moment Jonah's thumb had pulsed against her wrist—the rhythmic, grounding cadence. She had identified it as a cue, a tool for Livia to use. But as she replayed the sensation, she realized the rhythm hadn't been a signal for Livia. It had been a conversation with her. It had been a steady, silent *I am here* that had persisted even when she had shut the world out.\n\nShe couldn't explain how he had known exactly where to place the pressure, or how that tiny movement had managed to anchor her entire nervous system. It wasn't a micro-cue she could decouple or a mechanism she could dismantle. It was a residue of something else—something that felt less like a game and more like a recognition.\n\nShe wasn't sure if she belonged here yet. But for the first time since she had arrived, she felt like she was actually seeing the room, rather than just being seen by it. And as Jonah passed her on his way toward the dormitories—a brief, silent acknowledgment in his stride—Mara knew that her decision to stay was no longer just an intellectual pursuit. It was a beginning.",
+  "occurrences": [
+    {
+      "atom_id": "s02-a4b-22063-tea",
+      "constraint_change": "The accepted care makes Livia's next professional favor harder to refuse.",
+      "move": "Livia pours amber tea from a ceramic carafe and slides it to Mara.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "required": true,
+      "response": "Mara accepts the warm cup instead of creating distance.",
+      "setup": "Mara is depleted after the alignment session and has concealed it."
+    },
+    {
+      "atom_id": "s02-a4b-22063-unremarkable",
+      "constraint_change": "Livia now has an accurate vulnerability she can attach to status and work.",
+      "move": "Livia names Mara's fear that close inspection will show she is competent but not exceptional.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "required": true,
+      "response": "Mara answers with a dry joke that restores only a little distance.",
+      "setup": "Mara tries to attribute her strain to data density."
+    },
+    {
+      "atom_id": "s02-a4b-22063-access",
+      "constraint_change": "The flattering gift converts Mara's insecurity into surveillance, status pressure, and unpaid overnight work.",
+      "move": "Livia grants Mara overnight access to raw telemetry as apparent recognition and opportunity.",
+      "participants": [
+        "Livia",
+        "Mara"
+      ],
+      "required": true,
+      "response": "Mara freezes before treating the grant as a professional courtesy.",
+      "setup": "Livia has accurately named Mara's hunger to be exceptional."
+    },
+    {
+      "atom_id": "s02-a4b-22023-jonah-complicity",
+      "constraint_change": "Jonah becomes visibly complicit in continuing the session.",
+      "move": "Jonah stops typing, leaves his hands still, and says the next sequence is ready.",
+      "participants": [
+        "Jonah",
+        "Mara"
+      ],
+      "required": true,
+      "response": "Mara receives participation rather than rescue or moral reassurance.",
+      "setup": "Mara has signaled that she will keep working to protect her standing."
+    },
+    {
+      "atom_id": "s02-a4b-22063-accept",
+      "constraint_change": "Mara remains in the room with an additional obligation recorded under her name.",
+      "move": "Mara taps the shared interface to accept the overnight access.",
+      "participants": [
+        "Mara",
+        "Livia"
+      ],
+      "required": true,
+      "response": "Livia turns back to the primary monitor without celebrating.",
+      "setup": "Mara sees that refusal could be read as lack of commitment."
+    },
+    {
+      "atom_id": "s02-a4b-22063-cooling-tea",
+      "constraint_change": "The sequence ends with Mara still inside and less able to leave.",
+      "move": "Mara folds her hands in her lap while the tea cools untouched.",
+      "participants": [
+        "Mara"
+      ],
+      "required": false,
+      "response": "The room continues around her without granting an exit.",
+      "setup": "The access acceptance is complete and the session remains underway."
+    }
+  ],
+  "packet_hash": "9a8a2953ca5ed2233e70bbc17f61939c7974628213104773de8a4abe0d8a721a",
+  "sequence": {
+    "endpoint": "End with Mara less able to act because her initially plausible coping policy has narrowed her choices. Livia must have perceived one difficult thing accurately while overclaiming what that accuracy entitles her to do. Do not resolve the session or preview the walk home.",
+    "maximum_words": 1100,
+    "minimum_words": 875,
+    "scene_id": "S02",
+    "sequence_id": "s02-seq-1-trap"
+  },
+  "task": "Write only the next manuscript passage. The listed occurrences are facts to enact, not wording to reuse. Choose the dialogue, narration, transitions, imagery, and interpretation. Do not explain an occurrence after the action has already made it legible."
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "run_id": "s01-comparison-v1",
+  "status": "complete_with_observed_raw_generation_deviations",
+  "tests": {
+    "passed": 85,
+    "failed": 0
+  },
+  "generation": {
+    "candidate_count": 24,
+    "per_pipeline": {
+      "direct": 8,
+      "verbalized_sampling": 8,
+      "actor_novelist": 8
+    },
+    "raw_word_count_gate_passes": {
+      "direct": 7,
+      "verbalized_sampling": 1,
+      "actor_novelist": 0
+    },
+    "raw_all_gate_passes": {
+      "direct": 1,
+      "verbalized_sampling": 0,
+      "actor_novelist": 0
+    },
+    "interpretation": "The raw outputs are preserved rather than silently lengthened or rewritten. Verbalized Sampling and Actor-Novelist systematically under-ran the requested word range; the common editor repaired only each selected winner."
+  },
+  "evaluation": {
+    "absolute_scorecards": 24,
+    "pairwise_comparisons_per_pipeline": 12,
+    "raw_tournament_winners": {
+      "direct": "s01-comparison-v1-direct-direct-05",
+      "verbalized_sampling": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "actor_novelist": "s01-comparison-v1-actor_novelist-actor-novelist-05"
+    },
+    "pairwise_order_sensitivity": {
+      "verbalized_sampling_all_six_matchups_disagreed_by_label_order": true
+    }
+  },
+  "finalists": {
+    "all_hard_gates_pass": true,
+    "all_have_complete_lineage": true,
+    "direct": {
+      "candidate_id": "s01-comparison-v1-direct-direct-05",
+      "editor_decision": "raw retained because the valid revision scored lower",
+      "machine_score": 87.65
+    },
+    "verbalized_sampling": {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-03-polished-r2",
+      "editor_decision": "revision accepted",
+      "machine_score": 89.75
+    },
+    "actor_novelist": {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "editor_decision": "revision accepted",
+      "machine_score": 87.65
+    }
+  },
+  "independent_blind_review": {
+    "reviewers": 2,
+    "axis_passage_citations_exact": 42,
+    "defect_passage_citations_exact": 29,
+    "unanimous_ranking": [
+      "B",
+      "C",
+      "A"
+    ],
+    "axis_disagreements_over_2": 0,
+    "revealed_pipelines": {
+      "A": "direct",
+      "B": "actor_novelist",
+      "C": "verbalized_sampling"
+    },
+    "winner": "actor_novelist"
+  },
+  "runtime_provenance": {
+    "completed_calls_attested": 113,
+    "unresolved_attestations": 0,
+    "llama_version": "version: 9191 (4f13cb742)",
+    "resolved_blob_paths_recorded": true,
+    "future_calls_record_runtime_inline": true,
+    "historical_calls_preserved_append_only": true
+  },
+  "appraisal": {
+    "package_id": "3c1d3e8fbd2c",
+    "blind_leak_check": true,
+    "reader_html_opens": true,
+    "autosave_and_reload_verified": true,
+    "json_export_control_exercised_without_console_error": true,
+    "clear_responses_verified": true,
+    "smoke_test_responses_cleared": true,
+    "reveal_key_separate": true
+  },
+  "release_policy": {
+    "05_releases_untouched": true,
+    "reason": "Human acceptance has not yet occurred."
+  }
+}

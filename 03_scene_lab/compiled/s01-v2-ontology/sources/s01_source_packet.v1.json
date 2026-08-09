@@ -1,0 +1,71 @@
+{
+  "artifact_type": "SourcePacket",
+  "cards": [
+    {
+      "dramatic_use": "An almost-kiss becomes more intimate when Mara stops scanning for status and actually sees Jonah’s fatigue, restraint, and delight.",
+      "evidence_or_dynamic": "Chastity gathers the sexual drive and passions into whole-person love; it makes the other visible as a person rather than an object.",
+      "role": "CANON",
+      "source": "Satisfied in God, VA Beach, Nov 2025 — Session 4 • mpc-74e7842c6f30540d8f5a-b000036 • [open source](https://player.vimeo.com/video/1063365119)",
+      "source_id": "MPC-01",
+      "title": "Chastity integrates desire toward love",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "The prose lingers on hands, breath, fabric, and the beloved’s body precisely when the characters choose restraint.",
+      "evidence_or_dynamic": "Chastity is presented as a condition for perceiving sensual beauty clearly, not as a flight from beauty.",
+      "role": "CANON",
+      "source": "2023 CS Wednesday — Session 4 • mpc-ca29b10298b40cbb4106-b000076 • [open source](https://ministriesofpastoralcare.com/wp-content/uploads/2023/08/2023-CS-Wednesday-Session-4.mp3)",
+      "source_id": "MPC-05",
+      "title": "Purity sharpens sensual perception",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "Jonah’s courtship is compelling because his attention increases Mara’s freedom and competence.",
+      "evidence_or_dynamic": "Unmarried attraction can become skilled care, honor, and fascination rather than pseudo-marital entitlement.",
+      "role": "CANON",
+      "source": "2023 CS Wednesday — Session 4 • mpc-ca29b10298b40cbb4106-b000078 • [open source](https://ministriesofpastoralcare.com/wp-content/uploads/2023/08/2023-CS-Wednesday-Session-4.mp3)",
+      "source_id": "MPC-07",
+      "title": "Reverent fascination in singleness",
+      "transformation": ""
+    },
+    {
+      "dramatic_use": "Fulcrum students locate a hidden object through a calibration game; Mara experiences the reader as inside her mind.",
+      "evidence_or_dynamic": "Tiny tactile, postural, vocal, and visual signals can carry more information than participants consciously notice, producing feats that feel paranormal.",
+      "role": "SECONDARY / CASE FILE",
+      "source": "The Muscle-Readers, a Historical Sketch • [open source](https://drive.google.com/file/d/1mDfNG-yT3md9S8PWCk3Fu1rSnE0CL1o3/view)",
+      "source_id": "LEV-01",
+      "title": "Apparent telepathy from involuntary cues",
+      "transformation": "Use new tasks, composite researchers, and an adult fellowship. Preserve only the cue-channel mechanism and felt eeriness."
+    },
+    {
+      "dramatic_use": "Mara silently changes the rules of a demonstration and watches an oracle become merely talented.",
+      "evidence_or_dynamic": "Performance can remain impressive until the relevant information channel is isolated; randomization and cue controls distinguish skill from story.",
+      "role": "SECONDARY / CASE FILE",
+      "source": "The Muscle-Readers, a Historical Sketch • [open source](https://drive.google.com/file/d/1mDfNG-yT3md9S8PWCk3Fu1rSnE0CL1o3/view)",
+      "source_id": "LEV-02",
+      "title": "Controls collapse the miracle",
+      "transformation": "Invent the protocol and result. Keep the epistemic turn: a mundane mechanism need not make the experience emotionally mundane."
+    },
+    {
+      "dramatic_use": "Two teams watch the same interaction under opposite predictions and leave with incompatible but internally coherent stories.",
+      "evidence_or_dynamic": "Expectations about what will happen can act as an attentional lens, changing which threats, affordances, and interpretations become salient.",
+      "role": "SECONDARY / RESEARCH REPORT",
+      "source": "On Intention Research • [open source](https://drive.google.com/file/d/1HEfbkt1ppsejsrB1oXevjvHnTUcGLmkh/view)",
+      "source_id": "LEV-06",
+      "title": "Intention steers attention",
+      "transformation": "Use a fictional alignment exercise and let the divergence reshape alliances and romantic trust."
+    }
+  ],
+  "compiler_version": "trusted-read-compiler.v1",
+  "packet_hash": "f0e3ba356cfd33ab2a123e49711c126d006265a197b17cd8a084f622db5c3959",
+  "scene_id": "S01",
+  "schema_version": "fiction-harness.v1",
+  "source_ids": [
+    "MPC-01",
+    "MPC-05",
+    "MPC-07",
+    "LEV-01",
+    "LEV-02",
+    "LEV-06"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "campaign_hash": "ef2afbebba4ccbf325c611f7dec82caa5c803ddba0cd02090b0577cde91523d1",
+  "cell_id": "fulcrum-s01",
+  "complete_story": false,
+  "completed_through_movement": "dyadic-contact",
+  "created_at": "2026-08-08T17:15:36.860717+00:00",
+  "finalist_set_hash": "3443e741310ac5863a1825349176999f9d346e670343a0e67e07c65e1b003572",
+  "finalists": [
+    {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v70c-s01-dyadic-exact-replay/loom/fulcrum-s01/assemblies/fulcrum-s01.dyadic-contact.r0.0.1362001.json",
+      "assembly_verified": true,
+      "candidate_id": "fulcrum-s01.dyadic-contact.r0.0.1362001",
+      "selection_score": 5.885714285714285,
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.\n\nHis body still. She saw hazel eyes behind dark lashes, a slender nose, full lips pressed together.\nIt took him three seconds to sit up and speak. “Hello. You must be Mara.”\nShe hesitated before answering, a little out of breath herself. The man on the couch was still only half-sitting. “Yeah, that’s me. Where’s Voss?”\n“He sends his apologies. There was a scheduling conflict.” His eyes met hers. “I’m Jonah Reed. Welcome to Fulcrum.”\nShe didn’t quite know what to do. This wasn’t the welcome she’d expected. He wasn’t wearing a watch, or an expression that she could read.\nJonah smiled briefly and rose. “He asked me to show you around instead.”\nThe man before her was very tall, six three or so, with wide shoulders and a narrow waist. She noted the way his eyes darted about the room—watching her watch him. It gave her a weird feeling she couldn’t shake.\n“I’m Mara.” She shook his offered hand, feeling heat rise in her cheeks. “It’s nice to meet you.”\nHis smile widened, revealing dimples on either side of his lips. “Likewise. Come on, I’ll give you the tour.”",
+      "text_hash": "822d0cfef56d51da9a3004510b12c395994a199fcf346d22eeb2fa8ce893ba4c",
+      "word_count": 290
+    }
+  ],
+  "recipe_id": "v4-anthology.movement-local-excerpt",
+  "record_type": "LoomFinalists",
+  "trajectory_id": "",
+  "version": "gemma-fiction-autoresearch.v4"
+}

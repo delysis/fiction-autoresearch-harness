@@ -1,0 +1,146 @@
+{
+  "audit": {
+    "charged-restraint": {
+      "critic_rejected": [],
+      "eligible_judged": 1,
+      "selected": "runway.graph-paired-continuity-bookfront.charged-restraint.963001",
+      "selection_source": "research_lead_explicit"
+    },
+    "fulcrum-s01": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    },
+    "institutional-pressure-control": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    },
+    "married-explicit": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    }
+  },
+  "campaign_hash": "e0711af01af1253a204cf9ca03e3e2ac30fe04f197c990c2c9ac20862fe2ce59",
+  "lock_hash": "f3a2ec1bd97257971e93882aede138ad5e056d08d54c12e54e3089807f0f7a33",
+  "record_type": "CriticLockedGeneratedRunways",
+  "runways": {
+    "charged-restraint": {
+      "campaign_hash": "e0711af01af1253a204cf9ca03e3e2ac30fe04f197c990c2c9ac20862fe2ce59",
+      "cell_id": "charged-restraint",
+      "completed_at": "2026-08-08T05:51:05.467678+00:00",
+      "conditioning": "graph-paired-continuity-bookfront",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "diagnostic_features": {
+        "dialogue_mark_count": 0,
+        "promotion_use": "forbidden",
+        "sensory_term_count": 6,
+        "word_count": 123
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 260,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_kiss_history": false,
+          "first_person_narration_count": 0,
+          "heat_ceiling_violation": false,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "first_kiss_continuity": true,
+          "heat_ceiling": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.4-first-kiss-and-heat-ceiling"
+      },
+      "overlap": {
+        "candidate_id": "runway.graph-paired-continuity-bookfront.charged-restraint.963001",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "2470dafc0ad9bb64196817e0c8fc32d85b379507502ec662f2f004bed04bd758",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "66bb2adde5d23e60b3b858ce3cbb9c4ab54077cf70056bf10e159c4abfe168de",
+      "raw_hash": "56538b21795fab5e4b727fa918a9acf7c7878018623f016443da3489da420991",
+      "record_type": "GeneratedRunway",
+      "request_hash": "7fe95c0e1b5538d40601587ce02de059d855be37cb2eed89dffed4d586d073c7",
+      "runway_id": "runway.graph-paired-continuity-bookfront.charged-restraint.963001",
+      "sampler": {
+        "min_p": 0.02,
+        "temperature": 0.98,
+        "top_p": 0.98,
+        "xtc_probability": 0.15
+      },
+      "seed": 963001,
+      "selection_score": 0.0,
+      "source_ids": [
+        "gabaldon.example-12"
+      ],
+      "span": {
+        "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.963001",
+        "raw_char_end": 677,
+        "raw_char_start": 0,
+        "raw_hash": "56538b21795fab5e4b727fa918a9acf7c7878018623f016443da3489da420991",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v28-gabaldon12-continuity/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.963001.txt",
+        "role": "opening-runway",
+        "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.963001",
+        "text_hash": "b72bf90b607f153fbd0219fd482729c704d889847abbc4f0a9fb2473c86be40c"
+      },
+      "status": "completed",
+      "text": "Jonah Vale waited with his hand open beside hers on the bottom step. No one else was in sight. No one would come out, either; the late session was over. The lab group wouldn’t be here again until next Tuesday night.\n\nHe didn’t look at Mara. He kept watching the dark driveway.\n\nShe reached out slowly until her fingertips were in his palm.\n\nHis fingers wrapped around her hand.\n\nShe leaned on her elbow as she closed her hand.\n\nThey could walk or take the car. Their apartment windows were already black, the late-night campus security lights already white. Their parking lot was as empty as the street, and the campus was quiet.\n\nShe took a breath as he closed his other hand.",
+      "text_hash": "b72bf90b607f153fbd0219fd482729c704d889847abbc4f0a9fb2473c86be40c",
+      "timings": {
+        "cache_n": 0,
+        "predicted_ms": 20901.475,
+        "predicted_n": 260,
+        "predicted_per_second": 12.439313493425704,
+        "predicted_per_token_ms": 80.39028846153846,
+        "prompt_ms": 4858.084,
+        "prompt_n": 951,
+        "prompt_per_second": 195.75618700705877,
+        "prompt_per_token_ms": 5.108395373291272
+      },
+      "usage": {
+        "completion_tokens": 260,
+        "prompt_tokens": 951
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "selection_policy": "hard-gates-then-read-only-critic-with-recorded-research-lead-overrides.v2",
+  "version": "gemma-fiction-autoresearch.v4"
+}

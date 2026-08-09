@@ -1,0 +1,57 @@
+Livia poured amber tea from a ceramic carafe and slid it to Mara.
+
+Mara accepted the warm cup before she could make a reason. “Thank you.”
+
+Livia’s eyes went narrow. “Don’t thank me.”
+
+“For the tea.”
+
+“For my attention. That would be presumptuous.”
+
+Mara sipped. “We’re using my attention. What’s the exchange rate?”
+
+Livia’s smile had more teeth in it than the question deserved. “You’ve been waiting.”
+
+Mara felt her pulse pick up. The sensors had been packed away with the puck.
+
+“I’m new,” she said.
+
+“Not to calibration. You’re waiting for me to make an offer.”
+
+Mara set the cup down with a firm enough edge to prove she had heard. “Is that against the rules?”
+
+“I make the rules.”
+
+“That explains a great deal.”
+
+“You think I’m a tyrant.”
+
+“No. An aristocrat.” Mara smiled at Jonah. “He thinks I’m a tyrant.”
+
+Jonah paused mid-key. “I was trying not to think.”
+
+“Good try.”
+
+He looked toward Livia and found her still watching Mara.
+
+She leaned back, hands folded behind her head. “You know what you want.”
+
+The dry heat in Mara’s throat had nothing to do with data density. “I’m new.”
+
+Livia nodded as though this confirmed something she already knew.
+
+“You think they let you through the gate because you’re clever,” Livia said. “You’re waiting for the test where you fail to be exceptional. You don’t know that you’re more than capable.”
+
+Mara opened her mouth, closed it, and found no better place to rest it. She kept smiling.
+
+“There’s your proof,” Livia said. “If I were wrong, you’d be saying something.”
+
+Mara picked up the tea and let its heat enter her hands.
+
+“You don’t want to fail,” Livia said. “You want to be found out.”
+
+“I’m new,” Mara repeated.
+
+Livia laughed.
+
+Mara sipped again. It felt less like drinking tea and more like holding a small portion of the room in her hands. The cup was heavy.

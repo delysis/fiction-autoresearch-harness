@@ -1,0 +1,35 @@
+{
+  "emotional_offer": "Inquiry about well-being",
+  "emotional_counteroffer": "Lack of self-awareness",
+  "relationship_history": "Unspecified",
+  "present_stakes": "Social constraint and personal unease",
+  "dialogue_act_sequence": [
+    "Invitation to leave",
+    "Expression of anxiety",
+    "Dismissal of concern",
+    "Agreement",
+    "Grammatical query",
+    "Explanation",
+    "Observation of stillness",
+    "Question of health",
+    "Admission of unawareness",
+    "Challenging question",
+    "Silent acknowledgment of repulsion"
+  ],
+  "body_language_counterpoint": "Motionless posture versus direct, swift gaze",
+  "sensory_channels": [
+    "Sight",
+    "Perceived repulsion"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Seated near a fire",
+  "agency_actions": [
+    "Ursula attempts conversation",
+    "Birkin remains motionless",
+    "Birkin avoids answering"
+  ],
+  "relationship_delta": "Increased tension/distance",
+  "story_state_change": "Shift from light banter to palpable unease",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

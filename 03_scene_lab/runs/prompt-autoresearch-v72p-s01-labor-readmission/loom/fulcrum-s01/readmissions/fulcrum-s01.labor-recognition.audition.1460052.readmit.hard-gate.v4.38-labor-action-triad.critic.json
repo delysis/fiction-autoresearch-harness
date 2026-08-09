@@ -1,0 +1,16 @@
+{
+  "scores": {
+    "specificity": 6,
+    "subtext": 7,
+    "relational_asymmetry": 7,
+    "spatial_clarity": 6,
+    "dramatic_dwell": 6,
+    "prose_freshness": 5,
+    "causal_progress": 5
+  },
+  "evidence_id": "E10",
+  "defects": [
+    "The phrase 'noticed herself noticing' is slightly redundant."
+  ],
+  "hard_reject": false
+}

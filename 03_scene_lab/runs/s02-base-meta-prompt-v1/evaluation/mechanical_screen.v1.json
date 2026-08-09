@@ -1,0 +1,52 @@
+{
+  "by_arm": {
+    "short-control-4k": {
+      "best_call_id": "short-control-4k:881003",
+      "eligible": 0,
+      "family": "short-control",
+      "mean_proxy": 53.1685,
+      "nominal_context_tokens": 4000,
+      "samples": 1
+    }
+  },
+  "record_type": "BaseMetaPromptEvaluation",
+  "records": [
+    {
+      "abstract_terms_per_1000": 0.0,
+      "arm_id": "short-control-4k",
+      "cache": {
+        "cache_n": 1,
+        "prompt_n": 4781
+      },
+      "cadence_hits_per_1000": 1.8315,
+      "call_id": "short-control-4k:881003",
+      "candidate_hash": "305acb4e3cef8073d3863158e0ba2b0d4ca2c3f53c3ccc953e0c57897df6d99b",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v1/candidates/short-control-4k.881003.md",
+      "complete": false,
+      "dialogue_turns": 29,
+      "elapsed_seconds": 646.4169406250003,
+      "eligible": false,
+      "finish_reason": "stop",
+      "head_hop": false,
+      "literary_proxy": 53.1685,
+      "prompt_tokens": 4781,
+      "seed": 881003,
+      "source_overlap": [],
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": false,
+          "mara_accepts": false,
+          "session_continues": false,
+          "tea_care": false,
+          "telemetry_access": false,
+          "unexceptional_fear": false
+        },
+        "coverage": 0.0,
+        "forbidden_future": false
+      },
+      "words": 1092
+    }
+  ],
+  "version": "base-meta-prompt.v1",
+  "warning": "Literary proxy is a screen, never the final selector; surviving prose requires blind close reading."
+}

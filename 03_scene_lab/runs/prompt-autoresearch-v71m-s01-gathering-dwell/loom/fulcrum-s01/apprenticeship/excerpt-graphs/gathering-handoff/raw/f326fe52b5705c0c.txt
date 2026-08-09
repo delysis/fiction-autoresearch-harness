@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "casual social visit",
+  "emotional_counteroffer": "mild sympathy",
+  "relationship_history": "established acquaintance",
+  "present_stakes": "social interaction after church",
+  "dialogue_act_sequence": [
+    "greeting",
+    "inquiry about purpose",
+    "denial of specific purpose",
+    "expression of shared mood",
+    "acknowledgement of children's presence"
+  ],
+  "body_language_counterpoint": "mild surprise, sympathetic expression",
+  "sensory_channels": [
+    "auditory",
+    "visual"
+  ],
+  "narrative_distance_curve": "close",
+  "physical_logistics": "indoor setting, arrival of guests",
+  "agency_actions": [
+    "Birkin's decision to call",
+    "Brangwen's mild response"
+  ],
+  "relationship_delta": "stable",
+  "story_state_change": "transition to domestic scene",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

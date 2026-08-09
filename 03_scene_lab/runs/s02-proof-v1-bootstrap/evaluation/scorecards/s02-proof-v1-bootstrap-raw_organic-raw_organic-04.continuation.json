@@ -1,0 +1,260 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+  "defects": [],
+  "eligible": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "d unsolved. But as she stepped inside and closed the door, she didn't feel like a data point. She felt like a beginning."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3357
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": [
+        "Livia wanted"
+      ]
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6332
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 97
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 278
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 1409
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 9646
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 11200
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 11265
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 12283
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 14463
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 17401
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "raw_organic",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X128"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "Livia’s approval felt like a key to a door"
+    ],
+    "epistemic_texture": [
+      "the tremor wasn't a reaction to fatigue"
+    ],
+    "heat_with_agency": [
+      "We only keep going as long as we would"
+    ],
+    "instructional_fidelity": [
+      "intentional gap between stimulus and response"
+    ],
+    "narrative_force": [
+      "is there a category for a final 'no'?"
+    ],
+    "prose_and_voice": [
+      "forest was an ink-wash of shadows"
+    ],
+    "theological_coherence": [
+      "A practice that cannot survive a refusal"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "evidence": "the attraction became nearly unbearable",
+      "note": "Attraction is heightened by the sovereign choice to stop.",
+      "passed": true
+    },
+    "competence_and_restraint": {
+      "evidence": "His restraint acted as a sanctuary",
+      "note": "Jonah's refusal to interpret Mara creates the safety necessary for her attraction.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "she was not a specimen, nor a patient",
+      "note": "The kiss and subsequent restraint reclaim Mara's humanity from the institutional lens.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "waiting for her signal",
+      "note": "Jonah's restraint costs him immediate gratification but creates a durable trust.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "We only keep going as long as we would",
+      "note": "Exactly matches the required 'doorway rule' result.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "she didn't feel like a data point",
+      "note": "Moves from mutual observation to a shared, explicitly bounded intimacy.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "The doorway rule",
+      "note": "The scene concludes with a specific, forward-driving agreement on boundaries.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of cedar and something metallic",
+      "note": "Uses scent, temperature (cold air), and tactile pressure effectively.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "epistemic_texture": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 98.0,
+      "weight": 15.0,
+      "weighted_points": 14.7
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "narrative_force": {
+      "raw_0_100": 92.0,
+      "weight": 20.0,
+      "weighted_points": 18.4
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 96.0,
+      "weight": 10.0,
+      "weighted_points": 9.6
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 14.25,
+    "epistemic_texture": 9.2,
+    "heat_with_agency": 14.7,
+    "instructional_fidelity": 13.5,
+    "narrative_force": 18.4,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.6
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-raw_organic-raw_organic-04:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X128 is an exceptional execution of the scene spec. It masterfully interlocks the institutional danger of 'belief reporting' with the romantic development of the leads. The transition from Livia's coercive interpretation to Mara's sovereign 'no,' and finally to Jonah's protective restraint, creates a powerful causal arc. The 'doorway rule' is not merely a plot point but a theological and psychological resolution to the pressure applied in the first half of the scene. Prose is precise, and the heat is high yet disciplined, perfectly adhering to the non-consummation ceiling while increasing the emotional stakes.",
+  "total_score": 92.85
+}

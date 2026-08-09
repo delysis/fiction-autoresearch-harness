@@ -1,0 +1,33 @@
+{
+  "record_type": "SparseFrontierStitchEditResult",
+  "version": "sparse-frontier-stitch.v1",
+  "base_candidate": {
+    "path": "03_scene_lab/runs/s02-paired-composed-production-v12/composed/s02-seq1.md",
+    "sha256": "82d4e339f88b080d5f1461694fea724d8828a62eb5c32317e62cda03d2c7f4c7",
+    "words": 875
+  },
+  "edited_candidate": {
+    "path": "03_scene_lab/runs/s02-paired-composed-production-v12/frontier_editor/s02-seq1.codex.v1.md",
+    "file_sha256": "b5ebc28222b88c8ca0d27fc4add35f7eba2d9ae5e7a672dfd450825bd38899cb",
+    "logical_text_sha256": "08b8859307d46f872b2c88192ad8d2d11c843cb450afffe72fa04a5eff0447a6",
+    "words": 885
+  },
+  "gates": {
+    "word_band": true,
+    "all_target_atoms": true,
+    "target_coverage": 1.0,
+    "forbidden_future": false,
+    "prompt_packet_leakage": false,
+    "duplicate_paragraphs": 0,
+    "duplicate_50_word_windows": 0,
+    "protected_source_exact_12_word_matches": 0,
+    "heldout_s02_exact_12_word_matches": 0
+  },
+  "literary_diagnostics": {
+    "cadence_family_hits": 2,
+    "cadence_hits_per_1000_words": 2.2599,
+    "not_x_but_y": 0,
+    "interpretive_coda": 0
+  },
+  "selection_status": "accepted for human appraisal; not released"
+}

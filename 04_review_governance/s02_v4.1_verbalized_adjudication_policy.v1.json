@@ -1,0 +1,139 @@
+{
+  "version": "verbalized-plan-adjudication-policy.v1",
+  "source_quality_report_hash": "953d105c910999bd2ad7b1192b13691abd645511cc593b875e7301e99a053886",
+  "source_locked_plan_set_hash": "35d9dfba00c43d5fafc69775e3200feb078716f54765b85d04f1c4af2bbbc734",
+  "decisions": [
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-2",
+      "title": "The Moral Mirror",
+      "action": "select",
+      "rank": 1,
+      "rationale": "The flattering label, Mara's refusal, Miriam's lost neutrality, and Jonah's public contradiction form the strongest single causal engine.",
+      "defect_labels": ["lover_cost_needs_consequence", "uncanny_ambiguity_needs_grounding"],
+      "repair_overlay": "This supersedes conflicting sampled coordinates. Jonah's public contradiction costs him observer access for the next trial, not merely approval. Miriam loses her neutral-observer status. The phrase in Jonah's notes was available through an earlier remark or shared project material, although its exact recurrence remains unsettling. Fulcrum disputes the incident instead of instantly reforming."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-8",
+      "title": "The Vulnerability Gambit",
+      "action": "select",
+      "rank": 2,
+      "rationale": "Mara's honest inadequacy can make her less useful to Livia while making intimacy with Jonah more truthful.",
+      "defect_labels": ["admission_is_not_cost", "instant_culture_repair"],
+      "repair_overlay": "This supersedes conflicting sampled coordinates. Mara's specific admission makes Livia's status assignment unusable and creates the opening Mara chooses. Miriam receives a written protocol warning. Jonah admits his superiority and relinquishes his monitoring access while preserving Mara's record. Fulcrum circulates a contested incident memo rather than repairing its culture. The revoked-access timestamp may be an administrative clock or cache error."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-5",
+      "title": "The Social Paradox",
+      "action": "select",
+      "rank": 3,
+      "rationale": "Choosing to become socially uninteresting is an unusual active tactic, and Miriam's surrendered seniority can carry material cost.",
+      "defect_labels": ["setting_mechanics_vague", "perfect_correlation_needs_channel"],
+      "repair_overlay": "This supersedes conflicting sampled coordinates. Mara deliberately volunteers for an unobserved logistics task already needed by Fulcrum; it is low-status work, not ritual humiliation. Miriam transfers her senior shift and loses priority on the next research assignment. Jonah's wrist pressure tracks Mara's pulse only through visible timing cues and a nearby monitor, with coincidence still possible. His candor damages attraction before it deepens trust."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-8",
+      "title": "The Irony Collapse",
+      "action": "select",
+      "rank": 4,
+      "rationale": "The distinction between being understood and being loved supplies emotional pressure, subtext, and a non-sermon-shaped refusal.",
+      "defect_labels": ["protector_cost_vague", "lover_cost_vague", "stock_mirror"],
+      "repair_overlay": "This supersedes conflicting sampled coordinates. Mara's deliberately ugly answer breaks Livia's calibrated script and Mara chooses the exit it opens. Miriam contradicts the official session account and loses neutral-observer standing. Jonah abandons a protective joke, names his part in the setup, and gives up privileged access to the recording. The mirror distortion has plausible causes in old glass, angle, and lighting; it remains only a disturbing observation."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-1",
+      "title": "The Debt of Kindness",
+      "action": "select",
+      "rank": 5,
+      "rationale": "Genuine empathy that creates obligation is the pool's most specific and tempting Livia tactic once the external bailout is removed.",
+      "defect_labels": ["alarm_bailout", "admission_is_not_evidence", "confirmed_paranormal"],
+      "hard_reject_resolution": "Remove the alarm as exit cause, give Mara the decisive refusal, materialize both allies' costs, and restore an ordinary explanation for the recording.",
+      "repair_overlay": "This supersedes conflicting sampled coordinates. No alarm or failure rescues Mara. She names the offered kindness and the debt it is meant to create, declines repayment, releases the relevant session timestamp, and walks out. Miriam signs the dissenting log and loses neutral status. Jonah supplies the earlier evidence he withheld and loses recording access. Dropped frames, reflection, or timestamp drift can explain the apparently impossible gesture."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-7",
+      "title": "The Calibration Error",
+      "action": "select",
+      "rank": 6,
+      "rationale": "Cue noise directly serves the project's epistemic mechanism while attraction makes Mara's control harder to execute.",
+      "defect_labels": ["exit_action_placeholder", "costs_placeholder", "instant_institutional_realization"],
+      "hard_reject_resolution": "Specify the cue-control action, materialize the costs, and make the apparently unseen movement available through reflection or another participant.",
+      "repair_overlay": "This supersedes conflicting sampled coordinates. After Livia publicly commits to one interpretation, Mara deliberately changes a single visible cue while keeping her answer constant, then refuses both incompatible readings and leaves. Miriam accepts a recorded rebuke instead of insulting anyone. Jonah identifies his formerly anonymous security report and loses anonymity and lab access. Livia may have tracked a screen reflection or another participant's motion, so no impossible movement is established."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-2",
+      "title": "The Logic of Silence",
+      "action": "select",
+      "rank": 7,
+      "rationale": "Refusing the interpretive channel is clean active agency, and Miriam burning a professional bridge creates a usable consequence.",
+      "defect_labels": ["telepathy_confirmation", "lover_cost_vague"],
+      "hard_reject_resolution": "Make the withheld word physically available through ordinary cue channels and give Jonah a material loss.",
+      "repair_overlay": "This supersedes conflicting sampled coordinates. Mara first writes the withheld word in a private margin, closes the notebook, and then refuses speech; Livia's reaction can follow eye-line, lip movement, prior vocabulary, or chance. Miriam loses her next observer assignment by escorting Mara out. Jonah discloses his failed security result and forfeits access to the project data. Silence creates the opening, but Mara chooses and executes the exit."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-5",
+      "title": "The Sensory Breach",
+      "action": "select",
+      "rank": 8,
+      "rationale": "It uniquely makes bodily attraction causal and can diversify the batch once its atmosphere-only mechanics and paranormal implication are repaired.",
+      "defect_labels": ["atmosphere_without_event_chain", "paranormal_sensory_claim", "costs_vague"],
+      "hard_reject_resolution": "Replace remote sensing with visible inference, make Mara's room change a chosen causal action, and give the allies durable costs.",
+      "repair_overlay": "This supersedes conflicting sampled coordinates. Mara deliberately moves the session into the bright adjoining workroom, where reflective glass and multiple observers break Livia's private cue channel; Mara then names her choice and leaves. Miriam blocks the doorway camera and receives a written warning. Jonah infers tension from breath, posture, and a live monitor, not distance-sensing, and surrenders monitor access. The scent can come from ventilation, cleanser, or another participant."
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-3",
+      "title": "The Vulnerability Gamble",
+      "action": "exclude",
+      "rationale": "The steady pulse is useful, but group-therapy shorthand dominates and every ally cost is only a warning or admission.",
+      "defect_labels": ["generic_therapy_resolution", "costless_allies", "instant_policy_repair"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-4",
+      "title": "The Protocol Breach",
+      "action": "exclude",
+      "rationale": "Surveillance versus intimacy is usable, but a hardware failure and untouched console create two mechanical conveniences around the exit.",
+      "defect_labels": ["hardware_bailout", "confirmed_impossible_override"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-1",
+      "title": "The Proprietary Pivot",
+      "action": "exclude",
+      "rationale": "Blackout, deleted evidence, audit, and mystery login stack machinery while Mara causes failure accidentally rather than choosing an exit.",
+      "defect_labels": ["mara_lacks_exit_agency", "plot_machinery_stack"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-3",
+      "title": "The Mirror Trap",
+      "action": "exclude",
+      "rationale": "The premise is on-theme, but the causal fields stay abstract and rely on unspecified secrets, misunderstandings, and a stock note.",
+      "defect_labels": ["abstract_causality", "stock_uncanny_prop"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-4",
+      "title": "The Protocol Paradox",
+      "action": "exclude",
+      "rationale": "A forgotten rule, universal acceptance, apology, and moving object form a chain of conveniences rather than costly agency.",
+      "defect_labels": ["rule_bailout", "frictionless_reform", "confirmed_paranormal"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-6",
+      "title": "The Ritual Rupture",
+      "action": "exclude",
+      "rationale": "Prayer appears to cause a temperature drop, turning practice into a spell, while the institution reforms without friction.",
+      "defect_labels": ["confirmed_paranormal", "frictionless_reform", "practice_as_spell"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-6",
+      "title": "The Proxy War",
+      "action": "exclude",
+      "rationale": "The plan collapses the triangle into an us-against-the-world alliance, makes Jonah's privacy choice costless, and lets him author Mara's exit.",
+      "defect_labels": ["alliance_shortcut", "mara_lacks_exit_agency", "costless_lover"]
+    },
+    {
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-7",
+      "title": "The Sacred Boundary",
+      "action": "exclude",
+      "rationale": "The plan invites a detachable sermon and treats conscience, shared dream, and institutional acknowledgment as conclusions instead of events.",
+      "defect_labels": ["sermon_insertion", "confirmed_paranormal", "frictionless_reform"]
+    }
+  ]
+}

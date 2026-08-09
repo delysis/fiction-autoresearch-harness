@@ -1,0 +1,253 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+  "defects": [],
+  "eligible": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "e she had arrived at the compound, she felt entirely whole, held together by the simple, enduring power of her own *no*."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3514
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6489
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 195
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 783
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 3021
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 4260
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 7014
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 10717
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 12986
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 14728
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 17111
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "hybrid_base_program",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X225"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "Livia’s presence was no longer that of a friend or a mentor"
+    ],
+    "epistemic_texture": [
+      "the system had no category for a person who simply chose"
+    ],
+    "heat_with_agency": [
+      "only when both of us would still be glad if the kiss stopped"
+    ],
+    "instructional_fidelity": [
+      "the concept of the three-second beat—not as a trick of performance"
+    ],
+    "narrative_force": [
+      "Is my refusal to proceed a data point to be solved"
+    ],
+    "prose_and_voice": [
+      "the profound, terrifying empathy of people who believed they were witnessing"
+    ],
+    "theological_coherence": [
+      "ensured every second of intimacy was a fresh, freestanding choice"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "competence_and_restraint": {
+      "evidence": "The restraint he exercised—the deliberate choice to let her be",
+      "note": "Jonah's refusal to narrate Mara's experience creates the erotic and emotional pull.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "The Doorway Rule,\" Mara said",
+      "note": "The physical intimacy leads directly to the establishment of a revocable consent mechanism.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "He stopped an inch from her lips, his breath warm",
+      "note": "Jonah's pause costs him immediate gratification but creates a space for Mara's agency.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "only when both of us would still be glad if the kiss stopped",
+      "note": "Exactly matches the required relationship result in the profile.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "held together by the simple, enduring power of her own no",
+      "note": "Moves from a state of being interpreted/dissected to a state of mutual agency and a shared, explicit boundary.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "I want a rule,\" she breathed, her voice shaky but firm",
+      "note": "The scene moves from institutional pressure to a private, chosen limit that establishes a new relationship dynamic.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of ozone and the stale residue of expensive tea",
+      "note": "Uses ozone/tea, velvet/concrete, and night air/pine to distinguish the 'jar' from the 'world'.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "epistemic_texture": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 98.0,
+      "weight": 15.0,
+      "weighted_points": 14.7
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 96.0,
+      "weight": 15.0,
+      "weighted_points": 14.4
+    },
+    "narrative_force": {
+      "raw_0_100": 92.0,
+      "weight": 20.0,
+      "weighted_points": 18.4
+    },
+    "prose_and_voice": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "theological_coherence": {
+      "raw_0_100": 94.0,
+      "weight": 10.0,
+      "weighted_points": 9.4
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 14.25,
+    "epistemic_texture": 9.2,
+    "heat_with_agency": 14.7,
+    "instructional_fidelity": 14.4,
+    "narrative_force": 18.4,
+    "prose_and_voice": 13.5,
+    "theological_coherence": 9.4
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-02:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X225 is a masterful execution of the scene spec. It perfectly balances the high-pressure 'tribunal' of the first half with the high-tension intimacy of the second. The 'three-second beat' and 'one clean question' are not merely mentioned but are the causal engines of Mara's victory. The transition from Livia's predatory interpretation to Jonah's protective restraint is handled with precision, and the 'Doorway Rule' is integrated as a meaningful act of relationship-building rather than a plot device. The prose is lush and atmospheric without becoming purple, and the theological underpinnings of agency and chastity are fully embodied in the characters' choices.",
+  "total_score": 93.85
+}

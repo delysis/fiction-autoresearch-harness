@@ -1,0 +1,31 @@
+{
+  "artifact_id": "runway.staged-natural-anthology.fulcrum-s01.1333019",
+  "manuscript_hash": "fb664992b7af3bd835df3372cda72700e9ab36946e9462c2adbca5a6f2757c94",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.staged-natural-anthology.fulcrum-s01.1333019",
+      "raw_char_end": 293,
+      "raw_char_start": 0,
+      "raw_hash": "495c731e341d29a5a0dc4f13d3ca6dd7367485c21da9607bbbe5e18dc558600d",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v52-s01-natural-anthology-stage-gate/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1333019.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-natural-anthology.fulcrum-s01.1333019",
+      "text_hash": "8e9f3d64c1eb438ff5d77a462d866c26bebbc9eed289e6d3a2699e424fb26e3d"
+    },
+    {
+      "call_id": "runway.staged-natural-anthology.fulcrum-s01.1333019",
+      "raw_char_end": 1833,
+      "raw_char_start": 0,
+      "raw_hash": "19f70a76d2822c47716de015bd5e7eba1dbe83931a24e0c605fe87598bbd8711",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v52-s01-natural-anthology-stage-gate/runways/raw/staged/runway.staged-natural-anthology.fulcrum-s01.1333019.txt",
+      "role": "opening-runway-continuation",
+      "span_id": "runway.staged-natural-anthology.fulcrum-s01.1333019.continuation",
+      "text_hash": "74f3a6af104b95972f829d2230aead8436b4cd81f10cd05a96e9cb011be26f63"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

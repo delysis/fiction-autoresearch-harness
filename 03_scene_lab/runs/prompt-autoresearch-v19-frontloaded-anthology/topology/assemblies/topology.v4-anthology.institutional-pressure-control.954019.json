@@ -1,0 +1,31 @@
+{
+  "artifact_id": "topology.v4-anthology.institutional-pressure-control.954019",
+  "manuscript_hash": "908654cf0d8cf61db5394784dfa0a1f088725e99e5fe18d3b5fe1e10e04a85b0",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.institutional-pressure-control.952019",
+      "raw_char_end": 511,
+      "raw_char_start": 0,
+      "raw_hash": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean/runways/raw/runway.institutional-pressure-control.952019.txt",
+      "role": "opening-runway",
+      "span_id": "runway.institutional-pressure-control.952019",
+      "text_hash": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500"
+    },
+    {
+      "call_id": "topology.v4-anthology.institutional-pressure-control.954019",
+      "raw_char_end": 2625,
+      "raw_char_start": 1,
+      "raw_hash": "c4b730684709a150231eaf20c765851c2fa978d34f7295119826c1fde2641016",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v19-frontloaded-anthology/topology/raw/topology.v4-anthology.institutional-pressure-control.954019.txt",
+      "role": "topology-movement",
+      "span_id": "topology.v4-anthology.institutional-pressure-control.954019.segment",
+      "text_hash": "93acb718697afbb0ee159974829602f4acead7f6714171e2a8790da9fe583bba"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

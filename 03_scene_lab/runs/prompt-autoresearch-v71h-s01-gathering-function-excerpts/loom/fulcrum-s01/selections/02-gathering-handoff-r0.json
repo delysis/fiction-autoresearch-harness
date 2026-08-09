@@ -1,0 +1,31 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "gathering-handoff",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1379001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1379018",
+      "eligible": false,
+      "score": 0.496551724137931
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1379035",
+      "eligible": false,
+      "score": 0.4890173410404624
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1379052",
+      "eligible": false,
+      "score": 0.4873096446700507
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [],
+  "selection_seed": 1359195,
+  "version": "gemma-fiction-autoresearch.v4"
+}

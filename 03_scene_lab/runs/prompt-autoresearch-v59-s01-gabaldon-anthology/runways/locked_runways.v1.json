@@ -1,0 +1,163 @@
+{
+  "audit": {
+    "charged-restraint": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    },
+    "fulcrum-s01": {
+      "critic_rejected": [],
+      "eligible_judged": 1,
+      "selected": "runway.staged-natural-anthology.spark.fulcrum-s01.1340073",
+      "selection_source": "research_lead_explicit"
+    },
+    "institutional-pressure-control": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    },
+    "married-explicit": {
+      "critic_rejected": [],
+      "eligible_judged": 0,
+      "selected": null,
+      "selection_source": "critic_boltzmann"
+    }
+  },
+  "campaign_hash": "8b70bf9e5e28be1daf469f49b57446509e482423b13b406b919dfb2d6f4602d2",
+  "lock_hash": "fa60cb6d5f2ead92114beecac740b982b54363e04525f1e11864d5967d032b06",
+  "record_type": "CriticLockedGeneratedRunways",
+  "runways": {
+    "fulcrum-s01": {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v59-s01-gabaldon-anthology/runways/assemblies/runway.staged-natural-anthology.spark.fulcrum-s01.1340073.json",
+      "campaign_hash": "8b70bf9e5e28be1daf469f49b57446509e482423b13b406b919dfb2d6f4602d2",
+      "cell_id": "fulcrum-s01",
+      "completed_at": "2026-08-08T15:25:25.442869+00:00",
+      "conditioning": "staged-natural-anthology-spark-only",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "diagnostic_features": {
+        "promotion_use": "forbidden",
+        "word_count": 139
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 190,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_kiss_history": false,
+          "first_person_narration_count": 0,
+          "heat_ceiling_violation": false,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "opening_manuscript_format": true,
+          "opening_stage": true,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "stop_then_reescalate": false,
+          "uncertainty_then_escalation": false,
+          "word_count": 139
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "first_kiss_continuity": true,
+          "heat_ceiling": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "opening_manuscript_format": true,
+          "opening_spark_length": true,
+          "opening_stage": true,
+          "pov": true
+        },
+        "passed": true,
+        "version": "opening-spark-gate.v1"
+      },
+      "overlap": {
+        "candidate_id": "runway.staged-natural-anthology.spark.fulcrum-s01.1340073",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "67a2af2ea109c4c04c9d0851519bc97284fed0975f03c2e75192ce0ec16514f6",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "94ba6fb49de1b7dbad950beb1392cf07c350b1a7e60e33bebd8e3257dc075010",
+      "raw_hash": "bfb2cf9acb71e372523c088ca8fbefc4791a86c59877ab4e3cd549dc265ff903",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v59-s01-gabaldon-anthology/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340073.txt",
+      "record_type": "GeneratedRunway",
+      "request_hash": "4cca881532dc3691ca9e1b83e879c3b532819d2d34d5d8853b2c09be6a695032",
+      "runway_id": "runway.staged-natural-anthology.spark.fulcrum-s01.1340073",
+      "runway_kind": "opening-spark",
+      "runway_word_band": [
+        35,
+        160
+      ],
+      "sampler": {
+        "dry_allowed_length": 3,
+        "dry_base": 1.75,
+        "dry_multiplier": 0.0,
+        "min_p": 0.02,
+        "repeat_penalty": 1.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.1
+      },
+      "seed": 1340073,
+      "selection_score": 0.0,
+      "separators": [],
+      "source_ids": [
+        "gabaldon.example-12",
+        "gabaldon.example-01",
+        "gabaldon.example-11",
+        "gabaldon.example-02",
+        "gabaldon.example-03"
+      ],
+      "spans": [
+        {
+          "call_id": "spark.staged-natural-anthology.fulcrum-s01.1340073",
+          "raw_char_end": 735,
+          "raw_char_start": 0,
+          "raw_hash": "bfb2cf9acb71e372523c088ca8fbefc4791a86c59877ab4e3cd549dc265ff903",
+          "raw_path": "03_scene_lab/runs/prompt-autoresearch-v59-s01-gabaldon-anthology/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340073.txt",
+          "role": "opening-spark",
+          "span_id": "spark.staged-natural-anthology.fulcrum-s01.1340073",
+          "text_hash": "bfb2cf9acb71e372523c088ca8fbefc4791a86c59877ab4e3cd549dc265ff903"
+        }
+      ],
+      "status": "completed",
+      "text": "The building seemed to be waiting for them; the evening’s light lay heavy on the glass walls of the entrance.\n“We’re the last ones here,” Mara said aloud, to break her silence.\nHer driver was a white man in his late forties, bald, with a lined and thoughtful face. He gave her a friendly smile, which she returned.\n“Not much traffic on Route One after rush hour. We got lucky.”\n“How long have you been coming out to this place, Mr. …?” She couldn’t remember his name, from her phone call; she was still reeling from the drive in and the view of the buildings, rising in a terrace toward the ridge above them.\n“Call me Hal,” he said. “I don’t mind. I’ve been coming here for two years, on and off.”\n“And do you … think much of it, sir?”",
+      "text_hash": "bfb2cf9acb71e372523c088ca8fbefc4791a86c59877ab4e3cd549dc265ff903",
+      "timings": {
+        "cache_n": 5853,
+        "predicted_ms": 17084.549,
+        "predicted_n": 190,
+        "predicted_per_second": 11.121159826928999,
+        "predicted_per_token_ms": 89.91867894736842,
+        "prompt_ms": 91.712,
+        "prompt_n": 1,
+        "prompt_per_second": 10.903698534542917,
+        "prompt_per_token_ms": 91.712
+      },
+      "usage": {
+        "completion_tokens": 190,
+        "prompt_tokens": 5854
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "selection_policy": "hard-gates-then-read-only-critic-with-recorded-research-lead-overrides.v2",
+  "version": "gemma-fiction-autoresearch.v4"
+}

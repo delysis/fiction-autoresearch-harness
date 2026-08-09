@@ -1,0 +1,19 @@
+{
+  "artifact_id": "runway.staged-natural-anthology.spark.fulcrum-s01.1340145",
+  "manuscript_hash": "956a395713baa374668fb442fe1195b826ea384f6f68844cee287d1457bfb810",
+  "record_type": "ManuscriptAssembly",
+  "separators": [],
+  "spans": [
+    {
+      "call_id": "spark.staged-natural-anthology.fulcrum-s01.1340145",
+      "raw_char_end": 727,
+      "raw_char_start": 0,
+      "raw_hash": "bbea22185a348be0c7513cea357c53fbf830ba0e31c9aaf8509b1a9d58ed0b05",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v59-s01-gabaldon-anthology/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340145.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-natural-anthology.fulcrum-s01.1340145",
+      "text_hash": "956a395713baa374668fb442fe1195b826ea384f6f68844cee287d1457bfb810"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

@@ -1,0 +1,47 @@
+{
+  "corpus_hash": "21d7e7cb8790544ddc70b4cbc2caca89cb52a7562d850a7369d613072ea8df75",
+  "corpus_id": "public-domain-thought-reading-and-choice.v1",
+  "created_at": "2026-08-08T19:38:17.346173+00:00",
+  "record_type": "LiteraryApprenticeshipCorpus",
+  "source_spec": "/Users/george/mpc/juicy_chastity_fiction_lab/fixtures/apprenticeship/public_domain_calibration_game_source.v1.json",
+  "source_spec_hash": "13ca60c1461632800dab166ee6185cd80b1de71c5ad51c3993266cc6167922c2",
+  "version": "literary-apprenticeship.v1",
+  "works": [
+    {
+      "author": "Grant Allen",
+      "facets": [
+        "adult",
+        "romance",
+        "thought-reading",
+        "controlled-test",
+        "epistemic-ambiguity"
+      ],
+      "local_path": "books/allen.linnet.txt",
+      "partition": "profiling",
+      "publication_year": 1900,
+      "source_note": "Project Gutenberg ebook 48296.",
+      "source_url": "https://www.gutenberg.org/ebooks/48296.txt.utf-8",
+      "text_hash": "24cb7e500392de33d39a5828e756339554c42e376b269e11f23451c90aa35b5c",
+      "title": "Linnet: A Romance",
+      "work_id": "allen.linnet"
+    },
+    {
+      "author": "Edna Lyall",
+      "facets": [
+        "adult",
+        "romance",
+        "thought-reading",
+        "consent-and-refusal",
+        "social-pressure"
+      ],
+      "local_path": "books/lyall.wayfaring-men.txt",
+      "partition": "profiling",
+      "publication_year": 1897,
+      "source_note": "Project Gutenberg ebook 54100.",
+      "source_url": "https://www.gutenberg.org/ebooks/54100.txt.utf-8",
+      "text_hash": "124c22b7b0e7a2ae19f62cc653c0d6bdebdd1f5192079f2c0f1fa9fb81a33847",
+      "title": "Wayfaring Men",
+      "work_id": "lyall.wayfaring-men"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "algorithm": "sha256(sha256(file_bytes) records sorted by path)",
+  "captured_at": "2026-07-29T21:30:00-04:00",
+  "release_file_count": 0,
+  "release_tree_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "s01_file_count": 123,
+  "s01_tree_hash": "5adad9ea3500d680743409988398d1d350f70d9a6643f230f8aa7c558c7504d6"
+}

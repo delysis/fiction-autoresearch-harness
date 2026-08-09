@@ -1,0 +1,208 @@
+{
+  "campaign_hash": "e8c2668a0002fcbb0fb848431d0801e2b3f0c937d5045f59a6078cbaf6ba7a1c",
+  "programs": {
+    "approach.943001": [
+      {
+        "body_logic": "The drive heats under his hand in his pocket.",
+        "consent_turn": "request -> touch -> consent -> contact -> continuation",
+        "counteroffer": "She touches the cloth with a sudden sharpness that takes him by surprise.",
+        "disclosure": "The heat from the drive burns his hand and she makes him show her.",
+        "ending_state": "Tension changes to arousal, confusion into consent, a choice of pain and pleasure, a pause that they might never recover from.",
+        "offer": "He holds out his trousers.",
+        "parent_id": "approach.943001",
+        "plot_payment": "The heat and pressure and the touch of the skin with the drive in the pocket push them into motion, but not release.",
+        "proposal_seed": 944011,
+        "quality_signal": 4.85,
+        "raw_proposal_hash": "0c2a20738ed263efa4ba130b0970e41d277017d4d2f6d904454a6849393dedcf",
+        "selection_seed": 3480688050,
+        "sensory_asymmetry": "Rough cloth scrapes skin, the heat burns from his hand in his pocket, skin to skin when he reaches forward to help take her shirt off.",
+        "transaction_hash": "bdc9ade90884d255bd38aae79450a6b755fe1964d28c770d3b7236bc1f0deeba",
+        "transaction_id": "transaction-plan.approach.943001.944011.1"
+      },
+      {
+        "body_logic": "Movement in air (her hair in the window, his breath in hers) shows attention before touch arrives.",
+        "consent_turn": "offer of truth -> acceptance of risk -> transformation of duty",
+        "counteroffer": "Esther accepts the risk by showing that she understood his weakness even before he tried to deny it.",
+        "disclosure": "bodily attention makes the present stakes clear to both",
+        "ending_state": "Professional distance becomes intimate duty.",
+        "offer": "Simon makes a vulnerable personal admission while Esther watches him in her father's house.",
+        "parent_id": "approach.943001",
+        "plot_payment": "A risky first choice becomes a necessary private ritual.",
+        "proposal_seed": 944083,
+        "quality_signal": 0.8200000000000001,
+        "raw_proposal_hash": "df077b36d20579ef67c57a050eac9c349f78c9af98c33571ca5c2565fc2f3ee9",
+        "selection_seed": 3480688050,
+        "sensory_asymmetry": "one channel leads and another contradicts it.",
+        "transaction_hash": "04c6161c7f4056116059043c98b12e1afdc9d8ee638be7fef881b976c7d677fc",
+        "transaction_id": "transaction-plan.approach.943001.944083.2"
+      }
+    ],
+    "approach.943038": [
+      {
+        "body_logic": "His questions draw a sharp inhale. Her hand drops while her hips angle higher. He lowers his face until their breath matches.",
+        "consent_turn": "invitation -> permission question -> negotiated reversal",
+        "counteroffer": "Simon questions her motive and authority while accepting her physical invitation.",
+        "disclosure": "He must admit he had thought only about data integrity and not about them. She can see he has already come around.",
+        "ending_state": "Separate tasks become integrated obligations.",
+        "offer": "Esther counters Simon's control with private knowledge.",
+        "parent_id": "approach.943038",
+        "plot_payment": "Esther claims their intimacy and forces a joint decision through bodily surrender.",
+        "proposal_seed": 944083,
+        "quality_signal": 1.52,
+        "raw_proposal_hash": "df559f6606956b58d43c134e4ec203d2092606208b094761f1371e9977ee2942",
+        "selection_seed": 192790828,
+        "sensory_asymmetry": "wet sound, shifting weight, scar tissue under fingers; one channel leads, one follows, one disrupts",
+        "transaction_hash": "2cfdf0dbc96e6103b003ed8c67ea70651c7096130a5a7bd89bbc1de8b5ef1a76",
+        "transaction_id": "transaction-plan.approach.943038.944083.1"
+      }
+    ],
+    "approach.943149": [
+      {
+        "body_logic": "He remains distant until her fingers meet his scar directly. Her pulse speeds when she feels the smooth tissue.",
+        "consent_turn": "request or invitation -> observable answer -> revocable repetition",
+        "counteroffer": "Simon shifts closer to her, touching first where he's already shown physical trust.",
+        "disclosure": "The drive's seal confirms an older injury while their aligned wounds suggest newer choices.",
+        "ending_state": "They enter a joint command mode before turning to physical contact.",
+        "offer": "Esther finds Simon alone with their drive, touching its seal but not activating it.",
+        "parent_id": "approach.943149",
+        "plot_payment": "A strategic problem requires new private evidence to address.",
+        "proposal_seed": 944083,
+        "quality_signal": 3.0999999999999996,
+        "raw_proposal_hash": "aef8ced837ba12d4f8b7aad76ec5b10d093c28829afb4b93627e295c27360d63",
+        "selection_seed": 746739253,
+        "sensory_asymmetry": "The drive's mechanical clicks contrast with flesh beneath his ribs; her hand catches cold glass but warms plastic",
+        "transaction_hash": "b0dc8fd318f69e8b0e2d3f9d5e69651565b565fffbb5f6953dbcafb4a99f6d5d",
+        "transaction_id": "transaction-plan.approach.943149.944083.1"
+      },
+      {
+        "body_logic": "He closes his eyes until they match scars; her breath hitches while she reads the seal.",
+        "consent_turn": "request or invitation -> observable answer -> aligned continuation",
+        "counteroffer": "He reaches for her right hand while pointing at his matching wound.",
+        "disclosure": "Their wounds map parallel choices and shared territory.",
+        "ending_state": "Both their hands meet at the drive seal in mutual permission.",
+        "offer": "Esther presses a drive to her hip where Simon already touched the scar.",
+        "parent_id": "approach.943149",
+        "plot_payment": "Physical patterns lead their strategic decisions.",
+        "proposal_seed": 944083,
+        "quality_signal": 4.15,
+        "raw_proposal_hash": "aef8ced837ba12d4f8b7aad76ec5b10d093c28829afb4b93627e295c27360d63",
+        "selection_seed": 746739253,
+        "sensory_asymmetry": "Drive weight pushes where injury remains; password trace fades where skin begins",
+        "transaction_hash": "71be28037d3486d34d12ce3b24215ca760b6c04c10c5fe577c1ff5552d9cbb3f",
+        "transaction_id": "transaction-plan.approach.943149.944083.4"
+      }
+    ],
+    "approach.943186": [
+      {
+        "body_logic": "A sharp breath contradicts apparent sleep.; Fingers linger along exposed flesh where privacy cannot be taken for granted.",
+        "consent_turn": "offer -> explicit rejection -> renewed offer -> explicit permission -> shared risk",
+        "counteroffer": "Esther rolls toward Simon and places his copy of the report under the sheets.",
+        "disclosure": "bodily presence makes the operational stake explicit",
+        "ending_state": "Risk becomes shared intimacy and the basis for an alternate procedure",
+        "offer": "Simon initiates while reading reports in bed with Esther asleep beside him.",
+        "parent_id": "approach.943186",
+        "plot_payment": "An altered procedure requires both to verify its validity",
+        "proposal_seed": 944011,
+        "quality_signal": 1.1700000000000002,
+        "raw_proposal_hash": "bdd8237c37237b6891abe78031fb538a5104a3480c089737eca979294443fe43",
+        "selection_seed": 1075517721,
+        "sensory_asymmetry": "paper fibers and body oil, light beneath eyelids, warm breath in cold air; one channel leads and another follows",
+        "transaction_hash": "de44c182c321f631b765743dd3456f37138fbbd85f6970e35af217cdb7dfc785",
+        "transaction_id": "transaction-plan.approach.943186.944011.1"
+      },
+      {
+        "body_logic": "The sound of sheets makes the change explicit.; Clothing deliberately removed reveals their own patterns",
+        "consent_turn": "immediate touch -> careful breath -> continued touch -> explicit request",
+        "counteroffer": "Esther's hand guides Simon's breath before touching him anywhere else.",
+        "disclosure": "The physical exchange clarifies their previous failures",
+        "ending_state": "Operational risk becomes a source of intimate trust",
+        "offer": "Simon draws Esther against him from the desk after discovering the report altered.",
+        "parent_id": "approach.943186",
+        "plot_payment": "Shared procedure eliminates the operational weakness",
+        "proposal_seed": 944011,
+        "quality_signal": 1.35,
+        "raw_proposal_hash": "bdd8237c37237b6891abe78031fb538a5104a3480c089737eca979294443fe43",
+        "selection_seed": 1075517721,
+        "sensory_asymmetry": "fabric sound and muscle tension, metal-glass temperature gradient, air exchange across scar tissue; one channel follows and another directs",
+        "transaction_hash": "84fff0ee536eb4e3f6eb86719bdc0b727ab172dac6bfeef352b459da95bf4d6f",
+        "transaction_id": "transaction-plan.approach.943186.944011.2"
+      }
+    ]
+  },
+  "record_type": "AutoloomTransactionProgramSet",
+  "sampling": {
+    "extra": {
+      "dry_allowed_length": 3,
+      "dry_base": 1.75,
+      "dry_multiplier": 0.55,
+      "dry_penalty_last_n": 1024,
+      "dynatemp_exponent": 1.0,
+      "dynatemp_range": 0.2
+    },
+    "min_p": 0.01,
+    "temperature": 1.15,
+    "top_p": 0.98,
+    "xtc_probability": 0.12
+  },
+  "selection_method": "off-model-reparse-then-seeded-quality-diversity",
+  "source_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans",
+  "source_records": [
+    {
+      "hash": "ab9983b9648fe74d772848f19f61d4eeb8dc579fad9382bdadde20c949704442",
+      "parent_id": "approach.943038",
+      "parsed_count": 0,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943038.944011.txt",
+      "seed": 944011
+    },
+    {
+      "hash": "df559f6606956b58d43c134e4ec203d2092606208b094761f1371e9977ee2942",
+      "parent_id": "approach.943038",
+      "parsed_count": 1,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943038.944083.txt",
+      "seed": 944083
+    },
+    {
+      "hash": "cd9cfdbe11c568e88eee52c85c555d36f3752fe4a918081669e2e1e6c993b445",
+      "parent_id": "approach.943149",
+      "parsed_count": 1,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943149.944011.txt",
+      "seed": 944011
+    },
+    {
+      "hash": "aef8ced837ba12d4f8b7aad76ec5b10d093c28829afb4b93627e295c27360d63",
+      "parent_id": "approach.943149",
+      "parsed_count": 3,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943149.944083.txt",
+      "seed": 944083
+    },
+    {
+      "hash": "0c2a20738ed263efa4ba130b0970e41d277017d4d2f6d904454a6849393dedcf",
+      "parent_id": "approach.943001",
+      "parsed_count": 1,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943001.944011.txt",
+      "seed": 944011
+    },
+    {
+      "hash": "df077b36d20579ef67c57a050eac9c349f78c9af98c33571ca5c2565fc2f3ee9",
+      "parent_id": "approach.943001",
+      "parsed_count": 1,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943001.944083.txt",
+      "seed": 944083
+    },
+    {
+      "hash": "bdd8237c37237b6891abe78031fb538a5104a3480c089737eca979294443fe43",
+      "parent_id": "approach.943186",
+      "parsed_count": 2,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943186.944011.txt",
+      "seed": 944011
+    },
+    {
+      "hash": "e013ecd86263fcc37e0630c0b9b1075d4c57eb3b2e3ef02e46e06f01ea633d89",
+      "parent_id": "approach.943186",
+      "parsed_count": 1,
+      "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v13/staged/raw/transaction-plans/transaction-plans.approach.943186.944083.txt",
+      "seed": 944083
+    }
+  ],
+  "transaction_set_hash": "a6929ecce761e2f8e8e35c79b4565b0dff0eb760a02cd8bc0b82ee4666324e4e"
+}

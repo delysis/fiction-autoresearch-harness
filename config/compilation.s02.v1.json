@@ -1,0 +1,52 @@
+{
+  "compiler_version": "trusted-read-compiler.v1",
+  "scene_id": "S02",
+  "scene_trusted_read": "bridge/trusted-read-scenes-v01/document-text.md",
+  "canon_trusted_read": "bridge/trusted-read-canon-v01/document-text.md",
+  "source_trusted_read": "bridge/trusted-read-source-v01/document-text.md",
+  "persona_fixture": "fixtures/personas/fulcrum_pilot.v1.json",
+  "scene_overrides": {
+    "target_words_min": 2800,
+    "target_words_max": 3600,
+    "pacing_targets": [
+      "0–10% exhausted late-night care",
+      "10–30% observation slides into interpretation",
+      "30–50% explanations and loaded prompts tighten the trap",
+      "50–68% romantic triangulation and project threat",
+      "68–82% Mara’s silence and clean question",
+      "82–92% Miriam opens the exit",
+      "92–100% Jonah’s restrained walk home, mutually chosen kiss, and doorway rule"
+    ],
+    "continuity_facts_append": [
+      "The continuation contains one mutually chosen kiss that stops while still desired.",
+      "The local boundary crisis resolves with romantic hope-for-now while Fulcrum’s larger mystery remains open.",
+      "There is no consummation, graphic anatomy, or punishment for stopping."
+    ]
+  },
+  "documents": [
+    {
+      "key": "project_brief",
+      "title": "Juicy Chastity Fiction Lab — Project Brief v0.3",
+      "path": "00_project_brief/Juicy Chastity Fiction Lab — Project Brief v0.3.docx",
+      "format": "docx"
+    },
+    {
+      "key": "source_deck",
+      "title": "Source Card Deck — 20 MPC + 10 Leverage Dynamics v0.1",
+      "path": "bridge/trusted-read-source-v01/document-text.md",
+      "format": "trusted-read-markdown"
+    },
+    {
+      "key": "story_canon",
+      "title": "Story Canon Ledger — Fulcrum Pilot v0.1",
+      "path": "bridge/trusted-read-canon-v01/document-text.md",
+      "format": "trusted-read-markdown"
+    },
+    {
+      "key": "pilot_scenes",
+      "title": "Pilot Scene Cards — S01-S03 v0.1",
+      "path": "bridge/trusted-read-scenes-v01/document-text.md",
+      "format": "trusted-read-markdown"
+    }
+  ]
+}

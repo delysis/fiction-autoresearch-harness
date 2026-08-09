@@ -1,0 +1,632 @@
+{
+  "anti_copy_index_hash": "",
+  "anti_copy_policy_version": "",
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "author_profile_hash": "",
+  "author_profile_id": "",
+  "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04-polished",
+  "conditioning_variant": "",
+  "control_density": "",
+  "corpus_manifest_hash": "",
+  "defects": [
+    "mindreading_inflation",
+    "repetitive_body_shorthand"
+  ],
+  "eligible": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "frontier_adapter": "",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04-polished",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": ".m.**—the minute Livia had closed the pavilion door.\n\nShe stepped inside and closed the door, not to hide, but to begin."
+    },
+    "concrete_story_hook": {
+      "concrete_object": true,
+      "passed": true,
+      "unresolved_or_anomalous": true
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3334
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": true,
+      "romantic_future": true
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6309
+    },
+    "no_internal_signature_replay": {
+      "ngram_words": 16,
+      "passed": true,
+      "repeated_passages": []
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "livia_offers_specific_care",
+          "found": true,
+          "position": 492
+        },
+        {
+          "beat": "truth_overclaims_entitlement",
+          "found": true,
+          "position": 4621
+        },
+        {
+          "beat": "mara_error_has_cost",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "ambiguous_embodied_evidence",
+          "found": true,
+          "position": 8307
+        },
+        {
+          "beat": "attention_recovers_judgment",
+          "found": true,
+          "position": 17465
+        },
+        {
+          "beat": "mara_creates_exit_condition",
+          "found": true,
+          "position": 18190
+        },
+        {
+          "beat": "miriam_protects_exit",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": false,
+          "position": null
+        },
+        {
+          "beat": "kiss_stops_and_shared_practice",
+          "found": true,
+          "position": 18424
+        }
+      ],
+      "passed": false
+    }
+  },
+  "generation_mode": "hybrid_base_program",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "concrete_story_hook": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": true,
+    "mara_pov": true,
+    "merged_length": true,
+    "no_internal_signature_replay": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": false
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X389"
+  ],
+  "literary_diagnostics": {
+    "cadence_families": {
+      "families": {
+        "felt_like": {
+          "count": 5,
+          "evidence": [
+            {
+              "evidence": "expressions were mirrors of Livia’s—an intense, curated empathy that felt like a spotlight. Mara felt a sudden, sharp urge to hide her hands, but th",
+              "match": "felt like",
+              "position": 2540
+            },
+            {
+              "evidence": "unreadable, though his eyes were fixed on her with an intensity that felt like a physical weight. Livia noticed the glance instantly. \"There it is,",
+              "match": "felt like",
+              "position": 4540
+            },
+            {
+              "evidence": "e letting him in.\" Mara opened her mouth to protest, but the protest felt like just another layer of the shield Livia had already identified. Every",
+              "match": "felt like",
+              "position": 5040
+            },
+            {
+              "evidence": "ble. *Three.* Mara let the silence stretch. At first, the silence felt like a void, a vacuum that Livia would instinctively rush to fill. But Mar",
+              "match": "felt like",
+              "position": 9352
+            },
+            {
+              "evidence": "st. As she stepped into the corridor, the sudden drop in temperature felt like a baptism. She began the long walk back toward the dormitories, the r",
+              "match": "felt like",
+              "position": 14432
+            }
+          ],
+          "per_1000_words": 1.4997
+        },
+        "interpretive_coda": {
+          "count": 6,
+          "evidence": [
+            {
+              "evidence": "more she tried to clarify her position, the more fragmented she felt. She was no longer a person speaking her truth; she was a set of symptoms being analyzed",
+              "match": "She was no longer",
+              "position": 5343
+            },
+            {
+              "evidence": "he split\" was beginning to affect the collective energy of the group, Mara realized she no longer knew where her actual feelings ended and Livia's interp",
+              "match": "Mara realized",
+              "position": 5974
+            },
+            {
+              "evidence": "not the truth of the sentiment. But as the words formed in her mind, Mara realized that any explanation would be categorized as \"intellectualization,\" a",
+              "match": "Mara realized",
+              "position": 8416
+            },
+            {
+              "evidence": "efine the meaning of a refusal. Livia opened her mouth to speak, but for the first time that night, the words didn't come instantly. She looked at Mara, then",
+              "match": "for the first time",
+              "position": 11124
+            },
+            {
+              "evidence": "n Livia’s eyes—not quite resentment, but a sharp, academic curiosity. Mara realized then that to Livia, she had become the most interesting specimen in t",
+              "match": "Mara realized",
+              "position": 14060
+            },
+            {
+              "evidence": "eel the heat radiating from him, the steady cadence of his breathing. For the first time, the desire she felt wasn't something to be managed or aligned—it was",
+              "match": "For the first time",
+              "position": 16765
+            }
+          ],
+          "per_1000_words": 1.7996
+        },
+        "merely": {
+          "count": 2,
+          "evidence": [
+            {
+              "evidence": "e was submitting to Livia's interpretation; if she disagreed, she was merely \"resisting.\" The more she tried to clarify her position, the more fra",
+              "match": "merely",
+              "position": 5249
+            },
+            {
+              "evidence": "lignment work, such a category didn't exist. To Livia, every \"no\" was merely a \"yes\" that hadn't been properly decoded yet. To acknowledge Mara’s",
+              "match": "merely",
+              "position": 11577
+            }
+          ],
+          "per_1000_words": 0.5999
+        },
+        "not_x_but_y": {
+          "count": 13,
+          "evidence": [
+            {
+              "evidence": "austed ears, like a bolt sliding into place. Livia didn’t lock it—she didn't have to—but the gesture signaled a shift in the room's geometry. The circle of students shifted, drawing closer, their faces illumina",
+              "match": "didn't have to—but the gesture signaled a shift in the room's geometry",
+              "position": 634
+            },
+            {
+              "evidence": "intensity, as if he were trying to provide a different kind of anchor—not by interpreting her, but by simply witnessing her existence without an agenda. The urge to explain surged again—to tell Livia that the gasp was a",
+              "match": "not by interpreting her, but by simply witnessing her existence without an agenda",
+              "position": 8156
+            },
+            {
+              "evidence": "no longer a \"block\" to be analyzed; it was a presence. Livia’s smile didn't vanish, but it wavered. The benevolent mask slipped slightly, revealing a flicker of confusi",
+              "match": "didn't vanish, but it wavered",
+              "position": 9796
+            },
+            {
+              "evidence": "oy. She tried to find a category for a sovereign decision—a \"no\" that wasn't a symptom of trauma or a manifestation of resistance, but a simple, autonomous act of will. But in the architecture of Fulcrum’s alignment work, such a categor",
+              "match": "wasn't a symptom of trauma or a manifestation of resistance, but a simple, autonomous act of will",
+              "position": 11369
+            },
+            {
+              "evidence": "on would be to admit that there was a part of the human soul that was not only opaque but intentionally so—a sanctuary that no amount of skilled attention could, or should, breach. The silence returned, but this time, it wasn't Mara's silence. It w",
+              "match": "not only opaque but intentionally so—a sanctuary that no amount of skilled attention could, or should, breach",
+              "position": 11743
+            },
+            {
+              "evidence": "suffocating geometry. \"The session is over,\" Miriam said. Her voice wasn't loud, but it possessed a weight that immediately superseded Livia’s interpretive authority. Livia blinked, her gaze flickering from Miriam to Mara. \"Miriam, we",
+              "match": "wasn't loud, but it possessed a weight that immediately superseded Livia’s interpretive authority",
+              "position": 12547
+            },
+            {
+              "evidence": "ed at Mara and gave a small, barely perceptible nod of acknowledgment—not to the 'breakthrough,' but to the decision. \"A practice that cannot survive a refusal cannot discover truth. Go",
+              "match": "not to the 'breakthrough,' but to the decision",
+              "position": 13159
+            },
+            {
+              "evidence": "gents being present. There was a flicker of something in Livia’s eyes—not quite resentment, but a sharp, academic curiosity. Mara realized then that to Livia, she had become the most interestin",
+              "match": "not quite resentment, but a sharp, academic curiosity",
+              "position": 14005
+            }
+          ],
+          "per_1000_words": 3.8992
+        },
+        "profound": {
+          "count": 2,
+          "evidence": [
+            {
+              "evidence": "own skin. Livia’s voice dropped an octave, moving into a register of profound, almost spiritual intimacy. \"You aren't just resisting the room, Mara",
+              "match": "profound",
+              "position": 6244
+            },
+            {
+              "evidence": "moment. Then, a slow, genuine smile spread across his face—a look of profound respect that reached his eyes. He understood. He recognized the bank",
+              "match": "profound",
+              "position": 18608
+            }
+          ],
+          "per_1000_words": 0.5999
+        },
+        "quiet": {
+          "count": 3,
+          "evidence": [
+            {
+              "evidence": "e clinical empathy as the others. He was watching her with a focused, quiet intensity, as if he were trying to provide a different kind of anchor",
+              "match": "quiet",
+              "position": 8080
+            },
+            {
+              "evidence": "t had been a small thing, a fractional pause she had practiced in the quiet of her own mind, a way to decouple a sensation from the command to re",
+              "match": "quiet",
+              "position": 8765
+            },
+            {
+              "evidence": "ook at Livia with disapproval. She simply stood there, her presence a quiet, vertical line that bisected the room’s suffocating geometry. \"The s",
+              "match": "quiet",
+              "position": 12432
+            }
+          ],
+          "per_1000_words": 0.8998
+        },
+        "simply": {
+          "count": 6,
+          "evidence": [
+            {
+              "evidence": "ion was instantaneous. Livia didn’t need to ask for confirmation; she simply beamed, her expression one of gentle triumph. \"There it is,\" Livia",
+              "match": "simply",
+              "position": 7076
+            },
+            {
+              "evidence": "to provide a different kind of anchor—not by interpreting her, but by simply witnessing her existence without an agenda. The urge to explain surg",
+              "match": "simply",
+              "position": 8188
+            },
+            {
+              "evidence": "t fidget; she didn't offer a supportive nod or a defensive scowl. She simply existed in the space between the words. The energy in the room shift",
+              "match": "simply",
+              "position": 9539
+            },
+            {
+              "evidence": "n’t enter the circle, nor did she look at Livia with disapproval. She simply stood there, her presence a quiet, vertical line that bisected the ro",
+              "match": "simply",
+              "position": 12397
+            },
+            {
+              "evidence": "r 'split' or 'blocked.' She didn't even offer a comforting smile. She simply looked at Mara and gave a small, barely perceptible nod of acknowledg",
+              "match": "simply",
+              "position": 13078
+            },
+            {
+              "evidence": "asn't trying to narrate her victory or analyze her resistance. He was simply there, occupying the same space without trying to claim it. \"I didn'",
+              "match": "simply",
+              "position": 14950
+            }
+          ],
+          "per_1000_words": 1.7996
+        },
+        "sudden": {
+          "count": 9,
+          "evidence": [
+            {
+              "evidence": "s—an intense, curated empathy that felt like a spotlight. Mara felt a sudden, sharp urge to hide her hands, but the movement only served to valida",
+              "match": "sudden",
+              "position": 2575
+            },
+            {
+              "evidence": "ypassed her intellectual filters and struck a raw nerve, triggering a sudden, involuntary spasm in her chest. Her breath hitched, and a sharp, aud",
+              "match": "sudden",
+              "position": 6892
+            },
+            {
+              "evidence": "just confessed what your mind is too proud to admit. That clash—that sudden tightening in your throat—is the sound of the wall breaking. You feel",
+              "match": "sudden",
+              "position": 7289
+            },
+            {
+              "evidence": "hmic push and pull of observation and confession—had been broken by a sudden, immovable object. Livia leaned in, her voice still soft but now car",
+              "match": "sudden",
+              "position": 10002
+            },
+            {
+              "evidence": "he cautious entrance of a facilitator. It was a definitive opening, a sudden influx of the cooler, darker air from the corridor that cut through t",
+              "match": "sudden",
+              "position": 12167
+            },
+            {
+              "evidence": "aning in with a collective, unconscious lean toward Livia’s gravity, suddenly recoiled. They scrambled to gather their notebooks and tablets, the f",
+              "match": "suddenly",
+              "position": 13449
+            },
+            {
+              "evidence": "ents feeling heavy yet honest. As she stepped into the corridor, the sudden drop in temperature felt like a baptism. She began the long walk back",
+              "match": "sudden",
+              "position": 14405
+            },
+            {
+              "evidence": "ressurized void of the seminar room; it was an open space. She felt a sudden, sharp awareness of him—the scent of cedar and something metallic, th",
+              "match": "sudden",
+              "position": 15434
+            }
+          ],
+          "per_1000_words": 2.6995
+        }
+      },
+      "heuristic": true,
+      "hits_per_1000_words": 13.7972,
+      "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+      "total_family_hits": 46,
+      "word_count": 3334
+    },
+    "dialogue_voice": {
+      "attributed_speakers": {
+        "Jonah": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 19,
+          "sufficiently_sampled": false,
+          "turns": 1
+        },
+        "Livia": {
+          "content_vocabulary_size": 40,
+          "dialogue_words": 80,
+          "sufficiently_sampled": true,
+          "turns": 8
+        },
+        "Mara": {
+          "content_vocabulary_size": 10,
+          "dialogue_words": 27,
+          "sufficiently_sampled": true,
+          "turns": 7
+        },
+        "Miriam": {
+          "content_vocabulary_size": 0,
+          "dialogue_words": 4,
+          "sufficiently_sampled": false,
+          "turns": 1
+        }
+      },
+      "comparable_speaker_count": 2,
+      "heuristic": true,
+      "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+      "mean_shared_over_smaller_vocabulary": 0.0,
+      "mean_unigram_frequency_cosine": 0.316228,
+      "minimum_dialogue_words": 20,
+      "minimum_turns": 2,
+      "pairwise": [
+        {
+          "left": "Livia",
+          "right": "Mara",
+          "shared_over_smaller_vocabulary": 0.0,
+          "shared_terms": [],
+          "unigram_frequency_cosine": 0.316228,
+          "vocabulary_jaccard": 0.0
+        }
+      ],
+      "possible_voice_indistinctness": false,
+      "unattributed_passages": 41
+    },
+    "explanatory_gloss": {
+      "evidence": [
+        {
+          "cue": "Mara realized",
+          "narration": "was beginning to affect the collective energy of the group, Mara realized she no longer knew where her actual feelings ended and Livia's interpretations began. She felt erased, replaced by a narrative of",
+          "position": 5892,
+          "quote": "lean into the split",
+          "shared_content_terms": []
+        },
+        {
+          "cue": "meaning",
+          "narration": "; it questioned the very authority of the interpreter to define the meaning of a refusal. Livia opened her mouth to speak, but for the first time that night, the words didn't come instantly. She looked at Mara, then glanced briefly at the other students, searc",
+          "position": 10987,
+          "quote": "blocked",
+          "shared_content_terms": []
+        },
+        {
+          "cue": "that wasn't a symptom of trauma or a manifestation of resistance, but",
+          "narration": "that wasn't a symptom of trauma or a manifestation of resistance, but a simple, autonomous act of will. But in the architecture of Fulcrum’s alignment work, such a category didn't exist. To Livia, every",
+          "position": 11359,
+          "quote": "no",
+          "shared_content_terms": []
+        },
+        {
+          "cue": "that was not only opaque but",
+          "narration": "that hadn't been properly decoded yet. To acknowledge Mara’s decision as a decision would be to admit that there was a part of the human soul that was not only opaque but intentionally so—a sanctuary that no amount of skilled attention could, or should, breach",
+          "position": 11586,
+          "quote": "yes",
+          "shared_content_terms": []
+        },
+        {
+          "cue": "He understood",
+          "narration": "Jonah stared at her for a long moment. Then, a slow, genuine smile spread across his face—a look of profound respect that reached his eyes. He understood. He recognized the bank she was building around the stream, the way the restraint didn't kill the desire b",
+          "position": 18415,
+          "quote": "You may kiss me only when both of us would still be glad if the kiss stopped immediately.",
+          "shared_content_terms": []
+        }
+      ],
+      "glosses_per_100_dialogue_passages": 8.6207,
+      "heuristic": true,
+      "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+      "possible_explanatory_glosses": 5,
+      "quoted_passages": 58
+    },
+    "heuristic": true,
+    "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+  },
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "his restraint an invitation rather than a barrier"
+    ],
+    "epistemic_texture": [
+      "the reader had run out of text"
+    ],
+    "heat_with_agency": [
+      "stopping while the hunger was at its peak created"
+    ],
+    "instructional_fidelity": [
+      "a fractional pause she had practiced in the quiet"
+    ],
+    "narrative_force": [
+      "is my 'no' a data point for you to interpret"
+    ],
+    "prose_and_voice": [
+      "vessel for a very specific, suffocating kind of kindness"
+    ],
+    "theological_coherence": [
+      "restraint didn't kill the desire but gave it a direction"
+    ]
+  },
+  "prompt_encoding": "",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "evidence": "desire she felt wasn't something to be managed",
+      "note": "Attraction is framed as a living thing that must be navigated through chosen limits.",
+      "passed": true
+    },
+    "competence_and_restraint": {
+      "evidence": "He recognized the bank she was building around the stream",
+      "note": "Jonah's respect is triggered by Mara's active competence in managing her own desire.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "created a new kind of intimacy",
+      "note": "Stopping at the peak converts raw arousal into a shared proof of will.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "I can live with those terms",
+      "note": "Ends with the explicit doorway rule and hopeful future possibility.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "The doorway rule",
+      "note": "Moves from mutual observation and protective distance to an explicit, shared boundary for intimacy.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "You may kiss me only when both of us",
+      "note": "The scene moves from institutional pressure to a private, chosen covenant.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of cedar and something metallic",
+      "note": "Uses scent, tactile pressure, and temperature to ground the encounter.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 80.0,
+      "weight": 15.0,
+      "weighted_points": 12.0
+    },
+    "epistemic_texture": {
+      "raw_0_100": 82.0,
+      "weight": 10.0,
+      "weighted_points": 8.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 92.0,
+      "weight": 15.0,
+      "weighted_points": 13.8
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "narrative_force": {
+      "raw_0_100": 85.0,
+      "weight": 20.0,
+      "weighted_points": 17.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 70.0,
+      "weight": 15.0,
+      "weighted_points": 10.5
+    },
+    "theological_coherence": {
+      "raw_0_100": 90.0,
+      "weight": 10.0,
+      "weighted_points": 9.0
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 12.0,
+    "epistemic_texture": 8.2,
+    "heat_with_agency": 13.8,
+    "instructional_fidelity": 13.2,
+    "narrative_force": 17.0,
+    "prose_and_voice": 10.5,
+    "theological_coherence": 9.0
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04-polished:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "story_program_hash": "",
+  "story_program_id": "",
+  "summary": "X389 is a highly disciplined execution of the scene spec. It successfully dramatizes the 'three-second beat' and 'one clean question' as epistemic tools that reclaim agency from an acquisitive interpreter. The romantic climax is the scene's strongest point, treating chastity not as a lack of desire, but as a precise direction of it. The prose occasionally leans on repetitive 'felt like' and 'simply' constructions (as noted in preflight), and there are moments of interiority regarding Jonah that border on mindreading, but the causal engine of the scene—the movement from the suffocating 'kindness' of the group to the sovereign choice of the couple—is powerful and precise.",
+  "total_score": 83.7,
+  "transformation_map_hash": ""
+}

@@ -1,0 +1,132 @@
+{
+  "campaign_hash": "9abffb9b6a7b00e97bb3c6579d8311aef2d93979b103f3356599fb09bdc90a5f",
+  "inherited_from_campaign_hash": "fdf8a0c5fdcfde657cf7d9790d8548cb03856da55b675a32b10d590010ca169e",
+  "lock_hash": "26fde2fe9b4d95409c68505fb3d3d4dc3b3f5c343e05093f0f2c3bbe66912445",
+  "record_type": "LockedGeneratedRunways",
+  "runways": {
+    "fulcrum-s01": {
+      "campaign_hash": "fdf8a0c5fdcfde657cf7d9790d8548cb03856da55b675a32b10d590010ca169e",
+      "cell_id": "fulcrum-s01",
+      "completed_at": "2026-08-08T10:06:07.385343+00:00",
+      "conditioning": "parallel-book-continuity",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "diagnostic_features": {
+        "dialogue_mark_count": 18,
+        "promotion_use": "forbidden",
+        "sensory_term_count": 10,
+        "word_count": 407
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 600,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_kiss_history": false,
+          "first_person_narration_count": 0,
+          "heat_ceiling_violation": false,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "screenplay_line_count": 0,
+          "stop_then_reescalate": false,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "first_kiss_continuity": true,
+          "heat_ceiling": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.4-first-kiss-and-heat-ceiling"
+      },
+      "overlap": {
+        "candidate_id": "runway.parallel-book-continuity.fulcrum-s01.1314001",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "2470dafc0ad9bb64196817e0c8fc32d85b379507502ec662f2f004bed04bd758",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "de2d5322d5dad51a39c25e8e38fe02ee896e2066888f6c08e7ee18ac0917e2a0",
+      "raw_hash": "6529a6ddbabde7243fe7aec3332d1917599b2b9782816b409178dfd476f2813d",
+      "record_type": "GeneratedRunway",
+      "request_hash": "5a32a472c5eecfa33d5c5107f1883ae10f48da6dd5dfd6a9bcb14c5a1349d815",
+      "runway_id": "runway.parallel-book-continuity.fulcrum-s01.1314001",
+      "runway_word_band": [
+        220,
+        420
+      ],
+      "sampler": {
+        "dry_allowed_length": 3,
+        "dry_base": 1.75,
+        "dry_multiplier": 0.0,
+        "min_p": 0.02,
+        "repeat_penalty": 1.02,
+        "temperature": 0.9,
+        "top_p": 0.97,
+        "xtc_probability": 0.1
+      },
+      "seed": 1314001,
+      "selection_score": 0.0,
+      "source_ids": [
+        "apprenticeship.wharton.age-of-innocence.c001.s022",
+        "apprenticeship.wharton.age-of-innocence.c001.s010",
+        "apprenticeship.forster.room-with-a-view.c003.s001"
+      ],
+      "span": {
+        "call_id": "runway.parallel-book-continuity.fulcrum-s01.1314001",
+        "raw_char_end": 2310,
+        "raw_char_start": 0,
+        "raw_hash": "6529a6ddbabde7243fe7aec3332d1917599b2b9782816b409178dfd476f2813d",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v44-s01-full-runway/runways/raw/runway.parallel-book-continuity.fulcrum-s01.1314001.txt",
+        "role": "opening-runway",
+        "span_id": "runway.parallel-book-continuity.fulcrum-s01.1314001",
+        "text_hash": "191ba71684fc857e3891ae0bf70dc685812bca7bcd63325e97e021b1eaab3617"
+      },
+      "status": "completed",
+      "text": "A rideshare dropped adult newcomer Mara with one suitcase at Fulcrum's\nredwood-and-glass compound on a curving Northern California coast\nbefore evening. A tall man in a black suit stepped out from under\na red-and-white striped awning to carry the suitcase. \"I'm Adrian,\nthe Head of Fulcrum,\" he said with an unforced smile. \"Welcome.\" Mara\nuncomfortably noticed how he held open a glass door with his body\nrather than one hand.\n\nAdrian led Mara in, past a row of small potted palms and a stone\nwaterfall to the right, under a painting of a waterfall. A young man\nin a black suit walked out from the center doors ahead of them. He\nspotted Mara. \"Ah! You're here! Welcome.\" He stopped at the outer door\nand Adrian passed him with a slight incline of his head. They entered\na double-height space with a skylight and potted palms between\nthe reception area, a long table with white chairs and white cloths,\nand two short black couches. The other young man in a black suit led\nMara to a short couch facing a potted palm in a rough stone pot. \"Wait\nhere please,\" Adrian said before leaving Mara to sit in silence for a\nfew minutes.\n\nThe sound of the stone waterfall became louder and more distinct.\nMara relaxed slightly. Another younger man appeared and offered a tray\nof flutes full of golden liquid, a small stack of folded white napkins,\nand a small platter of tiny savory treats. \"Welcome to Fulcrum,\"\nthe young man said brightly. Mara picked up a flute and took a sip,\nnoticing how smoothly the effervescent liquid slid down her throat.\nThe young man placed two other flutes with golden liquid on a low table\nadjacent to where Mara sat, then disappeared behind the reception\ncounter. Mara tasted one of the tiny savory treats, noticing that it\nwas warm, not hot.\n\nAdrian reappeared in a few minutes. He pulled up a chair and sat down,\nplacing his flute on the table between them. The young man at the\nreception area reappeared and silently placed another flute with golden\nliquid on the table near Adrian. He returned to the reception area.\n\n\"Welcome,\" Adrian said with an unforced smile. \"I'm Adrian, the Head\nof Fulcrum.\" Mara looked at the flutes in front of Adrian. She smiled\nand nodded. \"Mara,\" she said. \"Thank you.\" Adrian raised his flute\nslightly, and Mara raised her flute to match. They both drank.",
+      "text_hash": "191ba71684fc857e3891ae0bf70dc685812bca7bcd63325e97e021b1eaab3617",
+      "timings": {
+        "cache_n": 4407,
+        "predicted_ms": 151560.653,
+        "predicted_n": 600,
+        "predicted_per_second": 3.9588111302212456,
+        "predicted_per_token_ms": 252.6010883333333,
+        "prompt_ms": 101.292,
+        "prompt_n": 1,
+        "prompt_per_second": 9.872447972199186,
+        "prompt_per_token_ms": 101.292
+      },
+      "usage": {
+        "completion_tokens": 600,
+        "prompt_tokens": 4408
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "source_lock_hash": "90d3268e74e4d0fadff26ddeacb47dbd40ff571a730a293caf21dd0c673d80d3",
+  "version": "gemma-fiction-autoresearch.v4"
+}

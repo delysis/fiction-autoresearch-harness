@@ -1,0 +1,33 @@
+{
+  "emotional_offer": "Amusement",
+  "emotional_counteroffer": "Suppressed amusement",
+  "relationship_history": "Established acquaintance",
+  "present_stakes": "Social interaction/gossip",
+  "dialogue_act_sequence": [
+    "Affirmation",
+    "Affectionate address",
+    "Questioning",
+    "Statement of shared action",
+    "Inquiry",
+    "Narration"
+  ],
+  "body_language_counterpoint": "Laughter vs. composed demeanor",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Standing/Conversation",
+  "agency_actions": [
+    "Birkin speaks",
+    "Marshall speaks",
+    "Bridegroom removes cigar",
+    "Bridegroom speaks",
+    "Gerald questions",
+    "Birkin narrates"
+  ],
+  "relationship_delta": "Slight increase in shared anecdote",
+  "story_state_change": "Information exchange completed",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

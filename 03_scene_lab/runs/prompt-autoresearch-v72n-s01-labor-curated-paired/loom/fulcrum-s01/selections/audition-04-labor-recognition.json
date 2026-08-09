@@ -1,0 +1,18 @@
+{
+  "audition_version": "movement-audition.v3-positive-cast-state",
+  "campaign_hash": "3be16cce7dce7afae633ea64a0d8c6221237e02b63961073d2ea8450646d3a16",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "labor-recognition",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.labor-recognition.audition.1470001",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.glass-deposit.spark.fulcrum-s01.status-transaction.audition.1420103.0-353",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "20c9d979b3db40a734273eaeb7a942d44a7551a41cedef34cf75913b173ede2e",
+  "version": "gemma-fiction-autoresearch.v4"
+}

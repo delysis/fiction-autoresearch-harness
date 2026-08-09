@@ -1,0 +1,17 @@
+{
+  "inheritance_hash": "943bfc1f65f1e3a9098f12c3fcc9f309adcbcf2d304ec17a743b879e5c13c20f",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "charged-restraint": "6b6e234d5b60ea1ff0763f26896f684296351b9a119eb82a9ed3088b30710a92",
+    "fulcrum-s01": "6c29e2ac9b6c9bb8d23042850b5704c1d3ef39c222c965ea6fac2fa661830316",
+    "institutional-pressure-control": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500",
+    "married-explicit": "921975ebc1373fe23ba617e9cff2f1ea430d77e53851885860e6687eb80d50d9"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean",
+  "source_campaign_hash": "cb6514cfa22db59b0270621ade0db968c0670512c4b3145298d4b3008be32466",
+  "source_lock_hash": "5b290ff5c625bcdde73823d2de982ae1f571fded60ab1d2648934ebd5e4f432e",
+  "target_campaign_hash": "c60b84190a3a28f6d3930585cdf9be9b340d883102e4aba62b337ba910d20659",
+  "target_lock_hash": "4c9f2ac5e8a0fc56a1ccbb9713f669ae2a0c5fdb893610a44bfc3f18fdfcede6",
+  "verified_at": "2026-08-08T21:58:32.177363+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,26 @@
+{
+  "query_id": "s01-status-possession.v1",
+  "query_text": "A guest quietly takes the position of host through seating, service, food, servants, and confident assumptions. Another woman notices the social asymmetry through concrete behavior rather than explanation.",
+  "stage": "status-possession",
+  "required_facets": ["adult"],
+  "preferred_facets": ["arrival", "social-comedy", "social-constraint", "dialogue-rich", "interior"],
+  "excluded_facets": ["explicit-intimacy"],
+  "included_authors": ["Elizabeth von Arnim"],
+  "desired_features": {
+    "dialogue_ratio": 0.25,
+    "romance_density": 0.004,
+    "conflict_density": 0.008,
+    "agency_density": 0.012,
+    "sensory_channels": 2,
+    "interiority_density": 0.012,
+    "intimacy_action_density": 0.0,
+    "explicit_intimacy_density": 0.0,
+    "sentence_length_mean": 18,
+    "sentence_length_variation": 12
+  },
+  "maximum_scenes": 4,
+  "maximum_per_work": 4,
+  "source_token_budget": 6000,
+  "mmr_lambda": 0.82,
+  "minimum_stage_heat": 0.0
+}

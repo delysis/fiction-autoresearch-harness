@@ -1,0 +1,8 @@
+{
+  "campaign_hash": "102e759e34ab119c54e3215a392fa680a22582fb2dc4307fdbdfd7d177332a5c",
+  "eligible_runway_ids": [],
+  "pool_hash": "51d1d962d2826322eb12dc15f86d00b95423d799c5932bcdfdb6df8b1f9e2c78",
+  "record_type": "SampledGeneratedRunwayPool",
+  "selection_policy": "no-automatic-promotion; read-only-critic-or-explicit-research-lead-selection-required",
+  "version": "gemma-fiction-autoresearch.v4"
+}

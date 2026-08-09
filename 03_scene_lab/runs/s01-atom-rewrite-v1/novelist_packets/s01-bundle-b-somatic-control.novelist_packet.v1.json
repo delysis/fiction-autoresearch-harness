@@ -1,0 +1,201 @@
+{
+  "character_invariants": {
+    "Adrian": "polished founder who makes status and method feel like hospitality",
+    "Jonah": "adult hardware researcher, implicated in Fulcrum, playful when it costs little; attraction begins in specific restraint, never as moral perfection",
+    "Livia": "genuinely skilled, sensuous, funny, acquisitive, and capable of hurt; care and status hunger coexist",
+    "Mara": "adult, sheltered, technically competent, dryly funny, observant before interpretive certainty; desire may sharpen attention but never settles meaning",
+    "Miriam": "adult cohort observer; neutral posture, exact notes, observer badge; introduced once without emphasis"
+  },
+  "current_state": {
+    "location": "Fulcrum's redwood compound and main pavilion",
+    "prior_action": "Mara has just arrived alone with one suitcase and food from church",
+    "time": "sunset on Mara's first day"
+  },
+  "opening_runway": "No inherited prose. Begin at the locked sunset arrival image.",
+  "packet_hash": "07fd26e83bc5c67c12f99ff159eca6cf49ffbd98328bb02be9d90d0d7c7bc91d",
+  "phases": [
+    {
+      "maximum_words": 1100,
+      "minimum_words": 933,
+      "occurrences": [
+        {
+          "atom_id": "s01-arr-01",
+          "constraint_change": "Her attempt at hospitality becomes the first object available for public interpretation.",
+          "move": "She carries a hard-sided suitcase and a bakery box from her church.",
+          "participants": [
+            "Mara"
+          ],
+          "required": true,
+          "response": "The homemade food looks conspicuous against the compound's controlled welcome.",
+          "setup": "Mara arrives alone at sunset with everything she brought in one suitcase."
+        },
+        {
+          "atom_id": "s01-arr-02",
+          "constraint_change": "The welcome flatters her values while quietly establishing who performs service.",
+          "move": "Adrian takes it with conspicuous care instead of reaching for her suitcase.",
+          "participants": [
+            "Adrian",
+            "Mara"
+          ],
+          "required": false,
+          "response": "Mara follows him inside still carrying her own luggage.",
+          "setup": "Mara offers the bakery box on arrival."
+        },
+        {
+          "atom_id": "s01-arr-07",
+          "constraint_change": "The read lands accurately enough to make public resistance costly.",
+          "move": "Livia names Mara's fear that being seen will reveal she is wanting.",
+          "participants": [
+            "Livia",
+            "Mara"
+          ],
+          "required": true,
+          "response": "Mara's prepared explanation dies before she can deliver it.",
+          "setup": "Livia watches Mara brace under the room's attention."
+        },
+        {
+          "atom_id": "s01-arr-09",
+          "constraint_change": "His refusal costs him participation in the room's central status display and makes him legible to Mara.",
+          "move": "Jonah explicitly refuses to read or perform Mara for the group.",
+          "participants": [
+            "Jonah",
+            "Livia",
+            "Mara"
+          ],
+          "required": false,
+          "response": "He creates a silence in which Mara is not required to explain herself.",
+          "setup": "Livia asks Jonah to give the room a read of Mara."
+        }
+      ],
+      "phase_id": "arrival-status"
+    },
+    {
+      "maximum_words": 1100,
+      "minimum_words": 933,
+      "occurrences": [
+        {
+          "atom_id": "s01-cal-01",
+          "constraint_change": "Contact begins as her choice rather than the room's entitlement.",
+          "move": "Jonah asks Mara's permission before touching her wrist.",
+          "participants": [
+            "Jonah",
+            "Mara"
+          ],
+          "required": true,
+          "response": "Mara notices that a routine question changes the quality of the whole exercise.",
+          "setup": "Adrian assigns Jonah to facilitate Mara's tactile calibration."
+        },
+        {
+          "atom_id": "s01-cal-03",
+          "constraint_change": "Attraction narrows and sharpens attention before it threatens judgment.",
+          "move": "She notices his skin's scent, the room's low sound, and his thumb over her artery.",
+          "participants": [
+            "Jonah",
+            "Mara"
+          ],
+          "required": true,
+          "response": "Her pulse accelerates beneath the steady pressure.",
+          "setup": "Mara closes her eyes with Jonah's hand around her wrist."
+        },
+        {
+          "atom_id": "s01-cal-04",
+          "constraint_change": "Desire becomes evidence she must include without allowing it to decide the experiment.",
+          "move": "Mara feels an urge to lean closer and surrender to it.",
+          "participants": [
+            "Mara",
+            "Jonah"
+          ],
+          "required": false,
+          "response": "She recognizes the urge before acting on it.",
+          "setup": "Jonah offers a steady tactile rhythm."
+        },
+        {
+          "atom_id": "s01-cal-08",
+          "constraint_change": "A possible side channel becomes testable instead of merely suspicious.",
+          "move": "Mara notices Jonah's thumb tracing a tiny arc and Livia nodding in time.",
+          "participants": [
+            "Mara",
+            "Jonah",
+            "Livia"
+          ],
+          "required": false,
+          "response": "She watches the timing repeat before drawing a conclusion.",
+          "setup": "Livia calls the pair synchronized while Jonah holds Mara's wrist."
+        }
+      ],
+      "phase_id": "calibration-contact"
+    },
+    {
+      "maximum_words": 1100,
+      "minimum_words": 933,
+      "occurrences": [
+        {
+          "atom_id": "s01-ctr-01",
+          "constraint_change": "Livia must either revise the read or overclaim beyond the available observation.",
+          "move": "She changes posture and breath while keeping her hand in place.",
+          "participants": [
+            "Mara"
+          ],
+          "required": true,
+          "response": "The expected relationship between her felt state and visible signal breaks.",
+          "setup": "Mara has identified at least one cue channel."
+        },
+        {
+          "atom_id": "s01-ctr-06",
+          "constraint_change": "Mara's status becomes uncertain rather than simply victorious.",
+          "move": "Adrian calls the result a deviation and watches the group's reaction.",
+          "participants": [
+            "Adrian",
+            "Mara",
+            "Livia"
+          ],
+          "required": false,
+          "response": "Nobody knows whether Mara has failed or produced a more interesting result.",
+          "setup": "The room has witnessed the miss and Livia's recovery attempt."
+        },
+        {
+          "atom_id": "s01-ctr-08",
+          "constraint_change": "A smaller anomaly survives the partial collapse without confirming its cause.",
+          "move": "Livia looks back at Mara with genuine startled recognition.",
+          "participants": [
+            "Livia",
+            "Mara"
+          ],
+          "required": true,
+          "response": "Mara cannot locate a cue that explains the reaction.",
+          "setup": "The observable cue channel has failed and Livia turns away."
+        },
+        {
+          "atom_id": "s01-ctr-09",
+          "constraint_change": "Their first romantic progress is shared perception plus restraint, not confession or touch after the task.",
+          "move": "Jonah gives Mara a private acknowledgment that he recognized her control.",
+          "participants": [
+            "Jonah",
+            "Mara"
+          ],
+          "required": false,
+          "response": "He does not explain her aloud or claim alliance in front of the room.",
+          "setup": "The room remains unsure whether Mara failed the exercise."
+        }
+      ],
+      "phase_id": "counter-test-mystery"
+    }
+  ],
+  "scene": {
+    "endpoint": "Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+    "maximum_words": 3300,
+    "minimum_words": 2800,
+    "scene_id": "S01"
+  },
+  "scene_contract": {
+    "epistemic_shape": "observation, interpretation, and mechanism stay separable; cue-channel control matters; a smaller anomaly remains",
+    "faith": "embodied discipline may change Mara's attention or timing; no detachable explanation",
+    "heat": "high embodied attention without graphic anatomy or consummation",
+    "opening_image": "At sunset Mara arrives with one hard-sided suitcase and a bakery box from church.",
+    "pov": "close third-person Mara only",
+    "prose": "concrete action, subtext, selective sensation, fresh rhythm; no abstract coda or after-action gloss",
+    "romantic_shape": "attraction and impediment arrive together; wrist contact changes knowledge; no kiss",
+    "title": "The Calibration Game"
+  },
+  "task": "Write one complete manuscript scene. Enact the listed occurrences in phase order, but own every sentence, transition, image, and line of dialogue. The occurrences are facts, never wording to reuse. Trust action and consequence; do not append an explanation of what a legible beat means. Connecting actions may be invented when they respect the scene contract and endpoint."
+}

@@ -1,0 +1,22 @@
+{
+  "campaign_hash": "1bef6c85e41511af2ec77463d3d49972a060690c16bf69798caeb0b64193f6cc",
+  "preregistration_hash": "06ef2043d549e9a3b5df424a058845b5d2dec2b5f328d25cda495bc185ea0cd9",
+  "raw_before_editing": true,
+  "record_type": "AutoresearchPreregistration",
+  "registered_at": "2026-08-07T19:11:05.659707+00:00",
+  "rounds": {
+    "1": {
+      "claim": "Adjacent graph-to-spicy-prose pairs, especially with a project-voice bridge, will improve heat and prose without reducing causality.",
+      "falsifier": "The paired arms fail to beat the causal baseline or create copying, voice bleed, or nonsexual-control leakage."
+    },
+    "2": {
+      "claim": "Encoding changes instruction binding but may reduce prose naturalness or diversity.",
+      "falsifier": "XML, headings, and labeled prose are indistinguishable under fixed semantic payloads and seeds."
+    },
+    "3": {
+      "claim": "Curated context has a quality knee; maximum context will not necessarily be best.",
+      "falsifier": "Quality and mode control improve monotonically through every achievable dose without diversity loss."
+    }
+  },
+  "single_axis_mutations": true
+}

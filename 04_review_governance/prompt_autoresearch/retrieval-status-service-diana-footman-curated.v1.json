@@ -1,0 +1,16 @@
+{
+  "record_type": "LiteraryRetrievalResult",
+  "version": "literary-apprenticeship.v1",
+  "index_hash": "7a3f2ce11ef3f1f6b975130819d63edda2658d862fd19482bc22ebbe26b5062a",
+  "query": {
+    "query_id": "status-service-diana-footman-curated-v1",
+    "selection_basis": "exact scene contains Diana beckoning a footman to fill her glass while addressing the company"
+  },
+  "selected": [
+    {
+      "scene_id": "lawrence.women-in-love.c002.s003"
+    }
+  ],
+  "selection_method": "research-lead exact causal-example override after retrieved scene audit",
+  "retrieval_hash": "d2eb9cf5f14085fa6531907b070794fc57d75e11e9877890b6ce3bad868cb2a5"
+}

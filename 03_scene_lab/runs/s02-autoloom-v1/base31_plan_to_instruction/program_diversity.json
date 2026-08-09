@@ -1,0 +1,285 @@
+{
+  "collapsed_roles": [],
+  "maximum_overall_similarity": 0.450255,
+  "mean_overall_similarity": 0.371514,
+  "near_duplicate_fraction": 0.071429,
+  "near_duplicate_pairs": [
+    {
+      "endpoint_similarity": 0.884314,
+      "event_similarity": 0.907451,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.450255,
+      "right_id": "s02-base31_plan_to_instruction-22079",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.878846,
+      "event_similarity": 0.903077,
+      "left_id": "s02-base31_plan_to_instruction-22079",
+      "matching_roles": [],
+      "overall_similarity": 0.447904,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    }
+  ],
+  "overconverged": false,
+  "pairwise": [
+    {
+      "endpoint_similarity": 0.718946,
+      "event_similarity": 0.775157,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.379147,
+      "right_id": "s02-base31_plan_to_instruction-22023",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.718946,
+      "event_similarity": 0.775157,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.379147,
+      "right_id": "s02-base31_plan_to_instruction-22037",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.734314,
+      "event_similarity": 0.787451,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.385755,
+      "right_id": "s02-base31_plan_to_instruction-22051",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.633405,
+      "event_similarity": 0.706724,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.342364,
+      "right_id": "s02-base31_plan_to_instruction-22063",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.884314,
+      "event_similarity": 0.907451,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.450255,
+      "right_id": "s02-base31_plan_to_instruction-22079",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.734314,
+      "event_similarity": 0.787451,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.385755,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.655147,
+      "event_similarity": 0.724118,
+      "left_id": "s02-base31_plan_to_instruction-22011",
+      "matching_roles": [],
+      "overall_similarity": 0.351713,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.563788,
+      "event_similarity": 0.65103,
+      "left_id": "s02-base31_plan_to_instruction-22023",
+      "matching_roles": [],
+      "overall_similarity": 0.312429,
+      "right_id": "s02-base31_plan_to_instruction-22037",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.626738,
+      "event_similarity": 0.70139,
+      "left_id": "s02-base31_plan_to_instruction-22023",
+      "matching_roles": [],
+      "overall_similarity": 0.339497,
+      "right_id": "s02-base31_plan_to_instruction-22051",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.648377,
+      "event_similarity": 0.718701,
+      "left_id": "s02-base31_plan_to_instruction-22023",
+      "matching_roles": [],
+      "overall_similarity": 0.348802,
+      "right_id": "s02-base31_plan_to_instruction-22063",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.805,
+      "event_similarity": 0.844,
+      "left_id": "s02-base31_plan_to_instruction-22023",
+      "matching_roles": [],
+      "overall_similarity": 0.41615,
+      "right_id": "s02-base31_plan_to_instruction-22079",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.804221,
+      "event_similarity": 0.843377,
+      "left_id": "s02-base31_plan_to_instruction-22023",
+      "matching_roles": [],
+      "overall_similarity": 0.415815,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.717727,
+      "event_similarity": 0.774182,
+      "left_id": "s02-base31_plan_to_instruction-22023",
+      "matching_roles": [],
+      "overall_similarity": 0.378623,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.796868,
+      "event_similarity": 0.837494,
+      "left_id": "s02-base31_plan_to_instruction-22037",
+      "matching_roles": [],
+      "overall_similarity": 0.412653,
+      "right_id": "s02-base31_plan_to_instruction-22051",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.648377,
+      "event_similarity": 0.718701,
+      "left_id": "s02-base31_plan_to_instruction-22037",
+      "matching_roles": [],
+      "overall_similarity": 0.348802,
+      "right_id": "s02-base31_plan_to_instruction-22063",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.615,
+      "event_similarity": 0.692,
+      "left_id": "s02-base31_plan_to_instruction-22037",
+      "matching_roles": [],
+      "overall_similarity": 0.33445,
+      "right_id": "s02-base31_plan_to_instruction-22079",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.634091,
+      "event_similarity": 0.707273,
+      "left_id": "s02-base31_plan_to_instruction-22037",
+      "matching_roles": [],
+      "overall_similarity": 0.342659,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.717727,
+      "event_similarity": 0.774182,
+      "left_id": "s02-base31_plan_to_instruction-22037",
+      "matching_roles": [],
+      "overall_similarity": 0.378623,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.642424,
+      "event_similarity": 0.713939,
+      "left_id": "s02-base31_plan_to_instruction-22051",
+      "matching_roles": [],
+      "overall_similarity": 0.346242,
+      "right_id": "s02-base31_plan_to_instruction-22063",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.691667,
+      "event_similarity": 0.753333,
+      "left_id": "s02-base31_plan_to_instruction-22051",
+      "matching_roles": [],
+      "overall_similarity": 0.367417,
+      "right_id": "s02-base31_plan_to_instruction-22079",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.688462,
+      "event_similarity": 0.750769,
+      "left_id": "s02-base31_plan_to_instruction-22051",
+      "matching_roles": [],
+      "overall_similarity": 0.366038,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.763974,
+      "event_similarity": 0.811179,
+      "left_id": "s02-base31_plan_to_instruction-22051",
+      "matching_roles": [],
+      "overall_similarity": 0.398509,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.708077,
+      "event_similarity": 0.766462,
+      "left_id": "s02-base31_plan_to_instruction-22063",
+      "matching_roles": [],
+      "overall_similarity": 0.374473,
+      "right_id": "s02-base31_plan_to_instruction-22079",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.726061,
+      "event_similarity": 0.780848,
+      "left_id": "s02-base31_plan_to_instruction-22063",
+      "matching_roles": [],
+      "overall_similarity": 0.382206,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.561141,
+      "event_similarity": 0.648913,
+      "left_id": "s02-base31_plan_to_instruction-22063",
+      "matching_roles": [],
+      "overall_similarity": 0.311291,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.878846,
+      "event_similarity": 0.903077,
+      "left_id": "s02-base31_plan_to_instruction-22079",
+      "matching_roles": [],
+      "overall_similarity": 0.447904,
+      "right_id": "s02-base31_plan_to_instruction-22091",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.691667,
+      "event_similarity": 0.753333,
+      "left_id": "s02-base31_plan_to_instruction-22079",
+      "matching_roles": [],
+      "overall_similarity": 0.367417,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    },
+    {
+      "endpoint_similarity": 0.623831,
+      "event_similarity": 0.699065,
+      "left_id": "s02-base31_plan_to_instruction-22091",
+      "matching_roles": [],
+      "overall_similarity": 0.338247,
+      "right_id": "s02-base31_plan_to_instruction-22109",
+      "role_similarity": 0.0
+    }
+  ],
+  "raw_pool_size": 18,
+  "reasons": [],
+  "selection_seed": 991337,
+  "valid_pool_size": 11
+}

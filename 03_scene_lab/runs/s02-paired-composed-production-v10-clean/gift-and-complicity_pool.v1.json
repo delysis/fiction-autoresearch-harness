@@ -1,0 +1,12 @@
+{
+  "attempts": 4,
+  "candidates": [],
+  "eligible_count": 0,
+  "parent_segment_hashes": [
+    "80c6a0ca208bd34aa1fde107ba3680b31db1a29431d882e628ce5b838b1aba39"
+  ],
+  "record_type": "ComposedSegmentCandidatePool",
+  "segment_id": "gift-and-complicity",
+  "selection_status": "pending independent literary review",
+  "version": "paired-composed.v10"
+}

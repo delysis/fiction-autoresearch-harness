@@ -1,0 +1,53 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "consequence",
+  "pool": [
+    {
+      "branch_id": "charged-restraint.consequence.r0.0.1008001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.0.1008018",
+      "eligible": true,
+      "score": 6.314285714285714
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.0.1008035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.0.1008052",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.1.1009001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.1.1009018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.1.1009035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.consequence.r0.1.1009052",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [
+    "charged-restraint.consequence.r0.0.1008018"
+  ],
+  "selection_seed": 968389,
+  "version": "gemma-fiction-autoresearch.v4"
+}

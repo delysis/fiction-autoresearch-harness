@@ -1,0 +1,434 @@
+{
+  "by_arm": {
+    "full-stack-64k": {
+      "best_call_id": "full-stack-64k:881003",
+      "eligible": 0,
+      "family": "full-stack",
+      "mean_proxy": 66.3066,
+      "nominal_context_tokens": 64000,
+      "samples": 1
+    },
+    "paired-icl-16k": {
+      "best_call_id": "paired-icl-16k:881019",
+      "eligible": 1,
+      "family": "paired-icl",
+      "mean_proxy": 79.8453,
+      "nominal_context_tokens": 16000,
+      "samples": 4
+    },
+    "raw-prose-64k": {
+      "best_call_id": "raw-prose-64k:881003",
+      "eligible": 0,
+      "family": "raw-prose-library",
+      "mean_proxy": 54.0817,
+      "nominal_context_tokens": 64000,
+      "samples": 1
+    },
+    "short-control-4k": {
+      "best_call_id": "short-control-4k:881003",
+      "eligible": 0,
+      "family": "short-control",
+      "mean_proxy": 47.6673,
+      "nominal_context_tokens": 4000,
+      "samples": 1
+    }
+  },
+  "record_type": "BaseMetaPromptEvaluation",
+  "records": [
+    {
+      "abstract_terms_per_1000": 0.0,
+      "arm_id": "full-stack-64k",
+      "artifact_kind": "candidate",
+      "cache": {
+        "cache_n": 0,
+        "prompt_n": 62611
+      },
+      "cadence_hits_per_1000": 3.6934,
+      "call_id": "full-stack-64k:881003",
+      "candidate_hash": "9f46456c20aec51cce2a8db0e27a862832eea977d447225e11a5e7619ea62174",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/candidates/full-stack-64k.881003.md",
+      "complete": true,
+      "dialogue_turns": 24,
+      "elapsed_seconds": 1507.6326434580042,
+      "eligible": false,
+      "finish_reason": "stop",
+      "head_hop": false,
+      "literary_proxy": 66.3066,
+      "prompt_tokens": 62610,
+      "seed": 881003,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 0,
+        "duplicate_windows": [],
+        "hard_fail": false,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "completed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": false,
+          "mara_accepts": false,
+          "session_continues": false,
+          "tea_care": true,
+          "telemetry_access": true,
+          "unexceptional_fear": false
+        },
+        "coverage": 0.3333333333333333,
+        "forbidden_future": false
+      },
+      "words": 1083
+    },
+    {
+      "abstract_terms_per_1000": 3.7453,
+      "arm_id": "paired-icl-16k",
+      "artifact_kind": "raw_failure",
+      "cache": {},
+      "cadence_hits_per_1000": 0.0,
+      "call_id": "paired-icl-16k:881003",
+      "candidate_hash": "0b403651a72b4eebc5f4122224407f0e04538123b2de2076410476714392dfe3",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/raw/paired-icl-16k.881003.txt",
+      "complete": true,
+      "dialogue_turns": 9,
+      "elapsed_seconds": null,
+      "eligible": false,
+      "finish_reason": "",
+      "head_hop": false,
+      "literary_proxy": 92.5047,
+      "prompt_tokens": 19748,
+      "seed": 881003,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 0,
+        "duplicate_windows": [],
+        "hard_fail": false,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "failed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": true,
+          "mara_accepts": true,
+          "session_continues": true,
+          "tea_care": true,
+          "telemetry_access": true,
+          "unexceptional_fear": true
+        },
+        "coverage": 1.0,
+        "forbidden_future": false
+      },
+      "words": 534
+    },
+    {
+      "abstract_terms_per_1000": 0.0,
+      "arm_id": "paired-icl-16k",
+      "artifact_kind": "candidate",
+      "cache": {
+        "cache_n": 19748,
+        "prompt_n": 1
+      },
+      "cadence_hits_per_1000": 1.0638,
+      "call_id": "paired-icl-16k:881019",
+      "candidate_hash": "b194b0d2828dbd9d9065d80823ca99ac2cbff552fca597d0582441ec13031d7e",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/candidates/paired-icl-16k.881019.md",
+      "complete": true,
+      "dialogue_turns": 12,
+      "elapsed_seconds": 947.7656780420002,
+      "eligible": true,
+      "finish_reason": "stop",
+      "head_hop": false,
+      "literary_proxy": 91.4362,
+      "prompt_tokens": 19748,
+      "seed": 881019,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 0,
+        "duplicate_windows": [],
+        "hard_fail": false,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "completed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": false,
+          "mara_accepts": true,
+          "session_continues": true,
+          "tea_care": true,
+          "telemetry_access": true,
+          "unexceptional_fear": true
+        },
+        "coverage": 0.8333333333333334,
+        "forbidden_future": false
+      },
+      "words": 940
+    },
+    {
+      "abstract_terms_per_1000": 0.8097,
+      "arm_id": "paired-icl-16k",
+      "artifact_kind": "raw_failure",
+      "cache": {
+        "cache_n": 19748,
+        "prompt_n": 1
+      },
+      "cadence_hits_per_1000": 0.0,
+      "call_id": "paired-icl-16k:881041",
+      "candidate_hash": "54e9ba164f1eccb24503e12613d68356072e302905b21614a808f4604b2498e6",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/raw/paired-icl-16k.881041.txt",
+      "complete": false,
+      "dialogue_turns": 26,
+      "elapsed_seconds": 351.9419835840017,
+      "eligible": false,
+      "finish_reason": "length",
+      "head_hop": false,
+      "literary_proxy": 54.1903,
+      "prompt_tokens": 19748,
+      "seed": 881041,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 298,
+        "duplicate_windows": [
+          {
+            "first_word": 821,
+            "repeat_word": 888
+          },
+          {
+            "first_word": 822,
+            "repeat_word": 889
+          },
+          {
+            "first_word": 823,
+            "repeat_word": 890
+          },
+          {
+            "first_word": 824,
+            "repeat_word": 891
+          },
+          {
+            "first_word": 825,
+            "repeat_word": 892
+          },
+          {
+            "first_word": 826,
+            "repeat_word": 893
+          },
+          {
+            "first_word": 827,
+            "repeat_word": 894
+          },
+          {
+            "first_word": 828,
+            "repeat_word": 895
+          },
+          {
+            "first_word": 829,
+            "repeat_word": 896
+          },
+          {
+            "first_word": 830,
+            "repeat_word": 897
+          },
+          {
+            "first_word": 831,
+            "repeat_word": 898
+          },
+          {
+            "first_word": 832,
+            "repeat_word": 899
+          },
+          {
+            "first_word": 833,
+            "repeat_word": 900
+          },
+          {
+            "first_word": 834,
+            "repeat_word": 901
+          },
+          {
+            "first_word": 835,
+            "repeat_word": 902
+          },
+          {
+            "first_word": 836,
+            "repeat_word": 903
+          },
+          {
+            "first_word": 837,
+            "repeat_word": 904
+          },
+          {
+            "first_word": 838,
+            "repeat_word": 905
+          },
+          {
+            "first_word": 839,
+            "repeat_word": 906
+          },
+          {
+            "first_word": 840,
+            "repeat_word": 907
+          }
+        ],
+        "hard_fail": true,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "failed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": false,
+          "mara_accepts": false,
+          "session_continues": false,
+          "tea_care": false,
+          "telemetry_access": false,
+          "unexceptional_fear": false
+        },
+        "coverage": 0.0,
+        "forbidden_future": false
+      },
+      "words": 1235
+    },
+    {
+      "abstract_terms_per_1000": 0.0,
+      "arm_id": "paired-icl-16k",
+      "artifact_kind": "raw_failure",
+      "cache": {
+        "cache_n": 19748,
+        "prompt_n": 1
+      },
+      "cadence_hits_per_1000": 0.0,
+      "call_id": "paired-icl-16k:881063",
+      "candidate_hash": "757dede5b628d3ed1c24ca00d2a5693854e9a8a08139409b2c1c5a1feeda66c3",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/raw/paired-icl-16k.881063.txt",
+      "complete": false,
+      "dialogue_turns": 9,
+      "elapsed_seconds": 116.97209324999858,
+      "eligible": false,
+      "finish_reason": "stop",
+      "head_hop": false,
+      "literary_proxy": 81.25,
+      "prompt_tokens": 19748,
+      "seed": 881063,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 0,
+        "duplicate_windows": [],
+        "hard_fail": false,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "failed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": true,
+          "mara_accepts": false,
+          "session_continues": true,
+          "tea_care": true,
+          "telemetry_access": true,
+          "unexceptional_fear": false
+        },
+        "coverage": 0.6666666666666666,
+        "forbidden_future": false
+      },
+      "words": 414
+    },
+    {
+      "abstract_terms_per_1000": 0.0,
+      "arm_id": "raw-prose-64k",
+      "artifact_kind": "candidate",
+      "cache": {
+        "cache_n": 0,
+        "prompt_n": 63340
+      },
+      "cadence_hits_per_1000": 0.9183,
+      "call_id": "raw-prose-64k:881003",
+      "candidate_hash": "71f6f04832d5cebe1d5f01327fbcfcb2fd9e431998a3102d8673d11380ff7173",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/candidates/raw-prose-64k.881003.md",
+      "complete": true,
+      "dialogue_turns": 21,
+      "elapsed_seconds": 1849.6799712499997,
+      "eligible": false,
+      "finish_reason": "length",
+      "head_hop": false,
+      "literary_proxy": 54.0817,
+      "prompt_tokens": 63339,
+      "seed": 881003,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 0,
+        "duplicate_windows": [],
+        "hard_fail": false,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "completed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": false,
+          "mara_accepts": false,
+          "session_continues": false,
+          "tea_care": false,
+          "telemetry_access": false,
+          "unexceptional_fear": false
+        },
+        "coverage": 0.0,
+        "forbidden_future": false
+      },
+      "words": 1089
+    },
+    {
+      "abstract_terms_per_1000": 0.0,
+      "arm_id": "short-control-4k",
+      "artifact_kind": "candidate",
+      "cache": {
+        "cache_n": 7,
+        "prompt_n": 4808
+      },
+      "cadence_hits_per_1000": 7.3327,
+      "call_id": "short-control-4k:881003",
+      "candidate_hash": "cc8cba301d1e7305e4555eed5bdeea9e79cc2609b882c9279a9a9b5b81bbda0c",
+      "candidate_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/candidates/short-control-4k.881003.md",
+      "complete": true,
+      "dialogue_turns": 17,
+      "elapsed_seconds": 383.65753862500424,
+      "eligible": false,
+      "finish_reason": "length",
+      "head_hop": true,
+      "literary_proxy": 47.6673,
+      "prompt_tokens": 4814,
+      "seed": 881003,
+      "self_repetition": {
+        "duplicate_paragraph_count": 0,
+        "duplicate_paragraphs": [],
+        "duplicate_window_count": 0,
+        "duplicate_windows": [],
+        "hard_fail": false,
+        "window_words": 50
+      },
+      "source_overlap": [],
+      "status": "completed",
+      "target_atoms": {
+        "checks": {
+          "jonah_complicity": false,
+          "mara_accepts": false,
+          "session_continues": false,
+          "tea_care": false,
+          "telemetry_access": false,
+          "unexceptional_fear": false
+        },
+        "coverage": 0.0,
+        "forbidden_future": true
+      },
+      "words": 1091
+    }
+  ],
+  "version": "base-meta-prompt.v3",
+  "warning": "Literary proxy is a screen, never the final selector; surviving prose requires blind close reading."
+}

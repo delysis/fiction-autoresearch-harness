@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Interest in opinion",
+  "emotional_counteroffer": "Affectionate affirmation",
+  "relationship_history": "New acquaintance",
+  "present_stakes": "Social interaction and probing",
+  "dialogue_act_sequence": [
+    "Compliment",
+    "Inquiry about affection",
+    "Affirmation of love",
+    "Philosophical query"
+  ],
+  "body_language_counterpoint": "Blushing and laughter",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Seated interaction",
+  "agency_actions": [
+    "Companion expresses interest",
+    "Lady redirects conversation",
+    "Archer responds to question"
+  ],
+  "relationship_delta": "Slight deepening of engagement",
+  "story_state_change": "Shift in conversational focus",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

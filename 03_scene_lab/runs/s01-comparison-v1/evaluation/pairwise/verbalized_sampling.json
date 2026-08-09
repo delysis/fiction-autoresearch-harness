@@ -1,0 +1,1050 @@
+{
+  "aggregate": {
+    "order_disagreements": [
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "s01-comparison-v1-verbalized_sampling-verbalized-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "s01-comparison-v1-verbalized_sampling-verbalized-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "s01-comparison-v1-verbalized_sampling-verbalized-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "s01-comparison-v1-verbalized_sampling-verbalized-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "s01-comparison-v1-verbalized_sampling-verbalized-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "s01-comparison-v1-verbalized_sampling-verbalized-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "s01-comparison-v1-verbalized_sampling-verbalized-07"
+        ],
+        "winners": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "s01-comparison-v1-verbalized_sampling-verbalized-07"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "s01-comparison-v1-verbalized_sampling-verbalized-04"
+        ],
+        "winners": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "s01-comparison-v1-verbalized_sampling-verbalized-04"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "s01-comparison-v1-verbalized_sampling-verbalized-07"
+        ],
+        "winners": [
+          "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "s01-comparison-v1-verbalized_sampling-verbalized-07"
+        ]
+      }
+    ],
+    "pair_count": 6,
+    "points": {
+      "s01-comparison-v1-verbalized_sampling-verbalized-03": 3.0,
+      "s01-comparison-v1-verbalized_sampling-verbalized-04": 3.0,
+      "s01-comparison-v1-verbalized_sampling-verbalized-07": 3.0,
+      "s01-comparison-v1-verbalized_sampling-verbalized-08": 3.0
+    },
+    "ranking": [
+      "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "s01-comparison-v1-verbalized_sampling-verbalized-08"
+    ]
+  },
+  "judgments": [
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on somatic adjectives"
+        ],
+        "B": [
+          "passive character dynamics",
+          "clichéd dialogue",
+          "low stakes in the climax"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the scent of cinnamon and yeast a fragile, domestic tether",
+          "a beautiful euphemism for a sophisticated form of coercion",
+          "an erotic charge so intense it felt almost violent",
+          "Livia wasn't reading Mara's nervous system. She was reading the partner's manipulation",
+          "she took the overwhelming, erotic heat of the contact and, rather than letting it flood"
+        ],
+        "B": [
+          "a small weight of sourdough and rosemary that suddenly seemed",
+          "the architectural weight of the room itself",
+          "the tension of being found. A sense of... waiting for the other shoe",
+          "she focused on a single, mundane detail: the rhythmic, mechanical ticking",
+          "the intoxicating promise of being truly seen, of achieving a perfect"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-08",
+        "s01-comparison-v1-verbalized_sampling-verbalized-04"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force and heat. While Candidate B treats the 'calibration' as a psychological exercise in reading cues, Candidate A elevates it to a visceral, erotic, and high-stakes power struggle. A's characterization of Mara is more active; she doesn't just 'go quiet' (as in B), but actively redirects her physiological response to break a circuit, showing genuine agency. The epistemic texture in A is sharper, revealing the 'trick' of the institute through a specific tactile observation (the thumb movement) rather than B's vague mental shift. A's prose is more evocative and better integrated with the theological tension of the character's background.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on somatic adjectives"
+        ],
+        "B": [
+          "melodramatic internal monologue",
+          "clunky exposition of the 'trick'"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the scent of cinnamon and yeast a fragile, domestic tether",
+          "a beautiful euphemism for a sophisticated form of coercion",
+          "the raw, stinging shame of exposure",
+          "she localized it. She focused all her sensory awareness",
+          "she remained stubbornly, beautifully dissonant"
+        ],
+        "B": [
+          "the warmth of the bread through the cardboard felt like",
+          "her \"borrowed virtue\"—the careful, practiced self-control she had cultivated",
+          "a dance of mechanoreceptors, a sophisticated, biological conversation",
+          "the \"miracle\" was a feedback loop, a highly skilled piece",
+          "she knew exactly what was at stake"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-08",
+        "s01-comparison-v1-verbalized_sampling-verbalized-07"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force and character agency. Mara's resistance in A is an active, internal psychological victory where she uses her own discipline to 'break the circuit,' whereas in B, her agency is largely granted to her by Jonah, who 'hands her the control.' A's prose is more evocative and less prone to the clinical, explanatory dialogue found in B. The 'heat' in A is integrated into the power struggle, while in B it feels like a generic romance trope. A's handling of the 'trick' is a sharp narrative pivot; B's is a slow, over-explained revelation.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on somatic adjectives"
+        ],
+        "B": [
+          "melodramatic dialogue",
+          "didactic internal monologue",
+          "low causal tension"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the scent of cinnamon and yeast a fragile, domestic tether",
+          "a beautiful euphemism for a sophisticated form of coercion",
+          "reading the very architecture of her anxiety",
+          "the raw, stinging shame of exposure",
+          "a localized wildfire that made the fine hairs on her skin",
+          "the miracle was a choreographed dance, and Mara had been"
+        ],
+        "B": [
+          "a small, sugary offering of the world she was leaving",
+          "a debugging session for the soul",
+          "the scanning, high-resolution gaze of people who were trained",
+          "a fortress of static, a beautiful, impenetrable gray",
+          "the taste of lemon-lavender shortbread still faint on her tongue",
+          "the most important part of the truth wasn't the answer"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-08",
+        "s01-comparison-v1-verbalized_sampling-verbalized-03"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force by treating the 'calibration' as a concrete plot event with a causal payoff. Mara's discovery of the tactile cue (the thumb movement) provides a satisfying epistemic shift and grants her genuine agency; she doesn't just 'decide' to be a fortress (as in B), she actively disrupts a specific mechanism. Candidate B relies on abstract metaphors ('debugging session for the soul') and internal monologue to explain the stakes, whereas A embeds the tension in the physical interaction. A's prose is more visceral and less prone to the 'writerly' clichés found in B's dialogue.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight reliance on 'electric' touch tropes"
+        ],
+        "B": [
+          "over-reliance on clinical/biological jargon",
+          "melodramatic internal monologue",
+          "passive character agency during the climax"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the truth that exists before you have time to edit it",
+          "I'm mostly just here for the free coffee",
+          "she deliberately shifted her internal focus",
+          "found the seam in the magic",
+          "silence is where the truth lives"
+        ],
+        "B": [
+          "a sharp, metallic tang of ozone",
+          "borrowed virtue—the careful, practiced self-control",
+          "a dance of mechanoreceptors, a sophisticated, biological conversation",
+          "the \"miracle\" was a feedback loop",
+          "tested by her own skin"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-04",
+        "s01-comparison-v1-verbalized_sampling-verbalized-07"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior character truth and narrative force. Mara in A is an active agent who uses her own disciplined background to intellectually and spiritually dismantle the 'magic' of the exercise, creating a genuine power shift. Candidate B's Mara is largely a passenger to her own physiological responses, and the 'twist' regarding Jonah's modulation is explained through clunky, clinical prose ('dance of mechanoreceptors') rather than felt through the narrative. A's dialogue is sharper and more natural, whereas B leans into a heavy-handed, almost pseudo-scientific melodrama that undermines the epistemic texture of the scene.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight abruptness in the transition to the final internal monologue"
+        ],
+        "B": [
+          "over-reliance on cliché metaphors",
+          "melodramatic dialogue",
+          "passive character agency during the climax"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the truth that exists before you have time to edit it",
+          "the tactile input had bypassed her skin and gone straight",
+          "She became a hollow vessel, a neutral conduit",
+          "the 'telepathy' wasn't an ethereal connection; it was a high-resolution reading"
+        ],
+        "B": [
+          "a cathedral designed by a hedge fund",
+          "a debugging session for the soul",
+          "the most important part of the truth wasn't the answer"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-04",
+        "s01-comparison-v1-verbalized_sampling-verbalized-03"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force and epistemic texture. It treats the 'calibration' as a psychological and physiological puzzle, allowing Mara to exercise genuine agency by discovering the mechanical nature of the 'miracle' and actively sabotaging it. Candidate B relies on abstract internal monologues and 'soul' metaphors, turning the climax into a vague emotional realization rather than a concrete plot beat. A's prose is precise and clinical where it needs to be, whereas B leans into 'hedge fund cathedral' style purple prose that feels derivative. A's characterization of Jonah as a genuine outlier is more effective than B's version, who feels like a standard romantic foil.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives in the opening"
+        ],
+        "B": [
+          "melodramatic dialogue",
+          "telling instead of showing internal shifts"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "his thumb moved in a tiny, rhythmic pattern against her skin",
+          "the 'telepathy' was just skin-to-skin data, being steered by the very person"
+        ],
+        "B": [
+          "Livia wasn't just reading Mara; she was cueing her",
+          "the most important part of the truth wasn't the answer—it was the question"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-07",
+        "s01-comparison-v1-verbalized_sampling-verbalized-03"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force by integrating the 'trick' of the calibration into the physical action of the scene. The revelation that Jonah is modulating the signal through tactile cues is a concrete, causal plot point that grants Mara agency through observation. Candidate B handles the same beat as an intellectual realization ('Livia was cueing her') without the same level of somatic evidence, resulting in a more generic, 'YA-novel' tone. A's prose is more disciplined, avoiding the cliché philosophical musings that plague B's conclusion.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing rush in the transition to the game"
+        ],
+        "B": [
+          "melodramatic prose",
+          "passive character agency",
+          "pseudo-scientific jargon"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the truth that exists before you have time to edit it",
+          "offering her a way to be unread",
+          "the rhythmic, mechanical ticking of the clock on the far wall",
+          "the simple, unadorned faith of her home"
+        ],
+        "B": [
+          "synchronization of autonomic nervous systems",
+          "a biological stabilizer",
+          "a shared channel, a subtle, physical language",
+          "her body had already decided that it belonged"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-04",
+        "s01-comparison-v1-verbalized_sampling-verbalized-08"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates far superior character truth and agency. Mara in A actively disrupts the 'magic' of the exercise using a specific mental technique (anchoring to the clock), turning the scene into a battle of wills and intellect. In contrast, Candidate B treats the interaction as a somatic event where Mara is largely a passive recipient of 'biological stabilizers' and 'erotic charges,' only reacting once she notices a physical cue. A's prose is precise and atmospheric without becoming purple, whereas B relies on repetitive descriptors ('terrifyingly high-resolution', 'terrifyingly efficient') and clinical jargon that feels superficial. A's ending is a choice of the will; B's ending is a surrender of the body.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives in the opening"
+        ],
+        "B": [
+          "character_agency_collapse",
+          "melodramatic_internal_monologue"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "He was doing it to give her the tools to break the loop",
+          "the careful, practiced self-control she had cultivated in her small, sheltered community",
+          "a highly skilled piece of social engineering using the body as the medium"
+        ],
+        "B": [
+          "she performed a mental pivot",
+          "the raw, stinging shame of exposure",
+          "a beautiful euphemism for a sophisticated form of coercion"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-07",
+        "s01-comparison-v1-verbalized_sampling-verbalized-08"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by transforming the 'trick' of the telepathy exercise into a moment of genuine character bonding and agency. In A, Jonah actively helps Mara break the loop, creating a sophisticated subtext of alliance. In B, Mara simply 'performs a mental pivot' to resist, which feels more like a plot device than a character beat. A's treatment of Mara's background ('borrowed virtue') is more nuanced than B's more generic 'insulation' metaphor. A also handles the 'heat' with more agency, moving from biological response to a conscious choice to 'change the channel' and observe the man rather than the signal.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives in the opening"
+        ],
+        "B": [
+          "mechanical resolution of the 'miracle' via a clock distraction",
+          "character dialogue feels slightly more generic/trope-heavy"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "his thumb moved in a tiny, rhythmic pattern against her skin",
+          "the sensation of being stripped, of having her internal architecture laid bare",
+          "a strange, thermal pull that seemed to draw the skin"
+        ],
+        "B": [
+          "the rhythmic, mechanical ticking of the clock on the far wall",
+          "a small weight of sourdough and rosemary that suddenly seemed",
+          "the terrifying composure of a man who had already simulated"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-07",
+        "s01-comparison-v1-verbalized_sampling-verbalized-04"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates far superior narrative force and epistemic texture. It treats the 'telepathy' not as a magic trick to be debunked by ignoring it (as in B), but as a sophisticated biological and social feedback loop. The revelation that Jonah is modulating the signal to give Mara agency is a high-performance character beat that blends heat with agency. Candidate B's resolution—Mara simply focusing on a clock—is a narrative cliché that collapses the tension rather than evolving it. A's prose is more visceral, and its handling of the 'borrowed virtue' vs. 'somatic synchrony' provides a much deeper theological and psychological coherence.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on 'crystalline' imagery"
+        ],
+        "B": [
+          "melodramatic somatic descriptions",
+          "repetitive focus on 'biological' terminology"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "a soul to be tended",
+          "a debugging session for the soul",
+          "treating a human being like a piece of telemetry data",
+          "fortress of static, a beautiful, impenetrable gray",
+          "the most important part of the truth wasn't the answer—it was the question"
+        ],
+        "B": [
+          "biological event",
+          "athletes of the interior",
+          "a somatic shock",
+          "a note played slightly off-key, a glitch in his elegant feedback loop",
+          "battle of nervous systems"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-03",
+        "s01-comparison-v1-verbalized_sampling-verbalized-08"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by grounding the conflict in a genuine ideological clash between 'optimization' and 'soul.' The characterization of Mara is more truthful; she uses her faith as an active tool of discernment ('a tool of discernment') rather than just a passive shield. Candidate B leans too heavily into pseudo-biological jargon ('somatic shock', 'autonomic response'), which makes the 'heat' feel clinical rather than visceral. Candidate A's resolution of the wrist exercise is more sophisticated, moving from a physical sensation to an epistemological realization about the nature of truth.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight repetition in 'predictable symmetry... predictable cadence... predictable warmth'"
+        ],
+        "B": [
+          "clichéd phrasing",
+          "lower stakes in the central conflict"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "a cathedral designed by a hedge fund",
+          "the high-status gravity that seemed to pull",
+          "a debugging session for the soul",
+          "Livia wasn't just reading Mara; she was *cueing* her",
+          "a fortress of static, a beautiful, impenetrable gray",
+          "the thing that's left over when the math fails"
+        ],
+        "B": [
+          "a beautiful, high-resolution surveillance",
+          "the noise in your signal",
+          "exposure therapy without the therapist’s consent",
+          "the rhythmic, mechanical ticking of the clock",
+          "a siren song of competence and clarity",
+          "if her own center could hold against the tide"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "Livia wasn't just reading Mara; she was *cueing* her",
+          "label": "A",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.898,
+          "unsupported_quote": "Livia wasn't just reading her; she was reading her"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-03",
+        "s01-comparison-v1-verbalized_sampling-verbalized-04"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates significantly higher narrative force and epistemic texture. It transforms the 'calibration' from a simple guessing game (as seen in B) into a sophisticated psychological battle involving micro-expressions and social cueing. The characterization of Mara is more truthful; her resistance is an active, creative act of mental fortification ('fortress of static') rather than just focusing on a clock. The prose in A is more evocative and precise, particularly in how it blends the theological and the technological.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "candidate_b_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on internal monologue during the climax"
+        ],
+        "B": [
+          "over-explanation of somatic mechanics",
+          "melodramatic phrasing",
+          "passive character arc"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "a cathedral designed by a hedge fund",
+          "a debugging session for the soul",
+          "the scanning, high-resolution gaze of people",
+          "a fortress of static, a beautiful, impenetrable gray",
+          "the most important part of the truth wasn't the answer—it was the question"
+        ],
+        "B": [
+          "turning the light into something viscous and gold",
+          "a fight-or-flight response that turned her blood cold",
+          "a dance of mechanoreceptors, a sophisticated, biological conversation",
+          "the 'telepathy' was just skin-to-skin data",
+          "tested by her own skin"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-verbalized_sampling-verbalized-03",
+        "s01-comparison-v1-verbalized_sampling-verbalized-07"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by integrating the protagonist's internal spiritual conflict with the external social conflict. Mara's agency is far more pronounced in A; she actively uses her faith and mental discipline to 'vanish' and disrupt the experiment, whereas in B, she is largely a passive recipient of Jonah's guidance to break the loop. A's prose is sophisticated and thematic ('cathedral designed by a hedge fund'), while B leans into clinical jargon ('mechanoreceptors', 'dyadic exercise') that flattens the emotional heat. A's handling of the 'epistemic texture'—the tension between faith, data, and the 'uncanny remainder'—is far more nuanced and coherent.",
+      "winner_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "winner_label": "A"
+    }
+  ],
+  "preliminary": {
+    "diversity": {
+      "candidate_count": 8,
+      "corpus": {
+        "mean_opening_similarity": 0.034973,
+        "mean_self_bleu_proxy": 0.020583,
+        "unique_dialogue_acts": 0,
+        "unique_event_sequences": 0,
+        "unique_strategies": 0
+      },
+      "pair_count": 28,
+      "pairs": [
+        {
+          "fivegram_jaccard": 0.007895,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.039648,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "self_bleu_proxy": 0.025006,
+          "trigram_jaccard": 0.042116,
+          "unigram_jaccard": 0.317424
+        },
+        {
+          "fivegram_jaccard": 0.005223,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "self_bleu_proxy": 0.021486,
+          "trigram_jaccard": 0.03775,
+          "unigram_jaccard": 0.312198
+        },
+        {
+          "fivegram_jaccard": 0.005295,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.048889,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "self_bleu_proxy": 0.019444,
+          "trigram_jaccard": 0.033593,
+          "unigram_jaccard": 0.294206
+        },
+        {
+          "fivegram_jaccard": 0.004586,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.012876,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "self_bleu_proxy": 0.019421,
+          "trigram_jaccard": 0.034255,
+          "unigram_jaccard": 0.294806
+        },
+        {
+          "fivegram_jaccard": 0.006735,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "self_bleu_proxy": 0.022728,
+          "trigram_jaccard": 0.038722,
+          "unigram_jaccard": 0.322157
+        },
+        {
+          "fivegram_jaccard": 0.008483,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.039648,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "self_bleu_proxy": 0.025221,
+          "trigram_jaccard": 0.041959,
+          "unigram_jaccard": 0.31997
+        },
+        {
+          "fivegram_jaccard": 0.007215,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+          "opening_trigram_jaccard": 0.053812,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.022307,
+          "trigram_jaccard": 0.037399,
+          "unigram_jaccard": 0.309942
+        },
+        {
+          "fivegram_jaccard": 0.005583,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "opening_trigram_jaccard": 0.012876,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "self_bleu_proxy": 0.01924,
+          "trigram_jaccard": 0.032897,
+          "unigram_jaccard": 0.301313
+        },
+        {
+          "fivegram_jaccard": 0.006333,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "opening_trigram_jaccard": 0.092593,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "self_bleu_proxy": 0.019274,
+          "trigram_jaccard": 0.032216,
+          "unigram_jaccard": 0.305919
+        },
+        {
+          "fivegram_jaccard": 0.0056,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "opening_trigram_jaccard": 0.026087,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "self_bleu_proxy": 0.020803,
+          "trigram_jaccard": 0.036005,
+          "unigram_jaccard": 0.286976
+        },
+        {
+          "fivegram_jaccard": 0.009277,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "self_bleu_proxy": 0.025179,
+          "trigram_jaccard": 0.041082,
+          "unigram_jaccard": 0.319352
+        },
+        {
+          "fivegram_jaccard": 0.006749,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "opening_trigram_jaccard": 0.017241,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "self_bleu_proxy": 0.020708,
+          "trigram_jaccard": 0.034668,
+          "unigram_jaccard": 0.311194
+        },
+        {
+          "fivegram_jaccard": 0.006443,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+          "opening_trigram_jaccard": 0.035242,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.019867,
+          "trigram_jaccard": 0.033292,
+          "unigram_jaccard": 0.298387
+        },
+        {
+          "fivegram_jaccard": 0.005149,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "opening_trigram_jaccard": 0.012876,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "self_bleu_proxy": 0.016916,
+          "trigram_jaccard": 0.028683,
+          "unigram_jaccard": 0.297147
+        },
+        {
+          "fivegram_jaccard": 0.005054,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "opening_trigram_jaccard": 0.008547,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "self_bleu_proxy": 0.018594,
+          "trigram_jaccard": 0.032134,
+          "unigram_jaccard": 0.301156
+        },
+        {
+          "fivegram_jaccard": 0.007343,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "opening_trigram_jaccard": 0.004255,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "self_bleu_proxy": 0.022573,
+          "trigram_jaccard": 0.037803,
+          "unigram_jaccard": 0.323867
+        },
+        {
+          "fivegram_jaccard": 0.005761,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "opening_trigram_jaccard": 0.017241,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "self_bleu_proxy": 0.020141,
+          "trigram_jaccard": 0.034521,
+          "unigram_jaccard": 0.308373
+        },
+        {
+          "fivegram_jaccard": 0.003171,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+          "opening_trigram_jaccard": 0.026201,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.015807,
+          "trigram_jaccard": 0.028443,
+          "unigram_jaccard": 0.309878
+        },
+        {
+          "fivegram_jaccard": 0.006811,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "opening_trigram_jaccard": 0.058296,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "self_bleu_proxy": 0.020219,
+          "trigram_jaccard": 0.033627,
+          "unigram_jaccard": 0.289121
+        },
+        {
+          "fivegram_jaccard": 0.006953,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "self_bleu_proxy": 0.021542,
+          "trigram_jaccard": 0.036132,
+          "unigram_jaccard": 0.302496
+        },
+        {
+          "fivegram_jaccard": 0.007366,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "opening_trigram_jaccard": 0.026087,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "self_bleu_proxy": 0.0213,
+          "trigram_jaccard": 0.035233,
+          "unigram_jaccard": 0.299925
+        },
+        {
+          "fivegram_jaccard": 0.004135,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+          "opening_trigram_jaccard": 0.035242,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.018281,
+          "trigram_jaccard": 0.032428,
+          "unigram_jaccard": 0.286344
+        },
+        {
+          "fivegram_jaccard": 0.0052,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "self_bleu_proxy": 0.019874,
+          "trigram_jaccard": 0.034549,
+          "unigram_jaccard": 0.314121
+        },
+        {
+          "fivegram_jaccard": 0.004397,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "self_bleu_proxy": 0.019911,
+          "trigram_jaccard": 0.035425,
+          "unigram_jaccard": 0.285406
+        },
+        {
+          "fivegram_jaccard": 0.004456,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+          "opening_trigram_jaccard": 0.026201,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.018787,
+          "trigram_jaccard": 0.033118,
+          "unigram_jaccard": 0.292683
+        },
+        {
+          "fivegram_jaccard": 0.00714,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "opening_trigram_jaccard": 0.048889,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "self_bleu_proxy": 0.021266,
+          "trigram_jaccard": 0.035393,
+          "unigram_jaccard": 0.318934
+        },
+        {
+          "fivegram_jaccard": 0.005071,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+          "opening_trigram_jaccard": 0.039823,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.018276,
+          "trigram_jaccard": 0.031481,
+          "unigram_jaccard": 0.312945
+        },
+        {
+          "fivegram_jaccard": 0.006643,
+          "left": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+          "opening_trigram_jaccard": 0.058559,
+          "right": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+          "self_bleu_proxy": 0.022164,
+          "trigram_jaccard": 0.037685,
+          "unigram_jaccard": 0.322133
+        }
+      ],
+      "per_candidate": {
+        "s01-comparison-v1-verbalized_sampling-verbalized-01": {
+          "diversity_contribution": 0.97777,
+          "mean_similarity": 0.02223
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-02": {
+          "diversity_contribution": 0.97856,
+          "mean_similarity": 0.02144
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-03": {
+          "diversity_contribution": 0.980749,
+          "mean_similarity": 0.019251
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-04": {
+          "diversity_contribution": 0.980432,
+          "mean_similarity": 0.019568
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-05": {
+          "diversity_contribution": 0.980342,
+          "mean_similarity": 0.019658
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-06": {
+          "diversity_contribution": 0.978366,
+          "mean_similarity": 0.021634
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-07": {
+          "diversity_contribution": 0.97847,
+          "mean_similarity": 0.02153
+        },
+        "s01-comparison-v1-verbalized_sampling-verbalized-08": {
+          "diversity_contribution": 0.980644,
+          "mean_similarity": 0.019356
+        }
+      }
+    },
+    "ranking": [
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+        "diversity_contribution": 0.980644,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 90.35,
+        "selection_score": 95.2532
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+        "diversity_contribution": 0.980432,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.75,
+        "selection_score": 92.6522
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+        "diversity_contribution": 0.97847,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.75,
+        "selection_score": 92.6423
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+        "diversity_contribution": 0.980749,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5537
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+        "diversity_contribution": 0.978366,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5418
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+        "diversity_contribution": 0.97777,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5389
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+        "diversity_contribution": 0.97856,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 69.0,
+        "selection_score": 73.8928
+      },
+      {
+        "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+        "diversity_contribution": 0.980342,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 63.0,
+        "selection_score": 67.9017
+      }
+    ],
+    "selection_policy": {
+      "diversity_weight": 5.0,
+      "ineligible_candidates_rank_last": true,
+      "top_k": 4
+    },
+    "top_four": [],
+    "winner": null
+  },
+  "selection_fallback_due_to_no_eligible_candidates": true,
+  "winner": "s01-comparison-v1-verbalized_sampling-verbalized-03"
+}

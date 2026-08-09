@@ -1,0 +1,19 @@
+Validate and cluster the twelve Actor traces. A valid trace must contain every
+required field, preserve the eight-beat causal order, keep Mara as the focal
+consciousness, make Jonah's restraint costly, specify a real cue-channel
+control, and leave a smaller residual mystery. It must also specify a changing
+emotional transaction, Mara-specific attraction filter, coherent sensory
+triad, atmospheric pressure, dialogue/body-language counterpoint, distance
+plan, and consequential relationship delta.
+When the resolved creative profile is present, every valid trace must also map
+its required and preferred coordinates to concrete behavior, speech acts,
+beats, or relationship changes in realized_coordinates.
+
+Return JSON only:
+{{
+  "valid_ids": ["trace-1"],
+  "clusters": [
+    {{"cluster_id": "c1", "trace_ids": ["trace-1"], "shared_strategy": "brief label"}}
+  ],
+  "defects": {{"trace-2": ["specific defect"]}}
+}}

@@ -1,0 +1,136 @@
+{
+  "corpus_hash": "660ec2d2665e8a51b78977c2096e4ef6bbf3c243f32f8d963a3155f945c97a7e",
+  "corpus_id": "public-domain-romance-and-intimacy.v1",
+  "created_at": "2026-08-04T00:40:01.423746+00:00",
+  "record_type": "LiteraryApprenticeshipCorpus",
+  "source_spec": "/Users/george/mpc/juicy_chastity_fiction_lab/fixtures/apprenticeship/public_domain_romance_source.v1.json",
+  "source_spec_hash": "85605f600790f009413214f7a087e441f0ae8ea9038707436459a1aae9b5e4a5",
+  "version": "literary-apprenticeship.v1",
+  "works": [
+    {
+      "author": "D. H. Lawrence",
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "marriage",
+        "relationship-conflict",
+        "sensory-dense"
+      ],
+      "local_path": "books/lawrence.lady-chatterley.txt",
+      "partition": "profiling",
+      "publication_year": 1928,
+      "source_note": "Project Gutenberg ebook 73144.",
+      "source_url": "https://www.gutenberg.org/ebooks/73144.txt.utf-8",
+      "text_hash": "8ce99adf76d1da7ce521706db0dac7a31e4d4a8a4cee33903094a9d524338db8",
+      "title": "Lady Chatterley's Lover",
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "facets": [
+        "adult",
+        "psychological-romance",
+        "relationship-conflict",
+        "sensory-dense"
+      ],
+      "local_path": "books/lawrence.women-in-love.txt",
+      "partition": "profiling",
+      "publication_year": 1920,
+      "source_note": "Project Gutenberg ebook 4240.",
+      "source_url": "https://www.gutenberg.org/ebooks/4240.txt.utf-8",
+      "text_hash": "486aae389a005b6a533a82715c56f64c76e12ccd522b72190f6ac52fdd08f03e",
+      "title": "Women in Love",
+      "work_id": "lawrence.women-in-love"
+    },
+    {
+      "author": "Edith Wharton",
+      "facets": [
+        "adult",
+        "marriage",
+        "social-constraint",
+        "subtext",
+        "forbidden-attraction"
+      ],
+      "local_path": "books/wharton.age-of-innocence.txt",
+      "partition": "profiling",
+      "publication_year": 1920,
+      "source_note": "Project Gutenberg ebook 541.",
+      "source_url": "https://www.gutenberg.org/ebooks/541.txt.utf-8",
+      "text_hash": "aae279f1a60ac64be53f63357e708a2fdaabdb334a1c92f81fc1c3b5c848a092",
+      "title": "The Age of Innocence",
+      "work_id": "wharton.age-of-innocence"
+    },
+    {
+      "author": "E. M. Forster",
+      "facets": [
+        "adult",
+        "romantic-comedy",
+        "social-constraint",
+        "choice-and-agency",
+        "dialogue-rich"
+      ],
+      "local_path": "books/forster.room-with-a-view.txt",
+      "partition": "profiling",
+      "publication_year": 1908,
+      "source_note": "Project Gutenberg ebook 2641.",
+      "source_url": "https://www.gutenberg.org/ebooks/2641.txt.utf-8",
+      "text_hash": "3dce58eb1786b10b79f8688968d293a1990dfed4a1f83a5c04a6a2a10381db36",
+      "title": "A Room with a View",
+      "work_id": "forster.room-with-a-view"
+    },
+    {
+      "author": "E. M. Hull",
+      "facets": [
+        "adult",
+        "dark-romance-history",
+        "coercive",
+        "counterexample",
+        "danger"
+      ],
+      "local_path": "books/hull.the-sheik.txt",
+      "partition": "profiling",
+      "publication_year": 1919,
+      "source_note": "Project Gutenberg ebook 7031.",
+      "source_url": "https://www.gutenberg.org/ebooks/7031.txt.utf-8",
+      "text_hash": "cb15a73e273e86e22d7990a0c2875d1f213cf76dd76ca357179000f27afa8674",
+      "title": "The Sheik",
+      "work_id": "hull.the-sheik"
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "facets": [
+        "adult",
+        "desire",
+        "status",
+        "image-system",
+        "tragic-romance"
+      ],
+      "local_path": "books/fitzgerald.great-gatsby.txt",
+      "partition": "calibration",
+      "publication_year": 1925,
+      "source_note": "Project Gutenberg ebook 64317.",
+      "source_url": "https://www.gutenberg.org/ebooks/64317.txt.utf-8",
+      "text_hash": "ce760ec377accd352b41bb8f64504a72d7aa18ab3afb42ded2b56cecacf29e35",
+      "title": "The Great Gatsby",
+      "work_id": "fitzgerald.great-gatsby"
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "facets": [
+        "adult",
+        "courtship",
+        "dialogue-rich",
+        "status",
+        "holdout"
+      ],
+      "local_path": "books/fitzgerald.this-side-of-paradise.txt",
+      "partition": "holdout",
+      "publication_year": 1920,
+      "source_note": "Project Gutenberg ebook 805.",
+      "source_url": "https://www.gutenberg.org/ebooks/805.txt.utf-8",
+      "text_hash": "1ed81df9b66442fad035ad0a2af19e6a473f5245f99abc6b5ea40b4cbe1053fb",
+      "title": "This Side of Paradise",
+      "work_id": "fitzgerald.this-side-of-paradise"
+    }
+  ]
+}

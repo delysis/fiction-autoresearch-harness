@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "08fda51dd00b4ca18993cb38e3820fa0f39c11e0f18992c878edc242c94680e7",
+  "candidate_id": "s01-a-gift-status.codex.v1",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "May I put this on you?",
+      "atom_id": "s01-cal-01",
+      "consequence_evidence": "The question was ordinary. In the circle, it was almost disruptive.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Jonah drew breath for a joke.",
+      "atom_id": "s01-cal-06",
+      "consequence_evidence": "Then he let the breath out through his nose.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "There she is",
+      "atom_id": "s01-cal-07",
+      "consequence_evidence": "Heads turned.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Her gaze was not on Mara’s face.",
+      "atom_id": "s01-cal-09",
+      "consequence_evidence": "Mara’s response to Jonah.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

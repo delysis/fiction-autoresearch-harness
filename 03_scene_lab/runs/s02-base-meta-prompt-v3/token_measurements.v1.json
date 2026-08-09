@@ -1,0 +1,54 @@
+{
+  "measured_at": "2026-08-01T19:38:02.817054+00:00",
+  "model_trained_context_tokens": 262144,
+  "record_type": "BaseMetaPromptTokenMeasurements",
+  "records": [
+    {
+      "arm_id": "short-control-4k",
+      "maximum_new_tokens": 1700,
+      "prompt_hash": "eb04486cd4117772e998cfe9429e38043457af6765a1d5393555b0cfbd96dbd3",
+      "prompt_tokens": 4814,
+      "prompt_words": 3520,
+      "safe_context_limit": 129024,
+      "within_budget": true
+    },
+    {
+      "arm_id": "paired-icl-16k",
+      "maximum_new_tokens": 1700,
+      "prompt_hash": "cec628a5123875efd4122b1a091ad8c6f0503d22ab1eccbde2c2b0ab852bd50e",
+      "prompt_tokens": 19748,
+      "prompt_words": 14380,
+      "safe_context_limit": 129024,
+      "within_budget": true
+    },
+    {
+      "arm_id": "raw-prose-64k",
+      "maximum_new_tokens": 1700,
+      "prompt_hash": "59159640513e924277c8029f7ca09da85c317fab769db971a1eed5e75ef9dad1",
+      "prompt_tokens": 63339,
+      "prompt_words": 46608,
+      "safe_context_limit": 129024,
+      "within_budget": true
+    },
+    {
+      "arm_id": "full-stack-64k",
+      "maximum_new_tokens": 1700,
+      "prompt_hash": "bce1391bf74a3c955db1c0365c32e36769360e0413d8748287b4d1230e483f31",
+      "prompt_tokens": 62610,
+      "prompt_words": 45758,
+      "safe_context_limit": 129024,
+      "within_budget": true
+    },
+    {
+      "arm_id": "full-stack-128k",
+      "maximum_new_tokens": 1700,
+      "prompt_hash": "7d250e65a74e435083a7cae2aba97b71fd28b271eb1a4609ff977bd4e07b5c70",
+      "prompt_tokens": 125369,
+      "prompt_words": 92562,
+      "safe_context_limit": 129024,
+      "within_budget": true
+    }
+  ],
+  "server_context_tokens": 131072,
+  "version": "base-meta-prompt.v3"
+}

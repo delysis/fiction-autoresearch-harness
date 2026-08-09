@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "kind": "google-docs-trusted-read-context",
+  "target": {
+    "documentId": "1BkWiwl7NWSjIlneKeTf90yQ8pE24izywY87GZ5MABII",
+    "title": "Pilot Scene Cards — S01-S03 v0.1",
+    "revisionId": "AIroW355ZxaD0WSE2zUpHr2MuuB_rtfEA5Laoo2L_EQHtDpDcDhLMRf_VFu3_yCOw5UseFSy9BlCnxmNYyFhIAs7HfFIUnDUniqrsr7reYJr",
+    "documentUrl": "https://docs.google.com/document/d/1BkWiwl7NWSjIlneKeTf90yQ8pE24izywY87GZ5MABII",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "derivedControlInventory": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "nativeElementCounts": {},
+    "tabsScanned": [
+      "t.0"
+    ],
+    "controls": [],
+    "nativeElements": []
+  },
+  "editGuidance": {
+    "advisoryOnly": true,
+    "requiresTargetedPreservation": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope.",
+    "warnings": []
+  }
+}

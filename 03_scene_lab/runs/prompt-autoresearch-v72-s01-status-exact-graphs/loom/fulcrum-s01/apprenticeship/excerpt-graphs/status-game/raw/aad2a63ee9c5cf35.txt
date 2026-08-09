@@ -1,0 +1,33 @@
+{
+  "emotional_offer": "Acknowledgement of past ignorance and newfound understanding",
+  "emotional_counteroffer": "Deep emotional impact and subsequent questioning of commitment",
+  "relationship_history": "Past disconnect and recent profound realization",
+  "present_stakes": "Decision regarding a relationship and a third party",
+  "dialogue_act_sequence": [
+    "Self-reflection",
+    "Declaration of changed perspective",
+    "Plea for commitment",
+    "Accusation/Questioning",
+    "Deflection/Instruction"
+  ],
+  "body_language_counterpoint": "Submissive gesture followed by sudden emotional outburst and withdrawal",
+  "sensory_channels": [
+    "Auditory",
+    "Visual",
+    "Tactile"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Proximity shifts, kneeling, drawing away",
+  "agency_actions": [
+    "Speaker verbalizes realization",
+    "Listener performs gesture of submission",
+    "Speaker attempts physical connection",
+    "Speaker rejects connection",
+    "Listener expresses anger",
+    "Speaker redirects focus"
+  ],
+  "relationship_delta": "Shift from ambiguity to defined conflict",
+  "story_state_change": "Conflict initiated over loyalty and future direction",
+  "intimacy_mode": "charged-contact",
+  "heat_band": "charged-restraint"
+}

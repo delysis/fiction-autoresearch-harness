@@ -1,0 +1,50 @@
+{
+  "record_type": "SharedEndpointLongPrefixObservation",
+  "version": "shared-base31.long-prefix.v1",
+  "observed_at": "2026-08-01T19:44:00Z",
+  "server": {
+    "pid": 94402,
+    "parallel_slots": 4,
+    "allocated_context_tokens": 131072,
+    "unified_kv": true,
+    "kv_cache": "q8_0"
+  },
+  "initial_wave": {
+    "paired_icl_requests": 3,
+    "paired_prompt_tokens_each": 19748,
+    "paired_completion_budget_each": 1700,
+    "concurrent_s03_requests": 1,
+    "s03_prompt_tokens_approx": 25500,
+    "s03_completion_budget": 1700,
+    "declared_aggregate_tokens_approx": 91544
+  },
+  "server_log_observations": [
+    {
+      "task_id": 2018,
+      "slot": 0,
+      "observation": "First paired prompt reached 18432 prefill tokens in 235.76 seconds, 78.18 prompt tokens/second at that milestone."
+    },
+    {
+      "task_id": 2020,
+      "slot": 1,
+      "observation": "Second identical prompt did not inherit the first active slot's KV; while the first request remained active it reached only 731 tokens in 72.76 seconds, then 2778 tokens in 103.74 seconds."
+    },
+    {
+      "task_id": 2019,
+      "slot": 2,
+      "observation": "Third identical prompt had not begun useful long-prefix prefill before the cache-policy cancellation."
+    }
+  ],
+  "scheduler_action": {
+    "action": "Cancelled only the three-client paired controller after the long-prefix crossover was identified; left the independent S03 client and server alive.",
+    "cancelled_controller_pid": 96325,
+    "preserved_client_pid": 96374
+  },
+  "cache_affine_restart": {
+    "task_id": 2038,
+    "slot": 0,
+    "server_report": "LCP similarity 1.000, f_keep 1.000; n_past 19749 with one token reevaluated.",
+    "policy": "Run additional seeds sequentially on the fully warmed prompt-family slot while unrelated work may use other slots."
+  },
+  "finding": "Continuous batching improves aggregate decoding only after the participating slots hold the prompt prefix. For long identical prompts, simultaneous cold submission redundantly serializes prefill and is dominated by cache-affine sequential seeds. Shared ownership remains useful across distinct tasks, but the scheduler must account for prompt affinity as well as slots and aggregate context."
+}

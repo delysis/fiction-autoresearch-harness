@@ -1,0 +1,21 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+This pleased her companion so much that he forgot the slight shock her
+previous remark had caused him. It was undeniably exciting to meet a
+lady who found the van der Luydens' Duke dull, and dared to utter the
+opinion. He longed to question her, to hear more about the life of
+which her careless words had given him so illuminating a glimpse; but
+he feared to touch on distressing memories, and before he could think
+of anything to say she had strayed back to her original subject.
+
+"May is a darling; I've seen no young girl in New York so handsome and
+so intelligent. Are you very much in love with her?"
+
+Newland Archer reddened and laughed. "As much as a man can be."
+
+She continued to consider him thoughtfully, as if not to miss any shade
+of meaning in what he said, "Do you think, then, there is a limit?"
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

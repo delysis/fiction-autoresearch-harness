@@ -1,0 +1,2584 @@
+{
+  "by_pipeline": {
+    "actor_novelist": {
+      "candidate_count": 8,
+      "defect_counts": {},
+      "diagnostic_pass_rates": {
+        "atmospheric_participation": 1.0,
+        "consequential_contact": 1.0,
+        "dialogue_body_counterpoint": 1.0,
+        "emotional_transaction": 1.0,
+        "productive_restraint": 1.0,
+        "relationship_delta": 1.0,
+        "sensory_triage": 1.0
+      },
+      "mean_surface_metrics": {
+        "active_sense_count": 4.25,
+        "atmosphere_markers_per_1000_words": 17.8522,
+        "body_actions_per_1000_words": 9.2902,
+        "dialogue_turns_per_1000_words": 17.2933,
+        "emotional_markers_per_1000_words": 6.0373,
+        "words": 2525.125
+      }
+    },
+    "direct": {
+      "candidate_count": 8,
+      "defect_counts": {},
+      "diagnostic_pass_rates": {
+        "atmospheric_participation": 1.0,
+        "consequential_contact": 1.0,
+        "dialogue_body_counterpoint": 1.0,
+        "emotional_transaction": 1.0,
+        "productive_restraint": 1.0,
+        "relationship_delta": 1.0,
+        "sensory_triage": 1.0
+      },
+      "mean_surface_metrics": {
+        "active_sense_count": 4.375,
+        "atmosphere_markers_per_1000_words": 16.8318,
+        "body_actions_per_1000_words": 9.534,
+        "dialogue_turns_per_1000_words": 16.7675,
+        "emotional_markers_per_1000_words": 5.3879,
+        "words": 2874.875
+      }
+    },
+    "verbalized_sampling": {
+      "candidate_count": 8,
+      "defect_counts": {},
+      "diagnostic_pass_rates": {
+        "atmospheric_participation": 1.0,
+        "consequential_contact": 1.0,
+        "dialogue_body_counterpoint": 1.0,
+        "emotional_transaction": 1.0,
+        "productive_restraint": 1.0,
+        "relationship_delta": 1.0,
+        "sensory_triage": 1.0
+      },
+      "mean_surface_metrics": {
+        "active_sense_count": 4.375,
+        "atmosphere_markers_per_1000_words": 16.1971,
+        "body_actions_per_1000_words": 8.7305,
+        "dialogue_turns_per_1000_words": 15.9719,
+        "emotional_markers_per_1000_words": 4.9078,
+        "words": 2618.875
+      }
+    }
+  },
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 50
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 25,
+            "dialogue_turns": 46
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 46,
+            "emotional_or_relational_markers": 16,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 35,
+              "smell": 2,
+              "sound": 12,
+              "taste": 0,
+              "touch": 14
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 19.478,
+        "body_actions_per_1000_words": 9.739,
+        "dialogue_turns_per_1000_words": 17.9198,
+        "emotional_markers_per_1000_words": 6.233,
+        "words": 2567
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-02",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 59
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 34,
+            "dialogue_turns": 56
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 56,
+            "emotional_or_relational_markers": 16,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 33,
+              "smell": 6,
+              "sound": 13,
+              "taste": 0,
+              "touch": 16
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 22.701,
+        "body_actions_per_1000_words": 13.082,
+        "dialogue_turns_per_1000_words": 21.5467,
+        "emotional_markers_per_1000_words": 6.1562,
+        "words": 2599
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-03",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 45
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 23,
+            "dialogue_turns": 47
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 47,
+            "emotional_or_relational_markers": 14,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 27,
+              "smell": 6,
+              "sound": 14,
+              "taste": 1,
+              "touch": 21
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 16.3636,
+        "body_actions_per_1000_words": 8.3636,
+        "dialogue_turns_per_1000_words": 17.0909,
+        "emotional_markers_per_1000_words": 5.0909,
+        "words": 2750
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-04",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 41
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 21,
+            "dialogue_turns": 36
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 36,
+            "emotional_or_relational_markers": 8,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 30,
+              "smell": 6,
+              "sound": 12,
+              "taste": 0,
+              "touch": 22
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 17.1405,
+        "body_actions_per_1000_words": 8.7793,
+        "dialogue_turns_per_1000_words": 15.0502,
+        "emotional_markers_per_1000_words": 3.3445,
+        "words": 2392
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 52
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 21,
+            "dialogue_turns": 43
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 43,
+            "emotional_or_relational_markers": 13,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 23,
+              "smell": 6,
+              "sound": 13,
+              "taste": 0,
+              "touch": 13
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 21.1382,
+        "body_actions_per_1000_words": 8.5366,
+        "dialogue_turns_per_1000_words": 17.4797,
+        "emotional_markers_per_1000_words": 5.2846,
+        "words": 2460
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 48
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 25,
+            "dialogue_turns": 36
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 36,
+            "emotional_or_relational_markers": 17,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 26,
+              "smell": 3,
+              "sound": 9,
+              "taste": 1,
+              "touch": 14
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 19.3237,
+        "body_actions_per_1000_words": 10.0644,
+        "dialogue_turns_per_1000_words": 14.4928,
+        "emotional_markers_per_1000_words": 6.8438,
+        "words": 2484
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-07",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 33
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 21,
+            "dialogue_turns": 39
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 39,
+            "emotional_or_relational_markers": 23,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 26,
+              "smell": 3,
+              "sound": 11,
+              "taste": 0,
+              "touch": 15
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 13.2904,
+        "body_actions_per_1000_words": 8.4575,
+        "dialogue_turns_per_1000_words": 15.7068,
+        "emotional_markers_per_1000_words": 9.263,
+        "words": 2483
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-08",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 33
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 18,
+            "dialogue_turns": 47
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 47,
+            "emotional_or_relational_markers": 15,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 19,
+              "smell": 4,
+              "sound": 10,
+              "taste": 0,
+              "touch": 20
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "actor_novelist",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 13.382,
+        "body_actions_per_1000_words": 7.2993,
+        "dialogue_turns_per_1000_words": 19.0592,
+        "emotional_markers_per_1000_words": 6.0827,
+        "words": 2466
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-01",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 49
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 32,
+            "dialogue_turns": 50
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 50,
+            "emotional_or_relational_markers": 18,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 34,
+              "smell": 5,
+              "sound": 14,
+              "taste": 1,
+              "touch": 17
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 15.8576,
+        "body_actions_per_1000_words": 10.356,
+        "dialogue_turns_per_1000_words": 16.1812,
+        "emotional_markers_per_1000_words": 5.8252,
+        "words": 3090
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-02",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 44
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 30,
+            "dialogue_turns": 64
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 64,
+            "emotional_or_relational_markers": 13,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 28,
+              "smell": 5,
+              "sound": 13,
+              "taste": 1,
+              "touch": 18
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 15.1203,
+        "body_actions_per_1000_words": 10.3093,
+        "dialogue_turns_per_1000_words": 21.9931,
+        "emotional_markers_per_1000_words": 4.4674,
+        "words": 2910
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-03",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 44
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 27,
+            "dialogue_turns": 48
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 48,
+            "emotional_or_relational_markers": 14,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 38,
+              "smell": 6,
+              "sound": 12,
+              "taste": 0,
+              "touch": 16
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 17.6141,
+        "body_actions_per_1000_words": 10.8086,
+        "dialogue_turns_per_1000_words": 19.2154,
+        "emotional_markers_per_1000_words": 5.6045,
+        "words": 2498
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-04",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 55
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 23,
+            "dialogue_turns": 39
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 39,
+            "emotional_or_relational_markers": 24,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 31,
+              "smell": 12,
+              "sound": 10,
+              "taste": 0,
+              "touch": 20
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 19.0641,
+        "body_actions_per_1000_words": 7.9723,
+        "dialogue_turns_per_1000_words": 13.5182,
+        "emotional_markers_per_1000_words": 8.3189,
+        "words": 2885
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-05",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 49
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 28,
+            "dialogue_turns": 52
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 52,
+            "emotional_or_relational_markers": 13,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 38,
+              "smell": 4,
+              "sound": 14,
+              "taste": 1,
+              "touch": 21
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": true,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 16.3007,
+        "body_actions_per_1000_words": 9.3147,
+        "dialogue_turns_per_1000_words": 17.2987,
+        "emotional_markers_per_1000_words": 4.3247,
+        "words": 3006
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-06",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 55
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 27,
+            "dialogue_turns": 48
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 48,
+            "emotional_or_relational_markers": 11,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 46,
+              "smell": 3,
+              "sound": 8,
+              "taste": 0,
+              "touch": 13
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 19.5174,
+        "body_actions_per_1000_words": 9.5813,
+        "dialogue_turns_per_1000_words": 17.0334,
+        "emotional_markers_per_1000_words": 3.9035,
+        "words": 2818
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-07",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 48
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 24,
+            "dialogue_turns": 36
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 36,
+            "emotional_or_relational_markers": 13,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 36,
+              "smell": 5,
+              "sound": 10,
+              "taste": 0,
+              "touch": 15
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 17.1429,
+        "body_actions_per_1000_words": 8.5714,
+        "dialogue_turns_per_1000_words": 12.8571,
+        "emotional_markers_per_1000_words": 4.6429,
+        "words": 2800
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-direct-direct-08",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 42
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 28,
+            "dialogue_turns": 48
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 48,
+            "emotional_or_relational_markers": 18,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 33,
+              "smell": 4,
+              "sound": 15,
+              "taste": 0,
+              "touch": 15
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "direct",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 14.0374,
+        "body_actions_per_1000_words": 9.3583,
+        "dialogue_turns_per_1000_words": 16.0428,
+        "emotional_markers_per_1000_words": 6.016,
+        "words": 2992
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-01",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 55
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 25,
+            "dialogue_turns": 32
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 32,
+            "emotional_or_relational_markers": 12,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 24,
+              "smell": 3,
+              "sound": 10,
+              "taste": 2,
+              "touch": 18
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 20.9125,
+        "body_actions_per_1000_words": 9.5057,
+        "dialogue_turns_per_1000_words": 12.1673,
+        "emotional_markers_per_1000_words": 4.5627,
+        "words": 2630
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 43
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 23,
+            "dialogue_turns": 39
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 39,
+            "emotional_or_relational_markers": 23,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 42,
+              "smell": 3,
+              "sound": 14,
+              "taste": 0,
+              "touch": 11
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 16.3872,
+        "body_actions_per_1000_words": 8.7652,
+        "dialogue_turns_per_1000_words": 14.8628,
+        "emotional_markers_per_1000_words": 8.7652,
+        "words": 2624
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 48
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 27,
+            "dialogue_turns": 63
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 63,
+            "emotional_or_relational_markers": 15,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 35,
+              "smell": 6,
+              "sound": 14,
+              "taste": 1,
+              "touch": 17
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 15.1515,
+        "body_actions_per_1000_words": 8.5227,
+        "dialogue_turns_per_1000_words": 19.8864,
+        "emotional_markers_per_1000_words": 4.7348,
+        "words": 3168
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "atmosphere_markers": 35
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 21,
+            "dialogue_turns": 44
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 44,
+            "emotional_or_relational_markers": 12,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell",
+              "taste"
+            ],
+            "counts": {
+              "sight": 22,
+              "smell": 4,
+              "sound": 11,
+              "taste": 1,
+              "touch": 12
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 5,
+        "atmosphere_markers_per_1000_words": 15.0732,
+        "body_actions_per_1000_words": 9.0439,
+        "dialogue_turns_per_1000_words": 18.9492,
+        "emotional_markers_per_1000_words": 5.168,
+        "words": 2322
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-05",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 42
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 19,
+            "dialogue_turns": 38
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 38,
+            "emotional_or_relational_markers": 8,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 30,
+              "smell": 3,
+              "sound": 8,
+              "taste": 0,
+              "touch": 20
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 17.341,
+        "body_actions_per_1000_words": 7.8448,
+        "dialogue_turns_per_1000_words": 15.6895,
+        "emotional_markers_per_1000_words": 3.3031,
+        "words": 2422
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-06",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 38
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 25,
+            "dialogue_turns": 46
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 46,
+            "emotional_or_relational_markers": 11,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 21,
+              "smell": 3,
+              "sound": 11,
+              "taste": 0,
+              "touch": 13
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 14.5204,
+        "body_actions_per_1000_words": 9.5529,
+        "dialogue_turns_per_1000_words": 17.5774,
+        "emotional_markers_per_1000_words": 4.2033,
+        "words": 2617
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 39
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 25,
+            "dialogue_turns": 37
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 37,
+            "emotional_or_relational_markers": 10,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 23,
+              "smell": 3,
+              "sound": 11,
+              "taste": 0,
+              "touch": 25
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 14.9026,
+        "body_actions_per_1000_words": 9.5529,
+        "dialogue_turns_per_1000_words": 14.1383,
+        "emotional_markers_per_1000_words": 3.8212,
+        "words": 2617
+      }
+    },
+    {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-08",
+      "craft_diagnostics": {
+        "atmospheric_participation": {
+          "description": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "atmosphere_markers": 39
+          },
+          "passed": true
+        },
+        "character_specific_desire": {
+          "description": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+          "evidence": "Requires editorial judgment of attention and attraction filters.",
+          "passed": null
+        },
+        "consequential_contact": {
+          "description": "State precisely what the wrist contact changes.",
+          "evidence": {
+            "consequence_after_contact": true,
+            "contact_present": true
+          },
+          "passed": true
+        },
+        "dialogue_body_counterpoint": {
+          "description": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+          "evidence": {
+            "body_actions": 18,
+            "dialogue_turns": 37
+          },
+          "passed": true
+        },
+        "distance_control": {
+          "description": "Identify one justified close-up and one useful omission or widening.",
+          "evidence": "Requires editorial judgment of emphasis, omission, and scene distance.",
+          "passed": null
+        },
+        "emotional_transaction": {
+          "description": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+          "evidence": {
+            "dialogue_turns": 37,
+            "emotional_or_relational_markers": 12,
+            "forward_consequence": true
+          },
+          "passed": true
+        },
+        "physical_intelligibility": {
+          "description": "Confirm that contact and experimental control can be spatially understood.",
+          "evidence": "Requires editorial judgment of spatial and bodily continuity.",
+          "passed": null
+        },
+        "productive_restraint": {
+          "description": "State what Jonah's restraint costs and what possibility it creates.",
+          "evidence": {
+            "forward_pressure": true,
+            "restraint_present": true
+          },
+          "passed": true
+        },
+        "relationship_delta": {
+          "description": "State the Mara/Jonah relationship before and after the scene in one sentence.",
+          "evidence": {
+            "contact_consequence": true,
+            "forward_pressure": true
+          },
+          "passed": true
+        },
+        "sensory_triage": {
+          "description": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+          "evidence": {
+            "active_channels": [
+              "sight",
+              "sound",
+              "touch",
+              "smell"
+            ],
+            "counts": {
+              "sight": 18,
+              "smell": 4,
+              "sound": 11,
+              "taste": 0,
+              "touch": 23
+            }
+          },
+          "passed": true
+        }
+      },
+      "defects": [],
+      "eligible": false,
+      "pipeline": "verbalized_sampling",
+      "surface_metrics": {
+        "active_sense_count": 4,
+        "atmosphere_markers_per_1000_words": 15.2881,
+        "body_actions_per_1000_words": 7.0561,
+        "dialogue_turns_per_1000_words": 14.5041,
+        "emotional_markers_per_1000_words": 4.704,
+        "words": 2551
+      }
+    }
+  ],
+  "interpretation_note": "Deterministic diagnostics measure surface coverage and obvious failures only. Passing does not establish character specificity, emotional quality, distance control, or physical intelligibility; those require the evidence-backed v2 editorial judge and humans.",
+  "rubric_id": "s01-romance-v2-gabaldon"
+}

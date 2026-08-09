@@ -1,0 +1,68 @@
+{
+  "archive_case_count": 1,
+  "attempts_per_segment": 1,
+  "canonical_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+  "canonical_path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+  "created_at": "2026-08-01T23:27:48.138446+00:00",
+  "maximum_new_tokens": 750,
+  "opening_runway": {
+    "provenance": "deterministic backtranslation of locked current state; not model output",
+    "sha256": "925493c107b789ff67fb2c406565914b0e95aa6fe438cb7415d909c6eb15f36a",
+    "text": "Four nights after the calibration game, the alignment session had run twenty-three minutes past its promised end. Adrian and Miriam had gone, leaving Mara, Livia, and Jonah at the cedar table with the last sequence still open across three monitors. The lab door remained closed. Jonah kept typing with both hands, his attention on the live traces. Livia sat nearest the shared interface, one bare foot hooked behind the other chair. Mara had not eaten since noon, though she had blamed the tremor in her hands on data density. Her bag waited beside her chair. No one had begun to pack. The raw telemetry remained behind Fulcrum’s permission wall, visible only as summaries. Mara watched the clock change by another minute and said nothing.",
+    "words": 124
+  },
+  "record_type": "ComposedPairedRealization",
+  "seeds": [
+    916037,
+    916055,
+    916073
+  ],
+  "segments": [
+    {
+      "atom_ids": [
+        "s02-a4b-22063-tea",
+        "s02-a4b-22063-unremarkable"
+      ],
+      "local_endpoint": "Livia has accurately exposed the vulnerability, but has not offered telemetry access.",
+      "maximum_words": 350,
+      "minimum_words": 260,
+      "required_dialogue_turns": 3,
+      "segment_id": "pressure"
+    },
+    {
+      "atom_ids": [
+        "s02-a4b-22063-access",
+        "s02-a4b-22023-jonah-complicity"
+      ],
+      "local_endpoint": "The access gift and Jonah's complicity are visible; Mara has not accepted yet.",
+      "maximum_words": 340,
+      "minimum_words": 270,
+      "required_dialogue_turns": 3,
+      "segment_id": "gift-and-complicity"
+    },
+    {
+      "atom_ids": [
+        "s02-a4b-22063-accept",
+        "s02-a4b-22063-cooling-tea"
+      ],
+      "local_endpoint": "Mara has accepted; the tea cools and the session continues without granting an exit.",
+      "maximum_words": 286,
+      "minimum_words": 221,
+      "required_dialogue_turns": 3,
+      "segment_id": "choice-and-trap"
+    }
+  ],
+  "selection": "first hard-gate passing attempt per segment; no literary score",
+  "slot_id": 2,
+  "stable_reference_prefix": {
+    "policy": "selected paired-ledger exemplars followed immediately by the target ledger and live runway",
+    "prefix_hash": "728823e42425687eaf96131064baed00d06e9e80f20c5d4add852586363398ae",
+    "source_arm_id": "paired-icl-16k",
+    "source_prompt_hash": "cec628a5123875efd4122b1a091ad8c6f0503d22ab1eccbde2c2b0ab852bd50e",
+    "source_prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v3/prompts/paired-icl-16k.txt"
+  },
+  "stop_after_segments": 1,
+  "target_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f",
+  "target_path": "03_scene_lab/runs/s02-compute-v4.3-a4b/verbalized_to_instruction/novelist_packet.seq1.v1.json",
+  "version": "paired-composed.v7"
+}

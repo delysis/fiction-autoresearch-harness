@@ -1,0 +1,14 @@
+{
+  "inheritance_hash": "4a79d01d79f32b53e2e781ed374b35171c3f8ee04236838f76c338f646673fe2",
+  "record_type": "VerifiedRunwayInheritance",
+  "runway_text_hashes": {
+    "charged-restraint": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da"
+  },
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v83-first-causal-win",
+  "source_campaign_hash": "19d333a8943b0ffbcf27519e97e9638b1f58cd577722471e54bdec6e34223d57",
+  "source_lock_hash": "fd5811ea3908a15385d5077145f74833196828bcc7102330ed50797221f6e319",
+  "target_campaign_hash": "44eb0a5977c6c0e96ddff808f5c0c16104772d4ea4bcd5ef3e032abc010bf865",
+  "target_lock_hash": "a7d430f5cac7b097f843ed2a6feeeeaa01241e76e325d369a427101a34bb5e68",
+  "verified_at": "2026-08-08T23:27:06.494857+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

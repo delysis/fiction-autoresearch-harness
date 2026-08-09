@@ -1,0 +1,35 @@
+{
+  "query_id": "s01-arrival-status-game.v1",
+  "query_text": "A technically competent adult woman arrives alone at an unusually beautiful exclusive place. Hospitality reveals a small but concrete status asymmetry through who assumes another person's labor. She notices the transaction with dry social intelligence. A charismatic man turns her accurate observation into a social or psychological game, creating curiosity, pressure, and the possibility of attraction.",
+  "stage": "arrival-status-game",
+  "required_facets": ["adult"],
+  "preferred_facets": [
+    "arrival",
+    "social-comedy",
+    "dry-humor",
+    "social-constraint",
+    "choice-and-agency",
+    "charismatic-manipulation",
+    "psychological-romance",
+    "dialogue-rich",
+    "interior"
+  ],
+  "excluded_facets": ["explicit-intimacy"],
+  "desired_features": {
+    "dialogue_ratio": 0.24,
+    "romance_density": 0.008,
+    "conflict_density": 0.013,
+    "agency_density": 0.02,
+    "sensory_channels": 3,
+    "interiority_density": 0.016,
+    "intimacy_action_density": 0.0,
+    "explicit_intimacy_density": 0.0,
+    "sentence_length_mean": 18,
+    "sentence_length_variation": 12
+  },
+  "maximum_scenes": 9,
+  "maximum_per_work": 3,
+  "source_token_budget": 16000,
+  "mmr_lambda": 0.72,
+  "minimum_stage_heat": 0.0
+}

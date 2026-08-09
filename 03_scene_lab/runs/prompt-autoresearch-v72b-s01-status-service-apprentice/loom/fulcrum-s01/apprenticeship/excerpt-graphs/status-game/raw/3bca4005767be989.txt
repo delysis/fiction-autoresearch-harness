@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Sympathy regarding Marie's distress",
+  "emotional_counteroffer": "Detachment and social observation",
+  "relationship_history": "None established",
+  "present_stakes": "Social commentary and character introduction",
+  "dialogue_act_sequence": [
+    "Reporting event",
+    "Describing emotional state",
+    "Introducing new characters",
+    "Offering character assessment"
+  ],
+  "body_language_counterpoint": "Dignified posture versus amorous glance",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close to moderate",
+  "physical_logistics": "Seating arrangement in a social setting",
+  "agency_actions": [
+    "Susie directing attention",
+    "Arthur observing",
+    "Mother of Rouge making eye contact"
+  ],
+  "relationship_delta": "Observation of existing social dynamics",
+  "story_state_change": "Introduction of key figures",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

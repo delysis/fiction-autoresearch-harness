@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Calibration Game — Blind Reader Packet</title>
+  <style>
+    :root { --ink:#211d1b; --paper:#fbf7ef; --accent:#7b2945; --line:#d7cbb9; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:#ece4d8; font-family:Georgia,serif; line-height:1.58; }
+    nav { position:sticky; top:0; z-index:3; display:flex; gap:1rem; align-items:center; padding:.7rem 5vw; background:#211d1bee; color:white; }
+    nav a { color:#f2d8a8; font-weight:bold; text-decoration:none; }
+    nav .spacer { flex:1; }
+    main { width:min(940px,94vw); margin:2rem auto 6rem; }
+    .masthead, article, .choice { background:var(--paper); padding:clamp(1.2rem,4vw,3rem); margin:0 0 2rem; box-shadow:0 8px 30px #33291d1c; }
+    .masthead { border-top:6px solid var(--accent); }
+    h1,h2 { font-weight:normal; color:var(--accent); }
+    article header { display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid var(--line); }
+    .prose { font-size:1.08rem; }
+    .rating { display:grid; grid-template-columns:minmax(150px,1fr) 2fr; gap:1rem; padding:.55rem 0; border-bottom:1px dotted var(--line); font-family:system-ui,sans-serif; }
+    .scale { display:flex; flex-wrap:wrap; gap:.55rem; }
+    .prompt { display:block; margin:1.1rem 0; font:600 1rem system-ui,sans-serif; }
+    textarea,input[type=text] { display:block; width:100%; margin-top:.4rem; padding:.7rem; border:1px solid var(--line); background:white; font:1rem Georgia,serif; }
+    fieldset { margin:1rem 0; border:1px solid var(--line); font-family:system-ui,sans-serif; }
+    fieldset label { margin-right:1.4rem; }
+    button { border:0; border-radius:4px; padding:.6rem .9rem; background:var(--accent); color:white; cursor:pointer; }
+    button.secondary { background:transparent; color:#f2d8a8; border:1px solid #f2d8a8; }
+    .status { font:.85rem system-ui,sans-serif; }
+    @media(max-width:650px) { .rating { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <nav><a href="#finalist-A">A</a><a href="#finalist-C">C</a><span class="spacer"></span><span id="status" class="status">Responses save locally</span><button type="button" class="secondary" id="clear">Clear</button><button type="button" id="export">Export</button></nav>
+  <main>
+    <section class="masthead">
+      <h1>The Calibration Game</h1>
+      <p>Read 2 blinded finalists. Rate what is on the page, then choose which one you would rather continue reading. A higher preachiness score means more preachy, not better.</p>
+      <label class="prompt">Reviewer code
+        <input type="text" name="reviewer_code_display" id="reviewer-code" required pattern="[A-Za-z0-9][A-Za-z0-9_.-]{1,63}" placeholder="Choose a short private code">
+      </label>
+    </section>
+    <form id="feedback" autocomplete="off">
+      <article id="finalist-A"><header><h2>Finalist A</h2><span>2,986 words</span></header><div class="prose"><p>The sunset over the redwood canopy was not a soft descent; it was a heavy, amber infusion that turned the fog into something architectural. As Mara Vale pulled her sedan into the gravel drive of the Fulcrum compound, the trees seemed less like nature and more like a curated cathedral, their massive trunks standing in a deliberate, silent geometry.</p>
+<p>She sat in the car for a moment, her hands resting on the steering wheel. Her knuckles were white. Beside her, on the passenger seat, sat a bakery box from her church’s fellowship hall—sourdough and cardamom buns—and her single, hard-sided suitcase. The juxtaposition felt absurd: her provincial, tactile reality sitting in the shadow of a facility that looked like it had been designed by an algorithm to maximize serenity.</p>
+<p>She felt a familiar contraction in her chest, a tightening she usually associated with the need to perform competence. *Don’t look like a guest,* she told herself. *Look like a peer.*</p>
+<p>The house was a masterpiece of glass and weathered cedar, integrated into the slope of the hill so that it appeared to have grown there. When she stepped out, the air was cool and smelled intensely of damp earth and expensive cedarwood.</p>
+<p>&quot;You’re exactly on time, Mara. That’s a high-resolution arrival.&quot;</p>
+<p>Adrian Voss was waiting on the wide stone terrace. He didn&#x27;t move toward her with the frantic energy of a host; he stood with a stillness that suggested he was already part of the landscape. He was polished, his linen shirt the color of river stone, his eyes possessing a terrifyingly clear focus.</p>
+<p>&quot;The GPS was precise,&quot; Mara said, her voice steadier than her pulse. She held up the bakery box. &quot;And I brought something that isn&#x27;t synthesized.&quot;</p>
+<p>Adrian smiled, and for a second, Mara felt the dizzying pull of his flattery. It wasn&#x27;t the oily praise of a salesman; it was the appreciative gaze of a collector. &quot;Authenticity is a rare commodity here. We’ll find a place for it in the common room. Come, the others are beginning the evening calibration.&quot;</p>
+<p>As he led her inside, the social asymmetry of Fulcrum became visible. The interior was vast, lit by recessed, warm light that left the corners in soft shadow. There were people—perhaps a dozen—scattered across low, modular furniture. They moved with an effortless, studied casualness, a grace that suggested they were all deeply aware of how they were being perceived, yet perfectly comfortable in that awareness.</p>
+<p>&quot;Alignment,&quot; Adrian said, his voice dropping into a register of quiet authority as they entered the main salon, &quot;begins by learning how much we already communicate without the clumsy interference of speech. We are here to bridge the gap between intent and signal.&quot;</p>
+<p>Mara felt the weight of the room. Every gaze that drifted her way felt like a probe. She was a data point entering a closed system.</p>
+<p>&quot;Mara Vale,&quot; Adrian announced, not loudly, but with a clarity that commanded the silence. &quot;Our newest fellow. She comes to us with a background in systemic ethics and a... let’s call it a foundational rigor.&quot;</p>
+<p>A woman rose from a low velvet chair, and the room seemed to tilt toward her. Livia Sloane was beautiful in a way that felt predatory—not out of malice, but out of a sheer, overwhelming presence. She was dressed in dark silk that moved like liquid, and her eyes were bright with a terrifying intelligence.</p>
+<p>&quot;Foundational rigor,&quot; Livia repeated, her voice a melodic contralto. She walked toward Mara, her gait a study in controlled sensuality. &quot;A polite way of saying she has rules. I wonder if they’re structural or merely decorative.&quot;</p>
+<p>Mara felt the heat rise in her neck. She recognized the move: Livia was testing the perimeter. She was mapping Mara’s defenses before she had even set down her bag.</p>
+<p>&quot;They’re structural,&quot; Mara said, meeting Livia’s gaze. She forced herself to broaden her attention, looking not just at Livia’s eyes, but at the way Livia’s weight shifted, the slight tension in her shoulders, the way she held the room’s attention like a conductor. &quot;And they provide the stability required for more complex systems.&quot;</p>
+<p>Livia’s smile was thin, appreciative. &quot;We shall see. Most people think their boundaries are walls. In Fulcrum, we learn they are actually antennas.&quot;</p>
+<p>Livia turned back to the group, and then she performed. It was a demonstration of the &quot;attention reading&quot; that had made her a legend in the fellowship&#x27;s early cohorts. She looked at a young man sitting near the hearth—a boy with nervous hands.</p>
+<p>&quot;You’re thinking about the email you sent to your father this afternoon,&quot; Livia said, her tone conversational, almost casual. &quot;You’re wondering if the omission of the second paragraph made you sound more certain than you actually are. You feel a slight constriction in your solar plexus when you remember the silence after you hit send.&quot;</p>
+<p>The boy froze. A collective breath was held. It wasn&#x27;t just that she was right; it was the way she had articulated the internal sensation, making the invisible visible. Mara felt a shudder run through her. It was as if Livia hadn&#x27;t just read a thought, but had reached into Mara&#x27;s own body and touched a nerve.</p>
+<p>Mara’s instinct was to recoil, to tighten her own skin. But she forced herself to observe the mechanism. *She’s reading the postural shift. The way his breath hitched. The micro-expression of regret.* It was brilliant, but it felt like a violation.</p>
+<p>Then, a voice broke the tension, not with a command, but with a light, irreverent note.</p>
+<p>&quot;Or maybe he just realized he forgot to attach the file.&quot;</p>
+<p>The tension snapped. Mara looked toward the source.</p>
+<p>A man was leaning against a heavy timber pillar, a glass of sparkling water in his hand. He wasn&#x27;t sitting in the center of the social gravity like Livia, nor was he performing the role of the architect like Adrian. He was simply *there*, occupying his space with a relaxed, watchful ease. He was handsome in a way that felt unforced—dark hair slightly mussed, a linen shirt untucked at the hem.</p>
+<p>&quot;Jonah,&quot; Adrian said, though his tone was more amused than reprimanding. &quot;Always the skeptic.&quot;</p>
+<p>&quot;Not a skeptic,&quot; Jonah Reed said, stepping into the light. He looked at Mara, and for the first time since she had arrived, she felt a gaze that didn&#x27;t feel like a probe. It felt like an encounter. &quot;Just a fan of alternative hypotheses. Sometimes a man is just a man, and his father is just a man, and the silence is just... silence.&quot;</p>
+<p>He offered Mara a small, conspiratorial smile. It was a gesture of solidarity, a refusal to participate in the high-stakes theater of Livia’s reading. He wasn&#x27;t narrating her for the room; he was offering her a way out of the spotlight.</p>
+<p>&quot;The calibration exercise will begin now,&quot; Adrian said, moving to the center of the circle. &quot;We will work in pairs. The goal is simple: one partner will act as the Signal, the other as the Receiver. The Receiver must identify a specific, internal physiological state or a suppressed memory held by the Signal, using only non-verbal cues and tactile feedback. We will begin with the wrist-contact protocol.&quot;</p>
+<p>The room reorganized. Mara found herself standing near Jonah. The air between them felt charged, not with the aggressive electricity of Livia’s performance, but with a low, steady hum.</p>
+<p>&quot;Do you want to be the Signal?&quot; Jonah asked quietly. His voice was low, intended only for her.</p>
+<p>&quot;I’d rather not be the subject of a demonstration,&quot; Mara admitted.</p>
+<p>&quot;Then be the Receiver,&quot; he said. &quot;I’m quite good at being boring. It makes for excellent data.&quot;</p>
+<p>He reached out, and for a second, Mara hesitated. Then, she took his hand.</p>
+<p>The contact was electric. It wasn&#x27;t a frantic, grasping touch, but a deliberate, heavy pressure. Jonah’s hand was warm, his skin slightly calloused, his grip firm and steady. As he led her to a small, cushioned bench, Mara felt her own pulse accelerate, not from fear, but from a sudden, heightened awareness of her own body.</p>
+<p>They sat close. The instructions were clear: they were to maintain skin-to-skin contact at the wrist, eyes closed, focusing entirely on the flow of information through the touch.</p>
+<p>Mara closed her eyes. The world vanished, replaced by the sensory details of the immediate present. The scent of Jonah’s skin—something like salt and dried sage. The rhythmic, low thrum of the conversation around them, which became a distant, oceanic sound. The heat of his thumb pressing against her radial artery.</p>
+<p>She felt a profound sense of vulnerability. Without sight, her other senses expanded. She could feel the subtle vibrations of his breathing, the way his chest expanded in a slow, controlled rhythm. She could feel the tension in his forearm, the slight tremor of his muscles.</p>
+<p>And then, she felt it. A shift.</p>
+<p>It wasn&#x27;t a thought, not yet. It was a sensation—a sudden, sharp contraction in the space just below his elbow, followed by a wave of something heavy and dark, like the feeling of being underwater. It was a sense of profound, quiet fatigue, layered with a specific kind of longing. It wasn&#x27;t a romantic longing; it was the exhaustion of someone who had been holding a door shut for a very long time.</p>
+<p>She opened her eyes. Jonah was watching her. His gaze was intense, but there was no triumph in it. He wasn&#x27;t waiting for her to perform; he was waiting to see if she had truly arrived.</p>
+<p>&quot;You felt it,&quot; he whispered. It wasn&#x27;t a question.</p>
+<p>&quot;The weight,&quot; she said, her voice breathy. &quot;It’s not just tiredness. It’s... a holding back.&quot;</p>
+<p>Jonah’s expression shifted. For a moment, the playful mask slipped, and she saw a raw, startling clarity in his eyes. He looked at her not as a fellow student, but as a witness. The intimacy of the moment was staggering. It was a shared perception that felt more real than any conversation they could have had.</p>
+<p>The heat in her blood was no longer just a physiological response to touch; it was the heat of being seen, truly seen, in a way that demanded she be whole.</p>
+<p>&quot;Impressive,&quot; Livia’s voice drifted over them, sounding closer than it should have. &quot;A direct hit on the somatic layer. Most people stay in the cognitive. You went straight to the marrow, Mara.&quot;</p>
+<p>Mara felt the room closing in again. The gaze of the others was a physical weight. She realized that the exercise was designed to create this exact moment—to turn an intimate discovery into a communal trophy.</p>
+<p>But as she looked at Jonah, she saw the way he was reacting to the attention. He was subtly pulling back, his posture tightening, his eyes shifting toward the floor. He was protecting her, even now, by refusing to let the moment belong to the room. He was absorbing the pressure so she wouldn&#x27;t have to.</p>
+<p>A sudden, sharp clarity pierced her. She realized how the &quot;miracle&quot; worked.</p>
+<p>She looked at the way Livia was watching them. Livia wasn&#x27;t just reading Jonah; she was watching the way *Mara* reacted to Jonah. She was looking for the micro-expressions of shame, the dilation of pupils, the tell-tale signs of arousal that would confirm her own theory of social command.</p>
+<p>And she saw it. She saw the way Livia’s eyes flickered toward the hand of the person sitting next to her—the person whose wrist was touching Mara&#x27;s. It was a tiny, almost imperceptible movement, a glance that served as a bridge. The &quot;Signal&quot; wasn&#x27;t just providing the emotion; they were providing the cue. The partner was a secondary channel, a subtle, tactile nudge that Livia used to steer the reading.</p>
+<p>It was a beautiful, sophisticated system of feedback. It wasn&#x27;t a fraud, not exactly; it was a highly optimized, distributed way of perceiving. But it was also a way of controlling the narrative.</p>
+<p>Mara felt a surge of something cold and crystalline. She had spent her life believing that virtue was about saying &quot;no&quot; to the wrong things. But she realized now that a more potent virtue was the ability to see the mechanism and choose how to engage with it.</p>
+<p>She decided to test the channel.</p>
+<p>She didn&#x27;t pull her hand away. Instead, she leaned in slightly, increasing the surface area of the contact. She focused all her attention on the sensation of Jonah’s skin, but she intentionally disconnected her internal state from the external signals. She practiced a form of stillness she had learned in long, silent prayer sessions—a way of being present without being reactive.</p>
+<p>She felt the &quot;Signal&quot; beside her—a girl named Clara—attempt to send a pulse of nervous energy through the contact. It was a tiny, rhythmic tapping against the side of Mara’s wrist, a signal meant to trigger a specific response.</p>
+<p>Mara felt the tap. She recognized it instantly as a prompt.</p>
+<p>She did not react. She did not flinch, she did not gasp, and she did not allow her breathing to change. She simply absorbed the tap into the vast, quiet space of her own stillness. She became a black hole for the signal, a void that refused to reflect the input.</p>
+<p>A moment later, Livia spoke.</p>
+<p>&quot;The resonance is fading,&quot; Livia said, her voice tinged with a rare note of confusion. &quot;Mara, you’re... you’re drifting. You’ve lost the connection.&quot;</p>
+<p>The room went quiet. The &quot;miracle&quot; had stalled. The high-resolution synchrony that Fulcrum demanded had been interrupted by a silence they couldn&#x27;t explain.</p>
+<p>Mara looked up. She didn&#x27;t look like a girl who had failed a test; she looked like a woman who had found a boundary.</p>
+<p>&quot;I didn&#x27;t lose it,&quot; Mara said, her voice calm and resonant. &quot;I just stopped performing it.&quot;</p>
+<p>The silence that followed was different. It wasn&#x27;t the expectant silence of a performance; it was the heavy, unsettled silence of a system encountering an error it couldn&#x27;t resolve.</p>
+<p>Adrian Voss was watching her, his eyes narrowed. He wasn&#x27;t angry; he was calculating. He was trying to figure out if what she had done was a lapse in competence or a new kind of mastery.</p>
+<p>Livia looked stung, a brief flash of frustration crossing her face before she smoothed it into a mask of elegant indifference. But the power dynamic in the room had shifted. The &quot;telepathy&quot; had been exposed as a conversation, and Mara had chosen to stop talking.</p>
+<p>Jonah was the only one who didn&#x27;t look confused.</p>
+<p>He was looking at her with a profound, quiet recognition. He saw what she had done. He saw the way she had used her own stillness as a shield, and he saw the courage it had taken to stand in the center of that failure and own it.</p>
+<p>He didn&#x27;t say a word. He simply squeezed her hand once—a brief, firm pressure that felt like a salute—and then he let go.</p>
+<p>As the evening wound down and the others drifted into smaller, more conventional groups, Mara found herself standing on the edge of the terrace, looking out at the dark silhouettes of the redwoods. The air was colder now, and the scent of the damp earth was even more intense.</p>
+<p>She felt exhausted, but it was a clean, purposeful exhaustion. The tightness in her chest had vanished, replaced by a steady, grounded sense of her own agency.</p>
+<p>&quot;That was a hell of a way to introduce yourself,&quot; a voice said.</p>
+<p>Jonah was standing a few feet away, his hands in his pockets. He wasn&#x27;t approaching her with the predatory grace of the others; he was giving her space.</p>
+<p>&quot;I didn&#x27;t mean to break the game,&quot; Mara said, though she didn&#x27;t feel particularly sorry.</p>
+<p>&quot;The game is broken,&quot; Jonah said, stepping closer. &quot;It’s been broken since the first person realized they could optimize the feedback loop. Most people here just prefer the illusion of the miracle.&quot;</p>
+<p>He looked out at the trees. &quot;You didn&#x27;t just break the loop, Mara. You changed the parameters.&quot;</p>
+<p>&quot;Is that a good thing?&quot; she asked.</p>
+<p>Jonah turned to her. The moonlight caught the edges of his face, making him look both ancient and incredibly young. &quot;In a place like this? It’s the only thing that might actually matter.&quot;</p>
+<p>He didn&#x27;t try to touch her again. He didn&#x27;t try to bridge the distance with a clever remark or a flirtatious glance. He simply stood there, a presence that was both an invitation and a respect for her solitude.</p>
+<p>Mara looked back at the glass house, where the lights were still glowing, where the brilliant, wounded, and beautiful people were still weaving their webs of perception and status. She saw the allure of it—the intoxicating promise of being known, of being part of a collective mind.</p>
+<p>But she also felt the strength of her own boundaries. She realized that she hadn&#x27;t come to Fulcrum to be solved. She had come to learn how to see, and how to be seen, without losing herself in the process.</p>
+<p>She thought of the bakery box in her room, the simple, honest weight of the sourdough. She thought of the way Jonah had looked at her—not as a puzzle to be solved, but as a person to be honored.</p>
+<p>&quot;I think,&quot; Mara said, her voice steady in the cool night air, &quot;that I’m going to like it here. But I’m going to do it on my own terms.&quot;</p>
+<p>Jonah smiled, and this time, it was a real smile, one that reached his eyes. &quot;I wouldn&#x27;t have it any other way.&quot;</p>
+<p>As they stood together in the silence of the redwoods, Mara realized that her decision to stay wasn&#x27;t an act of surrender. It was an act of engagement. She was entering the game, but she was bringing her own rules. And for the first time in her life, she felt that her desire—for truth, for connection, for something deeper than mere perception—was not a distraction, but her greatest source of power.</p></div><section><h3>Quick ratings</h3><div class="rating"><span>Romantic pull</span><div class="scale"><label><input type="radio" name="A_romantic_pull" value="1" required> 1</label><label><input type="radio" name="A_romantic_pull" value="2" required> 2</label><label><input type="radio" name="A_romantic_pull" value="3" required> 3</label><label><input type="radio" name="A_romantic_pull" value="4" required> 4</label><label><input type="radio" name="A_romantic_pull" value="5" required> 5</label><label><input type="radio" name="A_romantic_pull" value="6" required> 6</label><label><input type="radio" name="A_romantic_pull" value="7" required> 7</label></div></div>
+<div class="rating"><span>Erotic heat</span><div class="scale"><label><input type="radio" name="A_heat" value="1" required> 1</label><label><input type="radio" name="A_heat" value="2" required> 2</label><label><input type="radio" name="A_heat" value="3" required> 3</label><label><input type="radio" name="A_heat" value="4" required> 4</label><label><input type="radio" name="A_heat" value="5" required> 5</label><label><input type="radio" name="A_heat" value="6" required> 6</label><label><input type="radio" name="A_heat" value="7" required> 7</label></div></div>
+<div class="rating"><span>Character fascination</span><div class="scale"><label><input type="radio" name="A_character_fascination" value="1" required> 1</label><label><input type="radio" name="A_character_fascination" value="2" required> 2</label><label><input type="radio" name="A_character_fascination" value="3" required> 3</label><label><input type="radio" name="A_character_fascination" value="4" required> 4</label><label><input type="radio" name="A_character_fascination" value="5" required> 5</label><label><input type="radio" name="A_character_fascination" value="6" required> 6</label><label><input type="radio" name="A_character_fascination" value="7" required> 7</label></div></div>
+<div class="rating"><span>Trust in the story</span><div class="scale"><label><input type="radio" name="A_trust" value="1" required> 1</label><label><input type="radio" name="A_trust" value="2" required> 2</label><label><input type="radio" name="A_trust" value="3" required> 3</label><label><input type="radio" name="A_trust" value="4" required> 4</label><label><input type="radio" name="A_trust" value="5" required> 5</label><label><input type="radio" name="A_trust" value="6" required> 6</label><label><input type="radio" name="A_trust" value="7" required> 7</label></div></div>
+<div class="rating"><span>Prose freshness</span><div class="scale"><label><input type="radio" name="A_prose_freshness" value="1" required> 1</label><label><input type="radio" name="A_prose_freshness" value="2" required> 2</label><label><input type="radio" name="A_prose_freshness" value="3" required> 3</label><label><input type="radio" name="A_prose_freshness" value="4" required> 4</label><label><input type="radio" name="A_prose_freshness" value="5" required> 5</label><label><input type="radio" name="A_prose_freshness" value="6" required> 6</label><label><input type="radio" name="A_prose_freshness" value="7" required> 7</label></div></div>
+<div class="rating"><span>Desire to continue</span><div class="scale"><label><input type="radio" name="A_desire_to_continue" value="1" required> 1</label><label><input type="radio" name="A_desire_to_continue" value="2" required> 2</label><label><input type="radio" name="A_desire_to_continue" value="3" required> 3</label><label><input type="radio" name="A_desire_to_continue" value="4" required> 4</label><label><input type="radio" name="A_desire_to_continue" value="5" required> 5</label><label><input type="radio" name="A_desire_to_continue" value="6" required> 6</label><label><input type="radio" name="A_desire_to_continue" value="7" required> 7</label></div></div>
+<div class="rating"><span>Preachiness</span><div class="scale"><label><input type="radio" name="A_preachiness" value="1" required> 1</label><label><input type="radio" name="A_preachiness" value="2" required> 2</label><label><input type="radio" name="A_preachiness" value="3" required> 3</label><label><input type="radio" name="A_preachiness" value="4" required> 4</label><label><input type="radio" name="A_preachiness" value="5" required> 5</label><label><input type="radio" name="A_preachiness" value="6" required> 6</label><label><input type="radio" name="A_preachiness" value="7" required> 7</label></div></div></section><section><h3>Reader notes</h3><label class="prompt">Quote the best or hottest passage.<textarea name="A_hottest" rows="3"></textarea></label>
+<label class="prompt">Where did interest drop, or the prose feel false or over-explained?<textarea name="A_false" rows="3"></textarea></label>
+<label class="prompt">What do you most want to happen next?<textarea name="A_next" rows="3"></textarea></label></section></article>
+<article id="finalist-C"><header><h2>Finalist C</h2><span>3,172 words</span></header><div class="prose"><p>The sun was sinking behind the redwoods, casting long, bruised shadows across the Fulcrum compound. It felt less like a campus and more like a cathedral designed by a hedge fund—a seamless integration of glass, cedar, and light that suggested humanity had finally stopped apologizing to the landscape and started negotiating with it.</p>
+<p>Mara Vale stood by the heavy timber gates, her fingers tracing the cool, textured surface of the bakery box she held against her ribs. It contained lemon-lavender shortbread from her church’s bake sale—a small, sugary offering of the world she was leaving behind. Back home, beauty was ordered: the predictable symmetry of a stained-glass window, the cadence of a well-measured hymn. Here, the beauty was expensive and restless, and the social asymmetry was just as stark. The architecture didn’t aim for the heavens so much as it aimed for the horizon, and the people within it seemed to occupy an unequal hierarchy of attention and access that Mara could already feel pressing against her.</p>
+<p>She felt a sudden, sharp contraction in her solar plexus—a tightening she recognized as the physical prelude to social anxiety. She took a breath, attempting to name the sensation: *anticipation*, she told herself. *Not fear. Just the weight of a new threshold.*</p>
+<p>&quot;You look like you’re deciding whether to enter or to perform an exorcism,&quot; a voice said.</p>
+<p>Mara turned. Adrian Voss stood a few feet away, silhouetted against the glowing glass of the main hall. He didn’t walk toward her so much as he occupied the space between them. He was precisely what the brochures promised: a man who looked like he had solved the most difficult equation in the room and was now waiting for the rest of the world to catch up.</p>
+<p>&quot;I was just thinking about the light,&quot; Mara said, her voice steadier than her pulse. &quot;It’s different here. It feels... intentional.&quot;</p>
+<p>Adrian smiled, a gesture of practiced, benevolent clarity. &quot;Everything here is intentional, Mara. That is the fundamental mission. We are moving past the era of accidental living. We are entering the era of alignment.&quot;</p>
+<p>He stepped closer, and Mara felt the subtle shift in the atmosphere—the high-status gravity that seemed to pull at the periphery of her vision.</p>
+<p>&quot;The world is full of misalignment,&quot; Adrian continued, his tone dropping into the register of a shared secret. &quot;Between human intent and machine execution; between our biological impulses and our moral aspirations. We believe that if we can bridge that gap—if we can align the messy, entropic nature of the human spirit with the precise, scalable logic of advanced systems—we won&#x27;t just build better tools. We will build better people.&quot;</p>
+<p>*Better people,* Mara thought. To her, a person wasn&#x27;t a system to be optimized; a person was a soul to be tended. But as she looked at the shimmering expanse of the institute, she felt the pull of his logic. It was a seductive, clean kind of hope.</p>
+<p>&quot;Is that what the fellowship is?&quot; she asked. &quot;A debugging session for the soul?&quot;</p>
+<p>Adrian laughed, a warm, resonant sound. &quot;A bit more ambitious than that. Come inside. The evening calibration is about to begin.&quot;</p>
+<p>The interior of the main hall was a masterclass in curated casualness. Low-slung linen sofas, soft ambient light, and a group of young people who moved with the easy, terrifying confidence of those who had never been told they were wrong. Mara felt the eyes on her immediately. Not the blunt stare of a stranger, but the scanning, high-resolution gaze of people who were trained to see.</p>
+<p>&quot;New arrival,&quot; a voice drifted across the room. It was melodic, sharp, and carried the unmistakable weight of social command.</p>
+<p>Livia Sloane approached. She was beautiful in a way that felt engineered—symmetrical, vibrant, and entirely unblinking. She didn&#x27;t offer a hand; she offered an observation.</p>
+<p>&quot;Mara Vale,&quot; Livia said, her eyes tracing the line of Mara’s jaw, the tension in her shoulders, the way she held the bakery box. &quot;The girl from the valley. You have a very high threshold for cognitive dissonance. You’re standing in a room full of people claiming to master the human condition, and you’re holding a box of cookies like a shield.&quot;</p>
+<p>Mara felt the heat rise in her neck. It wasn&#x27;t just embarrassment; it was the sensation of being stripped. Livia wasn&#x27;t just looking at her; she was reading her.</p>
+<p>&quot;It’s not a shield,&quot; Mara said, tightening her grip on the box. &quot;It’s an offering. A bit of the ordinary to balance the extraordinary.&quot;</p>
+<p>Livia’s smile didn&#x27;t reach her eyes. &quot;Ordinary is just another word for uncalibrated. You think your &#x27;soul&#x27; is a private, irreducible thing. But I suspect it’s just a collection of very predictable, very beautiful patterns. And patterns can be mapped.&quot;</p>
+<p>&quot;Mapping a pattern isn&#x27;t the same as knowing the person who made it,&quot; Mara countered.</p>
+<p>&quot;Isn&#x27;t it?&quot; Livia stepped into Mara&#x27;s personal space, her scent—something like ozone and sandalwood—filling the gap between them. &quot;If I can predict your next breath, your next hesitation, your next moral pivot... tell me, Mara, where is the &#x27;you&#x27; that I haven&#x27;t already accounted for?&quot;</p>
+<p>The challenge was visceral. Mara felt her breath catch, her internal architecture trembling under the weight of Livia&#x27;s scrutiny. It felt like a violation, yet there was an undeniable, dark glamour to it. Livia was offering a kind of total visibility that Mara had spent her whole life praying for, yet fearing.</p>
+<p>&quot;I think,&quot; a new voice interrupted, &quot;that Livia is currently treating a human being like a piece of telemetry data. And that’s a very boring way to make friends.&quot;</p>
+<p>Mara looked past Livia. A young man was leaning against a bookshelf, a glass of water in his hand. He wasn&#x27;t looking at the group with the predatory hunger of the others. He looked... relaxed. Almost bored. But his eyes—dark, intelligent, and strangely kind—were fixed on Mara with a steady, non-judgmental clarity.</p>
+<p>&quot;Jonah,&quot; Livia said, her tone dropping an octave. &quot;Don&#x27;t be a drag. We’re practicing. Tell us what you see in her. Give us a read.&quot;</p>
+<p>&quot;I won&#x27;t read her,&quot; Jonah said, pushing off the shelf and walking toward them. He didn&#x27;t move with the grace of a predator, but with the easy, unforced rhythm of someone who was comfortable in his own skin. &quot;And I won&#x27;t perform her for the room. Some things are better left to the people actually experiencing them.&quot;</p>
+<p>He reached Mara and gave her a small, crooked smile. It wasn&#x27;t a smile of flirtation, but of recognition. He saw the tightness in her hands. He saw the way she was bracing herself. He didn&#x27;t try to &quot;read&quot; her for the room, nor did he offer a summary of her state to Livia. He simply stood there, creating a pocket of silence that didn&#x27;t require her to explain herself.</p>
+<p>&quot;I&#x27;m Jonah,&quot; he said. &quot;And if you&#x27;re looking for a place to hide from the &#x27;calibration,&#x27; the library has excellent acoustics and very few people who care about your psychological profile.&quot;</p>
+<p>&quot;I&#x27;m not hiding,&quot; Mara said, though her heart was racing.</p>
+<p>&quot;I know,&quot; Jonah replied softly. &quot;That&#x27;s why you&#x27;re holding that box so tightly. You&#x27;re waiting for someone to tell you that you don&#x27;t have to.&quot;</p>
+<p>He didn&#x27;t wait for her to respond. He turned to Adrian, who was watching the exchange with an amused expression. &quot;Are we doing the wrist task, or are we just going to watch Livia dissect the newcomers all night?&quot;</p>
+<p>Adrian clapped his hands once. &quot;Right. Everyone, please. Let’s settle. We’ll begin the evening&#x27;s paired attention exercise.&quot;</p>
+<p>The group coalesced in the center of the room. The air seemed to thicken, charged with a sudden, focused intensity.</p>
+<p>&quot;The protocol is simple,&quot; Adrian explained. &quot;Pairs will sit facing one another. You will maintain light physical contact at the wrist. Your goal is not to communicate through speech, but to achieve a state of shared attentional rhythm. We want to see if you can detect the subtle shifts in your partner&#x27;s physiological state—their heart rate, their respiratory depth, the micro-tremors of their skin—and align with them. We are looking for the moment the two systems become one.&quot;</p>
+<p>Mara felt a wave of apprehension. She was paired with Jonah.</p>
+<p>He led her to a low chair, and as she sat, he sat opposite her. The distance between them was small, intimate. When he reached out and took her right wrist in his hand, Mara felt a jolt of electricity that had nothing to do with the high-tech environment.</p>
+<p>His skin was warm, slightly rough, and his grip was incredibly light. It was a touch that felt both carefully measured and immensely powerful. He wasn&#x27;t grabbing her; he was *holding* her, in a way that felt like he was protecting her ability to say no.</p>
+<p>&quot;Don&#x27;t try to perform,&quot; Jonah whispered, his eyes meeting hers. &quot;Just notice.&quot;</p>
+<p>Mara closed her eyes, attempting to follow his instruction. She tried to retreat into the quiet, prayerful space she had cultivated in her youth—the place where she could separate her sensations from her ego.</p>
+<p>*Lord, give me clarity,* she prayed silently. *Let me see what is true.*</p>
+<p>She opened her eyes and focused on the point of contact. Jonah’s thumb was resting just below her pulse point. The world began to narrow. The low murmur of the other pairs, the dim light of the room, the heavy scent of the redwoods outside—all of it receded. There was only the warmth of his hand and the rhythmic thrum of her own blood.</p>
+<p>Then, something strange happened. She felt a shift in the rhythm. It wasn&#x27;t her own. It was a subtle, undulating wave of tension that seemed to emanate from Jonah’s fingers. It was as if he were broadcasting a frequency, a tiny, staccato vibration that her skin picked up with unnerving sensitivity.</p>
+<p>She realized, with a start, that Livia was watching them. Livia was standing a few feet away, her gaze fixed on their joined hands.</p>
+<p>&quot;The pair is synchronizing,&quot; Livia announced to the room, her voice a low, triumphant purr. &quot;The subject&#x27;s heart rate is decelerating. She&#x27;s entering a state of receptive resonance. I can see it in the way her pupils are dilating.&quot;</p>
+<p>Mara felt a surge of panic. Livia was narrating her. She was turning Mara’s internal experience into a public data point. The sensation of Jonah’s hand, which had felt like a sanctuary, suddenly felt like a probe.</p>
+<p>*She&#x27;s reading me,* Mara thought. *She&#x27;s using the contact to bypass my defenses.*</p>
+<p>She looked at Jonah, searching for a sign that he was part of the game. But Jonah’s face was an unreadable mask of calm. He wasn&#x27;t looking at Livia. He wasn&#x27;t looking at the room. He was looking only at Mara, his gaze steady and profoundly present.</p>
+<p>In that moment, the erotic charge of the contact intensified. It was no longer just a physical pull; it was an epistemological crisis. Was what she was feeling—this strange, rhythmic communion—a real connection, or was it just a sophisticated feedback loop? Was Jonah’s restraint a form of respect, or was it a highly trained way of managing her reaction?</p>
+<p>The sensation of his thumb against her wrist became overwhelming. It felt like a question. *Can you trust what you feel when you know it&#x27;s being measured?*</p>
+<p>Mara felt herself beginning to contract, her breath becoming shallow and jagged. The &quot;alignment&quot; Livia spoke of felt like a trap—a way to collapse the distance between two people until there was no room left for the individual.</p>
+<p>*No,* Mara thought. *I will not be a system to be aligned.*</p>
+<p>She reached for her prayer, but she didn&#x27;t use it as an escape. Instead, she used it as a tool of discernment. She began a mental litany, a rhythmic repetition of names and truths, using the cadence to compartmentalize the sensation. She acknowledged the heat of his skin, the pressure of his thumb, the sudden, dizzying desire to lean forward and press her forehead against his. She felt them all. She didn&#x27;t push them away; she simply gave them a name and a boundary.</p>
+<p>*This is sensation. This is desire. This is not the whole truth.*</p>
+<p>As she did this, a strange thing happened. The panic receded, replaced by a cool, crystalline clarity. She noticed something Livia had missed.</p>
+<p>She noticed the way Jonah’s own breathing was subtly out of sync with the room. He wasn&#x27;t just &quot;receiving&quot; her; he was actively modulating his own state to give her space. He was creating a buffer.</p>
+<p>And she noticed the mechanism.</p>
+<p>She saw a tiny, almost imperceptible movement in Livia’s own posture—a slight lean, a shift in the weight of her gaze—that seemed to coincide with the moments of &quot;resonance&quot; she announced. Livia wasn&#x27;t just reading Mara; she was *cueing* her. She was using her own micro-expressions to trigger a predictable response in the subject, a social feedback loop that looked like telepathy but was actually a highly skilled form of manipulation.</p>
+<p>Mara felt a surge of cold, intellectual fury. It was so clever. It was so elegant. And it was a lie.</p>
+<p>She made a decision. She would not expose Livia. To do so would be to play the game on Livia’s terms—to turn the room into a courtroom of competing interpretations. Instead, she would change the channel.</p>
+<p>Mara didn&#x27;t pull her hand away. Instead, she shifted her focus. She stopped trying to &quot;align&quot; with Jonah. She stopped trying to sense him. Instead, she focused entirely on a single, internal point: the memory of the smell of the rain on the parched earth of her childhood garden. She visualized the grey clouds, the heavy scent of wet dust, the absolute, unshakeable stillness of the world before a storm.</p>
+<p>She poured all of her attention into that singular, non-social, non-biological memory. She turned her internal landscape into a fortress of static, a beautiful, impenetrable gray.</p>
+<p>The effect was immediate.</p>
+<p>&quot;The synchronization is breaking,&quot; Livia said, her voice losing its melodic edge. &quot;The subject is... retreating. The signal is becoming noisy.&quot;</p>
+<p>Mara felt Jonah’s hand tighten, just a fraction. It wasn&#x27;t a squeeze of command, but a silent, questioning pulse. He had felt the shift. He knew she had gone somewhere else.</p>
+<p>&quot;The pair is experiencing a decoupling,&quot; Adrian observed, his brow furrowing slightly. &quot;A loss of coherence.&quot;</p>
+<p>For a few seconds, the room felt heavy with the failure of the exercise. Livia&#x27;s readings began to drop, her confidence faltering as her accuracy collapsed. The &quot;miracle&quot; of the alignment had dissolved into a mundane error. Livia looked momentarily deflated, her gaze darting around the room as if searching for the lost data.</p>
+<p>But then, something else happened. In the silence that followed the collapse, Mara felt a sensation that had nothing to do with the game, or the technology, or the social hierarchy of Fulcrum.</p>
+<p>It was a feeling of profound, unshakeable recognition.</p>
+<p>It wasn&#x27;t the &quot;resonance&quot; Livia had described. It wasn&#x27;t a data point. It was a quiet, terrifyingly deep sense of being seen—not as a pattern, not as a system, but as a person who was capable of both profound error and profound resistance.</p>
+<p>She looked up at Jonah. He wasn&#x27;t looking at her with the analytical eye of a researcher or the predatory eye of a social climber. He was looking at her with a gaze that was stripped of all intent. He was simply there, witnessing her.</p>
+<p>And in that gaze, there was a gap. A space between what could be explained and what was simply true. It was a small, uncanny remainder—a residual mystery of connection that neither Livia’s skill nor Adrian’s models could account for.</p>
+<p>&quot;Well,&quot; Jonah said, breaking the silence with a soft, wry chuckle. He released her wrist, his touch lingering for a fraction of a second longer than necessary. &quot;I think that counts as a successful calibration of boundaries.&quot;</p>
+<p>Adrian cleared his throat, looking slightly unsettled. &quot;A valid result. Disruption is also a form of alignment. It tells us where the limits lie.&quot;</p>
+<p>As the group began to disperse, the tension in the room began to bleed away, replaced by the low hum of post-exercise debriefing. Mara felt a strange, exhausted lightness. She had entered the room wanting to prove her goodness, and she was leaving having discovered something far more complicated: the power of her own ambiguity.</p>
+<p>Jonah walked beside her as they moved toward the glass doors leading to the redwood terrace. The night air was cool and smelled of pine and damp earth.</p>
+<p>&quot;You&#x27;re very good at that,&quot; he said quietly.</p>
+<p>&quot;At what?&quot; Mara asked.</p>
+<p>&quot;Vanishing,&quot; he said. &quot;Most people here spend all their energy trying to be found. You spent yours making sure you couldn&#x27;t be caught.&quot;</p>
+<p>&quot;I wasn&#x27;t trying to hide,&quot; Mara said, her voice steady. &quot;I was just trying to be real.&quot;</p>
+<p>Jonah stopped walking and turned to face her. The moonlight caught the edges of his face, making him look like something carved from the shadows. &quot;The problem with this place, Mara, is that they think &#x27;real&#x27; is something you can calculate. They think if they get enough data, they’ll eventually find the truth.&quot;</p>
+<p>He stepped closer, and for a moment, the distance between them felt precarious. The erotic charge was back, but it was different now—it was tempered by a shared, quiet understanding. It was the heat of two people who had both seen the machinery behind the curtain and chosen to stand in the dark together.</p>
+<p>&quot;But the truth isn&#x27;t a calculation,&quot; he continued, his voice barely a whisper. &quot;It&#x27;s the thing that&#x27;s left over when the math fails.&quot;</p>
+<p>Mara looked at him, and for the first time since she had arrived at Fulcrum, she didn&#x27;t feel the need to defend herself or her faith. She didn&#x27;t feel the need to be &quot;perfectly&quot; virtuous. She felt a sudden, sharp desire to know him—not as a researcher, not as a social peer, but as the man who had watched her vanish and had waited for her to come back.</p>
+<p>&quot;And what is left over?&quot; she asked.</p>
+<p>Jonah smiled, and this time, it was a real smile—vulnerable, playful, and profoundly human.</p>
+<p>&quot;I think we’re about to find out,&quot; he said.</p>
+<p>Mara looked back at the glowing glass of the institute, then out at the vast, dark expanse of the redwoods. She knew that the weeks ahead would be a storm of competing truths, of intellectual combat and spiritual testing. She knew that Fulcrum would try to map her, to align her, to turn her into a part of its grand, technological design.</p>
+<p>But as she stood there in the cool night air, the taste of lemon-lavender shortbread still faint on her tongue, she realized she wasn&#x27;t leaving. She wasn&#x27;t staying because she believed in Adrian’s mission, or because she was seduced by Livia’s brilliance.</p>
+<p>She was staying because the dialectic had begun. And for the first time in her life, she realized that the most important part of the truth wasn&#x27;t the answer—it was the question.</p></div><section><h3>Quick ratings</h3><div class="rating"><span>Romantic pull</span><div class="scale"><label><input type="radio" name="C_romantic_pull" value="1" required> 1</label><label><input type="radio" name="C_romantic_pull" value="2" required> 2</label><label><input type="radio" name="C_romantic_pull" value="3" required> 3</label><label><input type="radio" name="C_romantic_pull" value="4" required> 4</label><label><input type="radio" name="C_romantic_pull" value="5" required> 5</label><label><input type="radio" name="C_romantic_pull" value="6" required> 6</label><label><input type="radio" name="C_romantic_pull" value="7" required> 7</label></div></div>
+<div class="rating"><span>Erotic heat</span><div class="scale"><label><input type="radio" name="C_heat" value="1" required> 1</label><label><input type="radio" name="C_heat" value="2" required> 2</label><label><input type="radio" name="C_heat" value="3" required> 3</label><label><input type="radio" name="C_heat" value="4" required> 4</label><label><input type="radio" name="C_heat" value="5" required> 5</label><label><input type="radio" name="C_heat" value="6" required> 6</label><label><input type="radio" name="C_heat" value="7" required> 7</label></div></div>
+<div class="rating"><span>Character fascination</span><div class="scale"><label><input type="radio" name="C_character_fascination" value="1" required> 1</label><label><input type="radio" name="C_character_fascination" value="2" required> 2</label><label><input type="radio" name="C_character_fascination" value="3" required> 3</label><label><input type="radio" name="C_character_fascination" value="4" required> 4</label><label><input type="radio" name="C_character_fascination" value="5" required> 5</label><label><input type="radio" name="C_character_fascination" value="6" required> 6</label><label><input type="radio" name="C_character_fascination" value="7" required> 7</label></div></div>
+<div class="rating"><span>Trust in the story</span><div class="scale"><label><input type="radio" name="C_trust" value="1" required> 1</label><label><input type="radio" name="C_trust" value="2" required> 2</label><label><input type="radio" name="C_trust" value="3" required> 3</label><label><input type="radio" name="C_trust" value="4" required> 4</label><label><input type="radio" name="C_trust" value="5" required> 5</label><label><input type="radio" name="C_trust" value="6" required> 6</label><label><input type="radio" name="C_trust" value="7" required> 7</label></div></div>
+<div class="rating"><span>Prose freshness</span><div class="scale"><label><input type="radio" name="C_prose_freshness" value="1" required> 1</label><label><input type="radio" name="C_prose_freshness" value="2" required> 2</label><label><input type="radio" name="C_prose_freshness" value="3" required> 3</label><label><input type="radio" name="C_prose_freshness" value="4" required> 4</label><label><input type="radio" name="C_prose_freshness" value="5" required> 5</label><label><input type="radio" name="C_prose_freshness" value="6" required> 6</label><label><input type="radio" name="C_prose_freshness" value="7" required> 7</label></div></div>
+<div class="rating"><span>Desire to continue</span><div class="scale"><label><input type="radio" name="C_desire_to_continue" value="1" required> 1</label><label><input type="radio" name="C_desire_to_continue" value="2" required> 2</label><label><input type="radio" name="C_desire_to_continue" value="3" required> 3</label><label><input type="radio" name="C_desire_to_continue" value="4" required> 4</label><label><input type="radio" name="C_desire_to_continue" value="5" required> 5</label><label><input type="radio" name="C_desire_to_continue" value="6" required> 6</label><label><input type="radio" name="C_desire_to_continue" value="7" required> 7</label></div></div>
+<div class="rating"><span>Preachiness</span><div class="scale"><label><input type="radio" name="C_preachiness" value="1" required> 1</label><label><input type="radio" name="C_preachiness" value="2" required> 2</label><label><input type="radio" name="C_preachiness" value="3" required> 3</label><label><input type="radio" name="C_preachiness" value="4" required> 4</label><label><input type="radio" name="C_preachiness" value="5" required> 5</label><label><input type="radio" name="C_preachiness" value="6" required> 6</label><label><input type="radio" name="C_preachiness" value="7" required> 7</label></div></div></section><section><h3>Reader notes</h3><label class="prompt">Quote the best or hottest passage.<textarea name="C_hottest" rows="3"></textarea></label>
+<label class="prompt">Where did interest drop, or the prose feel false or over-explained?<textarea name="C_false" rows="3"></textarea></label>
+<label class="prompt">What do you most want to happen next?<textarea name="C_next" rows="3"></textarea></label></section></article>
+      <section class="choice">
+        <h2>Choose</h2>
+        <fieldset><legend>A versus C</legend><label><input type="radio" name="pair_A_C" value="A" required> A</label><label><input type="radio" name="pair_A_C" value="C" required> C</label><label><input type="radio" name="pair_A_C" value="tie" required> Tie</label></fieldset>
+        <label class="prompt">Anything the questions missed?
+          <textarea name="overall_notes" rows="4"></textarea>
+        </label>
+      </section>
+    </form>
+  </main>
+  <script>
+  (() => {
+    const packageId = "3c1d3e8fbd2c";
+    const packetId = "pair-AC";
+    const labels = ["A", "C"];
+    const form = document.getElementById("feedback");
+    const reviewer = document.getElementById("reviewer-code");
+    const status = document.getElementById("status");
+    const key = "fiction-feedback:" + packageId + ":" + packetId;
+    function snapshot() {
+      const result = {schema_version:"human-feedback.v1", package_id:packageId, packet_id:packetId, reviewer_code:reviewer.value.trim(), labels:labels, saved_at:new Date().toISOString(), responses:{}};
+      new FormData(form).forEach((value,name) => result.responses[name]=value);
+      return result;
+    }
+    function save() { localStorage.setItem(key, JSON.stringify(snapshot())); status.textContent="Saved "+new Date().toLocaleTimeString(); }
+    function restore() {
+      const raw=localStorage.getItem(key); if(!raw) return;
+      const saved=JSON.parse(raw); reviewer.value=saved.reviewer_code||"";
+      Object.entries(saved.responses||{}).forEach(([name,value]) => {
+        const fields=form.elements[name]; if(!fields) return;
+        if(fields.length && fields[0] && fields[0].type==="radio") [...fields].forEach(field => field.checked=field.value===value);
+        else fields.value=value;
+      });
+    }
+    form.addEventListener("input",save); reviewer.addEventListener("input",save);
+    document.getElementById("clear").addEventListener("click",() => { form.reset(); reviewer.value=""; localStorage.removeItem(key); status.textContent="Cleared"; });
+    document.getElementById("export").addEventListener("click",() => {
+      if(!reviewer.reportValidity() || !form.reportValidity()) return;
+      const data=snapshot(); const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});
+      const link=document.createElement("a"); link.href=URL.createObjectURL(blob);
+      link.download="fiction-feedback-"+packetId+"-"+data.reviewer_code+".json"; link.click();
+      status.textContent="Responses exported"; setTimeout(() => URL.revokeObjectURL(link.href),1000);
+    });
+    restore();
+  })();
+  </script>
+</body>
+</html>

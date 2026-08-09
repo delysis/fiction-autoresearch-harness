@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Social observation",
+  "emotional_counteroffer": "Skeptical inquiry",
+  "relationship_history": "Acquaintanceship",
+  "present_stakes": "Social navigation and artistic critique",
+  "dialogue_act_sequence": [
+    "Commentary on appearance",
+    "Questioning knowledge",
+    "Statement of social convention",
+    "Request for identification"
+  ],
+  "body_language_counterpoint": "Formal composure versus casual critique",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Seating arrangement in a restaurant",
+  "agency_actions": [
+    "Seating arrangement",
+    "Introduction of new character",
+    "Verbal commentary"
+  ],
+  "relationship_delta": "Introduction of new social element",
+  "story_state_change": "Introduction of Jagson and Warren",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

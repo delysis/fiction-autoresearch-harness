@@ -1,0 +1,55 @@
+{
+  "candidates": [
+    {
+      "cadence_hits_per_1000": 3.5211,
+      "candidate_id": "s01-a-gift-status",
+      "eligible": true,
+      "failed_gates": [],
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-a-gift-status.codex.v1.md",
+      "possible_explanatory_glosses": 1,
+      "possible_s01_s02_style_discontinuity": false,
+      "s01_s02_absolute_cadence_rate_difference": 2.8211,
+      "sha256": "7db2afa282d90117b24d193c0cac66e23aa1483086a6dcd9962f9ab6d504eb36",
+      "words": 2840
+    },
+    {
+      "cadence_hits_per_1000": 1.9822,
+      "candidate_id": "s01-b-somatic-control",
+      "eligible": true,
+      "failed_gates": [],
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-b-somatic-control.codex.v1.md",
+      "possible_explanatory_glosses": 1,
+      "possible_s01_s02_style_discontinuity": false,
+      "s01_s02_absolute_cadence_rate_difference": 1.2822,
+      "sha256": "8c60ef85984b5b08ebe765bde4b533c839e15bc51492b6fdf1ca1c825e80a691",
+      "words": 3027
+    },
+    {
+      "cadence_hits_per_1000": 0.712,
+      "candidate_id": "s01-c-method-audit",
+      "eligible": true,
+      "failed_gates": [],
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-c-method-audit.codex.v1.md",
+      "possible_explanatory_glosses": 1,
+      "possible_s01_s02_style_discontinuity": false,
+      "s01_s02_absolute_cadence_rate_difference": 0.012,
+      "sha256": "cba075af0240d896ba890d8247e4826dfafaec0703071f9cfcd684e8d009dfbd",
+      "words": 2809
+    },
+    {
+      "cadence_hits_per_1000": 1.6617,
+      "candidate_id": "s01-b-somatic-control-v2",
+      "eligible": true,
+      "failed_gates": [],
+      "path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+      "possible_explanatory_glosses": 1,
+      "possible_s01_s02_style_discontinuity": false,
+      "s01_s02_absolute_cadence_rate_difference": 0.9617,
+      "sha256": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "words": 3009
+    }
+  ],
+  "immutable_s02_sha256": "8561c609388e564f2d35edcffafec3f60969b96e003c0024241dcb3b5c5cf06e",
+  "record_type": "S01AtomRewriteDeterministicSummary",
+  "version": "s01-atom-rewrite-evaluation.v1"
+}

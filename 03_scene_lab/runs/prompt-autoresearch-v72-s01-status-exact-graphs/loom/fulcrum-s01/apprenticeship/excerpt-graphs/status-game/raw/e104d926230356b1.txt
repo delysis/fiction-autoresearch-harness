@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Intellectual dismissal",
+  "emotional_counteroffer": "Passionate assertion",
+  "relationship_history": "Established intellectual sparring",
+  "present_stakes": "Philosophical debate escalation",
+  "dialogue_act_sequence": [
+    "Arthur's amusement",
+    "Haddo's questioning",
+    "Arthur's judgment",
+    "Haddo's passionate rebuttal"
+  ],
+  "body_language_counterpoint": "Arthur's laughter versus Haddo's sudden intensity",
+  "sensory_channels": [
+    "Auditory",
+    "Visual"
+  ],
+  "narrative_distance_curve": "Close",
+  "physical_logistics": "Seated interaction",
+  "agency_actions": [
+    "Arthur speaks",
+    "Haddo speaks",
+    "Haddo's expression changes"
+  ],
+  "relationship_delta": "Shift from debate to intense ideological confrontation",
+  "story_state_change": "Haddo's demeanor transforms",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,33 @@
+{
+  "emotional_offer": "dignity, confidence",
+  "emotional_counteroffer": "blandness, mild dismissal",
+  "relationship_history": "professional/performer-audience",
+  "present_stakes": "demonstration of psychic ability",
+  "dialogue_act_sequence": [
+    "challenge",
+    "acceptance",
+    "presentation_of_new_test"
+  ],
+  "body_language_counterpoint": "erect posture versus graceful deference",
+  "sensory_channels": [
+    "sight",
+    "touch",
+    "thought"
+  ],
+  "narrative_distance_curve": "close",
+  "physical_logistics": [
+    "blindfolding",
+    "card handling",
+    "paper writing",
+    "darkness induction"
+  ],
+  "agency_actions": [
+    "Seer proposes test",
+    "Will accepts test",
+    "Seer initiates next phase"
+  ],
+  "relationship_delta": "escalation of performance",
+  "story_state_change": "transition to thought-reading experiment",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

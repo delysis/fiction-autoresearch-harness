@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "31e6fd35223a74def77a28ae83da841843e4c3823748a20c9f42dde4e6831ebf",
+  "candidate_id": "s01-b-somatic-control.codex.v2",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "May I?",
+      "atom_id": "s01-cal-01",
+      "consequence_evidence": "In the listening room it altered the air.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "He smelled faintly of unscented soap",
+      "atom_id": "s01-cal-03",
+      "consequence_evidence": "The pulse trace on the terminal climbed.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "The desire arrived as a practical suggestion",
+      "atom_id": "s01-cal-04",
+      "consequence_evidence": "She kept her shoulders where they were.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "His thumb began a small motion",
+      "atom_id": "s01-cal-08",
+      "consequence_evidence": "Livia’s chin dipped at the same point.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

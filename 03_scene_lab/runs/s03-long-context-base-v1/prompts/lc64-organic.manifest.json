@@ -1,0 +1,28 @@
+{
+  "arm": {
+    "arm_id": "lc64-organic",
+    "control_density": "organic",
+    "evidence_variant": "full-guide",
+    "layout": "evidence-first",
+    "target_prompt_words": 64000
+  },
+  "component_hashes": {
+    "contract": "2d99a4881319a171d3042c177970ab79926167c1e715f746ba79df53a5629494",
+    "evidence": "9345382c55f2fa24945820062ce3cf5ca8c85034835f605eb44ef60dcec81483",
+    "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+    "preamble": "815b506c325e4ffe20c5531bc7b218acb878a476c7c3486f1ebbdae29d27f866"
+  },
+  "component_words": {
+    "contract": 253,
+    "evidence": 37180,
+    "manuscript": 5886,
+    "preamble": 43
+  },
+  "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+  "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+  "prompt_hash": "fcd885994ef77cdf3db5d1d645f9e4a63d0286e1fb8f973a26ffec2eae5a9661",
+  "prompt_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s03-long-context-base-v1/prompts/lc64-organic.prompt.txt",
+  "prompt_words": 43362,
+  "record_type": "LongContextPrompt",
+  "version": "long-context.base31.v1"
+}

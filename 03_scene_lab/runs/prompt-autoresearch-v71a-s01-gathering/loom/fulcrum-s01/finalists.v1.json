@@ -1,0 +1,23 @@
+{
+  "campaign_hash": "e9d5b72c4a1e66a08854872b8374b7278e29ecf19a3de762797bceafa1efb762",
+  "cell_id": "fulcrum-s01",
+  "complete_story": false,
+  "completed_through_movement": "gathering-handoff",
+  "created_at": "2026-08-08T17:07:56.936989+00:00",
+  "finalist_set_hash": "082ef1e89c6f387af41a6a5bf6516ff3f38a51ddecd48062654da779b203c4e6",
+  "finalists": [
+    {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v71a-s01-gathering/loom/fulcrum-s01/assemblies/fulcrum-s01.gathering-handoff.r0.0.1373018.json",
+      "assembly_verified": true,
+      "candidate_id": "fulcrum-s01.gathering-handoff.r0.0.1373018",
+      "selection_score": 5.610225563909775,
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.\n\nA man, it turned out. Maybe twenty-four or twenty-five? In the same gray cotton T-shirt as the welcome pack that she’d carried in her backpack to the gate, with blue-green eyes and a faint smile that seemed to mean nothing at all. She watched his gaze fall past her head to the entryway, then back.\n“Welcome, Mara.”\nHis voice was low and musical. “Hi.” She tried to steady her breathing, to not look so stiffly out of place. She dropped her pack by the door, then took a slow step inside, hands hanging loose and empty.\n“I’m glad you came,” he continued, as though the first words hadn’t been enough.\nShe waited for him to continue, to introduce himself or say something more; she wanted to know who he was and what he did here. But when he didn’t, she cleared her throat and ventured, “Who are you?”\nA faint smile quirked his lips. “That’s not a name,” he said softly.\n“What’s yours, then?”\nHe laughed a little, shaking his head. “Mine?” he asked quietly. “Oh, I guess it depends on what you’d like me to be called.”\n\nThis seemed like a joke; she wasn’t sure how to respond. But the room was full of sounds other than their voices now, and there were other people in the doorway. Men and women, talking amongst themselves but clearly coming to join them here; one young fellow carried a glass. The door closed softly behind them as Mara turned to face it.\nA woman—a woman who’d already said something about Mara’s backpack—was looking at her with wide eyes. She was pretty in an ordinary way, short dark hair framing her face and a soft voice that seemed to catch the edges of the room with each word she spoke. Mara’s heart raced as they drew closer; she felt like she could see herself reflected on those pale cheeks, see the young woman looking at her own reflection for the first time.\n“I’m so glad you came,” the woman said brightly. “Welcome home.”",
+      "text_hash": "925e9df5dce8189b3d8d0707dcb028d5e47efa763a3271a1c521e6bfc1c744ab",
+      "word_count": 441
+    }
+  ],
+  "recipe_id": "v4-anthology.movement-local-excerpt",
+  "record_type": "LoomFinalists",
+  "trajectory_id": "",
+  "version": "gemma-fiction-autoresearch.v4"
+}

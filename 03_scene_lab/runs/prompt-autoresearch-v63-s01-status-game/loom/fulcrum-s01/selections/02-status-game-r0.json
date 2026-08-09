@@ -1,0 +1,41 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "status-game",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.status-game.r0.0.1365001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.r0.0.1365018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.r0.0.1365035",
+      "eligible": false,
+      "score": 0.4580645161290322
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.r0.0.1365052",
+      "eligible": false,
+      "score": 0.4564285714285714
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.r0.0.1365069",
+      "eligible": false,
+      "score": 0.4515901060070671
+    },
+    {
+      "branch_id": "fulcrum-s01.status-game.r0.0.1365086",
+      "eligible": false,
+      "score": 0.4468085106382979
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [],
+  "selection_seed": 1345195,
+  "version": "gemma-fiction-autoresearch.v4"
+}

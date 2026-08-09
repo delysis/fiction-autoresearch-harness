@@ -1,0 +1,15 @@
+{
+  "record_type": "AppraisalProvenanceStatus",
+  "schema_version": "appraisal-provenance-status.v1",
+  "package_path": "03_scene_lab/runs/s02-paired-composed-production-v12/appraisal/reader/index.html",
+  "package_sha256": "ccfa6b632f4c96b3326b99314d8c06edf83cfa9f253a560f1842a5c2f073fa27",
+  "candidate_authorship_path": "03_scene_lab/runs/s02-paired-composed-production-v12/frontier_editor/authorship.v1.json",
+  "status": "withdrawn_as_model_pipeline_appraisal",
+  "allowed_use": "manual editor control or prose feedback only",
+  "prohibited_claims": [
+    "independent model generation",
+    "Gemma-edited finalist",
+    "evidence that the model pipeline produced the 885-word wording"
+  ],
+  "supersedes": "accepted for human appraisal as an unlabeled pipeline candidate"
+}

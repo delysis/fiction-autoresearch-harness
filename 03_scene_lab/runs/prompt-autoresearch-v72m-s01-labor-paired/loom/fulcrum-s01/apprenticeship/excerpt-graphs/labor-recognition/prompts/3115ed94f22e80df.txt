@@ -1,0 +1,26 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“And a fool you look in it,” cried Diana, his pert sister who was just
+in her teens.
+
+“Oh, we’re quite out of our depths with these old hats,” cried Laura
+Crich. “Dry up now, Gerald. We’re going to drink toasts. Let us drink
+toasts. Toasts—glasses, glasses—now then, toasts! Speech! Speech!”
+
+Birkin, thinking about race or national death, watched his glass being
+filled with champagne. The bubbles broke at the rim, the man withdrew,
+and feeling a sudden thirst at the sight of the fresh wine, Birkin
+drank up his glass. A queer little tension in the room roused him. He
+felt a sharp constraint.
+
+“Did I do it by accident, or on purpose?” he asked himself. And he
+decided that, according to the vulgar phrase, he had done it
+“accidentally on purpose.” He looked round at the hired footman. And
+the hired footman came, with a silent step of cold servant-like
+disapprobation. Birkin decided that he detested toasts, and footmen,
+and assemblies, and mankind altogether, in most of its aspects. Then he
+rose to make a speech. But he was somehow disgusted.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

@@ -1,0 +1,26 @@
+{
+  "query_id": "s01-dry-female-defiance.v1",
+  "query_text": "An adult woman reads a small social ritual with dry intelligence, notices the hierarchy beneath respectable manners, and makes a concrete choice that quietly refuses the assigned role.",
+  "stage": "dry-social-inference",
+  "required_facets": ["adult"],
+  "preferred_facets": ["dry-humor", "romantic-comedy", "social-constraint", "choice-and-agency", "interior"],
+  "excluded_facets": ["explicit-intimacy"],
+  "included_authors": ["L. M. Montgomery"],
+  "desired_features": {
+    "dialogue_ratio": 0.12,
+    "romance_density": 0.004,
+    "conflict_density": 0.008,
+    "agency_density": 0.016,
+    "sensory_channels": 2,
+    "interiority_density": 0.016,
+    "intimacy_action_density": 0.0,
+    "explicit_intimacy_density": 0.0,
+    "sentence_length_mean": 17,
+    "sentence_length_variation": 11
+  },
+  "maximum_scenes": 4,
+  "maximum_per_work": 4,
+  "source_token_budget": 6000,
+  "mmr_lambda": 0.82,
+  "minimum_stage_heat": 0.0
+}

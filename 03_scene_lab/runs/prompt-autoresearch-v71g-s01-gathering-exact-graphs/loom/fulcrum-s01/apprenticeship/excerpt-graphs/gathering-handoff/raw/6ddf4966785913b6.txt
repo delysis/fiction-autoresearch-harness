@@ -1,0 +1,26 @@
+{
+  "emotional_offer": "Reassurance of contentment",
+  "emotional_counteroffer": "Confusion and possessiveness",
+  "relationship_history": "Implied complex bond",
+  "present_stakes": "Decision regarding social engagement",
+  "dialogue_act_sequence": [
+    "Refusal to leave",
+    "Justification of change",
+    "Assertion of understanding"
+  ],
+  "body_language_counterpoint": "Soft inaccessibility versus intense gaze",
+  "sensory_channels": [
+    "Visual",
+    "Auditory"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Indoor setting, door closing",
+  "agency_actions": [
+    "She directs maid",
+    "Archer questions her"
+  ],
+  "relationship_delta": "Shift from isolation to connection",
+  "story_state_change": "Resolution of immediate loneliness",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

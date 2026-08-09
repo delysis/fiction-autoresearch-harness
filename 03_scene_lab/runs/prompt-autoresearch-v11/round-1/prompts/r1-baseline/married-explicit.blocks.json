@@ -1,0 +1,56 @@
+{
+  "blocks": [
+    {
+      "block_hash": "ae6a77de124d17e13e983a086ca68dac5ef75093625afca721aa018af09a33fe",
+      "block_id": "shared.juicy-chastity.v1",
+      "kind": "creative-profile",
+      "purpose": "RGO-derived project invariants shared by every experimental arm",
+      "source_ids": [],
+      "source_partition": "project-profile",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 92
+    },
+    {
+      "block_hash": "258b8c08c67ec7240c92056c9a768186eea6854c20e171dc4f4e8a76f352d66d",
+      "block_id": "baseline.case",
+      "kind": "demonstration",
+      "purpose": "causal ledger-to-prose apprenticeship",
+      "source_ids": [],
+      "source_partition": "derived",
+      "target_facets": [],
+      "word_count": 3578
+    },
+    {
+      "block_hash": "99f4905a8cd8a0ea1f9013c2ae13325985904aadb7c81f74e69d0a1f584c01d5",
+      "block_id": "target.married-explicit",
+      "kind": "target-program",
+      "purpose": "variable target contract",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 117
+    },
+    {
+      "block_hash": "cc83b5b7e0104fce8ad67e8c02eb0c1765346dee48593a54176d139d70f410d9",
+      "block_id": "runway.married-explicit",
+      "kind": "manuscript-runway",
+      "purpose": "plain-prose completion boundary",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 20
+    }
+  ],
+  "prompt_hash": "a9462436f2af901e853da4751cfec9c8acc88955ee46b51fca155e44667ca0b1",
+  "prompt_tokens": 5390,
+  "recipe_hash": "3c034dabf8ca35644336acf022314bcbb2e6ccd1ea4ebe44b75bba0adea938bb"
+}

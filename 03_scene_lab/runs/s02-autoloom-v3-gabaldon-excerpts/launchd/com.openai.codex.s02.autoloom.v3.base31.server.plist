@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.openai.codex.s02.autoloom.v3.base31.server</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/george/llama.cpp/build/bin/llama-server</string>
+    <string>--model</string><string>/Users/george/.cache/huggingface/hub/models--ggml-org--gemma-4-31B-GGUF/snapshots/7056174770082d10607fc2e31ef39216b291c0bf/gemma-4-31B-Q8_0.gguf</string>
+    <string>--alias</string><string>gemma-4-31b-base</string>
+    <string>--host</string><string>127.0.0.1</string>
+    <string>--port</string><string>8097</string>
+    <string>--ctx-size</string><string>32768</string>
+    <string>--parallel</string><string>1</string>
+    <string>--gpu-layers</string><string>all</string>
+    <string>--flash-attn</string><string>on</string>
+    <string>--cache-type-k</string><string>q8_0</string>
+    <string>--cache-type-v</string><string>q8_0</string>
+    <string>--swa-full</string>
+    <string>--kv-unified</string>
+    <string>--cache-ram</string><string>0</string>
+    <string>--no-cache-idle-slots</string>
+    <string>--cache-prompt</string>
+    <string>--cache-reuse</string><string>256</string>
+    <string>--no-mmproj</string>
+    <string>--no-ui</string>
+    <string>--metrics</string>
+    <string>--offline</string>
+  </array>
+  <key>RunAtLoad</key><true/>
+  <key>KeepAlive</key><true/>
+  <key>ProcessType</key><string>Interactive</string>
+  <key>StandardOutPath</key><string>/private/tmp/s02-autoloom-v3-base31-server.out</string>
+  <key>StandardErrorPath</key><string>/private/tmp/s02-autoloom-v3-base31-server.err</string>
+</dict>
+</plist>

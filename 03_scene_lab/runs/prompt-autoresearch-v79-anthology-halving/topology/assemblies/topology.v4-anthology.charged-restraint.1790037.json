@@ -1,0 +1,31 @@
+{
+  "artifact_id": "topology.v4-anthology.charged-restraint.1790037",
+  "manuscript_hash": "93472caae45c9ec1f0cab2302e799326671ffb3d5031d2f910f93fdfa73ca81e",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+      "raw_char_end": 1162,
+      "raw_char_start": 0,
+      "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v75-runway-search/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.1750019.txt",
+      "role": "opening-runway",
+      "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+      "text_hash": "6356a6d64287ab4ff7b88c16836578b633e3ca321790c2133f5dfeb31801036b"
+    },
+    {
+      "call_id": "topology.v4-anthology.charged-restraint.1790037",
+      "raw_char_end": 2446,
+      "raw_char_start": 1,
+      "raw_hash": "268599841121c980c1cbb77611078f46563fbb80904424b67494ca00861026de",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v79-anthology-halving/topology/raw/topology.v4-anthology.charged-restraint.1790037.txt",
+      "role": "topology-movement",
+      "span_id": "topology.v4-anthology.charged-restraint.1790037.segment",
+      "text_hash": "16b48f246f6c2fbfa25a800e97fc7b687d7f180f848f01cd4bef3eb3b5589969"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

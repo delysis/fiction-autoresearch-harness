@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-07-28T23:49:11Z",
+  "package_id": "3c1d3e8fbd2c",
+  "review_inputs": [
+    "reviewer_1.json",
+    "reviewer_2.json"
+  ],
+  "review_conditions": {
+    "blind_labels_only": true,
+    "shared_rubric": "s01-romance-v1",
+    "axis_scale": "0.0-10.0",
+    "adjudication_threshold": "absolute axis difference greater than 2.0",
+    "pipeline_identity_withheld_until_reviews_completed": true
+  },
+  "consensus": {
+    "overall_ranking": [
+      "B",
+      "C",
+      "A"
+    ],
+    "pairwise_choices": {
+      "A_vs_B": "B",
+      "A_vs_C": "C",
+      "B_vs_C": "B"
+    },
+    "unanimous_ranking": true
+  },
+  "mean_scores": {
+    "A": {
+      "narrative_force": 7.25,
+      "character_truth": 7.0,
+      "heat_with_agency": 7.65,
+      "instructional_fidelity": 6.25,
+      "prose_and_voice": 6.65,
+      "theological_coherence": 7.45,
+      "epistemic_texture": 5.25,
+      "weighted_total_100": 68.55
+    },
+    "B": {
+      "narrative_force": 8.35,
+      "character_truth": 7.65,
+      "heat_with_agency": 7.85,
+      "instructional_fidelity": 8.3,
+      "prose_and_voice": 7.25,
+      "theological_coherence": 7.6,
+      "epistemic_texture": 8.7,
+      "weighted_total_100": 79.6
+    },
+    "C": {
+      "narrative_force": 7.95,
+      "character_truth": 7.0,
+      "heat_with_agency": 8.5,
+      "instructional_fidelity": 8.05,
+      "prose_and_voice": 6.95,
+      "theological_coherence": 8.15,
+      "epistemic_texture": 8.35,
+      "weighted_total_100": 78.15
+    }
+  },
+  "axis_disagreements_over_threshold": [],
+  "maximum_axis_difference": {
+    "difference": 1.1,
+    "occurrences": [
+      {
+        "label": "A",
+        "axis": "instructional_fidelity",
+        "reviewer_1": 6.8,
+        "reviewer_2": 5.7
+      },
+      {
+        "label": "A",
+        "axis": "prose_and_voice",
+        "reviewer_1": 7.2,
+        "reviewer_2": 6.1
+      },
+      {
+        "label": "A",
+        "axis": "theological_coherence",
+        "reviewer_1": 8.0,
+        "reviewer_2": 6.9
+      }
+    ]
+  },
+  "primary_adjudication": {
+    "required": false,
+    "reason": "No corresponding axis scores differed by more than 2.0 points. Both reviewers independently produced the same pairwise choices and overall ranking.",
+    "decision": "Retain both independent scorecards without substituting a primary score.",
+    "evidence_summary": {
+      "B": "Strongest causal and epistemic design: Mara's altered signal visibly degrades Livia's claims while Jonah's truthful refusal and the remaining unexplained signal preserve both consequence and inquiry.",
+      "C": "Strongest fusion of erotic charge, agency, and prayerful discernment, but its aphoristic narration more often settles the ambiguity that its control creates.",
+      "A": "Strong tactile contact and a satisfying boundary turn, but the secondary wrist-channel geometry is hard to reconstruct and the narration claims more explanatory certainty than the control earns."
+    }
+  },
+  "blind_reveal_after_adjudication": {
+    "A": {
+      "pipeline": "direct",
+      "candidate_id": "s01-comparison-v1-direct-direct-05"
+    },
+    "B": {
+      "pipeline": "actor_novelist",
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2"
+    },
+    "C": {
+      "pipeline": "verbalized_sampling",
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-03-polished-r2"
+    }
+  },
+  "result": {
+    "blind_review_winner": "B",
+    "winning_pipeline_after_reveal": "actor_novelist",
+    "runner_up": "C",
+    "interpretation": "The Actor-Novelist finalist won both blind human-style reviews despite the Verbalized Sampling finalist holding the highest post-edit machine score. Human appraisal should therefore remain decisive."
+  }
+}

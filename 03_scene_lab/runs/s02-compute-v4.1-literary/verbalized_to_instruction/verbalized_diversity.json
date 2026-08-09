@@ -1,0 +1,294 @@
+{
+  "across_call_mean_jaccard_distance": 0.7365490118467627,
+  "causal_convergence": {
+    "collapsed_roles": [],
+    "maximum_overall_similarity": 0.158153,
+    "mean_overall_similarity": 0.051733,
+    "near_duplicate_fraction": 0.0,
+    "near_duplicate_pairs": [],
+    "overconverged": false,
+    "pairwise": [
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.004583,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "role_similarity": 0.009167
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.004167,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "role_similarity": 0.008333
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.004167,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "role_similarity": 0.008333
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.004583,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "role_similarity": 0.009167
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.004583,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "role_similarity": 0.009167
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.009676,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "role_similarity": 0.019352
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-4",
+        "matching_roles": [],
+        "overall_similarity": 0.014769,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.029537
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.044706,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "role_similarity": 0.089412
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.017569,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "role_similarity": 0.035139
+      },
+      {
+        "endpoint_similarity": 0.916667,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.14625,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "role_similarity": 0.0175
+      },
+      {
+        "endpoint_similarity": 0.914286,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.157057,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "role_similarity": 0.039829
+      },
+      {
+        "endpoint_similarity": 0.8,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.132569,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "role_similarity": 0.025139
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.016026,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.032051
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.017276,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "role_similarity": 0.034551
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.008403,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "role_similarity": 0.016806
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.007639,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "role_similarity": 0.015278
+      },
+      {
+        "endpoint_similarity": 0.11,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "matching_roles": [],
+        "overall_similarity": 0.024833,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "role_similarity": 0.016667
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-1",
+        "matching_roles": [
+          "antagonist_truth"
+        ],
+        "overall_similarity": 0.071875,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.14375
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "matching_roles": [
+          "exit_agency"
+        ],
+        "overall_similarity": 0.092639,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "role_similarity": 0.185278
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "matching_roles": [],
+        "overall_similarity": 0.019792,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "role_similarity": 0.039583
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "matching_roles": [],
+        "overall_similarity": 0.007986,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "role_similarity": 0.015972
+      },
+      {
+        "endpoint_similarity": 0.091667,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-6",
+        "matching_roles": [
+          "exit_agency"
+        ],
+        "overall_similarity": 0.106944,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.186389
+      },
+      {
+        "endpoint_similarity": 0.94,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "matching_roles": [],
+        "overall_similarity": 0.158153,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "role_similarity": 0.034306
+      },
+      {
+        "endpoint_similarity": 0.8,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "matching_roles": [],
+        "overall_similarity": 0.129167,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "role_similarity": 0.018333
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-2",
+        "matching_roles": [
+          "exit_agency"
+        ],
+        "overall_similarity": 0.089941,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.179882
+      },
+      {
+        "endpoint_similarity": 0.8,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "matching_roles": [],
+        "overall_similarity": 0.132917,
+        "right_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "role_similarity": 0.025833
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-1:tail-7",
+        "matching_roles": [],
+        "overall_similarity": 0.015678,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.031357
+      },
+      {
+        "endpoint_similarity": 0.0,
+        "event_similarity": 0.0,
+        "left_id": "s02-vs-compact-v2-distribution-2:tail-7",
+        "matching_roles": [],
+        "overall_similarity": 0.004583,
+        "right_id": "s02-vs-compact-v2-distribution-1:tail-3",
+        "role_similarity": 0.009167
+      }
+    ],
+    "reasons": []
+  },
+  "causal_duplicate_rejections": [],
+  "invalid_or_incomplete_removed": 0,
+  "probability_semantics": "model-proposed weights; not calibrated",
+  "selected_strategy_ids": [
+    "s02-vs-compact-v2-distribution-2:tail-4",
+    "s02-vs-compact-v2-distribution-1:tail-1",
+    "s02-vs-compact-v2-distribution-2:tail-1",
+    "s02-vs-compact-v2-distribution-2:tail-6",
+    "s02-vs-compact-v2-distribution-2:tail-2",
+    "s02-vs-compact-v2-distribution-1:tail-7",
+    "s02-vs-compact-v2-distribution-2:tail-7",
+    "s02-vs-compact-v2-distribution-1:tail-3"
+  ],
+  "selection_seed": 991337,
+  "strategy_count": 16,
+  "unique_after_deduplication": 16,
+  "within_call_mean_jaccard_distance": {
+    "s02-vs-compact-v2-distribution-1": 0.7413204129464233,
+    "s02-vs-compact-v2-distribution-2": 0.7473328832451109
+  }
+}

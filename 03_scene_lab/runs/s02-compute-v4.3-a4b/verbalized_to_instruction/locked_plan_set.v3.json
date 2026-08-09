@@ -1,0 +1,484 @@
+{
+  "entries": [
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 261,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. Jonah's public contradiction costs him observer access for the next trial, not merely approval. Miriam loses her neutral-observer status. The phrase in Jonah's notes was available through an earlier remark or shared project material, although its exact recurrence remains unsettling. Fulcrum disputes the incident instead of instantly reforming.",
+      "adjudication_overlay_hash": "eaebaded9a8bf6f2adc84f8a2c89e97b4ec9a4d89461a562278ccae9026a0a62",
+      "immutable": true,
+      "plan": "TITLE: The Moral Mirror\nPREMISE: Livia exposes Mara's fear of being 'ordinary,' making the exit a matter of dignity.\nANTAGONIST TRUTH: Mara is terrified that her gifts are actually common.\nPROTAGONIST ERROR: Using a joke to deflect a moment of genuine intimacy.\nEXIT AGENCY: Refusing to answer a question that would confirm Livia's narrative.\nPROTECTOR COST: Miriam loses her status as the 'neutral' observer.\nLOVER COST: Jonah risks his standing by contradicting Livia publicly.\nINSTITUTIONAL CONSEQUENCE: Livia's infallibility is questioned by the junior staff.\nUNCANNY REMAINDER: A recurring phrase from Mara appears in Jonah's notes.\nSEQUENCE ONE — CARE BECOMES TRAP: Livia validates Mara's fear, then uses it to bind her.\nSEQUENCE TWO — NO AS DECISION: Mara rejects a flattering label, breaking the social calibration.\nSEQUENCE THREE — EXIT AND DOORWAY: Miriam absorbs a reprimand; Jonah confesses a hidden doubt.\nROMANTIC ENGINE: Attraction based on the courage to be unseen.\nEPISTEMIC TURN: Silence is a more powerful boundary than argument.\nDISTINCTIVE OBJECTS AND TACTICS: Label rejection; Public contradiction\nRELATIONSHIP DELTA: Attraction -> Mutual respect\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. Jonah's public contradiction costs him observer access for the next trial, not merely approval. Miriam loses her neutral-observer status. The phrase in Jonah's notes was available through an earlier remark or shared project material, although its exact recurrence remains unsettling. Fulcrum disputes the incident instead of instantly reforming.",
+      "plan_hash": "cf9b2691051190a918b112184ca36bffab953003280c6432320bf4bb6665fb1e",
+      "plan_id": "s02-verbalized_to_instruction-22011",
+      "sampled_payload": {
+        "antagonist_truth": "Mara is terrified that her gifts are actually common.",
+        "distinctive_tactics": [
+          "Label rejection",
+          "Public contradiction"
+        ],
+        "epistemic_turn": "Silence is a more powerful boundary than argument.",
+        "exit_agency": "Refusing to answer a question that would confirm Livia's narrative.",
+        "id": "tail-2",
+        "institutional_consequence": "Livia's infallibility is questioned by the junior staff.",
+        "lover_cost": "Jonah risks his standing by contradicting Livia publicly.",
+        "premise": "Livia exposes Mara's fear of being 'ordinary,' making the exit a matter of dignity.",
+        "probability": 0.08,
+        "protagonist_error": "Using a joke to deflect a moment of genuine intimacy.",
+        "protector_cost": "Miriam loses her status as the 'neutral' observer.",
+        "relationship_delta": "Attraction -> Mutual respect",
+        "romantic_engine": "Attraction based on the courage to be unseen.",
+        "sequence_one": "Livia validates Mara's fear, then uses it to bind her.",
+        "sequence_three": "Miriam absorbs a reprimand; Jonah confesses a hidden doubt.",
+        "sequence_two": "Mara rejects a flattering label, breaking the social calibration.",
+        "title": "The Moral Mirror",
+        "uncanny_remainder": "A recurring phrase from Mara appears in Jonah's notes."
+      },
+      "sampled_payload_hash": "f57f16df28040a2d69ebaee16c6909d1de43fbb2bb96ddc35ebf3cee6e2fbd05",
+      "seed": 22011,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-2:tail-2"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 261,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. Mara's specific admission makes Livia's status assignment unusable and creates the opening Mara chooses. Miriam receives a written protocol warning. Jonah admits his superiority and relinquishes his monitoring access while preserving Mara's record. Fulcrum circulates a contested incident memo rather than repairing its culture. The revoked-access timestamp may be an administrative clock or cache error.",
+      "adjudication_overlay_hash": "febf44119617dd12be0f3ce1cc8566e54b41ae1fa52673036e10bf950d926df3",
+      "immutable": true,
+      "plan": "TITLE: The Vulnerability Gambit\nPREMISE: Mara wins by admitting a truth that Livia finds useless.\nANTAGONIST TRUTH: Mara is terrified of being an impostor at Fulcrum.\nPROTAGONIST ERROR: Mara tries to out-intellectualize the emotional pressure.\nEXIT AGENCY: Mara admits she is completely lost and doesn't belong.\nPROTECTOR COST: Miriam admits her own failures to support Mara's truth.\nLOVER COST: Jonah admits he felt superior to Mara's struggle.\nINSTITUTIONAL CONSEQUENCE: The culture of 'perfection' at Fulcrum is momentarily fractured.\nUNCANNY REMAINDER: A digital log shows Mara's access was revoked hours prior.\nSEQUENCE ONE — CARE BECOMES TRAP: Livia identifies Mara's desperate need for professional competence.\nSEQUENCE TWO — NO AS DECISION: Mara tries to prove her worth through a flawed analysis.\nSEQUENCE THREE — EXIT AND DOORWAY: A total surrender of ego allows for an unexpected exit.\nROMANTIC ENGINE: Intimacy born from shared inadequacy.\nEPISTEMIC TURN: Honest failure is more powerful than fake success.\nDISTINCTIVE OBJECTS AND TACTICS: Radical honesty; Ego surrender\nRELATIONSHIP DELTA: Romantic tension -> Emotional intimacy\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. Mara's specific admission makes Livia's status assignment unusable and creates the opening Mara chooses. Miriam receives a written protocol warning. Jonah admits his superiority and relinquishes his monitoring access while preserving Mara's record. Fulcrum circulates a contested incident memo rather than repairing its culture. The revoked-access timestamp may be an administrative clock or cache error.",
+      "plan_hash": "84abfed34087379ae5621e611fd868491dfd48fb65be5073dba6d7a9b828fe0a",
+      "plan_id": "s02-verbalized_to_instruction-22023",
+      "sampled_payload": {
+        "antagonist_truth": "Mara is terrified of being an impostor at Fulcrum.",
+        "distinctive_tactics": [
+          "Radical honesty",
+          "Ego surrender"
+        ],
+        "epistemic_turn": "Honest failure is more powerful than fake success.",
+        "exit_agency": "Mara admits she is completely lost and doesn't belong.",
+        "id": "tail-8",
+        "institutional_consequence": "The culture of 'perfection' at Fulcrum is momentarily fractured.",
+        "lover_cost": "Jonah admits he felt superior to Mara's struggle.",
+        "premise": "Mara wins by admitting a truth that Livia finds useless.",
+        "probability": 0.02,
+        "protagonist_error": "Mara tries to out-intellectualize the emotional pressure.",
+        "protector_cost": "Miriam admits her own failures to support Mara's truth.",
+        "relationship_delta": "Romantic tension -> Emotional intimacy",
+        "romantic_engine": "Intimacy born from shared inadequacy.",
+        "sequence_one": "Livia identifies Mara's desperate need for professional competence.",
+        "sequence_three": "A total surrender of ego allows for an unexpected exit.",
+        "sequence_two": "Mara tries to prove her worth through a flawed analysis.",
+        "title": "The Vulnerability Gambit",
+        "uncanny_remainder": "A digital log shows Mara's access was revoked hours prior."
+      },
+      "sampled_payload_hash": "fb3c2d60146bb6a005da67a7e7fa6377fdb0edec995ee697d424cd9be0345f58",
+      "seed": 22023,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-1:tail-8"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 272,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. Mara deliberately volunteers for an unobserved logistics task already needed by Fulcrum; it is low-status work, not ritual humiliation. Miriam transfers her senior shift and loses priority on the next research assignment. Jonah's wrist pressure tracks Mara's pulse only through visible timing cues and a nearby monitor, with coincidence still possible. His candor damages attraction before it deepens trust.",
+      "adjudication_overlay_hash": "41038d6e57eddde66799ff2713c408585fcd1d2843bf0956d083b8f98c270e26",
+      "immutable": true,
+      "plan": "TITLE: The Social Paradox\nPREMISE: Mara realizes the only way to leave is to become 'uninteresting'.\nANTAGONIST TRUTH: Mara wants the power Livia possesses, not just the truth.\nPROTAGONIST ERROR: Mara attempts to play the victim to garner sympathy.\nEXIT AGENCY: Mara accepts a menial role that removes her from the focus.\nPROTECTOR COST: Miriam gives up her seniority to cover Mara's shift.\nLOVER COST: Jonah confesses his fear of Mara's potential for cruelty.\nINSTITUTIONAL CONSEQUENCE: The group hierarchy becomes more rigid and less fluid.\nUNCANNY REMAINDER: Jonah's wrist pressure correlates perfectly with Mara's heart rate.\nSEQUENCE ONE — CARE BECOMES TRAP: Livia identifies Mara's hidden ambition to lead.\nSEQUENCE TWO — NO AS DECISION: Mara tries to act humble, which Livia reads as manipulation.\nSEQUENCE THREE — EXIT AND DOORWAY: A sudden shift in social status enables a quiet exit.\nROMANTIC ENGINE: Attraction based on seeing the unmasked self.\nEPISTEMIC TURN: Status can be a cage or a camouflage.\nDISTINCTIVE OBJECTS AND TACTICS: Strategic humility; Hierarchy manipulation\nRELATIONSHIP DELTA: Playful tension -> Somber recognition\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. Mara deliberately volunteers for an unobserved logistics task already needed by Fulcrum; it is low-status work, not ritual humiliation. Miriam transfers her senior shift and loses priority on the next research assignment. Jonah's wrist pressure tracks Mara's pulse only through visible timing cues and a nearby monitor, with coincidence still possible. His candor damages attraction before it deepens trust.",
+      "plan_hash": "e0456cac356014527ac7a862af7665c5ee6cadce28a00d2bbd5c19cceead386f",
+      "plan_id": "s02-verbalized_to_instruction-22037",
+      "sampled_payload": {
+        "antagonist_truth": "Mara wants the power Livia possesses, not just the truth.",
+        "distinctive_tactics": [
+          "Strategic humility",
+          "Hierarchy manipulation"
+        ],
+        "epistemic_turn": "Status can be a cage or a camouflage.",
+        "exit_agency": "Mara accepts a menial role that removes her from the focus.",
+        "id": "tail-5",
+        "institutional_consequence": "The group hierarchy becomes more rigid and less fluid.",
+        "lover_cost": "Jonah confesses his fear of Mara's potential for cruelty.",
+        "premise": "Mara realizes the only way to leave is to become 'uninteresting'.",
+        "probability": 0.05,
+        "protagonist_error": "Mara attempts to play the victim to garner sympathy.",
+        "protector_cost": "Miriam gives up her seniority to cover Mara's shift.",
+        "relationship_delta": "Playful tension -> Somber recognition",
+        "romantic_engine": "Attraction based on seeing the unmasked self.",
+        "sequence_one": "Livia identifies Mara's hidden ambition to lead.",
+        "sequence_three": "A sudden shift in social status enables a quiet exit.",
+        "sequence_two": "Mara tries to act humble, which Livia reads as manipulation.",
+        "title": "The Social Paradox",
+        "uncanny_remainder": "Jonah's wrist pressure correlates perfectly with Mara's heart rate."
+      },
+      "sampled_payload_hash": "c8767f52d4b4ae90d6ce25fb7340d0215eab47c9bedcdb859b399634c67a436f",
+      "seed": 22037,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-1:tail-5"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 268,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. Mara's deliberately ugly answer breaks Livia's calibrated script and Mara chooses the exit it opens. Miriam contradicts the official session account and loses neutral-observer standing. Jonah abandons a protective joke, names his part in the setup, and gives up privileged access to the recording. The mirror distortion has plausible causes in old glass, angle, and lighting; it remains only a disturbing observation.",
+      "adjudication_overlay_hash": "ddb66d7b2eacf0ac31daa490c963a5a85fe313f85b6ed14886d1bc31576a5dcd",
+      "immutable": true,
+      "plan": "TITLE: The Irony Collapse\nPREMISE: Livia's truth is too accurate, causing a collapse of the social facade.\nANTAGONIST TRUTH: Mara finds absolute transparency terrifying, not liberating.\nPROTAGONIST ERROR: Believing that being 'understood' is the same as being loved.\nEXIT AGENCY: Choosing an ugly, honest reaction over a calibrated one.\nPROTECTOR COST: Miriam is forced to act as the 'bad cop'.\nLOVER COST: Jonah drops his mask of irony for one moment.\nINSTITUTIONAL CONSEQUENCE: The session ends in an uncomfortable, honest silence.\nUNCANNY REMAINDER: A mirror in the room shows a distorted reflection.\nSEQUENCE ONE — CARE BECOMES TRAP: Livia's kindness becomes an overwhelming, intrusive transparency.\nSEQUENCE TWO — NO AS DECISION: Mara refuses the 'gift' of being known so perfectly.\nSEQUENCE THREE — EXIT AND DOORWAY: Miriam interrupts the tension; Jonah admits his irony.\nROMANTIC ENGINE: Finding safety in the gaps between what is known.\nEPISTEMIC TURN: True intimacy requires a space for secrets.\nDISTINCTIVE OBJECTS AND TACTICS: Emotional authenticity; Facade destruction\nRELATIONSHIP DELTA: Fascination -> Real intimacy\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. Mara's deliberately ugly answer breaks Livia's calibrated script and Mara chooses the exit it opens. Miriam contradicts the official session account and loses neutral-observer standing. Jonah abandons a protective joke, names his part in the setup, and gives up privileged access to the recording. The mirror distortion has plausible causes in old glass, angle, and lighting; it remains only a disturbing observation.",
+      "plan_hash": "c1e87081401b4ad0f7a574fdd5050ffe7f313d4c7e4ac5da1e3e962292d44db9",
+      "plan_id": "s02-verbalized_to_instruction-22051",
+      "sampled_payload": {
+        "antagonist_truth": "Mara finds absolute transparency terrifying, not liberating.",
+        "distinctive_tactics": [
+          "Emotional authenticity",
+          "Facade destruction"
+        ],
+        "epistemic_turn": "True intimacy requires a space for secrets.",
+        "exit_agency": "Choosing an ugly, honest reaction over a calibrated one.",
+        "id": "tail-8",
+        "institutional_consequence": "The session ends in an uncomfortable, honest silence.",
+        "lover_cost": "Jonah drops his mask of irony for one moment.",
+        "premise": "Livia's truth is too accurate, causing a collapse of the social facade.",
+        "probability": 0.02,
+        "protagonist_error": "Believing that being 'understood' is the same as being loved.",
+        "protector_cost": "Miriam is forced to act as the 'bad cop'.",
+        "relationship_delta": "Fascination -> Real intimacy",
+        "romantic_engine": "Finding safety in the gaps between what is known.",
+        "sequence_one": "Livia's kindness becomes an overwhelming, intrusive transparency.",
+        "sequence_three": "Miriam interrupts the tension; Jonah admits his irony.",
+        "sequence_two": "Mara refuses the 'gift' of being known so perfectly.",
+        "title": "The Irony Collapse",
+        "uncanny_remainder": "A mirror in the room shows a distorted reflection."
+      },
+      "sampled_payload_hash": "755a8d278c676ecc8e71b358f3e2177342ef7d55a4b1858bf2081f03e0f1a21b",
+      "seed": 22051,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-2:tail-8"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 275,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. No alarm or failure rescues Mara. She names the offered kindness and the debt it is meant to create, declines repayment, releases the relevant session timestamp, and walks out. Miriam signs the dissenting log and loses neutral status. Jonah supplies the earlier evidence he withheld and loses recording access. Dropped frames, reflection, or timestamp drift can explain the apparently impossible gesture.",
+      "adjudication_overlay_hash": "419ec956c675ef9615b9fa5ba670d657c77f8c2f9ebdd73190c11241e2f8283e",
+      "immutable": true,
+      "plan": "TITLE: The Debt of Kindness\nPREMISE: Livia uses genuine empathy to engineer a social obligation Mara cannot refuse.\nANTAGONIST TRUTH: Mara fears being unremarkable more than being controlled.\nPROTAGONIST ERROR: Mara pretends to accept Livia's framework to gain trust.\nEXIT AGENCY: Mara disrupts the session's timing by triggering a technical alarm.\nPROTECTOR COST: Miriam takes the blame for the technical disruption.\nLOVER COST: Jonah admits he ignored his intuition about the session's toxicity.\nINSTITUTIONAL CONSEQUENCE: Fulcrum implements stricter monitoring of 'erratic' participants.\nUNCANNY REMAINDER: A recording shows a gesture Jonah made that shouldn't be possible.\nSEQUENCE ONE — CARE BECOMES TRAP: Kindness creates a debt that binds Mara to the group.\nSEQUENCE TWO — NO AS DECISION: Mara attempts to leverage Livia's empathy, inadvertently exposing her own fragility.\nSEQUENCE THREE — EXIT AND DOORWAY: A frantic exit leads to a quiet, high-tension walk home.\nROMANTIC ENGINE: Shared secrecy against an empathetic predator.\nEPISTEMIC TURN: Care can be a weapon of capture.\nDISTINCTIVE OBJECTS AND TACTICS: Weaponized empathy; Technical sabotage\nRELATIONSHIP DELTA: Wary attraction -> Protective alliance\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. No alarm or failure rescues Mara. She names the offered kindness and the debt it is meant to create, declines repayment, releases the relevant session timestamp, and walks out. Miriam signs the dissenting log and loses neutral status. Jonah supplies the earlier evidence he withheld and loses recording access. Dropped frames, reflection, or timestamp drift can explain the apparently impossible gesture.",
+      "plan_hash": "8c86e078efaf4c74213a31ac2b280ca8ade0b2020170978dcc9fcbb529434b68",
+      "plan_id": "s02-verbalized_to_instruction-22063",
+      "sampled_payload": {
+        "antagonist_truth": "Mara fears being unremarkable more than being controlled.",
+        "distinctive_tactics": [
+          "Weaponized empathy",
+          "Technical sabotage"
+        ],
+        "epistemic_turn": "Care can be a weapon of capture.",
+        "exit_agency": "Mara disrupts the session's timing by triggering a technical alarm.",
+        "id": "tail-1",
+        "institutional_consequence": "Fulcrum implements stricter monitoring of 'erratic' participants.",
+        "lover_cost": "Jonah admits he ignored his intuition about the session's toxicity.",
+        "premise": "Livia uses genuine empathy to engineer a social obligation Mara cannot refuse.",
+        "probability": 0.09,
+        "protagonist_error": "Mara pretends to accept Livia's framework to gain trust.",
+        "protector_cost": "Miriam takes the blame for the technical disruption.",
+        "relationship_delta": "Wary attraction -> Protective alliance",
+        "romantic_engine": "Shared secrecy against an empathetic predator.",
+        "sequence_one": "Kindness creates a debt that binds Mara to the group.",
+        "sequence_three": "A frantic exit leads to a quiet, high-tension walk home.",
+        "sequence_two": "Mara attempts to leverage Livia's empathy, inadvertently exposing her own fragility.",
+        "title": "The Debt of Kindness",
+        "uncanny_remainder": "A recording shows a gesture Jonah made that shouldn't be possible."
+      },
+      "sampled_payload_hash": "0a3df3918e4b9f23fdd7cc15037c536344c5f67feb13e0d045292f39588fbc9e",
+      "seed": 22063,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-1:tail-1"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 272,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. After Livia publicly commits to one interpretation, Mara deliberately changes a single visible cue while keeping her answer constant, then refuses both incompatible readings and leaves. Miriam accepts a recorded rebuke instead of insulting anyone. Jonah identifies his formerly anonymous security report and loses anonymity and lab access. Livia may have tracked a screen reflection or another participant's motion, so no impossible movement is established.",
+      "adjudication_overlay_hash": "e8808403d4d45e049ea9897b7d0fd28a8a58b57a320847eae9a6de71574fda81",
+      "immutable": true,
+      "plan": "TITLE: The Calibration Error\nPREMISE: Mara intentionally introduces 'noise' into her cues to confuse Livia.\nANTAGONIST TRUTH: Mara uses Jonah as a shield against her own fear.\nPROTAGONIST ERROR: Mara over-calibrates her reactions, appearing robotic and strange.\nEXIT AGENCY: Mara creates a social contradiction that Livia cannot resolve.\nPROTECTOR COST: Miriam absorbs a public insult to divert attention.\nLOVER COST: Jonah risks his anonymity within the organization to help.\nINSTITUTIONAL CONSEQUENCE: Fulcrum realizes their 'accuracy' is based on compliance.\nUNCANNY REMAINDER: Livia's eyes track a movement Mara didn't make.\nSEQUENCE ONE — CARE BECOMES TRAP: Livia correctly identifies Mara's attraction to Jonah as a distraction.\nSEQUENCE TWO — NO AS DECISION: Mara tries to fake indifference to Jonah to regain control.\nSEQUENCE THREE — EXIT AND DOORWAY: The resulting chaos allows for an unplanned exit.\nROMANTIC ENGINE: The thrill of being the only one who knows.\nEPISTEMIC TURN: Predictability is a form of submission.\nDISTINCTIVE OBJECTS AND TACTICS: Cue noise; Social contradiction\nRELATIONSHIP DELTA: Mutual attraction -> Collaborative conspiracy\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. After Livia publicly commits to one interpretation, Mara deliberately changes a single visible cue while keeping her answer constant, then refuses both incompatible readings and leaves. Miriam accepts a recorded rebuke instead of insulting anyone. Jonah identifies his formerly anonymous security report and loses anonymity and lab access. Livia may have tracked a screen reflection or another participant's motion, so no impossible movement is established.",
+      "plan_hash": "5286b6ed46de660d59ef96f6bdb8bb11f03db2f0e7c852085a4758d28f7ca6ba",
+      "plan_id": "s02-verbalized_to_instruction-22079",
+      "sampled_payload": {
+        "antagonist_truth": "Mara uses Jonah as a shield against her own fear.",
+        "distinctive_tactics": [
+          "Cue noise",
+          "Social contradiction"
+        ],
+        "epistemic_turn": "Predictability is a form of submission.",
+        "exit_agency": "Mara creates a social contradiction that Livia cannot resolve.",
+        "id": "tail-7",
+        "institutional_consequence": "Fulcrum realizes their 'accuracy' is based on compliance.",
+        "lover_cost": "Jonah risks his anonymity within the organization to help.",
+        "premise": "Mara intentionally introduces 'noise' into her cues to confuse Livia.",
+        "probability": 0.03,
+        "protagonist_error": "Mara over-calibrates her reactions, appearing robotic and strange.",
+        "protector_cost": "Miriam absorbs a public insult to divert attention.",
+        "relationship_delta": "Mutual attraction -> Collaborative conspiracy",
+        "romantic_engine": "The thrill of being the only one who knows.",
+        "sequence_one": "Livia correctly identifies Mara's attraction to Jonah as a distraction.",
+        "sequence_three": "The resulting chaos allows for an unplanned exit.",
+        "sequence_two": "Mara tries to fake indifference to Jonah to regain control.",
+        "title": "The Calibration Error",
+        "uncanny_remainder": "Livia's eyes track a movement Mara didn't make."
+      },
+      "sampled_payload_hash": "d1adbde0d8d6bbd9a94845efb14b558566088af001cf2f84fcbded857a468b48",
+      "seed": 22079,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-1:tail-7"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 266,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. Mara first writes the withheld word in a private margin, closes the notebook, and then refuses speech; Livia's reaction can follow eye-line, lip movement, prior vocabulary, or chance. Miriam loses her next observer assignment by escorting Mara out. Jonah discloses his failed security result and forfeits access to the project data. Silence creates the opening, but Mara chooses and executes the exit.",
+      "adjudication_overlay_hash": "94a3fe15b64e6fa53069ed106de62f1367150f000f8d4a64ef207860e903a523",
+      "immutable": true,
+      "plan": "TITLE: The Logic of Silence\nPREMISE: Mara discovers that total silence is the only unreadable cue.\nANTAGONIST TRUTH: Mara is using the project to avoid a personal failure.\nPROTAGONIST ERROR: Mara tries to 'out-read' Livia during a live calibration.\nEXIT AGENCY: Mara refuses to speak, breaking the session's communicative flow.\nPROTECTOR COST: Miriam burns a professional bridge to escort Mara out.\nLOVER COST: Jonah reveals a personal failure in his own security research.\nINSTITUTIONAL CONSEQUENCE: The project's 'total transparency' goal is formally questioned.\nUNCANNY REMAINDER: Livia reacts to a word Mara only thought.\nSEQUENCE ONE — CARE BECOMES TRAP: Livia identifies Mara's need for external validation.\nSEQUENCE TWO — NO AS DECISION: Mara tries to mimic Livia's poise and fails visibly.\nSEQUENCE THREE — EXIT AND DOORWAY: A silent exit is followed by a confession of effort.\nROMANTIC ENGINE: Communication through non-verbal understanding.\nEPISTEMIC TURN: Silence is a form of boundary.\nDISTINCTIVE OBJECTS AND TACTICS: Strategic silence; Professional sacrifice\nRELATIONSHIP DELTA: Curious interest -> Deepened trust\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. Mara first writes the withheld word in a private margin, closes the notebook, and then refuses speech; Livia's reaction can follow eye-line, lip movement, prior vocabulary, or chance. Miriam loses her next observer assignment by escorting Mara out. Jonah discloses his failed security result and forfeits access to the project data. Silence creates the opening, but Mara chooses and executes the exit.",
+      "plan_hash": "68cad2d7be259b6bf34283d6a9abe1cc14b6265c6e010fa9ac02e057e34f289a",
+      "plan_id": "s02-verbalized_to_instruction-22091",
+      "sampled_payload": {
+        "antagonist_truth": "Mara is using the project to avoid a personal failure.",
+        "distinctive_tactics": [
+          "Strategic silence",
+          "Professional sacrifice"
+        ],
+        "epistemic_turn": "Silence is a form of boundary.",
+        "exit_agency": "Mara refuses to speak, breaking the session's communicative flow.",
+        "id": "tail-2",
+        "institutional_consequence": "The project's 'total transparency' goal is formally questioned.",
+        "lover_cost": "Jonah reveals a personal failure in his own security research.",
+        "premise": "Mara discovers that total silence is the only unreadable cue.",
+        "probability": 0.08,
+        "protagonist_error": "Mara tries to 'out-read' Livia during a live calibration.",
+        "protector_cost": "Miriam burns a professional bridge to escort Mara out.",
+        "relationship_delta": "Curious interest -> Deepened trust",
+        "romantic_engine": "Communication through non-verbal understanding.",
+        "sequence_one": "Livia identifies Mara's need for external validation.",
+        "sequence_three": "A silent exit is followed by a confession of effort.",
+        "sequence_two": "Mara tries to mimic Livia's poise and fails visibly.",
+        "title": "The Logic of Silence",
+        "uncanny_remainder": "Livia reacts to a word Mara only thought."
+      },
+      "sampled_payload_hash": "a9f7467d8e2db2d5b4bf994c97803c4508742127210a85699f886544b47201ae",
+      "seed": 22091,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-1:tail-2"
+    },
+    {
+      "adjudicated_program_validation": {
+        "forbidden": false,
+        "passed": true,
+        "requirements": {
+          "antagonist_truth": true,
+          "concrete_hook": true,
+          "exit_agency": true,
+          "institutional_consequence": true,
+          "jonah_walk": true,
+          "kiss_stops": true,
+          "livia": true,
+          "lover_cost": true,
+          "mara_refusal": true,
+          "miriam_protects": true,
+          "protagonist_error": true,
+          "protector_cost": true,
+          "uncanny_remainder": true
+        },
+        "word_count": 269,
+        "word_range": [
+          120,
+          850
+        ]
+      },
+      "adjudication_overlay": "This supersedes conflicting sampled coordinates. Mara deliberately moves the session into the bright adjoining workroom, where reflective glass and multiple observers break Livia's private cue channel; Mara then names her choice and leaves. Miriam blocks the doorway camera and receives a written warning. Jonah infers tension from breath, posture, and a live monitor, not distance-sensing, and surrenders monitor access. The scent can come from ventilation, cleanser, or another participant.",
+      "adjudication_overlay_hash": "1edb383a0250fb8747ee2981abf626e6fd250b7ee347b5139be2bf64df1d58fc",
+      "immutable": true,
+      "plan": "TITLE: The Sensory Breach\nPREMISE: Livia identifies a physical tell; Mara exits by overwhelming the sensory environment.\nANTAGONIST TRUTH: Mara's body reacts to Jonah before her mind does.\nPROTAGONIST ERROR: Mistaking her physiological arousal for anxiety or fear.\nEXIT AGENCY: Forcing a physical transition (e.g., changing rooms) mid-session.\nPROTECTOR COST: Miriam loses her professional composure during the chaos.\nLOVER COST: Jonah admits he can feel her tension from afar.\nINSTITUTIONAL CONSEQUENCE: Livia realizes her 'calibration' has a blind spot.\nUNCANNY REMAINDER: A scent lingers that shouldn't be in the room.\nSEQUENCE ONE — CARE BECOMES TRAP: Care is applied to Mara's physical discomfort to keep her.\nSEQUENCE TWO — NO AS DECISION: Mara creates a sensory distraction that breaks Livia's focus.\nSEQUENCE THREE — EXIT AND DOORWAY: Miriam blocks the view; Jonah reveals a sensory secret.\nROMANTIC ENGINE: Physical awareness without immediate gratification.\nEPISTEMIC TURN: The body knows truths the intellect denies.\nDISTINCTIVE OBJECTS AND TACTICS: Sensory overloading; Physical transition\nRELATIONSHIP DELTA: Awareness -> Magnetic pull\nLOCKED END STATES: Mara makes the decision to leave. Miriam protects that exit at real cost. Jonah walks Mara home. Their kiss stops at the doorway by mutual choice, and Mara authors the next meeting.\nCAUSAL REPAIR: This supersedes conflicting sampled coordinates. Mara deliberately moves the session into the bright adjoining workroom, where reflective glass and multiple observers break Livia's private cue channel; Mara then names her choice and leaves. Miriam blocks the doorway camera and receives a written warning. Jonah infers tension from breath, posture, and a live monitor, not distance-sensing, and surrenders monitor access. The scent can come from ventilation, cleanser, or another participant.",
+      "plan_hash": "1c5d4c94e4672928b7511cabffd36cb504da0836c7fad385d3d545999c71e97c",
+      "plan_id": "s02-verbalized_to_instruction-22109",
+      "sampled_payload": {
+        "antagonist_truth": "Mara's body reacts to Jonah before her mind does.",
+        "distinctive_tactics": [
+          "Sensory overloading",
+          "Physical transition"
+        ],
+        "epistemic_turn": "The body knows truths the intellect denies.",
+        "exit_agency": "Forcing a physical transition (e.g., changing rooms) mid-session.",
+        "id": "tail-5",
+        "institutional_consequence": "Livia realizes her 'calibration' has a blind spot.",
+        "lover_cost": "Jonah admits he can feel her tension from afar.",
+        "premise": "Livia identifies a physical tell; Mara exits by overwhelming the sensory environment.",
+        "probability": 0.05,
+        "protagonist_error": "Mistaking her physiological arousal for anxiety or fear.",
+        "protector_cost": "Miriam loses her professional composure during the chaos.",
+        "relationship_delta": "Awareness -> Magnetic pull",
+        "romantic_engine": "Physical awareness without immediate gratification.",
+        "sequence_one": "Care is applied to Mara's physical discomfort to keep her.",
+        "sequence_three": "Miriam blocks the view; Jonah reveals a sensory secret.",
+        "sequence_two": "Mara creates a sensory distraction that breaks Livia's focus.",
+        "title": "The Sensory Breach",
+        "uncanny_remainder": "A scent lingers that shouldn't be in the room."
+      },
+      "sampled_payload_hash": "ff2e178264329c79786e3d3a9272b2c7154d864f62bd1ecd0fffaaad07e9cb7d",
+      "seed": 22109,
+      "source": "verbalized-sampling-explicit-adjudication-v3",
+      "source_strategy_id": "s02-vs-compact-v2-distribution-2:tail-5"
+    }
+  ],
+  "generation_mode": "verbalized_to_instruction",
+  "plan_adjudication_hash": "88d8e730f10d67bb189802eee273fb6d312caafdb77870e105db759169638fa8",
+  "plan_quality_policy": "two-pass-blind-plus-explicit-consistency-adjudication.v1",
+  "plan_set_hash": "3b9fbe2800e6f765b2b953fd79e74c42da7eb99aba3351b61b39918f1c7d326a",
+  "record_type": "LockedPlanSet",
+  "source_locked_plan_set_hash": "35d9dfba00c43d5fafc69775e3200feb078716f54765b85d04f1c4af2bbbc734",
+  "source_quality_report_hash": "953d105c910999bd2ad7b1192b13691abd645511cc593b875e7301e99a053886",
+  "version": "locked-plan-set.v3"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "package_id": "3c1d3e8fbd2c",
+  "reader_html": "03_scene_lab/runs/s01-comparison-v1/appraisal/reader/index.html",
+  "reader_markdown": "03_scene_lab/runs/s01-comparison-v1/appraisal/reader/reader_packet.md",
+  "reveal_key": "03_scene_lab/runs/s01-comparison-v1/internal/reveal_key.json",
+  "blind_check": {
+    "passed": true,
+    "leaks": [],
+    "checked_files": [
+      "03_scene_lab/runs/s01-comparison-v1/appraisal/reader/index.html",
+      "03_scene_lab/runs/s01-comparison-v1/appraisal/reader/reader_packet.md"
+    ]
+  },
+  "labels": [
+    "A",
+    "B",
+    "C"
+  ],
+  "response_storage": "browser_local_storage_with_json_export"
+}

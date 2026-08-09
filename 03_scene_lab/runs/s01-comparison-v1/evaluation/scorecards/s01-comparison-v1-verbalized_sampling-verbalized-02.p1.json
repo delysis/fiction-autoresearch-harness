@@ -1,0 +1,372 @@
+{
+  "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-02",
+  "defects": [
+    "mindreading_inflation",
+    "source_parroting"
+  ],
+  "eligible": false,
+  "gate_details": {
+    "beat_order": {
+      "all_found": false,
+      "beats": [
+        {
+          "beat": "compound_beauty_and_asymmetry",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "adrian_frames_game",
+          "evidence": "Adrian smiled, and Mara felt the familiar, dangerous pull of his charisma. He didn't just listen; he seemed to absorb the air she breathed. \"Intentionality is o",
+          "found": true,
+          "fraction": 0.1226,
+          "position": 1856
+        },
+        {
+          "beat": "livia_uncanny_reads",
+          "evidence": "Livia Sloane. \n\nEven from the edge of the room, Livia exerted a gravitational pull. She was beautiful in a way that felt predatory—not because she was aggressiv",
+          "found": true,
+          "fraction": 0.23,
+          "position": 3483
+        },
+        {
+          "beat": "jonah_refuses_to_perform",
+          "evidence": "Jonah. He hadn't moved, but his voice had carried easily. He looked up, a small, playful smirk tugging at the corner of his mouth. \"We’ve had enough performance",
+          "found": true,
+          "fraction": 0.4208,
+          "position": 6373
+        },
+        {
+          "beat": "wrist_contact_and_charge",
+          "evidence": "wrist-contact",
+          "found": true,
+          "fraction": 0.4572,
+          "position": 6924
+        },
+        {
+          "beat": "mara_control",
+          "evidence": "Mara felt the contraction returning—the old, inherited urge to apologize for her own biology, to tighten her control",
+          "found": true,
+          "fraction": 0.695,
+          "position": 10525
+        },
+        {
+          "beat": "collapse_and_residual_mystery",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "accepts_fellowship_and_hook",
+          "evidence": "fellowship, the predatory hunger of Livia, the expectant gaze of Adrian. They wanted her to fail so they could define her failure.\n\nBut Jonah's hand was still t",
+          "found": true,
+          "fraction": 0.7061,
+          "position": 10693
+        }
+      ],
+      "name": "beat_order",
+      "ordered": false,
+      "passed": false
+    },
+    "epistemic_separation": {
+      "mechanism_markers": 14,
+      "name": "epistemic_separation",
+      "observation_markers": 46,
+      "passed": true,
+      "thresholds": {
+        "mechanism": 3,
+        "observation": 3,
+        "uncertainty": 2
+      },
+      "uncertainty_markers": 19
+    },
+    "heat_ceiling": {
+      "matches": [],
+      "name": "heat_ceiling",
+      "passed": true
+    },
+    "locked_canon": {
+      "contradictions": [],
+      "name": "locked_canon",
+      "passed": true
+    },
+    "pov": {
+      "name": "pov",
+      "passed": true,
+      "pov": "Mara",
+      "suspicious_paragraphs": [],
+      "threshold": 1
+    },
+    "source_overlap": {
+      "name": "source_overlap",
+      "passed": true,
+      "suspicious_sources": [],
+      "thresholds": {
+        "eight_gram_jaccard": 0.12,
+        "exact_span_words": 18
+      }
+    },
+    "word_count": {
+      "count": 2624,
+      "diagnostic": "slightly_short",
+      "name": "word_count",
+      "passed": false,
+      "target": [
+        2800,
+        3600
+      ]
+    }
+  },
+  "hard_gates": {
+    "beat_order": false,
+    "epistemic_separation": true,
+    "heat_ceiling": true,
+    "locked_canon": true,
+    "pov": true,
+    "source_overlap": true,
+    "word_count": false
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X464"
+  ],
+  "passage_evidence": {
+    "character_truth": [
+      "He was protecting her freedom by not taking what"
+    ],
+    "epistemic_texture": [
+      "The signal has gone flat, Livia said, her voice"
+    ],
+    "heat_with_agency": [
+      "The erotic charge didn't dissipate; it sharpened"
+    ],
+    "instructional_fidelity": [
+      "She relaxed her wrist. She let her muscles go"
+    ],
+    "narrative_force": [
+      "The game had begun, and for the first time"
+    ],
+    "prose_and_voice": [
+      "arriving in the courtyard as a bruised, expensive violet"
+    ],
+    "theological_coherence": [
+      "whether she could remain pure, but about whether she"
+    ]
+  },
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "description": "The first encounter introduces attraction and impediment together.",
+      "evidence": {
+        "attraction": true,
+        "impediment": true
+      },
+      "passed": true
+    },
+    "attraction_changes_attention": {
+      "evidence": "The erotic charge didn't dissipate; it sharpened. It became a tool of perception.",
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "description": "Intimacy reveals character before describing mechanics.",
+      "evidence": "Requires editorial judgment of emphasis and consequence.",
+      "passed": null
+    },
+    "competence_and_restraint": {
+      "description": "Competence attraction and morally attractive restraint arise from action.",
+      "evidence": {
+        "competence": true,
+        "restraint": true
+      },
+      "passed": true
+    },
+    "contact_changes_story": {
+      "description": "Physical contact changes knowledge, choice, or relationship.",
+      "evidence": {
+        "contact_present": true,
+        "mechanism_after_contact": true
+      },
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "description": "Dialogue and atmosphere participate in the intimacy.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell"
+        ],
+        "dialogue_present": true
+      },
+      "passed": true
+    },
+    "freedom_increases": {
+      "evidence": "He was protecting her freedom by not taking what she was beginning to offer.",
+      "passed": true
+    },
+    "pacing": {
+      "arrival_and_hook": {
+        "evidence": "arriv",
+        "found": true,
+        "position_fraction": 0.0055,
+        "target": [
+          0.0,
+          0.1
+        ],
+        "within_target": true
+      },
+      "collapse_and_residual_mystery": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.82,
+          0.94
+        ],
+        "within_target": false
+      },
+      "fulcrum_enchantment": {
+        "evidence": "redwood",
+        "found": true,
+        "position_fraction": 0.0003,
+        "target": [
+          0.1,
+          0.25
+        ],
+        "within_target": false
+      },
+      "jonah_recognition_and_hook": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.94,
+          1.0
+        ],
+        "within_target": false
+      },
+      "livia_uncanny_reads": {
+        "evidence": "Livia is our most gifted read",
+        "found": true,
+        "position_fraction": 0.2559,
+        "target": [
+          0.25,
+          0.45
+        ],
+        "within_target": true
+      },
+      "mara_control": {
+        "evidence": "control",
+        "found": true,
+        "position_fraction": 0.7022,
+        "target": [
+          0.65,
+          0.82
+        ],
+        "within_target": true
+      },
+      "wrist_contact_and_charge": {
+        "evidence": "wrist",
+        "found": true,
+        "position_fraction": 0.4572,
+        "target": [
+          0.45,
+          0.65
+        ],
+        "within_target": true
+      }
+    },
+    "relationship_delta": {
+      "description": "Romantic progress changes knowledge, trust, desire, or future possibility.",
+      "evidence": {
+        "future_or_choice_marker": true
+      },
+      "passed": true
+    },
+    "romance_turn": {
+      "description": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+      "evidence": {
+        "future_question": true,
+        "impediment": true,
+        "recognition": true
+      },
+      "passed": true
+    },
+    "selective_senses": {
+      "description": "At least three well-chosen sensory channels carry the encounter.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell"
+        ],
+        "counts": {
+          "sight": 42,
+          "smell": 3,
+          "sound": 14,
+          "taste": 0,
+          "touch": 11
+        }
+      },
+      "passed": true
+    },
+    "trope_execution": {
+      "description": "Tropes gain specificity or productive variation rather than merely appearing.",
+      "evidence": "Requires comparative editorial judgment.",
+      "passed": null
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 75.0,
+      "weight": 15.0,
+      "weighted_points": 11.25
+    },
+    "epistemic_texture": {
+      "raw_0_100": 50.0,
+      "weight": 10.0,
+      "weighted_points": 5.0
+    },
+    "heat_with_agency": {
+      "raw_0_100": 80.0,
+      "weight": 15.0,
+      "weighted_points": 12.0
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 40.0,
+      "weight": 15.0,
+      "weighted_points": 6.0
+    },
+    "narrative_force": {
+      "raw_0_100": 70.0,
+      "weight": 20.0,
+      "weighted_points": 14.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 85.0,
+      "weight": 15.0,
+      "weighted_points": 12.75
+    },
+    "theological_coherence": {
+      "raw_0_100": 80.0,
+      "weight": 10.0,
+      "weighted_points": 8.0
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 11.25,
+    "epistemic_texture": 5.0,
+    "heat_with_agency": 12.0,
+    "instructional_fidelity": 6.0,
+    "narrative_force": 14.0,
+    "prose_and_voice": 12.75,
+    "theological_coherence": 8.0
+  },
+  "schema_version": "1.0",
+  "summary": "The scene is atmospheric and captures the romantic tension and character dynamics with high precision. However, it fails the critical 'instructional fidelity' and 'epistemic texture' requirements of the spec. The candidate replaces the specific 'cue-channel' mechanism (where Mara detects a physical cue from the partner and changes the channel to collapse the miracle) with a vague 'becoming a void' or 'decoupling' of resonance. This turns a technical epistemic turn into a psychological/spiritual one, missing the 'teaching payload' regarding controls and randomization. Additionally, the use of explicit 'Observation/Interpretation/Mechanism' headers is a form of source parroting that disrupts the narrative flow.",
+  "text_sha256": "dd13bd77ac404c98f8fcb621a121be32459560ab9ddd6200bca316803d1179fe",
+  "total_score": 69.0
+}

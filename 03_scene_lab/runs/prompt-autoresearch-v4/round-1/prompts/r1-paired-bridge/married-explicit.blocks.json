@@ -1,0 +1,119 @@
+{
+  "blocks": [
+    {
+      "block_hash": "5b8e6ed85cb2571307602f2ea1dabdbae926a94b1588c55f71c9f7f01579ac39",
+      "block_id": "graph.gabaldon.example-02",
+      "kind": "scene-graph",
+      "purpose": "content-neutral back-translation",
+      "source_ids": [
+        "gabaldon.example-02"
+      ],
+      "source_partition": "derived",
+      "target_facets": [
+        "explicit",
+        "trust-negotiation"
+      ],
+      "word_count": 163
+    },
+    {
+      "block_hash": "3482c640a75d67970978258012eb13b1ab8195f5a63327abd5d2b8a44d45aeeb",
+      "block_id": "prose.gabaldon.example-02",
+      "kind": "source-prose",
+      "purpose": "actual finished prose corresponding to the prior graph",
+      "source_ids": [
+        "gabaldon.example-02"
+      ],
+      "source_partition": "profiling",
+      "target_facets": [
+        "explicit",
+        "trust-negotiation"
+      ],
+      "word_count": 967
+    },
+    {
+      "block_hash": "a084f1e2c47bbec754c767d0d1897e27288c9fd286e3864829ec41c94b1c1494",
+      "block_id": "graph.gabaldon.example-03",
+      "kind": "scene-graph",
+      "purpose": "content-neutral back-translation",
+      "source_ids": [
+        "gabaldon.example-03"
+      ],
+      "source_partition": "derived",
+      "target_facets": [
+        "explicit",
+        "playful-married-intimacy"
+      ],
+      "word_count": 164
+    },
+    {
+      "block_hash": "a54e2bd0c3e78874125904bbf1bcf9d19848374330520668299801c673f24778",
+      "block_id": "prose.gabaldon.example-03",
+      "kind": "source-prose",
+      "purpose": "actual finished prose corresponding to the prior graph",
+      "source_ids": [
+        "gabaldon.example-03"
+      ],
+      "source_partition": "profiling",
+      "target_facets": [
+        "explicit",
+        "playful-married-intimacy"
+      ],
+      "word_count": 656
+    },
+    {
+      "block_hash": "de68bfe82745e276f6cfba6d094e76dd0991bb126c3fa7e734da6f3ed882fe54",
+      "block_id": "bridge.graph.married-explicit",
+      "kind": "scene-graph",
+      "purpose": "nearest project-voice transformation",
+      "source_ids": [],
+      "source_partition": "project-bridge",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 21
+    },
+    {
+      "block_hash": "f66304b40a76bea8b59f4808b1007f779d2599bf3e42bc976b02b7cc080ef286",
+      "block_id": "bridge.prose.married-explicit",
+      "kind": "bridge-prose",
+      "purpose": "finished contemporary project-voice exemplar",
+      "source_ids": [],
+      "source_partition": "project-bridge",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 1063
+    },
+    {
+      "block_hash": "cbc9479d8d9b803b281eeab0411fa40d1eccc25d1707d48efadf3265efe0511f",
+      "block_id": "target.married-explicit",
+      "kind": "target-program",
+      "purpose": "variable target contract",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 81
+    },
+    {
+      "block_hash": "9975634113710719aa482984311b76de4582abca4fa5069cb1029c991ac72472",
+      "block_id": "runway.married-explicit",
+      "kind": "manuscript-runway",
+      "purpose": "plain-prose completion boundary",
+      "source_ids": [],
+      "source_partition": "target",
+      "target_facets": [
+        "explicit",
+        "married-intimacy"
+      ],
+      "word_count": 20
+    }
+  ],
+  "prompt_hash": "2d23611c833c4152b5fe9a6af0798ee6183f378a3247492a1ae09518f09104e3",
+  "prompt_tokens": 4904,
+  "recipe_hash": "97e228bbd87f95594970bd70cd45d0005cd2b4da12451633770a1a33f45f50b7"
+}

@@ -1,0 +1,366 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+  "defects": [],
+  "eligible": false,
+  "evidence_repairs": [
+    {
+      "diagnostic": "trope_execution",
+      "exact_replacement": "A high-resolution boundary",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 1.0,
+      "unsupported_quote": "a high-resolution boundary"
+    },
+    {
+      "diagnostic": "distance_control",
+      "exact_replacement": "looked at the space just above Livia’s head",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 0.9425,
+      "unsupported_quote": "looking at the space just above Livia’s head"
+    },
+    {
+      "diagnostic": "physical_intelligibility",
+      "exact_replacement": "planted both feet flat on the floor",
+      "method": "nearest_contiguous_source_span",
+      "similarity": 0.9296,
+      "unsupported_quote": "planting both feet flat on the floor"
+    }
+  ],
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "cle, but a hard-won, sovereign hope. She had found someone who saw her, and who was content to let her remain a mystery."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3593
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6568
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 689
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 2080
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 3143
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 3649
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 6060
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 10781
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 13126
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 14943
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 17727
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "hybrid_base_program",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1-evidence-projection",
+  "label_order": [
+    "X408"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "Livia had begun the night by naming what she saw"
+    ],
+    "epistemic_texture": [
+      "a map where the terrain is forbidden from disagreeing"
+    ],
+    "heat_with_agency": [
+      "Just the choice to stop, held right alongside the choice"
+    ],
+    "instructional_fidelity": [
+      "She stopped the explanations. She stopped the defensive pivots."
+    ],
+    "narrative_force": [
+      "Is my 'no' a data point for you to interpret"
+    ],
+    "prose_and_voice": [
+      "a velvet ribbon, gentle and unyielding"
+    ],
+    "theological_coherence": [
+      "the ability to choose when to open the door"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "atmospheric_participation": {
+      "evidence": "the silver light of the moon filtering through the canopy",
+      "note": "The shift from the dim seminar room to moonlight marks the transition.",
+      "passed": true
+    },
+    "attraction_and_impediment": {
+      "evidence": "the memory of the evening—the way care had been used",
+      "note": "Attraction is immediate but checked by the trauma of the session.",
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "evidence": "not as a puzzle to be solved, but as a person",
+      "note": "Jonah's character is established by his gaze before the kiss.",
+      "passed": true
+    },
+    "character_specific_desire": {
+      "evidence": "a man who knew how to keep a secret",
+      "note": "Mara's desire is specifically linked to her need for privacy.",
+      "passed": true
+    },
+    "competence_and_restraint": {
+      "evidence": "protecting her privacy as if it were a sacred thing",
+      "note": "Jonah's refusal to analyze her after the session creates the attraction.",
+      "passed": true
+    },
+    "consequential_contact": {
+      "evidence": "a profound sense of safety",
+      "note": "The contact and its cessation validate the Doorway Rule.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "the feeling that accompanied it wasn't frustration. It was a",
+      "note": "The kiss and its cessation prove the rule works, creating safety.",
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "evidence": "the distant, rhythmic hum of the compound’s ventilation system",
+      "note": "The sterile compound atmosphere contrasts with the intimate walk.",
+      "passed": true
+    },
+    "dialogue_body_counterpoint": {
+      "evidence": "Livia’s smile didn't vanish, but it wavered",
+      "note": "Livia's verbal confidence is undercut by her wavering expression.",
+      "passed": true
+    },
+    "distance_control": {
+      "evidence": "looked at the space just above Livia’s head",
+      "note": "Close-up on the gaze-avoidance effectively shows Mara's internal shift.",
+      "passed": true
+    },
+    "emotional_transaction": {
+      "evidence": "found someone who saw her, and who was content to",
+      "note": "Mara moves from erasure to sovereignty; Jonah from observer to partner.",
+      "passed": true
+    },
+    "heat_consent_darkness": {
+      "evidence": "a kiss of high embodied charge, a desperate, starving kind",
+      "note": "Matches high-tension target without violating the non-graphic ceiling.",
+      "passed": true
+    },
+    "physical_intelligibility": {
+      "evidence": "planted both feet flat on the floor",
+      "note": "The physical grounding and the kiss are spatially clear.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "turned restraint into a form of intimacy",
+      "note": "Jonah's restraint costs him immediate gratification but wins Mara's trust.",
+      "passed": true
+    },
+    "profile_faith_causality": {
+      "evidence": "the ability to choose when to open the door",
+      "note": "Chastity is framed as agency and perception, not suppression.",
+      "passed": true
+    },
+    "profile_intimacy_mode": {
+      "evidence": "she simply chose to stop",
+      "note": "Interrupted escalation is used to build relationship knowledge.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "You may kiss me only if we both know that",
+      "note": "Exactly matches the specified result of the Doorway Rule.",
+      "passed": true
+    },
+    "profile_world_status": {
+      "evidence": "the mystery of Fulcrum remained an open, threatening wound",
+      "note": "Preserves the ambiguous supernatural/institutional mystery.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "found someone who saw her, and who was content to",
+      "note": "Moves from mutual observation to a shared, explicit boundary and trust.",
+      "passed": true
+    },
+    "required_coordinates": {
+      "evidence": "the ability to choose when to open the door",
+      "note": "All coordinates including embodied chastity and institutional proximity are present.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "You may kiss me only if we both know that",
+      "note": "The Doorway Rule creates a specific, forward-driving romantic contract.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of cedar and cold air clinging to his jacket",
+      "note": "Uses scent, tactile pressure, and moonlight effectively.",
+      "passed": true
+    },
+    "sensory_triage": {
+      "evidence": "scent of cedar and cold air clinging to his jacket",
+      "note": "Scent, sound (ventilation), and touch (jaw) form a coherent triad.",
+      "passed": true
+    },
+    "trope_engines": {
+      "evidence": "the most powerful thing she could possess wasn't a perfect",
+      "note": "Competence-attraction drives the shift in Mara's self-perception.",
+      "passed": true
+    },
+    "trope_execution": {
+      "evidence": "A high-resolution boundary",
+      "note": "Charged restraint is evolved into a specific interpersonal tool.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "epistemic_texture": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 98.0,
+      "weight": 15.0,
+      "weighted_points": 14.7
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "narrative_force": {
+      "raw_0_100": 92.0,
+      "weight": 20.0,
+      "weighted_points": 18.4
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 95.0,
+      "weight": 10.0,
+      "weighted_points": 9.5
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 14.25,
+    "epistemic_texture": 9.2,
+    "heat_with_agency": 14.7,
+    "instructional_fidelity": 13.5,
+    "narrative_force": 18.4,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.5
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-03:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X408 is an exceptional execution of the scene spec. It transforms the 'Belief Report' mechanics into a high-stakes psychological siege, making Mara's eventual silence a powerful act of agency. The romantic resolution is perfectly aligned with the profile, converting the 'Doorway Rule' from a mere plot point into a meaningful expression of trust and embodied chastity. The transition from the oppressive institutional space to the private, moonlit walk provides a necessary emotional release that earns the final intimacy.",
+  "total_score": 92.75
+}

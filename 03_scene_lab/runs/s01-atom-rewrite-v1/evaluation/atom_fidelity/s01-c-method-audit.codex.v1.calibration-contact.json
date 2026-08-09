@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "28a1027362b2894a409165b1866788a62ac72e100de33257fdc07fbc85ce2749",
+  "candidate_id": "s01-c-method-audit.codex.v1",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "Signal or receiver?",
+      "atom_id": "s01-cal-02",
+      "consequence_evidence": "Receiver first.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "She smelled solder on his cuff and cardamom on her own skin.",
+      "atom_id": "s01-cal-03",
+      "consequence_evidence": "The line on Miriam’s monitor jumped.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "the exhaustion of holding a thing shut",
+      "atom_id": "s01-cal-05",
+      "consequence_evidence": "Jonah’s easy expression failed",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Jonah’s thumb moved in a small arc below it.",
+      "atom_id": "s01-cal-08",
+      "consequence_evidence": "Livia’s fractional nod.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

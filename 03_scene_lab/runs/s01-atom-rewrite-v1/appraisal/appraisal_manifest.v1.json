@@ -1,0 +1,9 @@
+{
+  "blind_reader": "03_scene_lab/runs/s01-atom-rewrite-v1/appraisal/s01_blind/reader/index.html",
+  "identity_leaks": [],
+  "integrated_reader": "03_scene_lab/runs/s01-atom-rewrite-v1/appraisal/integrated_story/reader/index.html",
+  "release_status": "human-appraisal-candidate-not-release",
+  "reveal_key": "03_scene_lab/runs/s01-atom-rewrite-v1/appraisal/internal/reveal_key.v1.json",
+  "selected_story_sha256": "d4bb6004702ee51924ad1e9c5809839b31ddd0fc03c104cf4318f9afc5f9dd51",
+  "version": "s01-atom-appraisal.v1"
+}

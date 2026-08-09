@@ -1,0 +1,54 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "embodied-turn",
+  "pool": [
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.0.1098001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.0.1098018",
+      "eligible": true,
+      "score": 5.314285714285714
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.0.1098035",
+      "eligible": true,
+      "score": 4.848814343551186
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.0.1098052",
+      "eligible": true,
+      "score": 4.70593089221248
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.1.1099001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.1.1099018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.1.1099035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "charged-restraint.embodied-turn.r1.1.1099052",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 1,
+  "selected": [
+    "charged-restraint.embodied-turn.r1.0.1098018",
+    "charged-restraint.embodied-turn.r1.0.1098052"
+  ],
+  "selection_seed": 978299,
+  "version": "gemma-fiction-autoresearch.v4"
+}

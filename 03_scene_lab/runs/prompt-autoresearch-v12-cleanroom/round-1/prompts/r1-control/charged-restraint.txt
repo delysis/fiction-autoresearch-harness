@@ -1,0 +1,42 @@
+EDITORIAL APPRENTICESHIP ARCHIVE
+
+
+CASE MATERIAL 1: CREATIVE-PROFILE
+
+PROJECT CREATIVE PROFILE (juicy-chastity.v1): Every intimate character is an adult. The central romantic geometry is monogamous and oriented toward freely chosen marriage. Desire is integrated rather than suppressed; restraint should increase perception, delight, trust, and future possibility. Consent is affirmative, contextual, revocable, and agency-preserving. Married open-door intimacy may be sensually intense. Faith, dignity, grace, and responsibility act through choices and consequences rather than detachable exposition. Observation remains separable from interpretation, and apparently supernatural effects stay ontologically ambiguous. Attraction must change knowledge, trust, choice, or story state; it is never decorative body inventory.
+
+
+CASE MATERIAL 2: CRAFT
+
+Realize the target program causally in fresh manuscript prose. Preserve point of view, agency, spatial clarity, and the declared ending. Let attraction or pressure change a choice rather than merely decorate the scene.
+
+
+CASE MATERIAL 3: TARGET-PROGRAM
+
+{
+  "cell_id": "charged-restraint",
+  "hard_constraints": [
+    "close third Mara",
+    "no consummation",
+    "no graphic anatomy",
+    "ambiguous supernatural status"
+  ],
+  "heat_band": "charged-restraint",
+  "instruction": "Write one complete scene of 850 to 950 words. Realize every story beat causally, then end in finished manuscript prose immediately after the final beat. Do not add an END label, analysis, synopsis, or commentary. Do not discuss the examples or repeat their wording.",
+  "intimacy_mode": "non-sex-sex-scene",
+  "story_program": [
+    "Adult Mara and Jonah walk from the Fulcrum lab after a coercive late session.",
+    "He offers his hand without interpreting her; she chooses contact.",
+    "A kiss becomes mutually desired and stops while both still want it.",
+    "Stopping increases trust and future possibility rather than punishing desire."
+  ],
+  "word_band": [
+    800,
+    1000
+  ]
+}
+
+
+MANUSCRIPT
+
+Jonah stopped beneath the unlit arch and waited for Mara to decide what his silence meant.

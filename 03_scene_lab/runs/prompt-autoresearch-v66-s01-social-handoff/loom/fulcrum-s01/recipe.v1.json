@@ -1,0 +1,27 @@
+{
+  "campaign_hash": "f42690213d3e0ade17fbf912c2175586f9884c3808862cc12e0b46ed04becaab",
+  "context_tokens": 8000,
+  "encoding": "natural-book",
+  "graph_granularity": "scene",
+  "mutated_axis": "source_order",
+  "parent_recipe_hash": "d3fb47aeb1139204a1b7a984cae002708049b714995d410cf93b496be05ea8f3",
+  "recipe_hash": "3500d0c3af819755a1ac6916d2a81c624e0d00550e27fbefa7d690cc84157f60",
+  "recipe_id": "v4-anthology.movement-local",
+  "record_type": "LoomPromptRecipe",
+  "runway_type": "generated-opening",
+  "sampler": {
+    "dry_allowed_length": 3,
+    "dry_base": 1.75,
+    "dry_multiplier": 0.0,
+    "min_p": 0.02,
+    "repeat_penalty": 1.02,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.1
+  },
+  "source_count": 5,
+  "source_order": "movement-local",
+  "target_density": "compact",
+  "topology": "parallel-book",
+  "version": "gemma-fiction-autoresearch.v4"
+}

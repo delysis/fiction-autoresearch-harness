@@ -1,0 +1,61 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "gathering-handoff",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389018",
+      "eligible": false,
+      "score": 0.4917073170731707
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389035",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389052",
+      "eligible": false,
+      "score": 0.4731958762886598
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389069",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389086",
+      "eligible": false,
+      "score": 0.506145251396648
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389103",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389120",
+      "eligible": false,
+      "score": 0.47586206896551725
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389137",
+      "eligible": false,
+      "score": 0.501980198019802
+    },
+    {
+      "branch_id": "fulcrum-s01.gathering-handoff.r0.0.1389154",
+      "eligible": false,
+      "score": 0.461271676300578
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [],
+  "selection_seed": 1369195,
+  "version": "gemma-fiction-autoresearch.v4"
+}

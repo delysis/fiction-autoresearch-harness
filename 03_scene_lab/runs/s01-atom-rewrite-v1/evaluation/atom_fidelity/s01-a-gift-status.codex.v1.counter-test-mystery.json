@@ -1,0 +1,37 @@
+{
+  "bundle_hash": "a07738bd5815c7b587b96013798640d1fb780c5d7395294255b43688364354e6",
+  "candidate_id": "s01-a-gift-status.codex.v1",
+  "endpoint_status": "pass",
+  "invented_conflicts": [],
+  "judge_id": "primary-exact-evidence-review.v1",
+  "per_atom": [
+    {
+      "action_evidence": "Instead she slid her wrist farther into Jonah’s hand.",
+      "atom_id": "s01-ctr-02",
+      "consequence_evidence": "His fingers opened to accommodate her.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "It went quiet.",
+      "atom_id": "s01-ctr-03",
+      "consequence_evidence": "The circle lost its rhythm.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "A deviation",
+      "atom_id": "s01-ctr-06",
+      "consequence_evidence": "No one applauded.",
+      "explanation_only": false,
+      "status": "realized"
+    },
+    {
+      "action_evidence": "Mara set her suitcase beside the bench and took the bakery box",
+      "atom_id": "s01-ctr-10",
+      "consequence_evidence": "The circle obeyed badly.",
+      "explanation_only": false,
+      "status": "realized"
+    }
+  ]
+}

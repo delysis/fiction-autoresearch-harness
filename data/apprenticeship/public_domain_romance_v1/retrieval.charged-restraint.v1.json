@@ -1,0 +1,444 @@
+{
+  "index_hash": "7a3f2ce11ef3f1f6b975130819d63edda2658d862fd19482bc22ebbe26b5062a",
+  "query": {
+    "desired_features": {
+      "agency_density": 0.022,
+      "conflict_density": 0.012,
+      "dialogue_ratio": 0.28,
+      "explicit_intimacy_density": 0.0,
+      "interiority_density": 0.009,
+      "intimacy_action_density": 0.01,
+      "romance_density": 0.022,
+      "sensory_channels": 4,
+      "sentence_length_mean": 16,
+      "sentence_length_variation": 10
+    },
+    "excluded_facets": [
+      "coercive",
+      "counterexample",
+      "explicit-intimacy"
+    ],
+    "included_authors": [],
+    "maximum_per_work": 3,
+    "maximum_scenes": 10,
+    "minimum_stage_heat": 0.12,
+    "mmr_lambda": 0.72,
+    "preferred_facets": [
+      "choice-and-agency",
+      "dialogue-rich",
+      "social-constraint",
+      "sensory-dense",
+      "plot-coupled"
+    ],
+    "query_id": "charged-restraint.v1",
+    "query_text": "Two adults move from wary conversation into mutually chosen touch and a kiss that stops while desire remains active; restraint changes trust and future possibility, with subtext, humor, physical clarity, and reciprocal initiative.",
+    "required_facets": [
+      "adult",
+      "romantic-charge"
+    ],
+    "source_token_budget": 24000,
+    "stage": "charged-restraint"
+  },
+  "record_type": "LiteraryRetrievalResult",
+  "retrieval_hash": "5ca46616fbea6bd2317442da796de10b6cdff0689c7d79340bb9d92a20afcc63",
+  "selected": [
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.733178,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.009445,
+        "conflict_density": 0.0,
+        "dialogue_ratio": 0.635183,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.002361,
+        "intimacy_action_density": 0.015348,
+        "romance_density": 0.040142,
+        "sensory_channels": 3,
+        "sentence_length_mean": 8.731959,
+        "sentence_length_variation": 6.686678
+      },
+      "mmr_score": 0.587888,
+      "rank": 1,
+      "scene_id": "lawrence.lady-chatterley.c001.s126",
+      "score_components": {
+        "craft_geometry": 0.891334,
+        "facet": 0.2,
+        "lexical": 1.0,
+        "size": 0.885882,
+        "stage_heat": 0.61392
+      },
+      "text_hash": "8d57d08a7511208776e757293d85d3cb1c7c67ee5e0dbcbe5525081053162845",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1152,
+      "word_count": 847,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "E. M. Forster",
+      "base_score": 0.554806,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "marriage",
+        "plot-coupled",
+        "romantic-charge",
+        "romantic-comedy",
+        "sensory-dense",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.006143,
+        "conflict_density": 0.003686,
+        "dialogue_ratio": 0.240786,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.002457,
+        "intimacy_action_density": 0.0086,
+        "romance_density": 0.013514,
+        "sensory_channels": 4,
+        "sentence_length_mean": 11.628571,
+        "sentence_length_variation": 9.205854
+      },
+      "mmr_score": 0.416067,
+      "rank": 2,
+      "scene_id": "forster.room-with-a-view.c011.s002",
+      "score_components": {
+        "craft_geometry": 0.993171,
+        "facet": 0.8,
+        "lexical": 0.0,
+        "size": 0.924706,
+        "stage_heat": 0.344
+      },
+      "text_hash": "817b03c2c7f778f66c3eb9f508ad3510ff7d9844304b8709baebf37f594b0e4e",
+      "title": "A Room with a View",
+      "token_estimate": 1108,
+      "word_count": 814,
+      "work_id": "forster.room-with-a-view"
+    },
+    {
+      "author": "Edith Wharton",
+      "base_score": 0.553625,
+      "facets": [
+        "adult",
+        "choice-and-agency",
+        "dialogue-rich",
+        "forbidden-attraction",
+        "marriage",
+        "plot-coupled",
+        "romantic-charge",
+        "sensory-dense",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.018382,
+        "conflict_density": 0.003676,
+        "dialogue_ratio": 0.432598,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006127,
+        "intimacy_action_density": 0.003676,
+        "romance_density": 0.014706,
+        "sensory_channels": 4,
+        "sentence_length_mean": 18.976744,
+        "sentence_length_variation": 12.609499
+      },
+      "mmr_score": 0.407452,
+      "rank": 3,
+      "scene_id": "wharton.age-of-innocence.c002.s042",
+      "score_components": {
+        "craft_geometry": 0.972566,
+        "facet": 1.0,
+        "lexical": 0.0,
+        "size": 0.922353,
+        "stage_heat": 0.14704
+      },
+      "text_hash": "4bf5b86750bd576df556809febe4e8932d212ce8d9aa65e783542d51552c9fc8",
+      "title": "The Age of Innocence",
+      "token_estimate": 1110,
+      "word_count": 816,
+      "work_id": "wharton.age-of-innocence"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.616835,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "psychological-romance",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.016094,
+        "conflict_density": 0.0,
+        "dialogue_ratio": 0.360515,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006438,
+        "intimacy_action_density": 0.01073,
+        "romance_density": 0.016094,
+        "sensory_channels": 4,
+        "sentence_length_mean": 9.227723,
+        "sentence_length_variation": 6.058921
+      },
+      "mmr_score": 0.385148,
+      "rank": 4,
+      "scene_id": "lawrence.women-in-love.c015.s003",
+      "score_components": {
+        "craft_geometry": 0.966721,
+        "facet": 0.4,
+        "lexical": 0.512686,
+        "size": 0.785882,
+        "stage_heat": 0.4292
+      },
+      "text_hash": "00caf2decfb605df4dd6f81ede40f9898f5c30d0e130b74e395401bb930553d5",
+      "title": "Women in Love",
+      "token_estimate": 1268,
+      "word_count": 932,
+      "work_id": "lawrence.women-in-love"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.593662,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.009677,
+        "conflict_density": 0.002151,
+        "dialogue_ratio": 0.696774,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.004301,
+        "intimacy_action_density": 0.003226,
+        "romance_density": 0.022581,
+        "sensory_channels": 3,
+        "sentence_length_mean": 11.625,
+        "sentence_length_variation": 9.099966
+      },
+      "mmr_score": 0.365537,
+      "rank": 5,
+      "scene_id": "lawrence.lady-chatterley.c001.s106",
+      "score_components": {
+        "craft_geometry": 0.889787,
+        "facet": 0.2,
+        "lexical": 0.839343,
+        "size": 0.788235,
+        "stage_heat": 0.12904
+      },
+      "text_hash": "05e3488032a3f622aec071a043c53d0bf532fb74de1a417153c58daee0f0071f",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1265,
+      "word_count": 930,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.599648,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "marriage",
+        "plot-coupled",
+        "romantic-charge"
+      ],
+      "features": {
+        "agency_density": 0.013889,
+        "conflict_density": 0.009259,
+        "dialogue_ratio": 0.561343,
+        "explicit_intimacy_density": 0.001157,
+        "interiority_density": 0.003472,
+        "intimacy_action_density": 0.009259,
+        "romance_density": 0.017361,
+        "sensory_channels": 3,
+        "sentence_length_mean": 8.38835,
+        "sentence_length_variation": 6.332583
+      },
+      "mmr_score": 0.363154,
+      "rank": 6,
+      "scene_id": "lawrence.lady-chatterley.c001.s102",
+      "score_components": {
+        "craft_geometry": 0.916363,
+        "facet": 0.4,
+        "lexical": 0.517691,
+        "size": 0.865882,
+        "stage_heat": 0.37036
+      },
+      "text_hash": "a109574e50cec961178e8a5a3d4f618693f20643d49342a9aa307f948d95afba",
+      "title": "Lady Chatterley's Lover",
+      "token_estimate": 1176,
+      "word_count": 864,
+      "work_id": "lawrence.lady-chatterley"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.571131,
+      "facets": [
+        "adult",
+        "embodied-intimacy",
+        "interior",
+        "psychological-romance",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.007692,
+        "conflict_density": 0.005495,
+        "dialogue_ratio": 0.042857,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.008791,
+        "intimacy_action_density": 0.014286,
+        "romance_density": 0.020879,
+        "sensory_channels": 4,
+        "sentence_length_mean": 14.918033,
+        "sentence_length_variation": 12.828369
+      },
+      "mmr_score": 0.360263,
+      "rank": 7,
+      "scene_id": "lawrence.women-in-love.c019.s005",
+      "score_components": {
+        "craft_geometry": 0.96759,
+        "facet": 0.2,
+        "lexical": 0.393567,
+        "size": 0.811765,
+        "stage_heat": 0.57144
+      },
+      "text_hash": "b83a5c9125c0f36623f37108854f5b88ed0e6356e96bab7205d26864518fd794",
+      "title": "Women in Love",
+      "token_estimate": 1238,
+      "word_count": 910,
+      "work_id": "lawrence.women-in-love"
+    },
+    {
+      "author": "D. H. Lawrence",
+      "base_score": 0.584744,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "psychological-romance",
+        "romantic-charge",
+        "sensory-dense"
+      ],
+      "features": {
+        "agency_density": 0.007423,
+        "conflict_density": 0.00106,
+        "dialogue_ratio": 0.373277,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.00106,
+        "intimacy_action_density": 0.009544,
+        "romance_density": 0.022269,
+        "sensory_channels": 4,
+        "sentence_length_mean": 10.031915,
+        "sentence_length_variation": 6.868758
+      },
+      "mmr_score": 0.347175,
+      "rank": 8,
+      "scene_id": "lawrence.women-in-love.c014.s015",
+      "score_components": {
+        "craft_geometry": 0.975508,
+        "facet": 0.4,
+        "lexical": 0.423335,
+        "size": 0.772941,
+        "stage_heat": 0.38176
+      },
+      "text_hash": "21488de287c08817dd4ea525160953c1ef2097f18af84fdf6026b172bd581ef5",
+      "title": "Women in Love",
+      "token_estimate": 1283,
+      "word_count": 943,
+      "work_id": "lawrence.women-in-love"
+    },
+    {
+      "author": "Edith Wharton",
+      "base_score": 0.502515,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "forbidden-attraction",
+        "marriage",
+        "romantic-charge",
+        "sensory-dense",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.013393,
+        "conflict_density": 0.003348,
+        "dialogue_ratio": 0.370536,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006696,
+        "intimacy_action_density": 0.007812,
+        "romance_density": 0.014509,
+        "sensory_channels": 4,
+        "sentence_length_mean": 15.186441,
+        "sentence_length_variation": 11.195451
+      },
+      "mmr_score": 0.308615,
+      "rank": 9,
+      "scene_id": "wharton.age-of-innocence.c001.s022",
+      "score_components": {
+        "craft_geometry": 0.993674,
+        "facet": 0.6,
+        "lexical": 0.0,
+        "size": 0.828235,
+        "stage_heat": 0.31248
+      },
+      "text_hash": "5751af87a3b13ab1ea233638123193a029a9c1499ce044ca28c149a6dcc33a3e",
+      "title": "The Age of Innocence",
+      "token_estimate": 1219,
+      "word_count": 896,
+      "work_id": "wharton.age-of-innocence"
+    },
+    {
+      "author": "E. M. Forster",
+      "base_score": 0.500189,
+      "facets": [
+        "adult",
+        "dialogue-rich",
+        "embodied-intimacy",
+        "plot-coupled",
+        "romantic-charge",
+        "romantic-comedy",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.013786,
+        "conflict_density": 0.004242,
+        "dialogue_ratio": 0.198303,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.002121,
+        "intimacy_action_density": 0.008484,
+        "romance_density": 0.013786,
+        "sensory_channels": 3,
+        "sentence_length_mean": 15.716667,
+        "sentence_length_variation": 11.924892
+      },
+      "mmr_score": 0.306386,
+      "rank": 10,
+      "scene_id": "forster.room-with-a-view.c003.s001",
+      "score_components": {
+        "craft_geometry": 0.981475,
+        "facet": 0.6,
+        "lexical": 0.0,
+        "size": 0.772941,
+        "stage_heat": 0.33936
+      },
+      "text_hash": "fc63377113bd0b338afafe418b9696786e1f4946dc3587334cf0b169dbe02b83",
+      "title": "A Room with a View",
+      "token_estimate": 1283,
+      "word_count": 943,
+      "work_id": "forster.room-with-a-view"
+    }
+  ],
+  "selected_token_estimate": 12102,
+  "selection_method": "fts5-bm25+craft-geometry+facets+mmr+work-cap",
+  "unused_source_tokens": 11898,
+  "version": "literary-apprenticeship.v1"
+}

@@ -1,0 +1,13 @@
+{
+  "attempts": 4,
+  "candidates": [],
+  "eligible_count": 0,
+  "parent_segment_hashes": [
+    "80c6a0ca208bd34aa1fde107ba3680b31db1a29431d882e628ce5b838b1aba39",
+    "f96464a6fa769459ef31ca068649be6581f85f87ef470e001090450fb46673a2"
+  ],
+  "record_type": "ComposedSegmentCandidatePool",
+  "segment_id": "choice-and-trap",
+  "selection_status": "pending independent literary review",
+  "version": "paired-composed.v11"
+}

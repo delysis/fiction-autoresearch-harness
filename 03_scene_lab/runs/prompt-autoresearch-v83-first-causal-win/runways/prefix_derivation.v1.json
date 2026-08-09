@@ -1,0 +1,13 @@
+{
+  "cell_id": "charged-restraint",
+  "derivation_hash": "b90694f255e739a32e4fb2570567b89c17f596d4ff5228abf36894c9468b9c20",
+  "derived_text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da",
+  "paragraph_count": 3,
+  "record_type": "VerifiedRunwayPrefixDerivation",
+  "source_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v75-runway-search",
+  "source_text_hash": "6356a6d64287ab4ff7b88c16836578b633e3ca321790c2133f5dfeb31801036b",
+  "target_campaign": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v83-first-causal-win",
+  "target_lock_hash": "fd5811ea3908a15385d5077145f74833196828bcc7102330ed50797221f6e319",
+  "verified_at": "2026-08-08T23:18:25.550519+00:00",
+  "version": "gemma-fiction-autoresearch.v4"
+}

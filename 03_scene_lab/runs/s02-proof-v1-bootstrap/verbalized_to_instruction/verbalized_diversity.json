@@ -1,0 +1,17 @@
+{
+  "across_call_mean_jaccard_distance": 0.8023094589222539,
+  "probability_semantics": "model-proposed weights; not calibrated",
+  "selected_strategy_ids": [
+    "s02-vs-distribution-1:tail-5",
+    "s02-vs-distribution-1:tail-1",
+    "s02-vs-distribution-1:tail-2",
+    "s02-vs-distribution-2:tail-5"
+  ],
+  "selection_seed": 991337,
+  "strategy_count": 16,
+  "unique_after_deduplication": 16,
+  "within_call_mean_jaccard_distance": {
+    "s02-vs-distribution-1": 0.7992199326040059,
+    "s02-vs-distribution-2": 0.7960050925592619
+  }
+}

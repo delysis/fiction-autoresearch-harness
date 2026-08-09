@@ -1,0 +1,29 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“Mother,” called Diana, a handsome girl a little older than Winifred,
+“I may have wine, mayn’t I?”
+
+“Yes, you may have wine,” replied the mother automatically, for she was
+perfectly indifferent to the question.
+
+And Diana beckoned to the footman to fill her glass.
+
+“Gerald shouldn’t forbid me,” she said calmly, to the company at large.
+
+“All right, Di,” said her brother amiably. And she glanced challenge at
+him as she drank from her glass.
+
+There was a strange freedom, that almost amounted to anarchy, in the
+house. It was rather a resistance to authority, than liberty. Gerald
+had some command, by mere force of personality, not because of any
+granted position. There was a quality in his voice, amiable but
+dominant, that cowed the others, who were all younger than he.
+
+Hermione was having a discussion with the bridegroom about nationality.
+
+“No,” she said, “I think that the appeal to patriotism is a mistake. It
+is like one house of business rivalling another house of business.”
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

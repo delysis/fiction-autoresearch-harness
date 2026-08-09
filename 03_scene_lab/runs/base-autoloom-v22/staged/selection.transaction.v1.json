@@ -1,0 +1,202 @@
+{
+  "campaign_hash": "e676595bccc8285c0a81722e12ac919632368dec4c623341d8013065f033e3d3",
+  "candidate_count": 6,
+  "eligible_pool": 0,
+  "fallback_used": true,
+  "record_type": "AutoloomStageSelection",
+  "selected": [
+    {
+      "cache": {
+        "cache_n": 2866,
+        "prompt_n": 643
+      },
+      "campaign_hash": "e676595bccc8285c0a81722e12ac919632368dec4c623341d8013065f033e3d3",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T23:53:46.476958+00:00",
+      "cumulative_completion": "His name appeared at the top of the screen behind him, green against black: simon_kavanagh.access_granted.\n\n\"Me,\" he said. \"The password was still written in the margins of your notes.\"\n\nShe looked down at her fingers. The salt from the seawater still showed white between the skin's creases.\n\nEsther turned away. When she faced him again, her shirt lay loose on her shoulders. Her hands found the edge of his own.\n\n\"I made other plans while you were gone.\"\n\n\"You sent three messages about it,\" he said.\n\nShe took a step closer and let the shirt fall open. The healed scar from the warehouse incident crossed her thigh at an angle. She pointed to where the new one would show if Simon took his trousers off.\n\n\"This one was about a choice?\" Simon asked.\n\n\"This one was about an act,\" she said. \"Tell me what you did with my name.\"\n\n\"I found a second route.\"\n\nHer hand found his hip first. \"That's better,\" she said.\n\nHer touch moved to his thigh, fingers tracing the line where his trousers cut into the skin. He pressed his hand to the matching spot on her body.\n\n\"You want me to take them off?\" he asked.\n\nShe nodded. Simon unbuckled the belt and pulled down his trousers slowly, letting the cloth slide over her touch.\n\nShe followed the edge of the bruise as it emerged, finger tracing the shape before it became visible.\n\n\"It's colder inside you now,\" she said. \"The ocean must have taken everything else with it.\"\n\nHe let his hands rest against her back for a moment. The fabric of her shirt moved across his palms as she breathed. Then he pressed himself into her and waited for the pressure to change.\n\nThe first movement came from beneath her hand on his thigh: a slight shift of her hips toward him. His skin was still numb in places, the salt-dried edge of the bruise still faintly visible. She watched him carefully through the entire movement, eyes remaining steady until he was inside her.\n\nEsther released his thigh. \"Your breath has changed,\" she said. \"What are you listening to?\"\n\n\"You,\" he said. \"The air. The machine.\"\n\nShe looked down at the drive beneath them on the bed. \"Are you recording?\"\n\nSimon closed his eyes. His skin caught on hers as he shifted backward. Esther kept her mouth open, breathing with each change of pressure. He paused when the position felt right and let his hips fall into a slow, steady rhythm.\n\n\"You're listening to everything at once,\" she said. \"Choose one thing.\"\n\nHe opened his eyes and watched her watch him. The air shifted around them in steady patterns. The drive heated under his hand, recording every change of pressure and pulse. He moved the palm of his hand across her ribs until the heat disappeared into her skin.\n\nThe movement changed direction. Simon brought his mouth to the edge of hers, felt her breath catch once, then continue in a different pattern. Her hands found his shirt and pulled it up, exposing the salt-crusted skin beneath. He pressed closer to her and let her lead his movements from beneath.\n\nWhen Esther reached the next peak, she changed direction again, shifted him over so his side touched hers and felt him open wider around her scream. They remained in that position for several long moments.\n\nHer touch remained directed at the bruise when they came back together.\n\n\"What did you think I wanted?\" he asked.\n\n\"The choice,\" she said. \"The evidence. Both.\"\n\nSimon moved his hand across the edge of her skin again, letting the heat spread across her stomach and chest. He pressed his forehead against hers and felt the heat grow beneath them both.\n\n\"What will we do with what we know?\" he asked.\n\nShe put a finger on his lips and made him watch while she turned over the drive, letting the seal and his name flash on the screen for a moment before turning it off again.\n\n\"We act before tomorrow,\" she said. \"Together this time.\"\n\nThe salt between their thighs glittered silver in the light when they stood up to leave the bed. Both of them remained naked, skin still warm from each other's touch, breath steady and slow as they turned back toward the drive on the table. They ran parallel checks on its contents for several long minutes. Then Esther removed the drive and sealed it carefully with her name.\n\nThey dressed quickly, their hands working in tandem as they pulled on their clothes. Neither touched the other during this movement. When they were finished, they left the room together without saying anything else.",
+      "cumulative_hash": "a71a8b44a65843e56a92e97deae902b5e237a36649993c45e30fb1a2fad15cd0",
+      "diagnostics": {
+        "aftermath_signal": 4,
+        "agency_signal": 9,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 0,
+          "word_count": 558
+        },
+        "cliche_hits": [],
+        "completed_intimacy_evidence": [],
+        "completed_intimacy_signal": 0,
+        "contact_signal": 29,
+        "dialogue_turns": 7,
+        "eligible": false,
+        "explicit_signal": 3,
+        "motif_counts": {
+          "again": 5,
+          "bruise": 3,
+          "choice": 1,
+          "evidence": 1,
+          "pattern": 2,
+          "record": 2,
+          "salt": 3
+        },
+        "motif_saturation": false,
+        "packet_leakage": false,
+        "physical_progression_signal": 6,
+        "plot_payment_signal": 14,
+        "quality_signal": 18.05,
+        "sensory_channel_count": 6,
+        "sensory_channels": {
+          "sight": true,
+          "smell": true,
+          "sound": true,
+          "taste": true,
+          "temperature": true,
+          "touch": true
+        },
+        "word_count": 558
+      },
+      "finish_reason": "stop",
+      "overlap": {
+        "candidate_id": "transaction.approach.943001.1.1",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "97ca35e27d345e0c60a11c069d95a8fe93f7e8760e7f3aeebf7c4198d8b7b44a",
+      "parent_id": "approach.943001",
+      "program_hash": "04fe873aa36cbecfa9832d52f5ba22202999250f0afa79e0ad5e44f398c7e3c9",
+      "prompt_hash": "5c52f8b9374db43e7f96596d9c12c10af2cc147c3e2cc74a91e8a58902f0c230",
+      "prompt_tokens": 3508,
+      "raw_hash": "0abf0fe0318b842c5f7961942842cd749f64881a312f3842d0bda78c5fae5929",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v21/staged/raw/transaction/transaction.approach.943001.1.1.txt",
+      "recipe_hash": "444ffc44363e601891151c77344edc79c838e47d1aa792b8881f24a151ef4d8a",
+      "recipe_id": "loom-source-nearest-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 3153762351,
+      "segment": "She followed the edge of the bruise as it emerged, finger tracing the shape before it became visible.\n\n\"It's colder inside you now,\" she said. \"The ocean must have taken everything else with it.\"\n\nHe let his hands rest against her back for a moment. The fabric of her shirt moved across his palms as she breathed. Then he pressed himself into her and waited for the pressure to change.\n\nThe first movement came from beneath her hand on his thigh: a slight shift of her hips toward him. His skin was still numb in places, the salt-dried edge of the bruise still faintly visible. She watched him carefully through the entire movement, eyes remaining steady until he was inside her.\n\nEsther released his thigh. \"Your breath has changed,\" she said. \"What are you listening to?\"\n\n\"You,\" he said. \"The air. The machine.\"\n\nShe looked down at the drive beneath them on the bed. \"Are you recording?\"\n\nSimon closed his eyes. His skin caught on hers as he shifted backward. Esther kept her mouth open, breathing with each change of pressure. He paused when the position felt right and let his hips fall into a slow, steady rhythm.\n\n\"You're listening to everything at once,\" she said. \"Choose one thing.\"\n\nHe opened his eyes and watched her watch him. The air shifted around them in steady patterns. The drive heated under his hand, recording every change of pressure and pulse. He moved the palm of his hand across her ribs until the heat disappeared into her skin.\n\nThe movement changed direction. Simon brought his mouth to the edge of hers, felt her breath catch once, then continue in a different pattern. Her hands found his shirt and pulled it up, exposing the salt-crusted skin beneath. He pressed closer to her and let her lead his movements from beneath.\n\nWhen Esther reached the next peak, she changed direction again, shifted him over so his side touched hers and felt him open wider around her scream. They remained in that position for several long moments.\n\nHer touch remained directed at the bruise when they came back together.\n\n\"What did you think I wanted?\" he asked.\n\n\"The choice,\" she said. \"The evidence. Both.\"\n\nSimon moved his hand across the edge of her skin again, letting the heat spread across her stomach and chest. He pressed his forehead against hers and felt the heat grow beneath them both.\n\n\"What will we do with what we know?\" he asked.\n\nShe put a finger on his lips and made him watch while she turned over the drive, letting the seal and his name flash on the screen for a moment before turning it off again.\n\n\"We act before tomorrow,\" she said. \"Together this time.\"\n\nThe salt between their thighs glittered silver in the light when they stood up to leave the bed. Both of them remained naked, skin still warm from each other's touch, breath steady and slow as they turned back toward the drive on the table. They ran parallel checks on its contents for several long minutes. Then Esther removed the drive and sealed it carefully with her name.\n\nThey dressed quickly, their hands working in tandem as they pulled on their clothes. Neither touched the other during this movement. When they were finished, they left the room together without saying anything else.",
+      "segment_hash": "4596bb26f818bbb59727b1bab37d681ba4a8f0c5d997c990edab1c8ea4ee84d7",
+      "source_campaign_hash": "0fe989ca5af7078501d0eccacdf4e36a4b8089b0a1fa4ec58c130069bd7558b2",
+      "source_candidate_file": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v21/staged/candidates.transaction.jsonl",
+      "source_candidate_file_hash": "43340a6d95457c9ed25ab2419f667b7c0ea3dbba853437dc9c70c942adc2e6a8",
+      "source_ids": [
+        "bridge.married-explicit-workshop",
+        "gabaldon.example-03"
+      ],
+      "stage": "transaction",
+      "stage_candidate_id": "transaction.approach.943001.1.1",
+      "started_at": "2026-08-03T23:52:16.823902+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 2866,
+        "predicted_ms": 83551.535,
+        "predicted_n": 684,
+        "predicted_per_second": 8.186564136733095,
+        "predicted_per_token_ms": 122.15136695906433,
+        "prompt_ms": 5962.063,
+        "prompt_n": 643,
+        "prompt_per_second": 107.84857523310303,
+        "prompt_per_token_ms": 9.272259720062209
+      },
+      "transaction_hash": "bdc9ade90884d255bd38aae79450a6b755fe1964d28c770d3b7236bc1f0deeba",
+      "transaction_program": {
+        "body_logic": "The drive heats under his hand in his pocket.",
+        "consent_turn": "request -> touch -> consent -> contact -> continuation",
+        "counteroffer": "She touches the cloth with a sudden sharpness that takes him by surprise.",
+        "disclosure": "The heat from the drive burns his hand and she makes him show her.",
+        "ending_state": "Tension changes to arousal, confusion into consent, a choice of pain and pleasure, a pause that they might never recover from.",
+        "offer": "He holds out his trousers.",
+        "parent_id": "approach.943001",
+        "plot_payment": "The heat and pressure and the touch of the skin with the drive in the pocket push them into motion, but not release.",
+        "proposal_seed": 944011,
+        "raw_proposal_hash": "0c2a20738ed263efa4ba130b0970e41d277017d4d2f6d904454a6849393dedcf",
+        "sensory_asymmetry": "Rough cloth scrapes skin, the heat burns from his hand in his pocket, skin to skin when he reaches forward to help take her shirt off.",
+        "transaction_id": "transaction-plan.approach.943001.944011.1"
+      },
+      "usage": {
+        "completion_tokens": 684,
+        "prompt_tokens": 3509
+      }
+    }
+  ],
+  "selection_hash": "ad7fb7c257cd9ba89ceb793ee5470405fea64fed588cbf4d382a0f6cae39b33b",
+  "selection_method": "off-model-diagnostic-replay-then-seeded-quality-diversity",
+  "selection_seed": 1564112503,
+  "source_candidates": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v21/staged/candidates.transaction.jsonl",
+  "source_candidates_hash": "43340a6d95457c9ed25ab2419f667b7c0ea3dbba853437dc9c70c942adc2e6a8",
+  "stage": "transaction",
+  "terminal_failure_count": 0
+}

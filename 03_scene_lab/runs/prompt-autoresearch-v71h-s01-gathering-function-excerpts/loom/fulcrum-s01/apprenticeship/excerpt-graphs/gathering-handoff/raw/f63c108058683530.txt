@@ -1,0 +1,25 @@
+{
+  "emotional_offer": "Desire for private conversation",
+  "emotional_counteroffer": "Social restraint/Avoidance",
+  "relationship_history": "Marital, social acquaintance",
+  "present_stakes": "Opportunity to speak with Countess Olenska",
+  "dialogue_act_sequence": [
+    "Wife's directive",
+    "Archer's internal resolve"
+  ],
+  "body_language_counterpoint": "Internal agitation vs. External composure",
+  "sensory_channels": [
+    "Auditory (bell ringing)",
+    "Kinesthetic (heartbeat)"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Doorstep interaction",
+  "agency_actions": [
+    "Archer's arrival",
+    "Wife's immediate redirection"
+  ],
+  "relationship_delta": "Increased tension/Obstacle",
+  "story_state_change": "Delayed private encounter",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

@@ -1,0 +1,158 @@
+{
+  "campaign_hash": "6fa520c573daebdcd6fdf6d6eff9af0c3e68fecbae291f3366fcfa769b7f390d",
+  "derivation_policy": "exact-model-span-prefix-no-added-prose.v1",
+  "lock_hash": "91130fa4ffefb0f36c817249ccb1ab5df4c070a0aa72abc59df05b23efaa65c8",
+  "record_type": "DerivedVerifiedRunways",
+  "runways": {
+    "charged-restraint": {
+      "campaign_hash": "b90deec69011e57772dc7f3849e9a3d7c399ac5557785e72e1238e2f00cf7370",
+      "cell_id": "charged-restraint",
+      "completed_at": "2026-08-08T22:05:30.728769+00:00",
+      "conditioning": "graph-paired-continuity-bookfront",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "derivation": {
+        "method": "exact_paragraph_prefix",
+        "paragraph_count": 3,
+        "source_lock_hash": "03b37cc393f2b76b7ba7785905020e59395eb23dc839c76fdb1f1248bde5a638",
+        "source_text_hash": "6356a6d64287ab4ff7b88c16836578b633e3ca321790c2133f5dfeb31801036b"
+      },
+      "derived_from_runway_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+      "diagnostic_features": {
+        "dialogue_mark_count": 1,
+        "promotion_use": "forbidden",
+        "sensory_term_count": 4,
+        "word_count": 213
+      },
+      "eligible": true,
+      "finish_reason": "length",
+      "max_tokens": 300,
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "confirmed_supernatural": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_control_context": false,
+          "erotic_signal": 0,
+          "first_kiss_history": false,
+          "first_person_narration_count": 0,
+          "heat_ceiling_violation": false,
+          "max_repeated_8gram": 1,
+          "minor_cue": false,
+          "numbered_outline_lines": 0,
+          "pov_drift": [],
+          "pronoun_pov_drift": [],
+          "s01_prior_session": false,
+          "s01_status_transaction": true,
+          "screenplay_line_count": 0,
+          "stop_then_reescalate": false,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "adult_characters": true,
+          "agency": true,
+          "ambiguous_world_status": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "first_kiss_continuity": true,
+          "heat_ceiling": true,
+          "manuscript_format": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "s01_no_prior_session": true,
+          "s01_status_transaction": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.7-scaffold-replay-fail-closed"
+      },
+      "overlap": {
+        "candidate_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "8cec969e0cb41c150319d49062741af06002f5a944883a3bd8530b73205b108e",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "db4bc01e5aa12d7cf3e7bb2fd7512b9844c14f9c8d3aeef66ba698d83c2c2126",
+      "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+      "record_type": "GeneratedRunway",
+      "request_hash": "9a6969f22104fed0b0db7b5b2f60b92c6d5dad24862db1f9309197d019e096dc",
+      "runway_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+      "runway_word_band": [
+        60,
+        220
+      ],
+      "sampler": {
+        "dry_allowed_length": 3,
+        "dry_base": 1.75,
+        "dry_multiplier": 0.0,
+        "min_p": 0.02,
+        "repeat_penalty": 1.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.1
+      },
+      "seed": 1750019,
+      "selection_score": 0.0,
+      "separators": [],
+      "source_ids": [
+        "gabaldon.example-12",
+        "gabaldon.example-01",
+        "gabaldon.example-11"
+      ],
+      "span": {
+        "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+        "raw_char_end": 998,
+        "raw_char_start": 0,
+        "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v75-runway-search/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.1750019.txt",
+        "role": "derived-opening-runway-prefix",
+        "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+        "text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da"
+      },
+      "spans": [
+        {
+          "call_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019",
+          "raw_char_end": 998,
+          "raw_char_start": 0,
+          "raw_hash": "9eefddc5b43ce6c830b518b21e33527fc99fdda6716e76e13c069d0e82dde9af",
+          "raw_path": "03_scene_lab/runs/prompt-autoresearch-v75-runway-search/runways/raw/runway.graph-paired-continuity-bookfront.charged-restraint.1750019.txt",
+          "role": "derived-opening-runway-prefix",
+          "span_id": "runway.graph-paired-continuity-bookfront.charged-restraint.1750019.prefix-3",
+          "text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da"
+        }
+      ],
+      "status": "completed",
+      "text": "They started at Fulcrum’s front steps, an instant after the last of the lab staff had gone indoors and locked up. Mara’s mouth felt raw and dry; her throat ached, and her shoulders were rigid and aching too. Her entire body was too hot despite the cold, and she didn’t feel the chill of the night air.\nThe others were gone. Jonah stood silently beside her, waiting. He was six inches taller than she was. He wasn’t looking at her; his head turned toward the empty drive, and he stared into the darkness beyond the lighted entrance. There was nothing there. She didn’t look. She watched him instead.\n“I guess it’s time to go home.” Jonah’s voice was soft, almost inaudible. She had expected more after tonight: analysis or commiseration. Instead he turned sideways with a small sigh and started down the front steps. He swung both arms easily, as though he were on an ordinary walk, though it was the middle of the night and they were both on their way back to hotel rooms in a town she didn’t know.",
+      "text_hash": "4211cb715944554fb4b68c36b4dd3c6f40959ddf9e8096d93e8a10a1b874f7da",
+      "timings": {
+        "cache_n": 4011,
+        "predicted_ms": 29478.366,
+        "predicted_n": 300,
+        "predicted_per_second": 10.176954855638877,
+        "predicted_per_token_ms": 98.26122000000001,
+        "prompt_ms": 106.764,
+        "prompt_n": 1,
+        "prompt_per_second": 9.366453111535725,
+        "prompt_per_token_ms": 106.764
+      },
+      "usage": {
+        "completion_tokens": 300,
+        "prompt_tokens": 4012
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "source_lock_hash": "03b37cc393f2b76b7ba7785905020e59395eb23dc839c76fdb1f1248bde5a638",
+  "version": "gemma-fiction-autoresearch.v4"
+}

@@ -1,0 +1,103 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "comparison_arms": {
+    "base31_plan_to_instruction": {
+      "compiler": "none; selected plan passed byte-identically",
+      "proposal_source": "gemma-4-31B-base-Q8_0",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "base_program_to_instruction": {
+      "compiler": "gemma-4-31B-it-Q8_0",
+      "proposal_source": "gemma-4-E2B-base-Q8_0",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "chat_direct": {
+      "proposal_source": "none",
+      "transport": "chat-completion",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "instruction_raw": {
+      "proposal_source": "none",
+      "transport": "raw-completion-with-explicit-turn-envelope",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "native_base": {
+      "proposal_source": "none",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-base-Q8_0"
+    },
+    "verbalized_to_instruction": {
+      "compiler": "gemma-4-31B-it-Q8_0",
+      "proposal_source": "31B-it verbalized-sampling tail distribution",
+      "writer": "gemma-4-31B-it-Q8_0"
+    }
+  },
+  "comparison_version": "s02-compute-comparison.v3",
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "feedback_source_kind": "bootstrap-codex",
+  "macro_sequences": [
+    {
+      "beat_numbers": [
+        1,
+        2,
+        3
+      ],
+      "ending_visible": false,
+      "endpoint": "End with Mara less legible to herself because her explanations have multiplied; do not resolve the session or preview the walk home.",
+      "maximum_words": 1100,
+      "minimum_words": 875,
+      "sequence_id": "s02-seq-1-trap",
+      "target_words": 950,
+      "title": "Care becomes a trap"
+    },
+    {
+      "beat_numbers": [
+        4,
+        5,
+        6
+      ],
+      "ending_visible": false,
+      "endpoint": "End after Mara's clean question has exposed the category error, before Miriam opens the door.",
+      "maximum_words": 1100,
+      "minimum_words": 875,
+      "sequence_id": "s02-seq-2-refusal",
+      "target_words": 950,
+      "title": "The room discovers it has no category for no"
+    },
+    {
+      "beat_numbers": [
+        7,
+        8,
+        9
+      ],
+      "ending_visible": true,
+      "endpoint": "Resolve the local boundary crisis with romantic hope-for-now: one mutually chosen kiss stops while still desired, Mara states the doorway rule, and she freely chooses continued engagement while Fulcrum's larger mystery remains open.",
+      "maximum_words": 1400,
+      "minimum_words": 1100,
+      "sequence_id": "s02-seq-3-doorway",
+      "target_words": 1250,
+      "title": "Exit, restraint, and the doorway rule"
+    }
+  ],
+  "packet_hash": "e81b65c5ac7bf5e01f34f7f987ed035d60eb6451e3e5db9a6d7568f92f6c3c9a",
+  "packet_words": 4977,
+  "record_type": "ContinuationContextManifest",
+  "rendered_prompt_hash": "b640df382ef70debe3c3da4cf0a13bbf78a5206e0445ae05b848d6bd4775efe4",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "scene_id": "S02",
+  "shared_controls": {
+    "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+    "compact_packet_hash": "b640df382ef70debe3c3da4cf0a13bbf78a5206e0445ae05b848d6bd4775efe4",
+    "length_controller": "measured-sequence-floor-and-local-overflow-repair",
+    "macro_sequence_count": 3,
+    "seeds": [
+      22011,
+      22023,
+      22037,
+      22051
+    ]
+  },
+  "version": "s02-continuation.v2"
+}

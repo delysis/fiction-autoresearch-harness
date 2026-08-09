@@ -1,0 +1,52 @@
+{
+  "measured_at": "2026-08-01T17:30:34.840172+00:00",
+  "record_type": "BaseMetaPromptTokenMeasurements",
+  "records": [
+    {
+      "arm_id": "short-control-4k",
+      "maximum_new_tokens": 1500,
+      "prompt_hash": "9b3babdd56183fb7599c9240f7c06ebba63e16266d738256ae1cf54047781b5f",
+      "prompt_tokens": 4781,
+      "prompt_words": 3499,
+      "safe_context_limit": 260096,
+      "within_budget": true
+    },
+    {
+      "arm_id": "paired-icl-16k",
+      "maximum_new_tokens": 1500,
+      "prompt_hash": "984104095fab4d42c84384e5bb2e7ffd5c0201fc53bc4535a1d97cbd7dc25882",
+      "prompt_tokens": 19745,
+      "prompt_words": 14383,
+      "safe_context_limit": 260096,
+      "within_budget": true
+    },
+    {
+      "arm_id": "raw-prose-64k",
+      "maximum_new_tokens": 1500,
+      "prompt_hash": "ce069ebd7436e2121d2a0b50eaae83f8e8e2404d5f2af394128dda1ff28f68b3",
+      "prompt_tokens": 63310,
+      "prompt_words": 46592,
+      "safe_context_limit": 260096,
+      "within_budget": true
+    },
+    {
+      "arm_id": "full-stack-64k",
+      "maximum_new_tokens": 1500,
+      "prompt_hash": "e61a1a80d7bfb0a1d088f63a668576c8017a1b3582edad3266c2791352fa9735",
+      "prompt_tokens": 62607,
+      "prompt_words": 45761,
+      "safe_context_limit": 260096,
+      "within_budget": true
+    },
+    {
+      "arm_id": "full-stack-128k",
+      "maximum_new_tokens": 1500,
+      "prompt_hash": "c1c95be07bbcbcbfd62a1a62c7a864bce369a3428c9985e6bac4d50bdb83ac54",
+      "prompt_tokens": 125366,
+      "prompt_words": 92565,
+      "safe_context_limit": 260096,
+      "within_budget": true
+    }
+  ],
+  "version": "base-meta-prompt.v1"
+}

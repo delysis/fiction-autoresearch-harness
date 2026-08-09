@@ -1,0 +1,338 @@
+{
+  "campaign_hash": "0532903d92a1151cd3009c81a07540f24567b9c4d10a89355e3f05a720bd0ba6",
+  "inherited_from_campaign_hash": "cb6514cfa22db59b0270621ade0db968c0670512c4b3145298d4b3008be32466",
+  "lock_hash": "53eb44b1db4094255983ff57cb80de1e10140248079fbb09e9b736f68946f011",
+  "record_type": "LockedGeneratedRunways",
+  "runways": {
+    "charged-restraint": {
+      "campaign_hash": "cb6514cfa22db59b0270621ade0db968c0670512c4b3145298d4b3008be32466",
+      "cell_id": "charged-restraint",
+      "completed_at": "2026-08-08T02:22:17.188438+00:00",
+      "critic_judgment_hash": "unavailable-invalid-critic-response",
+      "eligible": true,
+      "finish_reason": "length",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.2"
+      },
+      "overlap": {
+        "candidate_id": "runway.charged-restraint.952001",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "a6e9fc2af36a2beb3f13a3af61a7d5f1797c94889282e557f7b9acedf6c51824",
+      "raw_hash": "5a94c9aa3ec9b3624104f7defd442ccc4518645af18f4704735e93738c5c5399",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.charged-restraint.952001",
+      "seed": 952001,
+      "selection_score": 0.0,
+      "span": {
+        "call_id": "runway.charged-restraint.952001",
+        "raw_char_end": 680,
+        "raw_char_start": 0,
+        "raw_hash": "5a94c9aa3ec9b3624104f7defd442ccc4518645af18f4704735e93738c5c5399",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean/runways/raw/runway.charged-restraint.952001.txt",
+        "role": "opening-runway",
+        "span_id": "runway.charged-restraint.952001",
+        "text_hash": "6b6e234d5b60ea1ff0763f26896f684296351b9a119eb82a9ed3088b30710a92"
+      },
+      "status": "completed",
+      "text": "The glass doors of the Fulcrum research facility slid open, and Mara stepped out into the evening light. The city's glow cast long shadows, painting the sidewalks with amber hues. Her mind replayed the oppressive session, the questions designed to expose every insecurity. Jonah, ever composed, trailed behind her, his footsteps deliberate on the concrete.\n\nAs the door's hiss faded, she turned, still sorting through the raw emotions left behind. He offered his hand, a silent offer. No interpretation, no manipulation—just a choice. Her fingers brushed against his, warm and steady, a tether to the present. For the first time since entering that sterile lab, she felt anchored.",
+      "text_hash": "6b6e234d5b60ea1ff0763f26896f684296351b9a119eb82a9ed3088b30710a92",
+      "timings": {
+        "cache_n": 184,
+        "predicted_ms": 41598.242,
+        "predicted_n": 260,
+        "predicted_per_second": 6.250264133758345,
+        "predicted_per_token_ms": 159.99323846153845,
+        "prompt_ms": 93.466,
+        "prompt_n": 1,
+        "prompt_per_second": 10.699077739498856,
+        "prompt_per_token_ms": 93.466
+      },
+      "usage": {
+        "completion_tokens": 260,
+        "prompt_tokens": 185
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    },
+    "fulcrum-s01": {
+      "campaign_hash": "cb6514cfa22db59b0270621ade0db968c0670512c4b3145298d4b3008be32466",
+      "cell_id": "fulcrum-s01",
+      "completed_at": "2026-08-08T02:36:22.354254+00:00",
+      "critic_judgment_hash": "bb569ee18115506fbfeff2c8a04652744e580cdc7248c4c9c2b2829f79cebc63",
+      "eligible": true,
+      "finish_reason": "stop",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.2"
+      },
+      "overlap": {
+        "candidate_id": "runway.fulcrum-s01.952001",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "bc0a1aef8a77c3a7aa8441504398a1c94e032f18a81a4c4e79cdb0338590c2f6",
+      "raw_hash": "f9f6eeae5b7ae0e717bfa70036d13e9593f713e31e6bb9af98f99e0ec738b31a",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.fulcrum-s01.952001",
+      "seed": 952001,
+      "selection_score": 3.7142857142857144,
+      "span": {
+        "call_id": "runway.fulcrum-s01.952001",
+        "raw_char_end": 683,
+        "raw_char_start": 0,
+        "raw_hash": "f9f6eeae5b7ae0e717bfa70036d13e9593f713e31e6bb9af98f99e0ec738b31a",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean/runways/raw/runway.fulcrum-s01.952001.txt",
+        "role": "opening-runway",
+        "span_id": "runway.fulcrum-s01.952001",
+        "text_hash": "6c29e2ac9b6c9bb8d23042850b5704c1d3ef39c222c965ea6fac2fa661830316"
+      },
+      "status": "completed",
+      "text": "Mara entered the Fulcrum conference room and looked around. She wasn't surprised to see four chairs; her interview invitation had listed the participants' names in order of seniority, and three chairs were occupied, while a fourth was empty in a space between her seat and Adrian's. But it took a moment to realize that each of the chairs was subtly different. Her chair was leather-wrapped; it rose from a narrow base with a low, flat back. The chairs beyond hers were upholstered in blue suede and had taller backs, with a lower, wider seat. Then, at the far end of the table, was an elaborate, wing-backed black velvet chair with a high, square back and a wide seat. It sat empty.",
+      "text_hash": "6c29e2ac9b6c9bb8d23042850b5704c1d3ef39c222c965ea6fac2fa661830316",
+      "timings": {
+        "cache_n": 8,
+        "predicted_ms": 32081.665,
+        "predicted_n": 238,
+        "predicted_per_second": 7.41856758369617,
+        "predicted_per_token_ms": 134.7969117647059,
+        "prompt_ms": 2663.403,
+        "prompt_n": 282,
+        "prompt_per_second": 105.87958337510322,
+        "prompt_per_token_ms": 9.444691489361702
+      },
+      "usage": {
+        "completion_tokens": 238,
+        "prompt_tokens": 290
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    },
+    "institutional-pressure-control": {
+      "campaign_hash": "cb6514cfa22db59b0270621ade0db968c0670512c4b3145298d4b3008be32466",
+      "cell_id": "institutional-pressure-control",
+      "completed_at": "2026-08-08T02:32:28.369319+00:00",
+      "critic_judgment_hash": "7dea90d46bac21880b1ca2369ca6cb434577ba2e7798410cdc4e6c388a26f972",
+      "eligible": true,
+      "finish_reason": "stop",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_signal": 0,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.2"
+      },
+      "overlap": {
+        "candidate_id": "runway.institutional-pressure-control.952019",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "7c08734777282a381b0109415330dcc88d9f10dfa3c4258dc46d4413272b94cb",
+      "raw_hash": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.institutional-pressure-control.952019",
+      "seed": 952019,
+      "selection_score": 4.714285714285714,
+      "span": {
+        "call_id": "runway.institutional-pressure-control.952019",
+        "raw_char_end": 511,
+        "raw_char_start": 0,
+        "raw_hash": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean/runways/raw/runway.institutional-pressure-control.952019.txt",
+        "role": "opening-runway",
+        "span_id": "runway.institutional-pressure-control.952019",
+        "text_hash": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500"
+      },
+      "status": "completed",
+      "text": "\"How long does that usually take?\"\nMara glanced over at Livia and Jonah, who'd come to collect her when the Fulcrum alignment was complete. Livia was waiting beside her with a warm drink; Jonah stood a bit behind and off to the side, his face neutral and his gaze focused on Mara's.\n\"Five, six hours.\" She stretched her arms, shaking out the tension. \"I'll be fine after I take care of myself for a little while.\"\n\"Do you think so?\"\nMara gave Livia a weary, faintly amused smile. \"Do I have a choice?\" she said.",
+      "text_hash": "4dc4a57c253c8592d7ccb9cf7e802217d44201f117b3edbe323b3880b0efe500",
+      "timings": {
+        "cache_n": 184,
+        "predicted_ms": 17851.175,
+        "predicted_n": 131,
+        "predicted_per_second": 7.33845251082912,
+        "predicted_per_token_ms": 136.26851145038168,
+        "prompt_ms": 124.477,
+        "prompt_n": 1,
+        "prompt_per_second": 8.033612635265953,
+        "prompt_per_token_ms": 124.477
+      },
+      "usage": {
+        "completion_tokens": 131,
+        "prompt_tokens": 185
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    },
+    "married-explicit": {
+      "campaign_hash": "cb6514cfa22db59b0270621ade0db968c0670512c4b3145298d4b3008be32466",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-08T02:30:17.275119+00:00",
+      "critic_judgment_hash": "8e091f46ab98f97f103f4d1a53fdacd771eafb0ce97952b39463a4f717532d1a",
+      "eligible": true,
+      "finish_reason": "length",
+      "mechanical": {
+        "diagnostics": {
+          "coercion": false,
+          "control_leaks": [],
+          "correct_opening_stage": true,
+          "erotic_signal": 1,
+          "max_repeated_8gram": 1,
+          "pov_drift": [],
+          "screenplay_line_count": 0,
+          "uncertainty_then_escalation": false,
+          "world_status": true
+        },
+        "gates": {
+          "agency": true,
+          "anti_copy": true,
+          "correct_opening_stage": true,
+          "narrative_prose_format": true,
+          "no_control_leak": true,
+          "no_loop": true,
+          "non_erotic_control": true,
+          "pov": true,
+          "world_status": true
+        },
+        "passed": true,
+        "version": "runway-gate.v4.2"
+      },
+      "overlap": {
+        "candidate_id": "runway.married-explicit.952073",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "737d1281cd5d536c72e75e830c003193a81b87ca36f368007270927a3af33564",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "prompt_hash": "297aaba71be53856d73c500499ada3d0ca7745310eea264adce46c5369ce053e",
+      "raw_hash": "7b18c4072b56103f1e86598de67e8919fc353b39f1693aeda8ea739367af0f98",
+      "record_type": "GeneratedRunway",
+      "runway_id": "runway.married-explicit.952073",
+      "seed": 952073,
+      "selection_score": 4.285714285714286,
+      "span": {
+        "call_id": "runway.married-explicit.952073",
+        "raw_char_end": 788,
+        "raw_char_start": 0,
+        "raw_hash": "7b18c4072b56103f1e86598de67e8919fc353b39f1693aeda8ea739367af0f98",
+        "raw_path": "03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean/runways/raw/runway.married-explicit.952073.txt",
+        "role": "opening-runway",
+        "span_id": "runway.married-explicit.952073",
+        "text_hash": "921975ebc1373fe23ba617e9cff2f1ea430d77e53851885860e6687eb80d50d9"
+      },
+      "status": "completed",
+      "text": "Esther stepped into Simon's bedroom, her gaze catching on the open novel on the nightstand. He was engrossed in a passage, the dim light casting soft shadows on his face.\n“You're still reading?” she teased, crossing to him with a smile. “I thought we agreed to take it easy tonight.”\nSimon looked up, the corners of his lips quirking in response. “Well, I might need some reading material if this gets too intense.”\nHis teasing tone eased the tension that had been lingering since their reunion. They had faced danger together, but it was the unspoken moments, the unacknowledged doubts, that had made intimacy feel like a minefield.\n“Oh, are we going that route?” Esther replied, her voice dripping with mock indignation. “Maybe I'll just grab a book and leave you to your reading then.”",
+      "text_hash": "921975ebc1373fe23ba617e9cff2f1ea430d77e53851885860e6687eb80d50d9",
+      "timings": {
+        "cache_n": 182,
+        "predicted_ms": 63086.423,
+        "predicted_n": 260,
+        "predicted_per_second": 4.121330511955004,
+        "predicted_per_token_ms": 242.64008846153848,
+        "prompt_ms": 252.62,
+        "prompt_n": 1,
+        "prompt_per_second": 3.9585147652600745,
+        "prompt_per_token_ms": 252.62
+      },
+      "usage": {
+        "completion_tokens": 260,
+        "prompt_tokens": 183
+      },
+      "version": "gemma-fiction-autoresearch.v4"
+    }
+  },
+  "source_lock_hash": "5b290ff5c625bcdde73823d2de982ae1f571fded60ab1d2648934ebd5e4f432e",
+  "version": "gemma-fiction-autoresearch.v4"
+}

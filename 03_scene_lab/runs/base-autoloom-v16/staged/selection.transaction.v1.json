@@ -1,0 +1,573 @@
+{
+  "campaign_hash": "0af2299197136e36137857080eeef4b8eed55e76c76a0b9a763ca01d8a020268",
+  "candidate_count": 5,
+  "eligible_pool": 1,
+  "fallback_used": true,
+  "record_type": "AutoloomStageSelection",
+  "selected": [
+    {
+      "cache": {
+        "cache_n": 2882,
+        "prompt_n": 523
+      },
+      "campaign_hash": "0af2299197136e36137857080eeef4b8eed55e76c76a0b9a763ca01d8a020268",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T13:23:40.603797+00:00",
+      "cumulative_completion": "Simon traced the faint lines of her question mark with his tongue.\n\nShe laughed, low and precise.\n\n\"Now I want to know everything,\" she said.\n\nHe lifted one arm and touched the long scar running down the back of her thigh. A year of salt water had bleached it white where it crossed her knee.\n\n\"This is the injury you should have shown me last.\"\n\n\"Your concern for my well-being is noted,\" Esther said. \"And?\"\n\nHe shifted his hand to where her ribs curved. Beneath her skin, the fresh bruising patterned their map of the ocean floor. \"And I did not rescue everyone you named.\"\n\nEsther moved her left hand up from his jaw to his chest and let the back of her fingers press lightly against his sternum.\n\nSimon took the finger and put it to his lips without looking away from hers.\n\n\"You are checking for heartbeat,\" she said. \"Does my name appear in your rescue priority?\"\n\n\"I brought you out first.\"\n\n\"And then?\"\n\nHis body stayed under her gaze. His hand closed around her right wrist. \"We can find the pattern together.\"\n\nEsther turned his wrist to read the faded ink from his last password attempt. She looked up with a smile that cut just below its edges.\n\n\"What sort of husband opens a sealed drive with his own blood?\"\n\nHe met the question with two fingers against her lips. Her mouth softened but did not open.\n\nHis touch turned into an offer. She considered it before answering with a kiss that held back one corner of her smile.\n\nEsther's fingers closed around his upper arm. The skin there was still tender from the ocean floor's sharp edges. Simon felt her thumb circle a point of recent pain beneath his scar tissue.\n\n\"The injury you haven't named,\" she said against his mouth. \"Where?\"\n\nHe held his breath long enough for her to guess. Esther pulled back just far enough to follow his left collarbone with a finger. Her touch found the bruise where two fingers had marked him while he slept on the transport.\n\n\"How many were on that ship?\" she asked, reading the evidence of her own question.\n\n\"Your full team. Plus five.\"\n\nShe waited long enough for him to know she was not going to speak until he finished telling her why.\n\nSimon released her hand and took the front of her shirt between his fingers. She watched the movement rather than interrupting it.\n\nHe pulled her shirt over her head with slow, gentle pressure. The white cloth showed their underwater hours. Salt had left its pattern: a dark line at one shoulder, lighter traces around her collarbone where water had run down her neck.\n\nEsther kept her face toward him as she pulled the shirt over her head. One hand stayed against his sternum; the other moved to her side.\n\n\"The ocean has marked both of us,\" Simon said.\n\n\"And you have left your mark on me again.\" She spoke without moving her lips, watching where his eyes went.\n\nHe kissed the faint blue-white bruise on her right rib. Beneath it, she had written the coordinates in her own blood. The words were clearer than her voice.\n\n\"Do not interrupt a kiss,\" Esther whispered. \"It confuses everything.\"\n\nSimon touched her right hip bone through the thin cloth of her shorts. The seam cut into the pale scar on her thigh.\n\n\"We are both marked.\" He spoke against the curve of her jaw. \"The marks change how we touch.\"\n\nEsther's left hand rose to his chest. She circled the point of recent pain while Simon pulled his own shirt over his head. Her finger found the edge of the bruise first. Her touch was careful, mapping what had already happened.\n\nHe showed her the pattern beneath his scar tissue with a palm. Esther followed its edges with her thumb. The skin there held their recent past in its changed texture.\n\nSimon took the shorts from her hips. She remained standing, facing him. Her hands stayed where they were: one marking his new injury, the other tracing the old one's shadow across her thigh.\n\nEsther put a finger against his lips. \"Tell me everything you hid under my name.\"\n\n\"I needed you first.\"\n\n\"Yes,\" she said, tracing one side of his mouth. \"And after?\"\n\nHe circled the bruise beneath her collarbone with his thumb.\n\n\"The ocean gave us patterns to remember,\" Simon said. \"Our bodies hold what we must learn.\"\n\nShe took the recovered drive from the table and held it between their joined hands.\n\nEsther opened it first. She pressed her thumb against its warm surface where Simon's name had broken the seal. The metal felt cool where the ocean had touched it.\n\nTheir fingerprints layered together, making a new pattern. The drive changed color under their combined touch, showing where recent pressure had failed to reset the memory.\n\nSimon closed his eyes and listened to the ocean's sound in his ears. It matched Esther's breathing. Her right hand moved to his back, following the line of his spine while her left stayed against his chest.\n\n\"The pattern changes when we touch.\" Her voice held the discovery as evidence.\n\nEsther traced the faded ink on his wrist while Simon listened to her voice map their recent past. The salt had preserved the writing imperfectly. His thumb found a point of resistance where the ocean's pressure had changed the material.\n\nShe opened his hand and closed hers around his thumb. Her touch measured the point where the sea had forced him to press too hard.",
+      "cumulative_hash": "d167407a11cafb926a327598faa338a2d9190405c784f1b6c61bbb154ce8e53c",
+      "diagnostics": {
+        "aftermath_signal": 1,
+        "agency_signal": 8,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.0,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 0,
+          "word_count": 689
+        },
+        "cliche_hits": [],
+        "contact_signal": 40,
+        "dialogue_turns": 11,
+        "eligible": false,
+        "explicit_signal": 0,
+        "motif_counts": {
+          "again": 7,
+          "bruise": 4,
+          "evidence": 2,
+          "pattern": 5,
+          "salt": 2,
+          "scar": 3
+        },
+        "packet_leakage": false,
+        "physical_progression_signal": 5,
+        "plot_payment_signal": 10,
+        "quality_signal": 14.7,
+        "sensory_channel_count": 6,
+        "sensory_channels": {
+          "sight": true,
+          "smell": true,
+          "sound": true,
+          "taste": true,
+          "temperature": true,
+          "touch": true
+        },
+        "word_count": 689
+      },
+      "finish_reason": "length",
+      "overlap": {
+        "candidate_id": "transaction.approach.943149.2.1",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "f49c6327f094e8289df44880fbc9d15e1f764915f2408ec41968e6964061c98b",
+      "parent_id": "approach.943149",
+      "program_hash": "04fe873aa36cbecfa9832d52f5ba22202999250f0afa79e0ad5e44f398c7e3c9",
+      "prompt_hash": "d33756b9099c365825af3d402fbfe949917ed3dcad936821821099a919a87995",
+      "prompt_tokens": 3404,
+      "raw_hash": "679a42e631c9bb2b5cd23f75cf83740feb8beef4167254319e0da488d7aaaaa9",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v16/staged/raw/transaction/transaction.approach.943149.2.1.txt",
+      "recipe_hash": "444ffc44363e601891151c77344edc79c838e47d1aa792b8881f24a151ef4d8a",
+      "recipe_id": "loom-source-nearest-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 2872193898,
+      "segment": "His touch turned into an offer. She considered it before answering with a kiss that held back one corner of her smile.\n\nEsther's fingers closed around his upper arm. The skin there was still tender from the ocean floor's sharp edges. Simon felt her thumb circle a point of recent pain beneath his scar tissue.\n\n\"The injury you haven't named,\" she said against his mouth. \"Where?\"\n\nHe held his breath long enough for her to guess. Esther pulled back just far enough to follow his left collarbone with a finger. Her touch found the bruise where two fingers had marked him while he slept on the transport.\n\n\"How many were on that ship?\" she asked, reading the evidence of her own question.\n\n\"Your full team. Plus five.\"\n\nShe waited long enough for him to know she was not going to speak until he finished telling her why.\n\nSimon released her hand and took the front of her shirt between his fingers. She watched the movement rather than interrupting it.\n\nHe pulled her shirt over her head with slow, gentle pressure. The white cloth showed their underwater hours. Salt had left its pattern: a dark line at one shoulder, lighter traces around her collarbone where water had run down her neck.\n\nEsther kept her face toward him as she pulled the shirt over her head. One hand stayed against his sternum; the other moved to her side.\n\n\"The ocean has marked both of us,\" Simon said.\n\n\"And you have left your mark on me again.\" She spoke without moving her lips, watching where his eyes went.\n\nHe kissed the faint blue-white bruise on her right rib. Beneath it, she had written the coordinates in her own blood. The words were clearer than her voice.\n\n\"Do not interrupt a kiss,\" Esther whispered. \"It confuses everything.\"\n\nSimon touched her right hip bone through the thin cloth of her shorts. The seam cut into the pale scar on her thigh.\n\n\"We are both marked.\" He spoke against the curve of her jaw. \"The marks change how we touch.\"\n\nEsther's left hand rose to his chest. She circled the point of recent pain while Simon pulled his own shirt over his head. Her finger found the edge of the bruise first. Her touch was careful, mapping what had already happened.\n\nHe showed her the pattern beneath his scar tissue with a palm. Esther followed its edges with her thumb. The skin there held their recent past in its changed texture.\n\nSimon took the shorts from her hips. She remained standing, facing him. Her hands stayed where they were: one marking his new injury, the other tracing the old one's shadow across her thigh.\n\nEsther put a finger against his lips. \"Tell me everything you hid under my name.\"\n\n\"I needed you first.\"\n\n\"Yes,\" she said, tracing one side of his mouth. \"And after?\"\n\nHe circled the bruise beneath her collarbone with his thumb.\n\n\"The ocean gave us patterns to remember,\" Simon said. \"Our bodies hold what we must learn.\"\n\nShe took the recovered drive from the table and held it between their joined hands.\n\nEsther opened it first. She pressed her thumb against its warm surface where Simon's name had broken the seal. The metal felt cool where the ocean had touched it.\n\nTheir fingerprints layered together, making a new pattern. The drive changed color under their combined touch, showing where recent pressure had failed to reset the memory.\n\nSimon closed his eyes and listened to the ocean's sound in his ears. It matched Esther's breathing. Her right hand moved to his back, following the line of his spine while her left stayed against his chest.\n\n\"The pattern changes when we touch.\" Her voice held the discovery as evidence.\n\nEsther traced the faded ink on his wrist while Simon listened to her voice map their recent past. The salt had preserved the writing imperfectly. His thumb found a point of resistance where the ocean's pressure had changed the material.\n\nShe opened his hand and closed hers around his thumb. Her touch measured the point where the sea had forced him to press too hard.",
+      "segment_hash": "e61a182263636ef432a724f909e0d94e982ea5c7a69f6a79133dd12f67551dc6",
+      "source_ids": [
+        "bridge.married-explicit-workshop",
+        "gabaldon.example-03"
+      ],
+      "stage": "transaction",
+      "stage_candidate_id": "transaction.approach.943149.2.1",
+      "started_at": "2026-08-03T13:21:25.527610+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 2882,
+        "predicted_ms": 129902.355,
+        "predicted_n": 980,
+        "predicted_per_second": 7.544128049102729,
+        "predicted_per_token_ms": 132.55342346938775,
+        "prompt_ms": 4944.354,
+        "prompt_n": 523,
+        "prompt_per_second": 105.77721578996973,
+        "prompt_per_token_ms": 9.45383173996176
+      },
+      "transaction_hash": "95179a503e25faa26e184b41f699b748acd79c19ceb8f3c1d7922356ce90477b",
+      "transaction_program": {
+        "body_logic": "His stillness under her gaze matches her restrained questions; breathing patterns align during skin contact.",
+        "consent_turn": "Simon reveals his motive through bodily proximity; Esther gives explicit permission for physical examination.",
+        "counteroffer": "Esther immediately reverses positions with a demand to know why he used his name in the password.",
+        "disclosure": "The drive's physical heat pattern changes under their combined touch.",
+        "ending_state": "Their physical proximity ends with parallel examination of the data; their hands move in perfect echo across the table.",
+        "offer": "Simon volunteers his drive data first, before any physical contact.",
+        "parent_id": "approach.943149",
+        "plot_payment": "Their aligned injuries make them equal partners in risk evaluation.",
+        "proposal_seed": 944011,
+        "raw_proposal_hash": "cd9cfdbe11c568e88eee52c85c555d36f3752fe4a918081669e2e1e6c993b445",
+        "sensory_asymmetry": "He traces salt marks; she follows his scar pattern with her eyes only.",
+        "transaction_id": "transaction-plan.approach.943149.944011.1"
+      },
+      "usage": {
+        "completion_tokens": 980,
+        "prompt_tokens": 3405
+      }
+    },
+    {
+      "cache": {
+        "cache_n": 3402,
+        "prompt_n": 1
+      },
+      "campaign_hash": "0af2299197136e36137857080eeef4b8eed55e76c76a0b9a763ca01d8a020268",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T13:16:38.147671+00:00",
+      "cumulative_completion": "His face darkened. \"No one. The service sent it back whole.\"\n\n\"But broken.\"\n\nSimon retrieved the drive with two careful movements. One for the table, one for her view. \"We had five hours to replace the data before the courier left.\"\n\n\"I could have done that in two.\" Esther traced his scar with her thumb, listening to his breathing change. \"Or I could have explained why I never break my own seals.\"\n\nSimon lowered his hand to where Esther touched him. \"You were quiet this evening,\" he said. \"Like someone still making decisions inside their head.\"\n\nShe waited another breath before answering. \"Sometimes a conversation isn't a conversation. Sometimes it's the thing you can't change by talking about it.\"\n\nSimon moved his hand up her arm. \"I understood that,\" he said. \"The service might have listened to us both. I decided that was more risk than we could afford.\"\n\nHer finger remained against his chest as she spoke. \"Counting aloud is an operational practice. This is a domestic one.\"\n\nEsther drew the back of Simon's hand across her mouth. The movement traced scars. Her body relaxed when Simon followed the trail.\n\n\"Which decision are we making together now?\" he asked.\n\n\"The house.\"\n\nHis thumb slid down Esther's cheek. \"This morning?\"\n\n\"Tonight.\"\n\n\"Do we leave?\"\n\n\"Not without proof.\"\n\n\"Would you tell me if we were marked?\"\n\nEsther hesitated before answering. \"I would rather not tell you than tell you the wrong thing.\"\n\nSimon watched her for an answer he could trust. Her eyes remained on him.\n\n\"If I'd known they might have listened,\" she said, \"I'd have stayed quiet too. But I wouldn't have given them the drive.\"\n\nHe stepped back but didn't move his hand away. \"We still have the choice not to make that decision tonight.\"\n\nEsther answered by opening his trousers. She pulled him free with slow deliberate strokes until his breath changed beneath her hands.\n\n\"Listen,\" she said. The command was simple and clear.\n\nSimon waited for her to show him where to listen, then placed a hand against the back of her neck when she nodded.\n\nThey moved together once.\n\nEsther pushed up on the second stroke.\n\nThey moved together again.\n\nSimon counted two more before Esther's nails bit into his shoulders.\n\nHer hips lifted one more time, then stilled. Simon waited another breath to understand the change.\n\nEsther said \"No\" into his ear. The word was sharp enough to cut.\n\n\"I heard,\" he murmured. \"I'll find something else.\"\n\n\"You heard,\" she repeated, \"because I wanted you to hear. Something is listening, Simon. Now tell me what it was before the service opened the seal.\"\n\nSimon released her shoulders and drew her hands around his waist. \"We won't have this talk naked,\" he said. \"You'll make your decision, then we'll make one together.\"\n\nHe pulled her close while Esther continued counting, and Simon listened for something other than the sound of her voice.\n\nEsther waited until he spoke again before making another demand. \"You've already made a choice. I haven't yet.\"\n\nSimon put his thumb at the corner of her mouth. \"You want to see how much I've changed since then.\"\n\n\"And decide if you made the wrong one first,\" she added.\n\nTheir bodies moved together again before either spoke another word.\n\nEsther found the rhythm and held it long enough for Simon to match her breath. His hands moved where she showed him.\n\nShe held him still between strokes, letting his cock pulse inside her until the moment sharpened beneath them. Then they moved together faster than Simon had imagined she'd allow.\n\nThe change came suddenly. Esther pushed up and pulled him in on one quick inhalation that caught Simon halfway to the end he had not expected from her.\n\nShe grabbed his shoulders and held him still while releasing through a gasp that sounded like a decision already made.\n\nSimon found his own balance before touching her again, and watched Esther listen for something he could not hear.\n\n\"Are you sure you want me to make this choice for you?\" he asked.\n\nHer eyes met his without hesitation. \"Yes,\" she whispered.\n\nSimon waited while she drew another breath, then brought his thumb to the corner of her mouth where he had placed it earlier.\n\n\"We stay,\" Esther said. Her voice remained calm despite the change in his touch.\n\nSimon pulled her hand away and made no further attempt to remove her clothing. He helped her stand while watching for something she might have overlooked in her determination to prove their home secure.\n\nWhen Esther turned, he saw the piece of paper folded in her sleeve. His eyes met hers as she pulled it free without speaking.\n\nHe took it and unfolded it carefully, finding a message written in invisible ink that could only have been added to their drive by someone with access to both the service and the seal.\n\nSimon looked up to see Esther watching him without emotion, though the blood was still visible through her skin after their release.\n\nHe put the paper into a drawer where they stored documents and turned to find her standing with one hand still against her chest.\n\n\"What do you hear now?\" he asked.\n\nEsther shook her head. \"Nothing I want to admit.\"",
+      "cumulative_hash": "b6d1d6c005d2673e88b2c6e8a896cf1054c7563693e88be86e2cd814687c1dd9",
+      "diagnostics": {
+        "aftermath_signal": 9,
+        "agency_signal": 27,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 1,
+              "evidence": [
+                {
+                  "evidence": "\"If I'd known they might have listened,\" she said, \"I'd have stayed quiet too. But I wouldn't have given them the drive.\" He stepped back but",
+                  "match": "quiet",
+                  "position": 318
+                }
+              ],
+              "per_1000_words": 1.4993
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 1,
+              "evidence": [
+                {
+                  "evidence": "together faster than Simon had imagined she'd allow. The change came suddenly. Esther pushed up and pulled him in on one quick inhalation that caug",
+                  "match": "suddenly",
+                  "position": 2270
+                }
+              ],
+              "per_1000_words": 1.4993
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 2.9985,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 2,
+          "word_count": 667
+        },
+        "cliche_hits": [
+          "bodies moved together"
+        ],
+        "contact_signal": 14,
+        "dialogue_turns": 11,
+        "eligible": false,
+        "explicit_signal": 3,
+        "motif_counts": {
+          "again": 6,
+          "choice": 3
+        },
+        "packet_leakage": false,
+        "physical_progression_signal": 6,
+        "plot_payment_signal": 8,
+        "quality_signal": 13.8001,
+        "sensory_channel_count": 4,
+        "sensory_channels": {
+          "sight": true,
+          "smell": false,
+          "sound": true,
+          "taste": true,
+          "temperature": false,
+          "touch": true
+        },
+        "word_count": 667
+      },
+      "finish_reason": "stop",
+      "overlap": {
+        "candidate_id": "transaction.approach.943038.1.2",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "3a61672420d17b9ebec93b3cdeeef8509a5bb8399d4b69fa646628cc9626c7fc",
+      "parent_id": "approach.943038",
+      "program_hash": "89c8fa239bc78516df849150e39df5e2cd37fede78851550faa53262de862807",
+      "prompt_hash": "ba706ce1248af9c28d190fc5b30e03cb8fdac6c8b5917a8e67b441361072bdc8",
+      "prompt_tokens": 3402,
+      "raw_hash": "dd0eeb0a2142083ac94a1f2e5e4f61e3bbfbbb326eaf30c6633211b51e10b6ca",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v16/staged/raw/transaction/transaction.approach.943038.1.2.txt",
+      "recipe_hash": "444ffc44363e601891151c77344edc79c838e47d1aa792b8881f24a151ef4d8a",
+      "recipe_id": "loom-source-nearest-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 2748490997,
+      "segment": "\"Do we leave?\"\n\n\"Not without proof.\"\n\n\"Would you tell me if we were marked?\"\n\nEsther hesitated before answering. \"I would rather not tell you than tell you the wrong thing.\"\n\nSimon watched her for an answer he could trust. Her eyes remained on him.\n\n\"If I'd known they might have listened,\" she said, \"I'd have stayed quiet too. But I wouldn't have given them the drive.\"\n\nHe stepped back but didn't move his hand away. \"We still have the choice not to make that decision tonight.\"\n\nEsther answered by opening his trousers. She pulled him free with slow deliberate strokes until his breath changed beneath her hands.\n\n\"Listen,\" she said. The command was simple and clear.\n\nSimon waited for her to show him where to listen, then placed a hand against the back of her neck when she nodded.\n\nThey moved together once.\n\nEsther pushed up on the second stroke.\n\nThey moved together again.\n\nSimon counted two more before Esther's nails bit into his shoulders.\n\nHer hips lifted one more time, then stilled. Simon waited another breath to understand the change.\n\nEsther said \"No\" into his ear. The word was sharp enough to cut.\n\n\"I heard,\" he murmured. \"I'll find something else.\"\n\n\"You heard,\" she repeated, \"because I wanted you to hear. Something is listening, Simon. Now tell me what it was before the service opened the seal.\"\n\nSimon released her shoulders and drew her hands around his waist. \"We won't have this talk naked,\" he said. \"You'll make your decision, then we'll make one together.\"\n\nHe pulled her close while Esther continued counting, and Simon listened for something other than the sound of her voice.\n\nEsther waited until he spoke again before making another demand. \"You've already made a choice. I haven't yet.\"\n\nSimon put his thumb at the corner of her mouth. \"You want to see how much I've changed since then.\"\n\n\"And decide if you made the wrong one first,\" she added.\n\nTheir bodies moved together again before either spoke another word.\n\nEsther found the rhythm and held it long enough for Simon to match her breath. His hands moved where she showed him.\n\nShe held him still between strokes, letting his cock pulse inside her until the moment sharpened beneath them. Then they moved together faster than Simon had imagined she'd allow.\n\nThe change came suddenly. Esther pushed up and pulled him in on one quick inhalation that caught Simon halfway to the end he had not expected from her.\n\nShe grabbed his shoulders and held him still while releasing through a gasp that sounded like a decision already made.\n\nSimon found his own balance before touching her again, and watched Esther listen for something he could not hear.\n\n\"Are you sure you want me to make this choice for you?\" he asked.\n\nHer eyes met his without hesitation. \"Yes,\" she whispered.\n\nSimon waited while she drew another breath, then brought his thumb to the corner of her mouth where he had placed it earlier.\n\n\"We stay,\" Esther said. Her voice remained calm despite the change in his touch.\n\nSimon pulled her hand away and made no further attempt to remove her clothing. He helped her stand while watching for something she might have overlooked in her determination to prove their home secure.\n\nWhen Esther turned, he saw the piece of paper folded in her sleeve. His eyes met hers as she pulled it free without speaking.\n\nHe took it and unfolded it carefully, finding a message written in invisible ink that could only have been added to their drive by someone with access to both the service and the seal.\n\nSimon looked up to see Esther watching him without emotion, though the blood was still visible through her skin after their release.\n\nHe put the paper into a drawer where they stored documents and turned to find her standing with one hand still against her chest.\n\n\"What do you hear now?\" he asked.\n\nEsther shook her head. \"Nothing I want to admit.\"",
+      "segment_hash": "41beb1bd4e07ee18ce3791faa58ba8f9045f4efdacb93ad0b94b68e52e94274e",
+      "source_ids": [
+        "bridge.married-explicit-workshop",
+        "gabaldon.example-03"
+      ],
+      "stage": "transaction",
+      "stage_candidate_id": "transaction.approach.943038.1.2",
+      "started_at": "2026-08-03T13:15:12.228241+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 3402,
+        "predicted_ms": 85699.773,
+        "predicted_n": 923,
+        "predicted_per_second": 10.770156882445884,
+        "predicted_per_token_ms": 92.84915817984832,
+        "prompt_ms": 85.62,
+        "prompt_n": 1,
+        "prompt_per_second": 11.6795141322121,
+        "prompt_per_token_ms": 85.62
+      },
+      "transaction_hash": "2cfdf0dbc96e6103b003ed8c67ea70651c7096130a5a7bd89bbc1de8b5ef1a76",
+      "transaction_program": {
+        "body_logic": "His questions draw a sharp inhale. Her hand drops while her hips angle higher. He lowers his face until their breath matches.",
+        "consent_turn": "invitation -> permission question -> negotiated reversal",
+        "counteroffer": "Simon questions her motive and authority while accepting her physical invitation.",
+        "disclosure": "He must admit he had thought only about data integrity and not about them. She can see he has already come around.",
+        "ending_state": "Separate tasks become integrated obligations.",
+        "offer": "Esther counters Simon's control with private knowledge.",
+        "parent_id": "approach.943038",
+        "plot_payment": "Esther claims their intimacy and forces a joint decision through bodily surrender.",
+        "proposal_seed": 944083,
+        "raw_proposal_hash": "df559f6606956b58d43c134e4ec203d2092606208b094761f1371e9977ee2942",
+        "sensory_asymmetry": "wet sound, shifting weight, scar tissue under fingers; one channel leads, one follows, one disrupts",
+        "transaction_id": "transaction-plan.approach.943038.944083.1"
+      },
+      "usage": {
+        "completion_tokens": 923,
+        "prompt_tokens": 3403
+      }
+    },
+    {
+      "cache": {
+        "cache_n": 3402,
+        "prompt_n": 1
+      },
+      "campaign_hash": "0af2299197136e36137857080eeef4b8eed55e76c76a0b9a763ca01d8a020268",
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "completed_at": "2026-08-03T13:18:39.191808+00:00",
+      "cumulative_completion": "His face darkened. \"No one. The service sent it back whole.\"\n\n\"But broken.\"\n\nSimon retrieved the drive with two careful movements. One for the table, one for her view. \"We had five hours to replace the data before the courier left.\"\n\n\"I could have done that in two.\" Esther traced his scar with her thumb, listening to his breathing change. \"Or I could have explained why I never break my own seals.\"\n\nSimon lowered his hand to where Esther touched him. \"You were quiet this evening,\" he said. \"Like someone still making decisions inside their head.\"\n\nShe waited another breath before answering. \"Sometimes a conversation isn't a conversation. Sometimes it's the thing you can't change by talking about it.\"\n\nSimon moved his hand up her arm. \"I understood that,\" he said. \"The service might have listened to us both. I decided that was more risk than we could afford.\"\n\nHer finger remained against his chest as she spoke. \"Counting aloud is an operational practice. This is a domestic one.\"\n\nEsther drew the back of Simon's hand across her mouth. The movement traced scars. Her body relaxed when Simon followed the trail.\n\n\"Which decision are we making together now?\" he asked.\n\n\"The house.\"\n\nHis thumb slid down Esther's cheek. \"This morning?\"\n\n\"Tonight.\"\n\nShe let him turn her face as he moved his hand from her neck to her shoulder, tracing their decision to stay quiet. The same hand traced the strap of her chemise when he followed it down her arm.\n\nEsther closed her fingers around Simon's cock without looking at him. She pulled one side of the paper beside her hand until it covered them both.\n\n\"Tell me your name,\" he said quietly.\n\nShe opened her mouth to kiss his thigh as his fingers found the edge of her underwear.\n\n\"Not Esther,\" she replied.\n\n\"Then who?\"\n\nHis hand pressed through the cotton and found her wet. When she broke the kiss, he brought her nipple between his teeth. The movement made her fingers tighten and release around him.\n\nEsther waited until the sound of his breath changed before answering.\n\n\"Who's asking?\" she replied.\n\n\"The man who broke a seal alone.\"\n\nHer hand wrapped around him again. This time her touch was firm enough to stop him moving. \"And I am the woman who broke a trust alone,\" she said.\n\nSimon waited for the words to end before he continued.\n\n\"Do I need to stop touching you?\" he asked.\n\n\"No.\"\n\nShe stepped away from the paper with his body inside her, bringing it with him. The movement exposed their skin and left the table surface bare.\n\nEsther took Simon's wrist in both hands. Her grip held him where he was. \"Let me listen for a moment,\" she said.\n\nHe moved slowly. Her control relaxed on his shoulders as she watched.\n\n\"You have the patience of the ocean floor,\" Simon whispered.\n\n\"And you have the trust of a river's bend.\"\n\nThe words drew a laugh from both of them. Esther waited for it to end before she raised Simon's arm to her shoulders and began to move herself. The first movement took his breath with it. She continued without waiting for him to recover.\n\n\"How many seconds do you need?\" he asked.\n\nShe answered with another movement that forced his response. \"I thought you would remember.\"\n\nSimon caught his breath but kept his hand still. His lips were against her neck as Esther pulled back and returned in the same space. The next breath came a half second after hers.\n\n\"I do remember,\" he said. \"You are not slow here.\"\n\nThe words changed the rhythm in her hips. Simon shifted his weight and pressed closer, letting her feel where he held her wrist. She stopped moving without loosening her grip.\n\n\"Can I follow you for a minute?\" he asked.\n\nEsther waited to feel the way she had watched earlier.\n\n\"Follow me,\" she said.\n\nHe raised his hips, held the pressure until she opened beneath him, then moved through the first rise and fall in one continuous stroke. Simon slowed as his body filled hers. Esther felt him stop halfway.\n\nShe pressed her fingers harder against his wrist and spoke.\n\n\"Come on, then. This isn't a river.\"\n\nTheir bodies moved at once. Esther caught Simon's weight when he pulled her hair. Her muscles tightened, holding them in place. \"We're not a river,\" she said again.\n\nThe words drew another laugh from him before pleasure took over. Simon moved without letting go of her wrist. The same strength that had stopped him moving now pulled Esther forward, holding them in a single motion until her legs shook beneath them both.\n\nHis release came first. She watched the back of his neck for half a breath and let her own body follow.\n\nSimon went still before his breathing slowed.\n\n\"Do I need to stop?\" he asked.\n\nThe same question as before, this time with the trust broken and restored at once.\n\nEsther waited until she could hear her own blood move again before answering. \"Not now.\"\n\nHer hand went back to where Simon held her.\n\"Not ever,\" he said quietly.\n\nThe paper beside them shifted when he touched it. His fingertips moved across the edge, making the writing visible.\n\nEsther waited for his hand to return before reading the words aloud.\n\n\"The house remains secure. We keep watching.\"",
+      "cumulative_hash": "fd12fdb21f8d75187ddba1059f4ec07bce9c707bb67d72ab07e3ebdd557ad046",
+      "diagnostics": {
+        "aftermath_signal": 1,
+        "agency_signal": 31,
+        "anchor_presence": {
+          "Esther": true,
+          "Simon": true,
+          "drive": true,
+          "seal": true
+        },
+        "anti_copy_passed": true,
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 3,
+              "evidence": [
+                {
+                  "evidence": "is hand from her neck to her shoulder, tracing their decision to stay quiet. The same hand traced the strap of her chemise when he followed it do",
+                  "match": "quiet",
+                  "position": 109
+                },
+                {
+                  "evidence": "de her hand until it covered them both. \"Tell me your name,\" he said quietly. She opened her mouth to kiss his thigh as his fingers found the edg",
+                  "match": "quietly",
+                  "position": 374
+                },
+                {
+                  "evidence": "ow.\" Her hand went back to where Simon held her. \"Not ever,\" he said quietly. The paper beside them shifted when he touched it. His fingertips mo",
+                  "match": "quietly",
+                  "position": 3587
+                }
+              ],
+              "per_1000_words": 4.3988
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 4.3988,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 3,
+          "word_count": 682
+        },
+        "cliche_hits": [],
+        "contact_signal": 25,
+        "dialogue_turns": 17,
+        "eligible": true,
+        "explicit_signal": 5,
+        "motif_counts": {
+          "again": 5,
+          "body": 3
+        },
+        "packet_leakage": false,
+        "physical_progression_signal": 5,
+        "plot_payment_signal": 5,
+        "quality_signal": 24.3301,
+        "sensory_channel_count": 4,
+        "sensory_channels": {
+          "sight": true,
+          "smell": false,
+          "sound": true,
+          "taste": true,
+          "temperature": false,
+          "touch": true
+        },
+        "word_count": 682
+      },
+      "finish_reason": "stop",
+      "overlap": {
+        "candidate_id": "transaction.approach.943038.1.3",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9886796f213fe702e485a2de0cfb61ff1f575141086339a75f8e18fa582ac53b",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "parent_hash": "3a61672420d17b9ebec93b3cdeeef8509a5bb8399d4b69fa646628cc9626c7fc",
+      "parent_id": "approach.943038",
+      "program_hash": "89c8fa239bc78516df849150e39df5e2cd37fede78851550faa53262de862807",
+      "prompt_hash": "ba706ce1248af9c28d190fc5b30e03cb8fdac6c8b5917a8e67b441361072bdc8",
+      "prompt_tokens": 3402,
+      "raw_hash": "8753742e9e5e70a176c0e5bfec0e1201fab4449c4a72d32c750ce7626bfe4e56",
+      "raw_path": "03_scene_lab/runs/base-autoloom-v16/staged/raw/transaction/transaction.approach.943038.1.3.txt",
+      "recipe_hash": "444ffc44363e601891151c77344edc79c838e47d1aa792b8881f24a151ef4d8a",
+      "recipe_id": "loom-source-nearest-doc",
+      "record_type": "AutoloomStageCandidate",
+      "sampling": {
+        "extra": {
+          "dry_allowed_length": 3,
+          "dry_base": 1.75,
+          "dry_multiplier": 0.8,
+          "dry_penalty_last_n": 2048,
+          "dynatemp_exponent": 1.0,
+          "dynatemp_range": 0.16,
+          "repeat_penalty": 1.02
+        },
+        "min_p": 0.02,
+        "temperature": 0.92,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "seed": 1268035576,
+      "segment": "She let him turn her face as he moved his hand from her neck to her shoulder, tracing their decision to stay quiet. The same hand traced the strap of her chemise when he followed it down her arm.\n\nEsther closed her fingers around Simon's cock without looking at him. She pulled one side of the paper beside her hand until it covered them both.\n\n\"Tell me your name,\" he said quietly.\n\nShe opened her mouth to kiss his thigh as his fingers found the edge of her underwear.\n\n\"Not Esther,\" she replied.\n\n\"Then who?\"\n\nHis hand pressed through the cotton and found her wet. When she broke the kiss, he brought her nipple between his teeth. The movement made her fingers tighten and release around him.\n\nEsther waited until the sound of his breath changed before answering.\n\n\"Who's asking?\" she replied.\n\n\"The man who broke a seal alone.\"\n\nHer hand wrapped around him again. This time her touch was firm enough to stop him moving. \"And I am the woman who broke a trust alone,\" she said.\n\nSimon waited for the words to end before he continued.\n\n\"Do I need to stop touching you?\" he asked.\n\n\"No.\"\n\nShe stepped away from the paper with his body inside her, bringing it with him. The movement exposed their skin and left the table surface bare.\n\nEsther took Simon's wrist in both hands. Her grip held him where he was. \"Let me listen for a moment,\" she said.\n\nHe moved slowly. Her control relaxed on his shoulders as she watched.\n\n\"You have the patience of the ocean floor,\" Simon whispered.\n\n\"And you have the trust of a river's bend.\"\n\nThe words drew a laugh from both of them. Esther waited for it to end before she raised Simon's arm to her shoulders and began to move herself. The first movement took his breath with it. She continued without waiting for him to recover.\n\n\"How many seconds do you need?\" he asked.\n\nShe answered with another movement that forced his response. \"I thought you would remember.\"\n\nSimon caught his breath but kept his hand still. His lips were against her neck as Esther pulled back and returned in the same space. The next breath came a half second after hers.\n\n\"I do remember,\" he said. \"You are not slow here.\"\n\nThe words changed the rhythm in her hips. Simon shifted his weight and pressed closer, letting her feel where he held her wrist. She stopped moving without loosening her grip.\n\n\"Can I follow you for a minute?\" he asked.\n\nEsther waited to feel the way she had watched earlier.\n\n\"Follow me,\" she said.\n\nHe raised his hips, held the pressure until she opened beneath him, then moved through the first rise and fall in one continuous stroke. Simon slowed as his body filled hers. Esther felt him stop halfway.\n\nShe pressed her fingers harder against his wrist and spoke.\n\n\"Come on, then. This isn't a river.\"\n\nTheir bodies moved at once. Esther caught Simon's weight when he pulled her hair. Her muscles tightened, holding them in place. \"We're not a river,\" she said again.\n\nThe words drew another laugh from him before pleasure took over. Simon moved without letting go of her wrist. The same strength that had stopped him moving now pulled Esther forward, holding them in a single motion until her legs shook beneath them both.\n\nHis release came first. She watched the back of his neck for half a breath and let her own body follow.\n\nSimon went still before his breathing slowed.\n\n\"Do I need to stop?\" he asked.\n\nThe same question as before, this time with the trust broken and restored at once.\n\nEsther waited until she could hear her own blood move again before answering. \"Not now.\"\n\nHer hand went back to where Simon held her.\n\"Not ever,\" he said quietly.\n\nThe paper beside them shifted when he touched it. His fingertips moved across the edge, making the writing visible.\n\nEsther waited for his hand to return before reading the words aloud.\n\n\"The house remains secure. We keep watching.\"",
+      "segment_hash": "7fb500cba5308e40d2749241618272dc8321ee111435037500ff1fa83b95d6af",
+      "source_ids": [
+        "bridge.married-explicit-workshop",
+        "gabaldon.example-03"
+      ],
+      "stage": "transaction",
+      "stage_candidate_id": "transaction.approach.943038.1.3",
+      "started_at": "2026-08-03T13:16:38.157732+00:00",
+      "status": "completed",
+      "timings": {
+        "cache_n": 3402,
+        "predicted_ms": 120796.293,
+        "predicted_n": 871,
+        "predicted_per_second": 7.210486169472104,
+        "predicted_per_token_ms": 138.68690355912744,
+        "prompt_ms": 93.839,
+        "prompt_n": 1,
+        "prompt_per_second": 10.656550048487302,
+        "prompt_per_token_ms": 93.839
+      },
+      "transaction_hash": "2cfdf0dbc96e6103b003ed8c67ea70651c7096130a5a7bd89bbc1de8b5ef1a76",
+      "transaction_program": {
+        "body_logic": "His questions draw a sharp inhale. Her hand drops while her hips angle higher. He lowers his face until their breath matches.",
+        "consent_turn": "invitation -> permission question -> negotiated reversal",
+        "counteroffer": "Simon questions her motive and authority while accepting her physical invitation.",
+        "disclosure": "He must admit he had thought only about data integrity and not about them. She can see he has already come around.",
+        "ending_state": "Separate tasks become integrated obligations.",
+        "offer": "Esther counters Simon's control with private knowledge.",
+        "parent_id": "approach.943038",
+        "plot_payment": "Esther claims their intimacy and forces a joint decision through bodily surrender.",
+        "proposal_seed": 944083,
+        "raw_proposal_hash": "df559f6606956b58d43c134e4ec203d2092606208b094761f1371e9977ee2942",
+        "sensory_asymmetry": "wet sound, shifting weight, scar tissue under fingers; one channel leads, one follows, one disrupts",
+        "transaction_id": "transaction-plan.approach.943038.944083.1"
+      },
+      "usage": {
+        "completion_tokens": 871,
+        "prompt_tokens": 3403
+      }
+    }
+  ],
+  "selection_hash": "504b76bb19b0a7fc6332760f786852e25f57feeea24c8f27cec404eef559f4cc",
+  "selection_method": "seeded-quality-diversity-without-replacement",
+  "selection_seed": 2998497020,
+  "stage": "transaction",
+  "terminal_failure_count": 4
+}

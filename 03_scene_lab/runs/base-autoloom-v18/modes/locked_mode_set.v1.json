@@ -1,0 +1,82 @@
+{
+  "campaign_hash": "1b2a9d7458290596cf50e1d29e6a0b8d0e01b058d928074e42d6bc049ba73c75",
+  "engines": {
+    "married-explicit": [
+      {
+        "aftermath": "Their clothes come on slowly; her touch remains directed at the bruises; they examine the bruises and agree to act before tomorrow.",
+        "attention_offer": "She traces one injury while naming the other; he shows her the bruise.",
+        "cell_id": "married-explicit",
+        "consent_sequence": "She asks while showing her skin; he requests to reciprocate; she confirms each step; she directs a position that preserves the evidence; he ends the contact once the pattern is clear.",
+        "engine_hash": "6dc2cb988d3094165e4cc8bca4c6db74253740ede1fbd5f40b7312cffbe8f679",
+        "engine_id": "mode.married-explicit.941003.1",
+        "image_anchor": "Salt from the seawater leaves a white stain between the bed's thighs.",
+        "physical_sequence": "Angry kiss -> hand to scarred thigh -> palm on bruise -> shift to back -> careful penetration -> she directs his hips while he records -> she changes position at peak -> he closes their bodies around her scream.",
+        "plot_coupling": "Their bodies become evidence that they have failed to resolve a disagreement about the next strategic choice.",
+        "proposal_seed": 941003,
+        "raw_proposal_hash": "bc3ae91d1efd3f6a0ceab7f01c8b76096f72bd02b92a1ef3631143808812b6b0"
+      },
+      {
+        "aftermath": "They remain still while recording their altered decision; his hand remains on hers throughout the process.",
+        "attention_offer": "Her hand goes to his chest while counting aloud; he joins her in naming the decision.",
+        "cell_id": "married-explicit",
+        "consent_sequence": "He responds to touch with a question; she leads at his direction; he changes the offer and asks for confirmation.",
+        "engine_hash": "29b8478f1ddfce674198265397baeb9c5c79822e73fcee785fa64fff2cbfafbf",
+        "engine_id": "mode.married-explicit.941003.4",
+        "image_anchor": "The inkwell sits empty by the bed with paper stained black where it held too much.",
+        "physical_sequence": "One-finger touch at each beat -> kiss around the mouth -> his hand tracing scars -> manual attention to his cock -> careful entry that allows her to listen -> controlled pace until he lets her hear -> simultaneous release where they become too loud.",
+        "plot_coupling": "Her touch and the sound of his breathing reveal what her strategy failed to account for.",
+        "proposal_seed": 941003,
+        "raw_proposal_hash": "bc3ae91d1efd3f6a0ceab7f01c8b76096f72bd02b92a1ef3631143808812b6b0"
+      },
+      {
+        "aftermath": "They remain on the bed, using her hands to write tomorrow's plan on the map.",
+        "attention_offer": "She presses her palm to his sternum while recounting how long she has carried the decision alone.",
+        "cell_id": "married-explicit",
+        "consent_sequence": "Invitation to kiss -> spoken agreement -> she changes direction and asks again -> his confirmation at each deliberate move -> joint adjustment of speed and position.",
+        "engine_hash": "19077def0d052d9118d90cc87fc0797af105aeecf8374218d7c3c760c37ecb0c",
+        "engine_id": "mode.married-explicit.941003.2",
+        "image_anchor": "A small paper cup stains the floor near the bed with tea as they examine the evidence.",
+        "physical_sequence": "Tender kiss -> one button at a time -> palm tracing a fresh scar -> oral attention to both injuries -> penetration as one way to examine the next option -> climax in reciprocal rhythm -> touch and breathing that confirms both have been heard.",
+        "plot_coupling": "Their touch proves the strategy effective at gathering proof but failing to resolve the internal doubt.",
+        "proposal_seed": 941003,
+        "raw_proposal_hash": "bc3ae91d1efd3f6a0ceab7f01c8b76096f72bd02b92a1ef3631143808812b6b0"
+      },
+      {
+        "aftermath": "[he plans] He helps her put on her clothes and then kisses her in the new light of this understanding.",
+        "attention_offer": "[he suggests] She initiates in the quiet time after she names that this decision feels impossible.",
+        "cell_id": "married-explicit",
+        "consent_sequence": "[she proposes] She shows him the list she did not finish; he sees the way it fails.",
+        "engine_hash": "8b8f9a80a7690c3a88b42e6d0bc0890ad5c24ede005fef01b22d4c12cdd6bf59",
+        "engine_id": "mode.married-explicit.941041.1",
+        "image_anchor": "[she names] The shadow of her knife traces a new path on his back as he leaves the room.",
+        "physical_sequence": "[he imagines] They stand before her workroom window -> he gently pulls her hand loose -> he walks behind her and places a hand at the back of her head -> he presses his forehead between her shoulder blades -> he moves forward for a long, hesitant kiss -> her clothes are left intact except for shirt buttons and shoes -> he holds her while he unfastens and removes her leather harness -> he places his mouth at the top of her breast while speaking a joke that he has not told since the first time she chose to keep a key -> he is careful not to touch her scars during foreplay -> they are fully nude when she allows the final push with the knife -> he remains behind her for her slow, guided undress -> he touches her hand to himself and her breast to his rib -> they lay fully naked side-by-side in bed -> his mouth finds each scar by name without words -> each scar elicits a new sound -> he responds physically as she desires -> her hands open his trousers with confidence and deliberate slowness -> he is carefully directed into her by both her words and touch -> his tongue finds her again just after penetration -> she finds a familiar rhythm between his fingers, the knife handle, his lips, and his tongue -> climax follows a request that they meet as enemies at dawn.",
+        "plot_coupling": "[she feels] He promises to honor the list no matter the outcome and adds one final element.",
+        "proposal_seed": 941041,
+        "raw_proposal_hash": "7d3579291f06af183ddf6f4b09ddedbbf079f2cd5c22f911ffa69695901e235a"
+      }
+    ]
+  },
+  "mode_set_hash": "2c642682de8727517e4f00ac6efdbb74d0570ea6713e8a9fa367f4ccb4b68d7e",
+  "record_type": "AutoloomLockedModeSet",
+  "replay_provenance": {
+    "method": "off-model-reparse",
+    "replayed_at": "2026-08-03T18:11:13.338402+00:00",
+    "source_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v7/modes/raw",
+    "source_records": [
+      {
+        "cell_id": "married-explicit",
+        "hash": "14630a132dc8c90d70e8795757b52e5cac2dd143ad760e5b53aad28a1259f5c7",
+        "parsed_count": 4,
+        "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v7/modes/raw/mode.married-explicit.941003.txt",
+        "seed": 941003
+      },
+      {
+        "cell_id": "married-explicit",
+        "hash": "6a92d2f4e042d4fdc45990801bc5c3a1d460557047b639ee843bbf290bb5b633",
+        "parsed_count": 1,
+        "path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/base-autoloom-v7/modes/raw/mode.married-explicit.941041.txt",
+        "seed": 941041
+      }
+    ]
+  }
+}

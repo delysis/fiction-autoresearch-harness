@@ -1,0 +1,30 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+Will accepted the test—a fairly severe one; and, sure enough, the Seer
+was right. Carefully blindfolded with one of those moulded wraps,
+invented for the purpose, which prevent all possibility of looking down
+through the chinks, he yet took each card behind his back in one hand,
+held it up before their eyes without moving his head, and gave out its
+name distinctly and instantly. The audience was impressed. There was a
+touch of magic in it. But the Seer smiled blandly.
+
+“Oh, that’s nothing,” he murmured aloud, with a deprecating little
+laugh; “a mere matter of choosing between fifty-two alternatives—which,
+after all, is easy. With Mrs Palmer’s consent,” and he turned in a
+gracefully deferential attitude to Rue, “I can show you something a
+great deal more remarkable. Here are pencils and papers. Each lady or
+gentleman will please take a sheet as I hand them round. Write anything
+you like, in English, French, German or Spanish, on the piece of paper.
+Then fold it up, so, and put it into one of these envelopes gummed down
+and fastened. After that, as this experiment requires very great
+concentration of thought”—he knitted his brows, and assumed an
+expression of the intensest internal effort—“with Mrs Palmer’s kind
+leave, we will turn out the electric light, which confuses and distracts
+one by revealing to the eye so many surrounding visible objects. And
+then, without breaking the envelopes in which you have enclosed the
+pieces of paper, I will read out to you, in the dark, what each of you
+has written.”
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

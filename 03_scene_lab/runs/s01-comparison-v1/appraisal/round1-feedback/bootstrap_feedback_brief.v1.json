@@ -1,0 +1,139 @@
+{
+  "coverage": {
+    "AB": 2,
+    "AC": 2,
+    "BC": 2
+  },
+  "created_at": "2026-07-29T03:37:51.710921+00:00",
+  "defects": {
+    "A": [
+      "The narration settles a complex inference before the test has earned that confidence.",
+      "Mara's inference about Jonah's exact protective intent is narrated as fact.",
+      "The scene's lesson is restated in detachable thesis language after the action has already communicated it.",
+      "Her regulation becomes complete too quickly after a socially destabilizing confrontation.",
+      "Mara jumps from first exposure to a comprehensive account of a sophisticated distributed system without enough situated trial, error, or limitation.",
+      "The abstract moral lesson is detachable from the immediate physical test and tells the reader how to interpret it.",
+      "Mara's flattering inference about Jonah's motive is narrated as settled fact.",
+      "A first-night confrontation with a powerful institution resolves Mara's regulation and self-concept too completely.",
+      "The earlier qualification that the practice is not exactly fraud is overtaken by a definitive explanatory verdict, with no smaller uncanny remainder."
+    ],
+    "B": [
+      "The exact motive and moral effect are stated as settled fact rather than Mara's plausible interpretation.",
+      "This portable thesis restates what the failed exercise and Jonah's conduct already dramatize.",
+      "A single failed demonstration too quickly produces a collective and narratively convenient status collapse.",
+      "Mara's control works with unusually immediate, legible success and little contamination or cost, making experimental mastery smoother than her situation warrants.",
+      "The control works with near laboratory cleanliness on a first attempt, and Mara confidently reads Jonah's fractional response despite the scene's warning about overinterpretation.",
+      "A compelling inference about Jonah is promoted to direct fact before Mara has enough relational evidence.",
+      "The line crisply names the theme but is detachable enough to sound like the scene's lesson spoken aloud.",
+      "The scene preserves real uncertainty around Livia, but it partially pre-decides the romantic residue by excluding mechanism more strongly than Mara's evidence allows.",
+      "The aftermath is more provisional than A's, yet Mara's interpretive recovery still arrives with polished completeness immediately after a destabilizing ordeal."
+    ],
+    "C": [
+      "Jonah states the scene's philosophy in a detachable aphorism after the encounter has already dramatized it.",
+      "His precise access to Mara's state is asserted while the scene praises him for refusing to read and narrate her.",
+      "Jonah's anti-calculation language repeatedly carries characterization that would be richer if expressed through a less perfectly thematic decision or idiosyncrasy.",
+      "The narration packages mystery, personalism, and romance into a clean preferred synthesis instead of leaving more tension among them.",
+      "The newcomer rapidly identifies the expert's mechanism, designs an effective control, and interprets its result with little error or social cost.",
+      "Adrian's extended mission speech delays dramatic discovery and delivers the institutional worldview in detachable form.",
+      "Mara detects and correctly models an extremely subtle observer-cue system on first exposure with little error or competing test.",
+      "Mara's inference that Jonah is deliberately modulating himself for her benefit is narrated as fact.",
+      "Calling the residual recognition \"simply true\" quietly resolves the very distinction between feeling and warranted interpretation that the scene otherwise explores.",
+      "The line reduces the conflict between measurement and personhood to a tidy opposition in which calculation fails and truth occupies the remainder.",
+      "Mara moves from panic to exact self-command with very little friction, cost, or residue."
+    ]
+  },
+  "desired_next": {
+    "A": [
+      "Continue the demonstrated strengths while addressing: A has a clean moral-romantic premise, strong sensory contact, and a memorable public refusal. Its major weakness is epistemic: it announces a mechanism more confidently than the staging supports, and it overstates motives and lessons that would be stronger as inference.",
+      "Continue the demonstrated strengths while addressing: A has a lucid scene spine, palpable wrist contact, and a satisfying public refusal. Its largest weakness is epistemic: the contact arrangement becomes difficult to parse, the control earns less certainty than the narration claims, and the scene closes down the mystery. Repeated interpretive glosses also make the characters feel more morally pre-certified than discovered."
+    ],
+    "B": [
+      "Continue the demonstrated strengths while addressing: B is the most causally disciplined and epistemically satisfying finalist. It makes the control legible, gives Jonah's restraint a consequential choice, and preserves two meaningful remainders. Its main limitations are polished generic phrasing, some mindreading of Jonah, and an overly rapid collapse in Livia's room-wide authority.",
+      "Continue the demonstrated strengths while addressing: B is the strongest whole scene. Its control is causally legible, its public failure has social consequence, and it retains two differently scaled remainders: uncertainty about Livia and the reinterpretation of Jonah's cadence. It is still over-explanatory and sometimes treats Mara's favorable reading of Jonah as fact, but its epistemic action, aftermath, and forward hook are the most disciplined."
+    ],
+    "C": [
+      "Continue the demonstrated strengths while addressing: C offers the strongest heat-with-agency and the clearest embodied theology. Its control and uncanny remainder are effective, and its best lines are excellent. It narrowly trails B because its characters are more idealized or functional, its thematic dialogue is over-perfect, and it repeatedly explains the meanings that its action already conveys.",
+      "Continue the demonstrated strengths while addressing: C has the strongest fusion of erotic charge, agency, and prayerful discernment. Its contact sequence makes desire epistemically consequential, and its romantic hook is the clearest. It ranks just behind B because the control supports a narrower conclusion than the narration draws, several motives are treated as known, and its polished aphorisms repeatedly settle tensions that would be more powerful left active."
+    ]
+  },
+  "fail_fast": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "package_id": "3c1d3e8fbd2c",
+  "pairwise": {
+    "AB": {
+      "votes": {
+        "A": 0.0,
+        "B": 1.0,
+        "tie": 0.0
+      },
+      "winner": "B"
+    },
+    "AC": {
+      "votes": {
+        "A": 0.0,
+        "C": 1.0,
+        "tie": 0.0
+      },
+      "winner": "C"
+    },
+    "BC": {
+      "votes": {
+        "B": 1.0,
+        "C": 0.0,
+        "tie": 0.0
+      },
+      "winner": "B"
+    }
+  },
+  "rating_medians": {
+    "A": {
+      "character_fascination": 0.0,
+      "desire_to_continue": 0.0,
+      "heat": 0.0,
+      "preachiness": 0.0,
+      "prose_freshness": 0.0,
+      "romantic_pull": 0.0,
+      "trust": 0.0
+    },
+    "B": {
+      "character_fascination": 0.0,
+      "desire_to_continue": 0.0,
+      "heat": 0.0,
+      "preachiness": 0.0,
+      "prose_freshness": 0.0,
+      "romantic_pull": 0.0,
+      "trust": 0.0
+    },
+    "C": {
+      "character_fascination": 0.0,
+      "desire_to_continue": 0.0,
+      "heat": 0.0,
+      "preachiness": 0.0,
+      "prose_freshness": 0.0,
+      "romantic_pull": 0.0,
+      "trust": 0.0
+    }
+  },
+  "record_type": "HumanFeedbackBrief",
+  "response_ids": [
+    "79a623ed8f2e4d85aa74ea771cefdb9c5046ed43d04a36b6ee71cb49fc7e5d2b",
+    "2c9421df23dcd0fe3b877e39064f80067543759aa509badeddc434bf4da1cf3e"
+  ],
+  "source_kind": "bootstrap-codex",
+  "strengths": {
+    "A": [
+      "He didn't say a word. He simply squeezed her hand once—a brief, firm pressure that felt like a salute—and then he let go.",
+      "He didn't say a word. He simply squeezed her hand once—a brief, firm pressure that felt like a salute—and then he let go."
+    ],
+    "B": [
+      "Yet, as the tension dissipated, Mara felt a lingering, inexplicable prickle at the base of her neck.",
+      "\"It didn't click,\" Jonah said, his voice calm and infuriatingly simple. \"It just went quiet.\""
+    ],
+    "C": [
+      "She felt them all. She didn't push them away; she simply gave them a name and a boundary.",
+      "She acknowledged the heat of his skin, the pressure of his thumb, the sudden, dizzying desire to lean forward and press her forehead against his. She felt them all. She didn't push them away; she simply gave them a name and a boundary."
+    ]
+  },
+  "version": "human-feedback.v1",
+  "winner_label": "B"
+}

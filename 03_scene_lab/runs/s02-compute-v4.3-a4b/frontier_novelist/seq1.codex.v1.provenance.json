@@ -1,0 +1,10 @@
+{
+  "adapter": "codex-agent-manual-boundary.v1",
+  "atom_artifact": "../verbalized_to_instruction/dramatic_atoms.seq1.v1.json",
+  "atom_bundle_id": "s02-seq1-debt-of-kindness.v1",
+  "novelist_packet": "../verbalized_to_instruction/novelist_packet.seq1.v1.json",
+  "record_type": "FrontierNovelistBoundarySample",
+  "sequence_id": "s02-seq-1-trap",
+  "status": "accepted-sequence-substrate-after-independent-review",
+  "version": "frontier-novelist-boundary.v1"
+}

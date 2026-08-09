@@ -1,0 +1,37 @@
+{
+  "record_type": "DeclaredLiterarySourceSet",
+  "version": "literary-apprenticeship.v1",
+  "corpus_id": "public-domain-contemporary-romance-and-occult.v1",
+  "works": [
+    {
+      "work_id": "montgomery.blue-castle",
+      "title": "The Blue Castle",
+      "author": "L. M. Montgomery",
+      "publication_year": 1926,
+      "partition": "profiling",
+      "source_url": "https://www.gutenberg.org/ebooks/67979.txt.utf-8",
+      "source_note": "Project Gutenberg ebook 67979.",
+      "facets": ["adult", "romantic-comedy", "dry-humor", "choice-and-agency", "social-constraint"]
+    },
+    {
+      "work_id": "maugham.magician",
+      "title": "The Magician",
+      "author": "W. Somerset Maugham",
+      "publication_year": 1908,
+      "partition": "profiling",
+      "source_url": "https://www.gutenberg.org/ebooks/14257.txt.utf-8",
+      "source_note": "Project Gutenberg ebook 14257.",
+      "facets": ["adult", "psychological-romance", "charismatic-manipulation", "occult-ambiguity", "social-threat"]
+    },
+    {
+      "work_id": "von-arnim.enchanted-april",
+      "title": "The Enchanted April",
+      "author": "Elizabeth von Arnim",
+      "publication_year": 1922,
+      "partition": "profiling",
+      "source_url": "https://www.gutenberg.org/ebooks/16389.txt.utf-8",
+      "source_note": "Project Gutenberg ebook 16389.",
+      "facets": ["adult", "arrival", "female-friendship", "social-comedy", "sensory-setting"]
+    }
+  ]
+}

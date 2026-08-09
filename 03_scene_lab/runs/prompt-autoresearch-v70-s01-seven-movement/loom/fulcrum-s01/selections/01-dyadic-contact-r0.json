@@ -1,0 +1,44 @@
+{
+  "method": "best-plus-seeded-boltzmann-quality-novelty",
+  "movement_id": "dyadic-contact",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r0.0.1362001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r0.0.1362018",
+      "eligible": true,
+      "score": 5.171428571428571
+    },
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r0.0.1362035",
+      "eligible": true,
+      "score": 6.358441558441558
+    },
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r0.0.1362052",
+      "eligible": false,
+      "score": 0.4944
+    },
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r0.0.1362069",
+      "eligible": true,
+      "score": 6.329541047188106
+    },
+    {
+      "branch_id": "fulcrum-s01.dyadic-contact.r0.0.1362086",
+      "eligible": false,
+      "score": 0.48095238095238096
+    }
+  ],
+  "record_type": "LoomBranchSelection",
+  "resample_attempt": 0,
+  "selected": [
+    "fulcrum-s01.dyadic-contact.r0.0.1362035",
+    "fulcrum-s01.dyadic-contact.r0.0.1362069"
+  ],
+  "selection_seed": 1352098,
+  "version": "gemma-fiction-autoresearch.v4"
+}

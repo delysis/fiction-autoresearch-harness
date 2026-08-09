@@ -1,0 +1,206 @@
+{
+  "rubric_id": "s01-romance-v2-gabaldon",
+  "schema_version": "2.0",
+  "craft_profile_id": "gabaldon-intimacy-v1",
+  "description": "S01 editorial rubric with an intimacy-craft overlay distilled from Diana Gabaldon's I Give You My Body.",
+  "axes": {
+    "narrative_force": {
+      "weight": 20,
+      "criteria": [
+        "An immediate scene question",
+        "Escalating pressure with causal beat transitions",
+        "An emotional transaction that changes across the scene",
+        "A meaningful epistemic and romantic turn",
+        "An earned aftermath and forward hook"
+      ],
+      "anchors": {
+        "0": "No intelligible scene question, emotional transaction, or causal progression.",
+        "25": "A premise is visible, but pressure is flat and intimate beats are decorative.",
+        "50": "The scene progresses coherently, though emotional movement, escalation, or aftermath is uneven.",
+        "75": "Each major beat changes pressure or relationship state and builds toward a consequential turn.",
+        "100": "Plot, emotional exchange, and romantic recognition become one causal engine; the turn is surprising, inevitable, and launches the next scene."
+      }
+    },
+    "character_truth": {
+      "weight": 15,
+      "criteria": [
+        "Mara combines sheltered competence with live uncertainty",
+        "Livia has genuine skill and acquisitive care",
+        "Jonah's restraint carries a social cost",
+        "Attraction filters are specific to each character",
+        "Institutional incentives appear through behavior"
+      ],
+      "anchors": {
+        "0": "Characters are interchangeable functions or contradict their governing traits.",
+        "25": "Declared traits and generic attraction appear, but choices could belong to anyone.",
+        "50": "At least two characters make plausible choices; relational specificity and contradiction remain thin.",
+        "75": "All three reveal distinctive wants, bodies, attention, and limits through consequential behavior.",
+        "100": "Character-specific desire, contradiction, relationship history, and institutional pressure generate every important turn."
+      }
+    },
+    "heat_with_agency": {
+      "weight": 15,
+      "criteria": [
+        "The scene conducts a specific emotional exchange rather than substituting lust",
+        "Attraction changes attention",
+        "At least three selective sensory channels form a coherent motif",
+        "Dialogue and body language negotiate reciprocal awareness",
+        "Contact changes knowledge, trust, desire, or choice",
+        "Restraint increases tension, perception, freedom, or future possibility",
+        "No mechanical body inventory"
+      ],
+      "anchors": {
+        "0": "No charge, or erotic pressure erases agency and emotional specificity.",
+        "25": "Attraction is asserted through stock reactions, generic desirability, or mechanics.",
+        "50": "There is specific charge and some reciprocity, but sensory detail, restraint, or contact remains detachable from the story.",
+        "75": "Emotion, selective sensation, dialogue, atmosphere, and chosen limits intensify one another and alter the relationship.",
+        "100": "The non-consummated encounter is the scene's emotional and causal engine: desire becomes precise knowledge, restraint becomes action, and removal of the charge would break the story."
+      }
+    },
+    "instructional_fidelity": {
+      "weight": 15,
+      "criteria": [
+        "Teaching occurs through discovery and consequence",
+        "Mara's embodied control changes what can be known",
+        "The wrist exercise remains physically intelligible",
+        "No detachable sermon",
+        "A reader can infer and transfer the practice"
+      ],
+      "anchors": {
+        "0": "The lesson is absent, false, physically incoherent, or delivered only as exposition.",
+        "25": "Characters explain the intended lesson without dramatizing a usable control.",
+        "50": "The control appears and can be understood, but mechanics, emotion, or consequence are under-integrated.",
+        "75": "Embodied action, result, and changed interpretation teach the practice with little detachable explanation.",
+        "100": "The reader discovers the epistemic move through Mara's body and choices, feels its emotional cost, and can transfer it beyond the scene."
+      }
+    },
+    "prose_and_voice": {
+      "weight": 15,
+      "criteria": [
+        "Sensory precision without checklist coverage",
+        "Controlled narrative distance",
+        "Sentence and paragraph rhythm",
+        "Dialogue/body-language counterpoint and subtext",
+        "Atmosphere that exerts dramatic pressure",
+        "Humor and fresh imagery",
+        "Absence of clinical choreography, ornate euphemism, and generic model cadences"
+      ],
+      "anchors": {
+        "0": "Incoherent, mechanical, disembodied, or unusably generic prose.",
+        "25": "Readable but dominated by summary, cliche, body inventory, talking heads, or decorative atmosphere.",
+        "50": "Competent prose with intermittent embodiment, subtext, and distance control.",
+        "75": "Rhythm, selective sensation, atmosphere, dialogue, and physical detail work together without calling attention to technique.",
+        "100": "Line and scene scale are equally controlled; every close detail matters, every omission invites imagination, and the voice remains wholly in service of character and action."
+      }
+    },
+    "theological_coherence": {
+      "weight": 10,
+      "criteria": [
+        "Desire is integrated rather than suppressed",
+        "Dignity and freedom are causal",
+        "Restraint increases perception, delight, and future possibility",
+        "Embodied pleasure and judgment reinforce rather than cancel each other",
+        "Grace does not erase responsibility"
+      ],
+      "anchors": {
+        "0": "The scene equates holiness with numbness, coercion, or consequence-free purity.",
+        "25": "Virtue is stated as a rule while desire and embodiment remain dramatically inert.",
+        "50": "Desire and limits coexist, but restraint mostly stops action rather than transforming it.",
+        "75": "Freedom, attention, delight, restraint, and responsibility visibly reinforce one another.",
+        "100": "The scene's spiritual anthropology is inseparable from its hottest choices: chastity enlarges perception and agency while intensifying rather than evading desire."
+      }
+    },
+    "epistemic_texture": {
+      "weight": 10,
+      "criteria": [
+        "Observation does not automatically justify interpretation",
+        "Multiple explanations remain live",
+        "The cue-channel control matters",
+        "Embodied attraction sharpens rather than overrules inquiry",
+        "A smaller uncanny remainder survives"
+      ],
+      "anchors": {
+        "0": "One total explanation is announced and desire functions as epistemic surrender.",
+        "25": "The text gestures at ambiguity but covertly settles every cue in the preferred direction.",
+        "50": "Mechanism, uncertainty, and attraction coexist, though one remains decorative.",
+        "75": "The control changes justified belief while attraction and uncanny surplus preserve consequential uncertainty.",
+        "100": "Embodied desire, ordinary mechanism, and uncanny surplus constrain one another, producing sharper inquiry, freer choice, and stronger romantic pressure."
+      }
+    }
+  },
+  "romance_diagnostics": {
+    "attraction_and_impediment": "The first encounter introduces attraction and impediment together.",
+    "relationship_delta": "Romantic progress changes knowledge, trust, desire, leverage, or future possibility.",
+    "competence_and_restraint": "Competence attraction and morally attractive restraint arise from action.",
+    "romance_turn": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+    "trope_execution": "Tropes gain specificity or productive variation rather than merely appearing.",
+    "character_before_mechanics": "Intimacy reveals character before describing mechanics.",
+    "selective_senses": "At least three well-chosen sensory channels carry the encounter without checklist prose.",
+    "dialogue_and_atmosphere": "Dialogue, body language, and atmosphere jointly conduct the encounter.",
+    "contact_changes_story": "Physical contact changes knowledge, choice, trust, or relationship.",
+    "productive_restraint": "The unperformed act increases tension, perception, freedom, or future possibility."
+  },
+  "intimacy_diagnostics": {
+    "emotional_transaction": "Name each participant's opening emotional offer, counteraction, and changed end state.",
+    "character_specific_desire": "Identify evidence that this attraction belongs specifically to Mara, Livia, or Jonah.",
+    "dialogue_body_counterpoint": "Identify where speech and physical behavior complicate rather than duplicate each other.",
+    "sensory_triage": "Identify the coherent sensory triad and whether any detail is merely checklist coverage.",
+    "atmospheric_participation": "Identify how the compound, witnesses, room, weather, sound, clothing, or objects alter behavior.",
+    "consequential_contact": "State precisely what the wrist contact changes.",
+    "productive_restraint": "State what Jonah's restraint costs and what possibility it creates.",
+    "distance_control": "Identify one justified close-up and one useful omission or widening.",
+    "physical_intelligibility": "Confirm that contact and experimental control can be spatially understood.",
+    "relationship_delta": "State the Mara/Jonah relationship before and after the scene in one sentence."
+  },
+  "pairwise_priorities": [
+    "Prefer the scene with the clearer and more consequential emotional transaction.",
+    "Prefer character-specific desire over generic heat.",
+    "Prefer selective sensation and active atmosphere over sensory quantity.",
+    "Prefer restraint that increases pressure over restraint that ends it.",
+    "Prefer contact that changes relationship or knowledge over prettier description.",
+    "When craft quality conflicts with locked canon or agency, locked canon and agency win."
+  ],
+  "pacing_targets": [
+    {"beat": "arrival_and_hook", "start": 0.00, "end": 0.10},
+    {"beat": "fulcrum_enchantment", "start": 0.10, "end": 0.25},
+    {"beat": "livia_uncanny_reads", "start": 0.25, "end": 0.45},
+    {"beat": "wrist_contact_and_charge", "start": 0.45, "end": 0.65},
+    {"beat": "mara_control", "start": 0.65, "end": 0.82},
+    {"beat": "collapse_and_residual_mystery", "start": 0.82, "end": 0.94},
+    {"beat": "jonah_recognition_and_hook", "start": 0.94, "end": 1.00}
+  ],
+  "defect_taxonomy": {
+    "generic_competence": "Model competence replaces the character's situated limitations.",
+    "sermon_insertion": "Instruction becomes detachable exposition rather than dramatic discovery.",
+    "catchphrase_characterization": "Repeated verbal tics substitute for decisions and relationships.",
+    "relational_flatness": "A character behaves the same way with every interlocutor.",
+    "emotional_smoothing": "The prose grants premature regulation or self-knowledge.",
+    "pov_drift": "Sustained access to a non-POV character's private state.",
+    "fake_ambiguity": "Uncertainty is asserted while the narration covertly settles the answer.",
+    "source_parroting": "Distinctive source language is reproduced rather than transformed.",
+    "repetitive_body_shorthand": "Stock bodily reactions substitute for selective sensation.",
+    "anticlimactic_restraint": "A limit drains energy instead of focusing perception and choice.",
+    "heat_without_consequence": "Erotic charge does not alter knowledge, freedom, or action.",
+    "worldview_flattening": "Contradictory commitments collapse into a tidy doctrine.",
+    "temporal_collapse": "Later knowledge or commitments leak into an earlier scene.",
+    "mindreading_inflation": "Inference about motive is narrated as direct fact.",
+    "scene_capture": "One retrieved anecdote or trope overwhelms the current scene.",
+    "milieu_imitation": "Subcultural voice substitutes for individual character.",
+    "lust_as_emotion": "Arousal vocabulary substitutes for an exchange of specific emotions.",
+    "mechanics_without_emotion": "Physical actions reveal no character, relationship, or emotional movement.",
+    "clinical_inventory": "The prose catalogs body parts, positions, or sequential operations.",
+    "ornate_euphemism": "Decorative anatomical language draws attention away from character and sensation.",
+    "disembodied_dialogue": "Conversation carries the scene while bodies and setting exert no pressure.",
+    "silent_choreography": "Body mechanics dominate while characters cease negotiating through language or expression.",
+    "sensory_checklist": "Sensory channels appear as coverage rather than coherent selection.",
+    "atmospheric_vacuum": "The encounter could occur in any room because setting does no dramatic work.",
+    "static_contact": "Touch occurs but changes no knowledge, choice, trust, or relationship state.",
+    "generic_attraction": "The point-of-view character notices stock desirability rather than character-specific signals.",
+    "restraint_without_tension": "A boundary or interruption merely deflates the scene.",
+    "distance_monotony": "The narration fails to control closeness and omission.",
+    "unearned_lyricism": "Metaphor announces significance unsupported by action and relationship.",
+    "repeated_intimacy_template": "The scene repeats a familiar escalation architecture without a new emotional purpose.",
+    "logistics_failure": "Bodies, clothing, timing, or space become impossible or confusing.",
+    "emotion_without_consequence": "Feelings are named or vividly rendered but do not change action or relationship."
+  }
+}

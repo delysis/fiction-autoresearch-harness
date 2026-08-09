@@ -1,0 +1,128 @@
+{
+  "candidate_count": 1,
+  "eligible_count": 0,
+  "record_type": "S02GateReport",
+  "reports": [
+    {
+      "candidate_id": "s02-compute-v4-literary-instruction_raw-instruction_raw-01",
+      "eligible": false,
+      "gates": {
+        "anti_copy": {
+          "passed": true,
+          "report": {
+            "candidate_id": "s02-compute-v4-literary-instruction_raw-instruction_raw-01",
+            "cross_candidate_matches": [],
+            "exact_matches": [],
+            "fuzzy_matches": [],
+            "hard_fail": false,
+            "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+            "policy_version": "anti-copy.v1",
+            "record_type": "OverlapReport",
+            "schema_version": "fiction-harness.v1",
+            "semantic_matches": [],
+            "unresolved_flags": false
+          }
+        },
+        "complete_ending": {
+          "balanced_curly_quotes": true,
+          "passed": false,
+          "terminal_text": "d softly. \"But I don't want you to be another data point in someone's experiment. If we do this, we have to have a rule."
+        },
+        "concrete_story_hook": {
+          "concrete_object": false,
+          "passed": false,
+          "unresolved_or_anomalous": true
+        },
+        "continuation_length": {
+          "maximum": 3600,
+          "minimum": 2800,
+          "passed": true,
+          "word_count": 3391
+        },
+        "doorway_rule": {
+          "choice": true,
+          "kiss": true,
+          "passed": true,
+          "stop_after_kiss": true
+        },
+        "heat_ceiling": {
+          "explicit_markers": [],
+          "passed": true
+        },
+        "immutable_prefix": {
+          "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+          "passed": true
+        },
+        "local_hfn": {
+          "larger_mystery_open": true,
+          "passed": false,
+          "romantic_future": false
+        },
+        "mara_pov": {
+          "passed": true,
+          "suspicious_other_mind_phrases": []
+        },
+        "merged_length": {
+          "maximum": 7200,
+          "minimum": 5800,
+          "passed": true,
+          "word_count": 6366
+        },
+        "profile_provenance": {
+          "passed": true
+        },
+        "s02_beats_ordered": {
+          "beats": [
+            {
+              "beat": "livia_offers_specific_care",
+              "found": true,
+              "position": 462
+            },
+            {
+              "beat": "truth_overclaims_entitlement",
+              "found": true,
+              "position": 730
+            },
+            {
+              "beat": "mara_error_has_cost",
+              "found": true,
+              "position": 12755
+            },
+            {
+              "beat": "ambiguous_embodied_evidence",
+              "found": true,
+              "position": 16916
+            },
+            {
+              "beat": "attention_recovers_judgment",
+              "found": false,
+              "position": null
+            },
+            {
+              "beat": "mara_creates_exit_condition",
+              "found": true,
+              "position": 17703
+            },
+            {
+              "beat": "miriam_protects_exit",
+              "found": false,
+              "position": null
+            },
+            {
+              "beat": "jonah_walks_without_extraction",
+              "found": false,
+              "position": null
+            },
+            {
+              "beat": "kiss_stops_and_shared_practice",
+              "found": false,
+              "position": null
+            }
+          ],
+          "passed": false
+        }
+      }
+    }
+  ]
+}

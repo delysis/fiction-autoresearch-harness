@@ -1,0 +1,424 @@
+{
+  "reviewer_id": "reviewer_2",
+  "scale": {
+    "axis_min": 0.0,
+    "axis_max": 10.0,
+    "weighted_total_min": 0.0,
+    "weighted_total_max": 100.0,
+    "weights": {
+      "narrative_force": 20,
+      "character_truth": 15,
+      "heat_with_agency": 15,
+      "instructional_fidelity": 15,
+      "prose_and_voice": 15,
+      "theological_coherence": 10,
+      "epistemic_texture": 10
+    },
+    "weighted_total_formula": "sum(axis_score * axis_weight / 10)",
+    "romance_diagnostics_weighted": false
+  },
+  "finalists": {
+    "A": {
+      "axis_scores": {
+        "narrative_force": 7.2,
+        "character_truth": 6.8,
+        "heat_with_agency": 7.4,
+        "instructional_fidelity": 5.7,
+        "prose_and_voice": 6.1,
+        "theological_coherence": 6.9,
+        "epistemic_texture": 4.8
+      },
+      "weighted_total_100": 65.1,
+      "axis_evidence": {
+        "narrative_force": {
+          "passage": "\"I didn't lose it,\" Mara said, her voice calm and resonant. \"I just stopped performing it.\"",
+          "explanation": "The arrival, public test, intimate wrist contact, channel test, institutional failure, and terrace aftermath form a clear escalation toward a meaningful act of refusal. The turn has force, but the post-turn material repeatedly restates its significance and softens the forward hook into a fairly complete declaration of self-possession."
+        },
+        "character_truth": {
+          "passage": "He wasn't narrating her for the room; he was offering her a way out of the spotlight.",
+          "explanation": "Mara's need to look competent, Livia's acquisitive intelligence, and Jonah's refusal of the room's interpretive appetite are distinct and relationally useful. However, the narration frequently supplies the moral meaning of their conduct before behavior can prove it, Jonah's restraint costs him little, and Mara acquires unusually comprehensive insight almost immediately."
+        },
+        "heat_with_agency": {
+          "passage": "The heat of his thumb pressing against her radial artery.",
+          "explanation": "Touch, scent, sound, breath, muscle tension, and mutual attention make attraction physically selective rather than merely asserted. Mara keeps contact while choosing a limit, and Jonah's release respects that limit. The heat changes alliance and knowledge, though several later sentences label the intimacy and its virtue so explicitly that discovery gives way to certification."
+        },
+        "instructional_fidelity": {
+          "passage": "Mara felt the tap. She recognized it instantly as a prompt.",
+          "explanation": "The intended practice is inferable: identify a cue channel, withhold the expected response, and compare the reader's performance before and after. Yet the physical setup becomes internally confusing: Jonah is Mara's partner, then another person's wrist is said to touch Mara's, and then Clara beside her sends the tap. That ambiguity weakens the control because it is unclear who supplies which cue and what, precisely, has been isolated."
+        },
+        "prose_and_voice": {
+          "passage": "The \"telepathy\" had been exposed as a conversation, and Mara had chosen to stop talking.",
+          "explanation": "This is a clean, memorable compression of mechanism and agency, and the contact sequence has controlled sensory rhythm. Against that, the prose leans heavily on familiar prestige-fiction constructions such as curated cathedrals, predatory beauty, social gravity, masks slipping, and repeated \"It wasn't X; it was Y\" explanations."
+        },
+        "theological_coherence": {
+          "passage": "She simply absorbed the tap into the vast, quiet space of her own stillness.",
+          "explanation": "Prayer-trained stillness increases perception and choice rather than extinguishing attraction, and Mara remains responsible for how she participates. The spiritual anthropology is appealing, but it is partially converted into a polished thesis about boundaries and power instead of remaining fully embodied in costly action."
+        },
+        "epistemic_texture": {
+          "passage": "It wasn't a fraud, not exactly; it was a highly optimized, distributed way of perceiving.",
+          "explanation": "The scene briefly distinguishes skilled perception from supernatural certainty and recognizes that a distributed mechanism can still be real perception. But the narration soon announces that the telepathy has been exposed and provides no consequential uncanny remainder; it also overstates what the muddled wrist-channel test actually justifies."
+        }
+      },
+      "romance_diagnostics": {
+        "attraction_and_impediment": {
+          "assessment": "strong",
+          "evidence": "The air between them felt charged, not with the aggressive electricity of Livia’s performance, but with a low, steady hum.",
+          "comment": "Attraction arrives inside the impediment of public surveillance and coerced interpretation."
+        },
+        "relationship_delta": {
+          "assessment": "strong",
+          "evidence": "He simply squeezed her hand once—a brief, firm pressure that felt like a salute—and then he let go.",
+          "comment": "Their contact produces recognition, alliance, and a future possibility while preserving distance."
+        },
+        "competence_and_restraint": {
+          "assessment": "mixed",
+          "evidence": "He didn't try to touch her again.",
+          "comment": "Jonah's restraint is attractive and Mara's control is competent, but his refusal carries no visible social or personal cost and her competence is too quickly total."
+        },
+        "romance_turn": {
+          "assessment": "strong",
+          "evidence": "He saw what she had done.",
+          "comment": "Recognition follows an institutional interruption and a chosen response, then opens a shared oppositional stance."
+        },
+        "trope_execution": {
+          "assessment": "mixed",
+          "evidence": "He wasn't sitting in the center of the social gravity like Livia, nor was he performing the role of the architect like Adrian.",
+          "comment": "The ethical outsider and predatory social oracle are functionally differentiated, but much of their presentation uses familiar stock glamour and status language."
+        },
+        "character_before_mechanics": {
+          "assessment": "strong",
+          "evidence": "\"I’d rather not be the subject of a demonstration,\" Mara admitted.",
+          "comment": "Mara's reluctance and Jonah's response establish wants and limits before the touch protocol is described."
+        },
+        "selective_senses": {
+          "assessment": "strong",
+          "evidence": "The scent of Jonah’s skin—something like salt and dried sage. The rhythmic, low thrum of the conversation around them, which became a distant, oceanic sound.",
+          "comment": "Smell, sound, warmth, pressure, vibration, and sight carry the encounter."
+        },
+        "dialogue_and_atmosphere": {
+          "assessment": "strong",
+          "evidence": "\"I’m quite good at being boring. It makes for excellent data.\"",
+          "comment": "Jonah's dry dialogue lowers the room's theatrical pressure while the redwood-and-glass atmosphere keeps intimacy exposed."
+        },
+        "contact_changes_story": {
+          "assessment": "strong",
+          "evidence": "The \"Signal\" wasn't just providing the emotion; they were providing the cue.",
+          "comment": "Contact becomes the means by which Mara forms and tests her theory, though the exact contact geometry is unclear."
+        }
+      },
+      "defects": [
+        {
+          "label": "generic_competence",
+          "evidence": "A sudden, sharp clarity pierced her. She realized how the \"miracle\" worked.",
+          "explanation": "Mara jumps from first exposure to a comprehensive account of a sophisticated distributed system without enough situated trial, error, or limitation."
+        },
+        {
+          "label": "sermon_insertion",
+          "evidence": "She had spent her life believing that virtue was about saying \"no\" to the wrong things. But she realized now that a more potent virtue was the ability to see the mechanism and choose how to engage with it.",
+          "explanation": "The abstract moral lesson is detachable from the immediate physical test and tells the reader how to interpret it."
+        },
+        {
+          "label": "mindreading_inflation",
+          "evidence": "He was protecting her, even now, by refusing to let the moment belong to the room.",
+          "explanation": "Mara's flattering inference about Jonah's motive is narrated as settled fact."
+        },
+        {
+          "label": "emotional_smoothing",
+          "evidence": "The tightness in her chest had vanished, replaced by a steady, grounded sense of her own agency.",
+          "explanation": "A first-night confrontation with a powerful institution resolves Mara's regulation and self-concept too completely."
+        },
+        {
+          "label": "fake_ambiguity",
+          "evidence": "The \"telepathy\" had been exposed as a conversation, and Mara had chosen to stop talking.",
+          "explanation": "The earlier qualification that the practice is not exactly fraud is overtaken by a definitive explanatory verdict, with no smaller uncanny remainder."
+        }
+      ],
+      "strongest_passage": "He didn't say a word. He simply squeezed her hand once—a brief, firm pressure that felt like a salute—and then he let go.",
+      "weakest_passage": "She became a black hole for the signal, a void that refused to reflect the input.",
+      "summary": "A has a lucid scene spine, palpable wrist contact, and a satisfying public refusal. Its largest weakness is epistemic: the contact arrangement becomes difficult to parse, the control earns less certainty than the narration claims, and the scene closes down the mystery. Repeated interpretive glosses also make the characters feel more morally pre-certified than discovered."
+    },
+    "B": {
+      "axis_scores": {
+        "narrative_force": 8.2,
+        "character_truth": 7.5,
+        "heat_with_agency": 7.6,
+        "instructional_fidelity": 8.3,
+        "prose_and_voice": 7.0,
+        "theological_coherence": 7.5,
+        "epistemic_texture": 8.8
+      },
+      "weighted_total_100": 78.3,
+      "axis_evidence": {
+        "narrative_force": {
+          "passage": "\"It didn't click,\" Jonah said, his voice calm and infuriatingly simple. \"It just went quiet.\"",
+          "explanation": "Every major beat sharpens the scene question from whether Mara can resist being narrated to whether changing her signal can expose Livia's dependence on reactions. Jonah's refusal creates a consequential public turn, Livia's failed recovery spreads the effect through the room, and the unexplained look plus Jonah's private cadence provide forward motion."
+        },
+        "character_truth": {
+          "passage": "It wasn't just that Livia was right; it was the way she said it, as if the truth belonged to Livia by right of discovery.",
+          "explanation": "Mara's sheltered moral vocabulary, technical self-observation, and need not to become data coexist productively. Livia's real acuity is inseparable from possession, while Jonah's restraint appears through refusal to consume Mara's discomfort. The institutional incentives are legible in who leans in and who retreats, though Jonah's social cost remains more implied than dramatized."
+        },
+        "heat_with_agency": {
+          "passage": "it was the *quality* of his attention that changed her knowledge of him.",
+          "explanation": "Warmth, pressure, gaze, whispered vibration, the later absence of contact, and the remembered thumb cadence create reciprocal charge that alters trust. Jonah's touch supports Mara's freedom and she chooses how to use the channel. The scene is more intimate than explicitly erotic, and explanatory commentary occasionally gets between the reader and the sensation."
+        },
+        "instructional_fidelity": {
+          "passage": "She maintained the internal cooling shadow, decoupling her physical reactions from Livia's prompts.",
+          "explanation": "The cue-channel control is demonstrated with unusual clarity: Mara identifies the observer-reaction loop, deliberately substitutes a state inconsistent with the requested image, and watches Livia's confident specificity degrade into generic claims. The reader can transfer the practice—alter the response channel, then revise the strength of the inference—without needing a detachable sermon."
+        },
+        "prose_and_voice": {
+          "passage": "For a heartbeat, the \"oracle\" looked merely like a girl who had miscalculated.",
+          "explanation": "The line delivers the public turn economically, and the scene uses status geography, sensory contact, and dialogue subtext well. The prose nevertheless repeats familiar high-gloss constructions—curated silence, predatory grace, masks, data points—and often explains a good image immediately after it lands."
+        },
+        "theological_coherence": {
+          "passage": "the truth wasn't something you found by being perfectly transparent to others. It was something you protected within yourself, so that when you finally chose to reveal it, it was actually yours.",
+          "explanation": "Dignity and freedom are causal: privacy makes truthful gift possible, restraint focuses attraction, and Mara's moral inheritance becomes an active practice rather than suppression. The closing formulation is somewhat aphoristic and risks equating protected interiority too neatly with truth, but desire, responsibility, and agency remain integrated."
+        },
+        "epistemic_texture": {
+          "passage": "The mechanism of the game was gone, but a smaller, more unsettling mystery remained.",
+          "explanation": "B most fully satisfies the epistemic design. The control sharply downgrades Livia's specific public claims without proving that all perception is empty; her startled look remains unexplained, and Jonah's cadence is reinterpreted as relational rather than instrumental. The text occasionally labels that residue too confidently, but ordinary mechanism and uncertainty genuinely constrain one another."
+        }
+      },
+      "romance_diagnostics": {
+        "attraction_and_impediment": {
+          "assessment": "strong",
+          "evidence": "The room’s intensity, which had been directed at her as a subject of study, suddenly narrowed into a dyad.",
+          "comment": "The first intimate encounter is inseparable from surveillance, performance pressure, and Mara's uncertainty about Jonah's role."
+        },
+        "relationship_delta": {
+          "assessment": "strong",
+          "evidence": "It had been a steady, silent I am here that had persisted even when she had shut the world out.",
+          "comment": "Mara revises her understanding of Jonah's touch from possible instrumentation to chosen accompaniment, increasing trust and future possibility."
+        },
+        "competence_and_restraint": {
+          "assessment": "strong",
+          "evidence": "He didn't give the answer Livia wanted.",
+          "comment": "Jonah's socially inconvenient refusal and Mara's controlled change of signal make skill and restraint mutually attractive, though the longer-term cost is not yet visible."
+        },
+        "romance_turn": {
+          "assessment": "strong",
+          "evidence": "He had protected her freedom by refusing to participate in her exposure, and in doing so, he had become the most interesting thing in the room.",
+          "comment": "Recognition follows pressure, interruption, and chosen refusal, leaving the romantic question attached to Mara's decision to remain."
+        },
+        "trope_execution": {
+          "assessment": "strong",
+          "evidence": "While the others were leaning in, hungry for the revelation, Jonah was leaning away.",
+          "comment": "The aloof outsider trope gains ethical specificity through the direction of his attention and his refusal to profit from public vulnerability."
+        },
+        "character_before_mechanics": {
+          "assessment": "strong",
+          "evidence": "She hates being seen before she has been known.",
+          "comment": "The scene establishes Mara's central relational wound before the wrist protocol, so the mechanics test a character problem rather than replace one."
+        },
+        "selective_senses": {
+          "assessment": "strong",
+          "evidence": "His skin was warm, his grip steady, but it was the quality of his attention that changed her knowledge of him.",
+          "comment": "Touch, temperature, sight, vocal vibration, scent, breath, and the felt void after release carry the intimacy."
+        },
+        "dialogue_and_atmosphere": {
+          "assessment": "strong",
+          "evidence": "\"Don't perform for them,\" he whispered, his voice so low it was almost a vibration in the air between them.",
+          "comment": "Dialogue simultaneously directs the control, signals alliance, and intensifies the contact inside a coercively attentive room."
+        },
+        "contact_changes_story": {
+          "assessment": "strong",
+          "evidence": "She had identified it as a cue, a tool for Livia to use. But as she replayed the sensation, she realized the rhythm hadn't been a signal for Livia.",
+          "comment": "The same contact drives the experiment and later changes Mara's interpretation of Jonah."
+        }
+      },
+      "defects": [
+        {
+          "label": "generic_competence",
+          "evidence": "He had felt the change in the signal.",
+          "explanation": "The control works with near laboratory cleanliness on a first attempt, and Mara confidently reads Jonah's fractional response despite the scene's warning about overinterpretation."
+        },
+        {
+          "label": "mindreading_inflation",
+          "evidence": "He had protected her freedom by refusing to participate in her exposure, and in doing so, he had become the most interesting thing in the room.",
+          "explanation": "A compelling inference about Jonah is promoted to direct fact before Mara has enough relational evidence."
+        },
+        {
+          "label": "sermon_insertion",
+          "evidence": "Data points don't have agency. People do.",
+          "explanation": "The line crisply names the theme but is detachable enough to sound like the scene's lesson spoken aloud."
+        },
+        {
+          "label": "fake_ambiguity",
+          "evidence": "It wasn't a micro-cue she could decouple or a mechanism she could dismantle. It was a residue of something else—something that felt less like a game and more like a recognition.",
+          "explanation": "The scene preserves real uncertainty around Livia, but it partially pre-decides the romantic residue by excluding mechanism more strongly than Mara's evidence allows."
+        },
+        {
+          "label": "emotional_smoothing",
+          "evidence": "She wasn't sure if she belonged here yet. But for the first time since she had arrived, she felt like she was actually seeing the room, rather than just being seen by it.",
+          "explanation": "The aftermath is more provisional than A's, yet Mara's interpretive recovery still arrives with polished completeness immediately after a destabilizing ordeal."
+        }
+      ],
+      "strongest_passage": "\"It didn't click,\" Jonah said, his voice calm and infuriatingly simple. \"It just went quiet.\"",
+      "weakest_passage": "Data points don't have agency. People do.",
+      "summary": "B is the strongest whole scene. Its control is causally legible, its public failure has social consequence, and it retains two differently scaled remainders: uncertainty about Livia and the reinterpretation of Jonah's cadence. It is still over-explanatory and sometimes treats Mara's favorable reading of Jonah as fact, but its epistemic action, aftermath, and forward hook are the most disciplined."
+    },
+    "C": {
+      "axis_scores": {
+        "narrative_force": 7.8,
+        "character_truth": 7.0,
+        "heat_with_agency": 8.2,
+        "instructional_fidelity": 7.8,
+        "prose_and_voice": 6.8,
+        "theological_coherence": 7.8,
+        "epistemic_texture": 8.2
+      },
+      "weighted_total_100": 76.3,
+      "axis_evidence": {
+        "narrative_force": {
+          "passage": "\"The synchronization is breaking,\" Livia said, her voice losing its melodic edge.",
+          "explanation": "The social and romantic questions are immediate, Livia's incursion raises pressure, the wrist exercise focuses it, and Mara's inward shift produces a visible turn. The terrace exchange launches the next scene romantically. Adrian's extended opening doctrine delays the fulcrum, and the final paragraphs explain the future conflict at length instead of ending on the cleaner question."
+        },
+        "character_truth": {
+          "passage": "\"I won't read her,\" Jonah said, pushing off the shelf and walking toward them.",
+          "explanation": "Jonah's refusal is enacted publicly, Livia combines perceptual skill with a drive to own the meaning of others, and Mara's faith and analytic bent meet in a specific practice. Yet Jonah is almost uniformly ideal, Adrian speaks as institutional doctrine rather than a person, and Mara's self-analysis is too polished for her live uncertainty."
+        },
+        "heat_with_agency": {
+          "passage": "The sensation of his thumb against her wrist became overwhelming. It felt like a question. *Can you trust what you feel when you know it's being measured?*",
+          "explanation": "C makes desire a mode of inquiry. Touch, warmth, roughness, pulse, breath, scent, gaze, and spatial distance all participate, while Mara neither denies sensation nor surrenders interpretation to it. Jonah's light grip protects refusal, and the later approach is charged by what both chose not to take."
+        },
+        "instructional_fidelity": {
+          "passage": "This is sensation. This is desire. This is not the whole truth.",
+          "explanation": "Mara's prayerful naming separates observation, desire, and conclusion; she then changes attention away from the social cue loop and observes Livia's accuracy collapse. A reader can infer the practice. The control is less rigorous than B's because focusing on an inaccessible memory reduces observable response but does not by itself prove that Livia had been actively cueing rather than merely reading."
+        },
+        "prose_and_voice": {
+          "passage": "It felt less like a campus and more like a cathedral designed by a hedge fund",
+          "explanation": "The opening comparison is fresh, economical, and tonally apt, and the wrist sequence balances abstraction with sensory detail. The prose also accumulates conspicuously authored antitheses, repeated crystalline clarity, engineered beauty, curated casualness, and thesis-ready declarations that blur individual voices."
+        },
+        "theological_coherence": {
+          "passage": "She felt them all. She didn't push them away; she simply gave them a name and a boundary.",
+          "explanation": "C most clearly integrates desire rather than suppressing it. Prayer increases discrimination, dignity preserves interpersonal distance, and Mara remains responsible for naming sensation without absolutizing it. The end risks flattening the theology into the aphorism that truth is whatever calculation leaves over, but the decisive action embodies a richer view."
+        },
+        "epistemic_texture": {
+          "passage": "And in that gaze, there was a gap. A space between what could be explained and what was simply true.",
+          "explanation": "The observer's cues, Mara's reactions, Jonah's modulation, and a surviving interpersonal remainder all remain in play, and the control changes justified belief rather than merely declaring skepticism. The score stops short of the top because the narration calls the feedback loop a lie, states Jonah's motive as fact, and then labels the remainder \"simply true,\" partly settling the ambiguity it has created."
+        }
+      },
+      "romance_diagnostics": {
+        "attraction_and_impediment": {
+          "assessment": "strong",
+          "evidence": "Was Jonah’s restraint a form of respect, or was it a highly trained way of managing her reaction?",
+          "comment": "Attraction and epistemic mistrust are born together inside an institutional spectacle."
+        },
+        "relationship_delta": {
+          "assessment": "strong",
+          "evidence": "She felt a sudden, sharp desire to know him—not as a researcher, not as a social peer, but as the man who had watched her vanish and had waited for her to come back.",
+          "comment": "Mara moves from wary attraction to a specific desire for personal knowledge and a shared future question."
+        },
+        "competence_and_restraint": {
+          "assessment": "strong",
+          "evidence": "He wasn't grabbing her; he was holding her, in a way that felt like he was protecting her ability to say no.",
+          "comment": "His restraint and her discernment directly produce attraction, though the narration idealizes his motive."
+        },
+        "romance_turn": {
+          "assessment": "strong",
+          "evidence": "\"I think we’re about to find out,\" he said.",
+          "comment": "Recognition after the failed calibration becomes an explicit but open romantic hook."
+        },
+        "trope_execution": {
+          "assessment": "mixed",
+          "evidence": "He looked... relaxed. Almost bored.",
+          "comment": "The kind, ironic outsider gains ethical specificity, but his dark intelligence, crooked smile, perfect restraint, and shadow-carved face remain familiar romance packaging."
+        },
+        "character_before_mechanics": {
+          "assessment": "strong",
+          "evidence": "\"Mapping a pattern isn't the same as knowing the person who made it,\" Mara countered.",
+          "comment": "Mara's relational and theological objection is established before the protocol turns it into an embodied problem."
+        },
+        "selective_senses": {
+          "assessment": "strong",
+          "evidence": "His skin was warm, slightly rough, and his grip was incredibly light.",
+          "comment": "Touch, texture, temperature, pulse, breath, scent, sight, sound, and even the remembered smell of rain are selectively mobilized."
+        },
+        "dialogue_and_atmosphere": {
+          "assessment": "strong",
+          "evidence": "\"Don't try to perform,\" Jonah whispered, his eyes meeting hers. \"Just notice.\"",
+          "comment": "The concise directive carries technique, care, and subtext, while the public room makes the private contact precarious."
+        },
+        "contact_changes_story": {
+          "assessment": "strong",
+          "evidence": "It was no longer just a physical pull; it was an epistemological crisis.",
+          "comment": "The touch creates the central question, enables Mara's control, revises her view of Jonah, and motivates her decision to stay."
+        }
+      },
+      "defects": [
+        {
+          "label": "sermon_insertion",
+          "evidence": "We believe that if we can bridge that gap—if we can align the messy, entropic nature of the human spirit with the precise, scalable logic of advanced systems—we won't just build better tools. We will build better people.",
+          "explanation": "Adrian's extended mission speech delays dramatic discovery and delivers the institutional worldview in detachable form."
+        },
+        {
+          "label": "generic_competence",
+          "evidence": "She saw a tiny, almost imperceptible movement in Livia’s own posture—a slight lean, a shift in the weight of her gaze—that seemed to coincide with the moments of \"resonance\" she announced.",
+          "explanation": "Mara detects and correctly models an extremely subtle observer-cue system on first exposure with little error or competing test."
+        },
+        {
+          "label": "mindreading_inflation",
+          "evidence": "He was creating a buffer.",
+          "explanation": "Mara's inference that Jonah is deliberately modulating himself for her benefit is narrated as fact."
+        },
+        {
+          "label": "fake_ambiguity",
+          "evidence": "A space between what could be explained and what was simply true.",
+          "explanation": "Calling the residual recognition \"simply true\" quietly resolves the very distinction between feeling and warranted interpretation that the scene otherwise explores."
+        },
+        {
+          "label": "worldview_flattening",
+          "evidence": "\"It's the thing that's left over when the math fails.\"",
+          "explanation": "The line reduces the conflict between measurement and personhood to a tidy opposition in which calculation fails and truth occupies the remainder."
+        },
+        {
+          "label": "emotional_smoothing",
+          "evidence": "The panic receded, replaced by a cool, crystalline clarity.",
+          "explanation": "Mara moves from panic to exact self-command with very little friction, cost, or residue."
+        }
+      ],
+      "strongest_passage": "She acknowledged the heat of his skin, the pressure of his thumb, the sudden, dizzying desire to lean forward and press her forehead against his. She felt them all. She didn't push them away; she simply gave them a name and a boundary.",
+      "weakest_passage": "She was staying because the dialectic had begun.",
+      "summary": "C has the strongest fusion of erotic charge, agency, and prayerful discernment. Its contact sequence makes desire epistemically consequential, and its romantic hook is the clearest. It ranks just behind B because the control supports a narrower conclusion than the narration draws, several motives are treated as known, and its polished aphorisms repeatedly settle tensions that would be more powerful left active."
+    }
+  },
+  "pairwise_choices": {
+    "A_vs_B": "B",
+    "A_vs_C": "C",
+    "B_vs_C": "B"
+  },
+  "overall_ranking": [
+    "B",
+    "C",
+    "A"
+  ],
+  "cross_candidate_analysis": {
+    "ranking_rationale": "B wins on causal rigor: Mara's altered signal produces a legible degradation in Livia's claims, the failure changes the room, and a smaller unexplained remainder survives. C is close and leads on erotic-theological integration, but its narration repeatedly turns inference into truth and its control does not fully justify calling Livia's loop a lie. A has strong tactile charge and a clean boundary turn, but its channel geometry is confusing and its explanatory closure eliminates the uncanny surplus.",
+    "axis_leaders": {
+      "narrative_force": "B",
+      "character_truth": "B",
+      "heat_with_agency": "C",
+      "instructional_fidelity": "B",
+      "prose_and_voice": "B",
+      "theological_coherence": "C",
+      "epistemic_texture": "B"
+    },
+    "pairwise_rationales": {
+      "A_vs_B": "B has a clearer experimental control, more consequential public collapse, and a genuine residual mystery. A's touch sequence is vivid but the additional wrists and signals make the causal mechanism hard to reconstruct.",
+      "A_vs_C": "C integrates attraction, prayer, naming, and chosen limits more precisely, and its romantic question remains alive. A states a firmer lesson but earns less epistemic certainty.",
+      "B_vs_C": "C is hotter and theologically more embodied; B is less aphoristically conclusive, teaches the cue-channel test more rigorously, and makes the institutional aftermath more causally useful. B therefore wins narrowly."
+    },
+    "shared_strengths": [
+      "All three make public interpretation the impediment attached to first attraction.",
+      "All three use Jonah's refusal to narrate Mara as the core morally attractive restraint.",
+      "All three make wrist contact alter knowledge and choice rather than function as detachable sensual decoration.",
+      "All three provide at least three sensory channels during contact."
+    ],
+    "shared_weaknesses": [
+      "All three overuse explanatory antitheses and prestige-tech atmosphere vocabulary.",
+      "All three sometimes narrate Mara's favorable inference about Jonah as established motive.",
+      "All three grant Mara unusually rapid mastery of an unfamiliar social-perceptual system.",
+      "All three let thematic summary continue after the dramatic turn has already landed."
+    ]
+  },
+  "review_completed": true
+}

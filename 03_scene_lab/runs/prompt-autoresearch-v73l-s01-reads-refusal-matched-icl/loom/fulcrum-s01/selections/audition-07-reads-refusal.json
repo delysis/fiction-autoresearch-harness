@@ -1,0 +1,28 @@
+{
+  "audition_version": "movement-audition.v10-sentence-tail-causal-windows",
+  "campaign_hash": "b3aee5c8b15b14d7743cca5d9957f26f464c177a4904b1e1e221be07a159dba0",
+  "cell_id": "fulcrum-s01",
+  "movement_id": "reads-refusal",
+  "pool": [
+    {
+      "branch_id": "fulcrum-s01.reads-refusal.audition.1520001",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.reads-refusal.audition.1520018",
+      "eligible": false,
+      "score": 0.6
+    },
+    {
+      "branch_id": "fulcrum-s01.reads-refusal.audition.1520035",
+      "eligible": false,
+      "score": 0.6
+    }
+  ],
+  "prefix_candidate_id": "fulcrum-s01.calibration-choice.spark.fulcrum-s01.calibration-choice.audition.1510018.1-918",
+  "record_type": "MovementAuditionSelection",
+  "selected": [],
+  "selection_hash": "c3cedcc14f3a9c4b5a633e048d1b486dfd866dc9dc061ec156d4f2167899b955",
+  "version": "gemma-fiction-autoresearch.v4"
+}

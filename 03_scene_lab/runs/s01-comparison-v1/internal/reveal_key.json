@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "package_id": "3c1d3e8fbd2c",
+  "created_at": "2026-07-29T00:02:02.026451+00:00",
+  "blind_seed_sha256": "1769275734e89a8e3ccd6092e7e37af0092902538c13e616bb55868aab09504f",
+  "labels": {
+    "A": {
+      "candidate_id": "s01-comparison-v1-direct-direct-05",
+      "pipeline": "direct",
+      "model_role": "",
+      "text_sha256": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da"
+    },
+    "B": {
+      "candidate_id": "s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+      "pipeline": "actor_novelist",
+      "model_role": "",
+      "text_sha256": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691"
+    },
+    "C": {
+      "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-03-polished-r2",
+      "pipeline": "verbalized_sampling",
+      "model_role": "",
+      "text_sha256": "42f8b11883b298b95a75206792a4ad6df625f9f574fd9ad72124d47199273f3f"
+    }
+  }
+}

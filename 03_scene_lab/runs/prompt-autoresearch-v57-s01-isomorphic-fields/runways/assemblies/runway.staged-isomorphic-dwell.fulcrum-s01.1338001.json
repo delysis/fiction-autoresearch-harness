@@ -1,0 +1,31 @@
+{
+  "artifact_id": "runway.staged-isomorphic-dwell.fulcrum-s01.1338001",
+  "manuscript_hash": "42e5e9aad87f18f0691c91d56c43bd167dafcafd5b8ae8070b9222ffb732a22f",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.staged-isomorphic-dwell.fulcrum-s01.1338001",
+      "raw_char_end": 347,
+      "raw_char_start": 0,
+      "raw_hash": "28e82f3f6c4d74734a96d45c62613d0faf7a938bdf5122b13bafd91720b9836b",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v57-s01-isomorphic-fields/runways/raw/sparks/spark.staged-isomorphic-dwell.fulcrum-s01.1338001.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-isomorphic-dwell.fulcrum-s01.1338001",
+      "text_hash": "043c36b5a8470bb46f3ce6057302ed6d606a88843d370025becfee6a7efbc5c1"
+    },
+    {
+      "call_id": "runway.staged-isomorphic-dwell.fulcrum-s01.1338001",
+      "raw_char_end": 1963,
+      "raw_char_start": 0,
+      "raw_hash": "61b2bb4dead021ae3855031666715aa5bd012ae8835fc2dbf55598e1b462bdef",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v57-s01-isomorphic-fields/runways/raw/staged/runway.staged-isomorphic-dwell.fulcrum-s01.1338001.txt",
+      "role": "opening-runway-continuation",
+      "span_id": "runway.staged-isomorphic-dwell.fulcrum-s01.1338001.continuation",
+      "text_hash": "36a1c22eb90f6fde0a00ffb49c4a7d7bf7e37e86945775c03d822d2e564c7ceb"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

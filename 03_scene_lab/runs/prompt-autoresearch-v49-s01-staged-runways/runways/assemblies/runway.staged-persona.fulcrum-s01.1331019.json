@@ -1,0 +1,31 @@
+{
+  "artifact_id": "runway.staged-persona.fulcrum-s01.1331019",
+  "manuscript_hash": "d208e11443cf99bcb8fc3521241be9afe7ff4181628708d9dd3d02e15ee94fe3",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.parallel-book-persona.fulcrum-s01.1331019",
+      "raw_char_end": 538,
+      "raw_char_start": 0,
+      "raw_hash": "cdae59208a36c9b285e3f6f4f4e8f53b23537dff3f98b814be85e88cadb92842",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v49-s01-staged-runways/runways/raw/sparks/spark.parallel-book-persona.fulcrum-s01.1331019.txt",
+      "role": "opening-spark",
+      "span_id": "spark.parallel-book-persona.fulcrum-s01.1331019",
+      "text_hash": "9d4d30b38ef4199d369b4a27c6cb2b359e2d048f6d8cfe50cb4a8618f4ae81fa"
+    },
+    {
+      "call_id": "runway.staged-persona.fulcrum-s01.1331019",
+      "raw_char_end": 1386,
+      "raw_char_start": 0,
+      "raw_hash": "805c1617b65397d0b4b7b7306aa30f3a1973653ea33b281020c213e0b078a348",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v49-s01-staged-runways/runways/raw/staged/runway.staged-persona.fulcrum-s01.1331019.txt",
+      "role": "opening-runway-continuation",
+      "span_id": "runway.staged-persona.fulcrum-s01.1331019.continuation",
+      "text_hash": "c3277943393fd71b707e842c3f23bcc48bd7d1bc2a9f77d865c93e24c4bddc62"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

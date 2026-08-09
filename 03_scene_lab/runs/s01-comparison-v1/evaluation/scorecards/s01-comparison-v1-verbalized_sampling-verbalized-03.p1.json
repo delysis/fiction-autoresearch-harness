@@ -1,0 +1,375 @@
+{
+  "candidate_id": "s01-comparison-v1-verbalized_sampling-verbalized-03",
+  "defects": [],
+  "eligible": false,
+  "gate_details": {
+    "beat_order": {
+      "all_found": false,
+      "beats": [
+        {
+          "beat": "compound_beauty_and_asymmetry",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "adrian_frames_game",
+          "evidence": "Adrian laughed, a warm, resonant sound. \"A bit more ambitious than that. Come inside. The evening calibration",
+          "found": true,
+          "fraction": 0.1606,
+          "position": 2968
+        },
+        {
+          "beat": "livia_uncanny_reads",
+          "evidence": "Livia Sloane approached. She was beautiful in a way that felt engineered—symmetrical, vibrant, and entirely unblinking. She didn't offer a hand; she offered an ",
+          "found": true,
+          "fraction": 0.1957,
+          "position": 3617
+        },
+        {
+          "beat": "jonah_refuses_to_perform",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "wrist_contact_and_charge",
+          "evidence": "contact at the wrist",
+          "found": true,
+          "fraction": 0.4129,
+          "position": 7632
+        },
+        {
+          "beat": "mara_control",
+          "evidence": "Mara; she was *cueing* her. She was using her own micro-expressions to trigger a predictable response in the subject, a social feedback loop that looked like te",
+          "found": true,
+          "fraction": 0.6772,
+          "position": 12516
+        },
+        {
+          "beat": "collapse_and_residual_mystery",
+          "evidence": null,
+          "found": false,
+          "fraction": null,
+          "position": null
+        },
+        {
+          "beat": "accepts_fellowship_and_hook",
+          "evidence": "decision. She would not expose Livia. To do so would be to play the game on Livia’s terms—to turn the room into a courtroom of competing interpretations. Instea",
+          "found": true,
+          "fraction": 0.6954,
+          "position": 12854
+        }
+      ],
+      "name": "beat_order",
+      "ordered": false,
+      "passed": false
+    },
+    "epistemic_separation": {
+      "mechanism_markers": 5,
+      "name": "epistemic_separation",
+      "observation_markers": 64,
+      "passed": true,
+      "thresholds": {
+        "mechanism": 3,
+        "observation": 3,
+        "uncertainty": 2
+      },
+      "uncertainty_markers": 9
+    },
+    "heat_ceiling": {
+      "matches": [],
+      "name": "heat_ceiling",
+      "passed": true
+    },
+    "locked_canon": {
+      "contradictions": [],
+      "name": "locked_canon",
+      "passed": true
+    },
+    "pov": {
+      "name": "pov",
+      "passed": true,
+      "pov": "Mara",
+      "suspicious_paragraphs": [],
+      "threshold": 1
+    },
+    "source_overlap": {
+      "name": "source_overlap",
+      "passed": true,
+      "suspicious_sources": [],
+      "thresholds": {
+        "eight_gram_jaccard": 0.12,
+        "exact_span_words": 18
+      }
+    },
+    "word_count": {
+      "count": 3168,
+      "diagnostic": "in_range",
+      "name": "word_count",
+      "passed": true,
+      "target": [
+        2800,
+        3600
+      ]
+    }
+  },
+  "hard_gates": {
+    "beat_order": false,
+    "epistemic_separation": true,
+    "heat_ceiling": true,
+    "locked_canon": true,
+    "pov": true,
+    "source_overlap": true,
+    "word_count": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1",
+  "label_order": [
+    "X278"
+  ],
+  "passage_evidence": {
+    "character_truth": [
+      "treating a human being like a piece of telemetry data"
+    ],
+    "epistemic_texture": [
+      "small, uncanny remainder that neither Livia’s skill nor Adrian’s models"
+    ],
+    "heat_with_agency": [
+      "protecting her ability to say no"
+    ],
+    "instructional_fidelity": [
+      "turned her internal landscape into a fortress of static"
+    ],
+    "narrative_force": [
+      "I think we’re about to find out"
+    ],
+    "prose_and_voice": [
+      "cathedral designed by a hedge fund"
+    ],
+    "theological_coherence": [
+      "This is sensation. This is desire. This is not the whole truth"
+    ]
+  },
+  "romance_diagnostics": {
+    "attraction_and_impediment": {
+      "description": "The first encounter introduces attraction and impediment together.",
+      "evidence": {
+        "attraction": true,
+        "impediment": true
+      },
+      "passed": true
+    },
+    "attraction_changes_attention": {
+      "evidence": "erotic charge of the contact intensified, but it changed shape",
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "description": "Intimacy reveals character before describing mechanics.",
+      "evidence": "Requires editorial judgment of emphasis and consequence.",
+      "passed": null
+    },
+    "competence_and_restraint": {
+      "description": "Competence attraction and morally attractive restraint arise from action.",
+      "evidence": {
+        "competence": true,
+        "restraint": true
+      },
+      "passed": true
+    },
+    "contact_changes_story": {
+      "description": "Physical contact changes knowledge, choice, or relationship.",
+      "evidence": {
+        "contact_present": true,
+        "mechanism_after_contact": true
+      },
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "description": "Dialogue and atmosphere participate in the intimacy.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "dialogue_present": true
+      },
+      "passed": true
+    },
+    "freedom_increases": {
+      "evidence": "protecting her ability to say no",
+      "passed": true
+    },
+    "pacing": {
+      "arrival_and_hook": {
+        "evidence": "bakery box",
+        "found": true,
+        "position_fraction": 0.015,
+        "target": [
+          0.0,
+          0.1
+        ],
+        "within_target": true
+      },
+      "collapse_and_residual_mystery": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.82,
+          0.94
+        ],
+        "within_target": false
+      },
+      "fulcrum_enchantment": {
+        "evidence": "redwood",
+        "found": true,
+        "position_fraction": 0.0017,
+        "target": [
+          0.1,
+          0.25
+        ],
+        "within_target": false
+      },
+      "jonah_recognition_and_hook": {
+        "evidence": null,
+        "found": false,
+        "position_fraction": null,
+        "target": [
+          0.94,
+          1.0
+        ],
+        "within_target": false
+      },
+      "livia_uncanny_reads": {
+        "evidence": "Livia wasn't just looking at her; she was read",
+        "found": true,
+        "position_fraction": 0.2297,
+        "target": [
+          0.25,
+          0.45
+        ],
+        "within_target": false
+      },
+      "mara_control": {
+        "evidence": "change the channel",
+        "found": true,
+        "position_fraction": 0.7048,
+        "target": [
+          0.65,
+          0.82
+        ],
+        "within_target": true
+      },
+      "wrist_contact_and_charge": {
+        "evidence": "wrist",
+        "found": true,
+        "position_fraction": 0.3807,
+        "target": [
+          0.45,
+          0.65
+        ],
+        "within_target": false
+      }
+    },
+    "relationship_delta": {
+      "description": "Romantic progress changes knowledge, trust, desire, or future possibility.",
+      "evidence": {
+        "future_or_choice_marker": true
+      },
+      "passed": true
+    },
+    "romance_turn": {
+      "description": "The scene contains recognition, interruption or impediment, chosen response, and a forward-driving romantic question.",
+      "evidence": {
+        "future_question": true,
+        "impediment": true,
+        "recognition": true
+      },
+      "passed": true
+    },
+    "selective_senses": {
+      "description": "At least three well-chosen sensory channels carry the encounter.",
+      "evidence": {
+        "active_channels": [
+          "sight",
+          "sound",
+          "touch",
+          "smell",
+          "taste"
+        ],
+        "counts": {
+          "sight": 35,
+          "smell": 6,
+          "sound": 14,
+          "taste": 1,
+          "touch": 17
+        }
+      },
+      "passed": true
+    },
+    "selective_sensory_channels": {
+      "evidence": "warmth of his hand and the rhythmic thrum of her own blood",
+      "passed": true
+    },
+    "trope_execution": {
+      "description": "Tropes gain specificity or productive variation rather than merely appearing.",
+      "evidence": "Requires comparative editorial judgment.",
+      "passed": null
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "epistemic_texture": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 80.0,
+      "weight": 15.0,
+      "weighted_points": 12.0
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "narrative_force": {
+      "raw_0_100": 85.0,
+      "weight": 20.0,
+      "weighted_points": 17.0
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 85.0,
+      "weight": 10.0,
+      "weighted_points": 8.5
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 13.5,
+    "epistemic_texture": 9.2,
+    "heat_with_agency": 12.0,
+    "instructional_fidelity": 14.25,
+    "narrative_force": 17.0,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 8.5
+  },
+  "schema_version": "1.0",
+  "summary": "X278 is an exceptional execution of the scene spec. It handles the complex 'calibration' mechanism with precision, moving from the apparent miracle to the discovery of the cue-channel, and finally to the 'uncanny remainder' that establishes the romantic bond. Mara's agency is central; she doesn't just resist, she actively modifies the epistemic conditions of the room. The prose is sophisticated, avoiding generic AI cadences, and the theological integration of desire and restraint is embodied rather than preached.",
+  "text_sha256": "0624a5c29a7088ae42e63389db6f4ee68ceafc4ce7524e8c472c8c9a9b225a39",
+  "total_score": 87.65
+}

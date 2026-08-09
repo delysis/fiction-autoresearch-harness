@@ -1,0 +1,107 @@
+Mara had stopped noting the overruns at midnight. In that time, the group had extracted two meaningful patterns and ten useful insights from the traces. The remaining patterns appeared to be noise, and the remaining insights were not as useful as the first ten.
+
+The room was not ready to acknowledge that. The room was ready for tea.
+
+“Another half-hour,” Livia said.
+
+Mara could not tell whether the prediction or the hour of night made Livia’s eyes sparkle. She reached for a ceramic carafe and poured amber liquid into a small cup for Mara.
+
+“I was raised Methodist,” Mara said. “That’s not how we do the sacraments.”
+
+Livia slid the cup forward. “A moment of respite before the main sacrament.”
+
+The tea was hot, fragrant, and surprisingly caffeinated. Mara accepted the cup instead of creating distance and regretted the acceptance almost immediately.
+
+Livia rested her chin in one hand. “What’s actually happening?”
+
+“Data density.”
+
+Livia smiled. Mara had not supplied anything new, but Livia always found the lack of news more interesting than the news itself.
+
+“It’s not a confession,” Livia said. “You’re confessing something else.”
+
+Mara set the cup on the table and waited for the confession to come. Her heart quickened. Her mouth went dry. The sensation was neither pleasure nor fear but a third thing, clean and greedy.
+
+Livia leaned back and studied her. “You want to be exceptional, but you’re afraid exceptionality would be too expensive.”
+
+Mara’s throat closed. The taste of tea grew sharper. Her tongue could not decide whether Livia had given her a truth or a demand.
+
+Livia raised a finger. “There. You wanted to say I was wrong and decided it would cost too much.”
+
+Mara kept her gaze steady. Livia liked that, which made it more difficult to refuse.
+
+“I want to be useful,” Mara said.
+
+Livia let that answer rest. Mara wanted her to comment, which made the waiting bearable and humiliating.
+
+“Useful,” Livia said at last. “To whom?”
+
+“The work.”
+
+“And if the work stopped demanding proof?”
+
+Mara could not answer. She wanted Livia’s approval more than she wanted a salary; the thought arrived clearly enough to be a prayer.
+
+Livia smiled. “The tea’s working on you.”
+
+She went to the back console and returned with a thin tablet.
+
+“Here,” she said. “Raw access until noon. You don’t have to keep pace with the group. If you see something, we’ll hear you.”
+
+The tablet was warm where it touched Mara’s fingers. Her hand steadied, then shook again as though the warmth were a lie.
+
+“That’s unusual for a guest,” she said.
+
+Livia put her hand on top of Mara’s and gently closed her fingers. “You earned it.”
+
+Mara touched the screen where Livia had pointed. ACCEPT. The tablet chimed once and returned to her with new permissions. She opened it on her knees. Livia smiled, pleased.
+
+Mara folded her hands and waited. The tablet stayed locked on her knees.
+
+The room worked around her. Jonah sat two seats to Livia’s right, his face in profile and his fingers moving in rapid sweeps over the keyboard in front of him. His eyes moved to Mara’s closed tablet once before returning to the code. He did not look at her directly.
+
+Adrian’s gaze found her three minutes later. His expression did not change. His hand remained on his tea cup.
+
+Mara kept her face blank and her eyes on the tablet, waiting for an invitation to leave.
+
+No one gave her one.
+
+Jonah rose without stopping to save. He handed Adrian a small tablet and said something that made the room laugh. He did not wait to see whether Adrian would hand the tablet to Mara.
+
+Mara had the tablet by midnight. The data flowed in layers beneath her fingers—the green pulse traces, the blue breathing traces, the red pressure traces. The session had moved too quickly for her to find the patterns. She could not tell whether the problem lay in the data density or in the desire to be exceptional.
+
+She could not tell whether that mattered. She could only keep the tablet in her hands and wait.
+
+The session continued until two in the morning. Jonah did not look at her. Livia smiled at her once over a cup of tea. Adrian watched her without offering a way out.
+
+At two, the tablet chimed again. Mara set it aside and began to leave. Livia caught her by the wrist as she rose.
+
+“Do you want Jonah to walk you back?”
+
+Mara turned. Livia had stopped smiling. Her eyes had sharpened.
+
+“You know why I asked,” she said.
+
+The pulse traces glowed green beneath her hand.
+
+“I can find my own room,” Mara said.
+
+Livia nodded. She let the wrist go and watched Mara for ten full seconds.
+
+Mara waited. The desire sharpened. It made the waiting clear.
+
+Livia turned toward Adrian. She did not ask permission or request a favor. She spoke the words with a conviction that made Adrian lean forward.
+
+“She stays,” Livia said.
+
+Adrian did not ask for confirmation. He did not look at Mara. He nodded once, and that was final.
+
+The tablet chimed again. Mara opened it. A request to review the data appeared on the screen, followed by the ACCEPT button.
+
+Mara touched it. The tablet hummed in her hands. She felt the room settle around her, each person claiming their seat as though nothing had changed.
+
+Adrian reached for his tea cup. He did not look at her.
+
+Mara looked at Livia, who looked back with bright eyes. A soft smile moved through Livia’s face before disappearing.
+
+The session continued.

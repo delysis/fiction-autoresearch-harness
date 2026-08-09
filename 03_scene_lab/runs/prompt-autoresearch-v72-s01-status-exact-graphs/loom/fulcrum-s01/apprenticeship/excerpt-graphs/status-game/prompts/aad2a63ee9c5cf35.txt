@@ -1,0 +1,53 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+At that he broke into a laugh.
+
+"Just imagine," she said, "how stupid and unobservant I was! I knew
+nothing of all this till Granny blurted it out one day. New York simply
+meant peace and freedom to me: it was coming home. And I was so happy
+at being among my own people that every one I met seemed kind and good,
+and glad to see me. But from the very beginning," she continued, "I
+felt there was no one as kind as you; no one who gave me reasons that
+I understood for doing what at first seemed so hard and--unnecessary.
+The very good people didn't convince me; I felt they'd never been
+tempted. But you knew; you understood; you had felt the world outside
+tugging at one with all its golden hands--and yet you hated the things
+it asks of one; you hated happiness bought by disloyalty and cruelty
+and indifference. That was what I'd never known before--and it's better
+than anything I've known."
+
+She spoke in a low even voice, without tears or visible agitation; and
+each word, as it dropped from her, fell into his breast like burning
+lead. He sat bowed over, his head between his hands, staring at the
+hearth rug, and at the tip of the satin shoe that showed under her
+dress. Suddenly he knelt down and kissed the shoe.
+
+She bent over him, laying her hands on his shoulders, and looking at
+him with eyes so deep that he remained motionless under her gaze.
+
+"Ah, don't let us undo what you've done!" she cried. "I can't go back
+now to that other way of thinking. I can't love you unless I give you
+up."
+
+His arms were yearning up to her; but she drew away, and they remained
+facing each other, divided by the distance that her words had created.
+Then, abruptly, his anger overflowed.
+
+"And Beaufort? Is he to replace me?"
+
+As the words sprang out he was prepared for an answering flare of
+anger; and he would have welcomed it as fuel for his own. But Madame
+Olenska only grew a shade paler, and stood with her arms hanging
+down before her, and her head slightly bent, as her way was when she
+pondered a question.
+
+"He's waiting for you now at Mrs. Struthers's; why don't you go to
+him?" Archer sneered.
+
+She turned to ring the bell. "I shall not go out this evening; tell the
+carriage to go and fetch the Signora Marchesa," she said when the maid
+came.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

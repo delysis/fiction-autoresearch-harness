@@ -1,0 +1,28 @@
+{
+  "arm": {
+    "arm_id": "lc08-contract",
+    "control_density": "full",
+    "evidence_variant": "none",
+    "layout": "contract-first",
+    "target_prompt_words": 8000
+  },
+  "component_hashes": {
+    "contract": "13463b6797389335e95eb0bfac37e20154b210912f3f3ea567c5fcc186406670",
+    "evidence": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "manuscript": "b66f5d1bc25f955c230cde91cde68204279edc03862191624672ba9b1ee2edc5",
+    "preamble": "3b219f698fed1bc946621e9c5d8f3639ec800fc9af583bebde1a4f2ff3e1b046"
+  },
+  "component_words": {
+    "contract": 297,
+    "evidence": 0,
+    "manuscript": 5886,
+    "preamble": 342
+  },
+  "manuscript_hash": "865d50a2f98638afa2948030fb86d511d8f0120ae328f682a773da602811e575",
+  "program_hash": "b0a66b65de0facaeffd67285fd2277b45d8ae863be10ef60bbd21488b0cdcc17",
+  "prompt_hash": "e34369f924a1a56c5c6bb0785e1486e06f0299cb4067869a07496709fc5054d6",
+  "prompt_path": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s03-long-context-base-v2/prompts/lc08-contract.prompt.txt",
+  "prompt_words": 6227,
+  "record_type": "LongContextPrompt",
+  "version": "long-context.base31.v2"
+}

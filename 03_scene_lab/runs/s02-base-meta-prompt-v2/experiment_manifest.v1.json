@@ -1,0 +1,496 @@
+{
+  "arms": [
+    {
+      "arm_id": "short-control-4k",
+      "canonical_prefix_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "demonstration_ids": [],
+      "family": "short-control",
+      "library_source_ids": [],
+      "nominal_context_tokens": 4000,
+      "prompt_hash": "1ec65b849d9b97b4ed8d33e8a8730811993f7590b117567583ad013e018b8ccc",
+      "prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v2/prompts/short-control-4k.txt",
+      "prompt_words": 3517,
+      "target_packet_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f"
+    },
+    {
+      "arm_id": "paired-icl-16k",
+      "canonical_prefix_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "demonstration_ids": [
+        "s01-gift-status",
+        "s01-somatic-control",
+        "s01-method-audit"
+      ],
+      "family": "paired-icl",
+      "library_source_ids": [],
+      "nominal_context_tokens": 16000,
+      "prompt_hash": "5e099a716509d164f6092578d44d9c855fc3af2668b2561247bebe2e11699d7d",
+      "prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v2/prompts/paired-icl-16k.txt",
+      "prompt_words": 14401,
+      "target_packet_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f"
+    },
+    {
+      "arm_id": "raw-prose-64k",
+      "canonical_prefix_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "demonstration_ids": [],
+      "family": "raw-prose-library",
+      "library_source_ids": [
+        "sense_and_sensibility.chapter-017",
+        "pride_and_prejudice.chapter-001",
+        "pride_and_prejudice.chapter-004",
+        "pride_and_prejudice.chapter-054",
+        "pride_and_prejudice.chapter-047",
+        "pride_and_prejudice.chapter-007",
+        "sense_and_sensibility.chapter-013",
+        "pride_and_prejudice.chapter-008",
+        "sense_and_sensibility.chapter-020",
+        "pride_and_prejudice.chapter-005",
+        "emma.chapter-046",
+        "pride_and_prejudice.chapter-032",
+        "pride_and_prejudice.chapter-010",
+        "pride_and_prejudice.chapter-009",
+        "pride_and_prejudice.chapter-002",
+        "pride_and_prejudice.chapter-019",
+        "emma.chapter-007",
+        "sense_and_sensibility.chapter-024",
+        "pride_and_prejudice.chapter-030",
+        "pride_and_prejudice.chapter-057",
+        "pride_and_prejudice.chapter-058",
+        "sense_and_sensibility.chapter-018"
+      ],
+      "nominal_context_tokens": 64000,
+      "prompt_hash": "763aee49a153eddfba7a47b00ee5b243acf41685cb20fff7b351c049e6a49ebc",
+      "prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v2/prompts/raw-prose-64k.txt",
+      "prompt_words": 46610,
+      "target_packet_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f"
+    },
+    {
+      "arm_id": "full-stack-64k",
+      "canonical_prefix_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "demonstration_ids": [
+        "s01-gift-status",
+        "s01-somatic-control",
+        "s01-method-audit"
+      ],
+      "family": "full-stack",
+      "library_source_ids": [
+        "sense_and_sensibility.chapter-017",
+        "pride_and_prejudice.chapter-001",
+        "pride_and_prejudice.chapter-004",
+        "pride_and_prejudice.chapter-054",
+        "pride_and_prejudice.chapter-047",
+        "pride_and_prejudice.chapter-007",
+        "sense_and_sensibility.chapter-013",
+        "pride_and_prejudice.chapter-008",
+        "sense_and_sensibility.chapter-020",
+        "pride_and_prejudice.chapter-005",
+        "emma.chapter-046",
+        "pride_and_prejudice.chapter-032",
+        "pride_and_prejudice.chapter-010",
+        "pride_and_prejudice.chapter-009",
+        "pride_and_prejudice.chapter-002",
+        "pride_and_prejudice.chapter-019"
+      ],
+      "nominal_context_tokens": 64000,
+      "prompt_hash": "12e896dc4f053d3e794387407f5d5368e9c56ef221435d57d5a80f7563ce61bd",
+      "prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v2/prompts/full-stack-64k.txt",
+      "prompt_words": 45779,
+      "target_packet_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f"
+    },
+    {
+      "arm_id": "full-stack-128k",
+      "canonical_prefix_hash": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+      "demonstration_ids": [
+        "s01-gift-status",
+        "s01-somatic-control",
+        "s01-method-audit"
+      ],
+      "family": "full-stack",
+      "library_source_ids": [
+        "sense_and_sensibility.chapter-017",
+        "pride_and_prejudice.chapter-001",
+        "pride_and_prejudice.chapter-004",
+        "pride_and_prejudice.chapter-054",
+        "pride_and_prejudice.chapter-047",
+        "pride_and_prejudice.chapter-007",
+        "sense_and_sensibility.chapter-013",
+        "pride_and_prejudice.chapter-008",
+        "sense_and_sensibility.chapter-020",
+        "pride_and_prejudice.chapter-005",
+        "emma.chapter-046",
+        "pride_and_prejudice.chapter-032",
+        "pride_and_prejudice.chapter-010",
+        "pride_and_prejudice.chapter-009",
+        "pride_and_prejudice.chapter-002",
+        "pride_and_prejudice.chapter-019",
+        "emma.chapter-007",
+        "sense_and_sensibility.chapter-024",
+        "pride_and_prejudice.chapter-030",
+        "pride_and_prejudice.chapter-057",
+        "pride_and_prejudice.chapter-058",
+        "sense_and_sensibility.chapter-018",
+        "sense_and_sensibility.chapter-003",
+        "sense_and_sensibility.chapter-015",
+        "sense_and_sensibility.chapter-022",
+        "mansfield_park.chapter-030",
+        "pride_and_prejudice.chapter-006",
+        "mansfield_park.chapter-012",
+        "emma.chapter-028",
+        "mansfield_park.chapter-015",
+        "emma.chapter-029",
+        "pride_and_prejudice.chapter-024",
+        "sense_and_sensibility.chapter-014",
+        "pride_and_prejudice.chapter-039",
+        "mansfield_park.chapter-023",
+        "pride_and_prejudice.chapter-026",
+        "emma.chapter-040"
+      ],
+      "nominal_context_tokens": 128000,
+      "prompt_hash": "04db7d2fd28ff2489a56d8ddee11d9351b46ace079403a4971d8c44dee36115e",
+      "prompt_path": "03_scene_lab/runs/s02-base-meta-prompt-v2/prompts/full-stack-128k.txt",
+      "prompt_words": 92583,
+      "target_packet_hash": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f"
+    }
+  ],
+  "canonical_s01": {
+    "path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+    "sha256": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce"
+  },
+  "created_at": "2026-08-01T17:45:06.894746+00:00",
+  "demonstrations": [
+    {
+      "demonstration_id": "s01-gift-status",
+      "ledger": "Phase: arrival status\n1. Given: Mara arrives alone at sunset with everything she brought in one suitcase.\n   Action (Mara): She carries a hard-sided suitcase and a bakery box from her church.\n   Visible response: The homemade food looks conspicuous against the compound's controlled welcome.\n   What changes: Her attempt at hospitality becomes the first object available for public interpretation.\n2. Given: Adrian praises Mara's punctual arrival.\n   Action (Mara, Adrian): Mara raises the box and jokes that she brought something not synthesized.\n   Visible response: Adrian calls authenticity rare and immediately folds the gift into Fulcrum's vocabulary.\n   What changes: Her joke earns attention but shows how quickly the institution can appropriate her terms.\n3. Given: Mara still has the bakery box pressed against her ribs.\n   Action (Livia, Mara): Livia calls the box a shield in front of the circle.\n   Visible response: Mara tightens her grip and corrects Livia: it is an offering.\n   What changes: Livia turns hospitality into evidence; Mara answers without surrendering the object's meaning.\n4. Given: Livia's first demonstration leaves the circle hushed.\n   Action (Jonah, Livia, Mara): Jonah offers a mundane alternative explanation involving a missing attachment.\n   Visible response: The room's held tension breaks and Mara locates the speaker.\n   What changes: A joke makes epistemic humility socially available without denying Livia's skill.\nPhase: calibration contact\n5. Given: Adrian assigns Jonah to facilitate Mara's tactile calibration.\n   Action (Jonah, Mara): Jonah asks Mara's permission before touching her wrist.\n   Visible response: Mara notices that a routine question changes the quality of the whole exercise.\n   What changes: Contact begins as her choice rather than the room's entitlement.\n6. Given: Mara's accurate response exposes something private in Jonah.\n   Action (Jonah, Mara): Jonah starts a joke, stops, and lets the private recognition remain unperformed.\n   Visible response: Mara sees his restraint cost him an easy recovery of status.\n   What changes: Their attraction acquires a private fact neither converts into spectacle.\n7. Given: Mara and Jonah have just shared an accurate private read.\n   Action (Livia, Mara, Jonah): Livia praises Mara's result loudly enough to make the circle claim it.\n   Visible response: Jonah pulls back and Mara becomes aware of the audience again.\n   What changes: The room converts intimacy into status data, giving Mara a reason to test the channel.\n8. Given: Livia continues narrating the dyad from outside it.\n   Action (Mara, Livia, Jonah): Mara catches Livia watching Mara's reaction to Jonah rather than Jonah alone.\n   Visible response: She separates the bodily response from Livia's claim about its meaning.\n   What changes: The observer's influence becomes part of the mechanism under examination.\nPhase: counter test mystery\n9. Given: Mara can expose the mechanism or alter it silently.\n   Action (Mara, Jonah): She increases wrist contact while decoupling her internal state from the outward cues.\n   Visible response: The pair remains physically close while the informational channel degrades.\n   What changes: Her control tests the method without turning Jonah or Livia into public trophies.\n10. Given: Livia asks Jonah when Mara's assigned state clicks into place.\n   Action (Jonah, Livia, Mara): Jonah reports that it did not click; it went quiet.\n   Visible response: The circle has to register a failed prediction instead of a mystical success.\n   What changes: Jonah corroborates Mara's control at a small public cost to the demonstration.\n11. Given: The room has witnessed the miss and Livia's recovery attempt.\n   Action (Adrian, Mara, Livia): Adrian calls the result a deviation and watches the group's reaction.\n   Visible response: Nobody knows whether Mara has failed or produced a more interesting result.\n   What changes: Mara's status becomes uncertain rather than simply victorious.\n12. Given: The calibration circle is breaking up around the unopened church gift.\n   Action (Mara, Fulcrum fellows): Mara chooses to stay and redirects the room toward opening and eating what she brought.\n   Visible response: The bakery box becomes shared food instead of a symbol the room can keep interpreting.\n   What changes: She enters the fellowship through one concrete act she authors, with her curiosity about Jonah and the method unresolved.\nLocal stopping state: Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+      "ledger_hash": "f4d247e9dd4557225a53c7efdfbc01c9f17a84251f245b388a0affc3fb00fe1a",
+      "prose": "The gate opened before Mara could decide whether to honk.\n\nShe drove through with the bakery box braced against the passenger door and her suitcase lying flat in the back, because arriving at a residential fellowship with one suitcase looked intentional, while arriving with two looked like a person had brought contingencies. The distinction had mattered at noon. Beneath the redwoods, with sunset snagged in their upper branches and three glass buildings watching her come up the drive, it seemed less robust.\n\nThe box slid when she stopped. Mara caught it with one hand.\n\n“Fine,” she told the cardamom buns. “At least one of us has yeast.”\n\nA man on the terrace laughed.\n\nAdrian Voss wore a white shirt with its sleeves rolled twice, precisely enough that Mara suspected an assistant or a ruler. He came down the steps as she got out, but stopped short of taking either the suitcase handle or the bakery box. This spared her the small humiliating negotiation over which burden she was permitted to carry.\n\n“Six fifty-nine,” he said. “I was told you were punctual.”\n\nMara lifted the box. “I brought something that wasn’t synthesized.”\n\n“Even rarer.” Adrian read the church sticker on the lid without appearing to. “A contribution before you’ve been asked. You’ll do well here.”\n\nHe made it sound as if she had passed a gate less visible than the one behind them.\n\nThe main pavilion had no front desk. It had a long table bearing six kinds of sparkling water and, at the far end, a woman entering notes at a side console. Her observer badge said MIRIAM HOLT. She looked up once, included Mara in the count of the room, and returned to her screen.\n\nNobody else looked away so cleanly.\n\nA cable crossed the floor beneath a strip of yellow tape. Someone had written TEMPORARY on the tape in permanent black ink.\n\nThe people nearest the open doors occupied whole pieces of furniture. Shoes came off. Arms lay along sofa backs. Nearer the walls, fellows worked around one another’s knees and charging cables. A young man vacated half a bench when Adrian glanced at him, then smiled at Mara as though the space had been his idea.\n\n“We’re informal,” Adrian said.\n\n“I can tell.”\n\nHis smile sharpened. Mara had meant it both ways and was relieved he had heard at least one.\n\nA woman in a green dress crossed the circle. She was barefoot, carrying somebody else’s coffee, and the room adjusted around her without ever seeming to move. She gave the cup to its owner, stole the strawberry from his plate, and stopped in front of Mara.\n\n“Livia,” Adrian said, unnecessarily.\n\nLivia Sloane’s attention landed first on Mara’s face, then on her shoes, then on the white bakery box held high against her ribs. The sequence was fast enough to feel like one look.\n\n“You brought a shield,” Livia said.\n\n“It’s an offering.” Mara tightened her grip anyway.\n\n“Those have historically been dangerous.”\n\n“Only to people with allergies.”\n\nLivia grinned. It transformed her from beautiful to trouble. “What kind?”\n\n“Cardamom. Honey. The church kitchen was divided on orange peel.”\n\n“And which faction prevailed?”\n\n“The faction that owns the zester.”\n\nLivia took the box from her. Not abruptly; she simply put both hands under it and waited until Mara either surrendered it or made the transfer strange. Her palms were warm against Mara’s knuckles.\n\n“Come settle the matter,” Livia said to the circle. “Our newest fellow has arrived bearing an unresolved schism.”\n\nThe box moved away in her hands. Mara’s arms felt conspicuously empty.\n\nAdrian indicated the open place on the bench. “We were beginning calibration.”\n\n“Before dinner?” Mara asked.\n\n“It improves dinner.”\n\n“That is a claim requiring controls.”\n\nLivia set the box on the central table without opening it. “Good. She’s going to be annoying.”\n\n“You say that like a recommendation,” Mara said.\n\n“I meant it as one.”\n\nAdrian took the center of the circle. He did not ask for quiet. He waited, and quiet arranged itself.\n\n“Alignment begins before language,” he said. “Most people think speech is where intention becomes social. By then, the larger part of the event has already occurred. Breath, posture, timing, distance. We spend our lives broadcasting in channels we refuse to acknowledge, then call it intuition when somebody receives us accurately.”\n\nAcross from Mara, a fellow named Ethan folded his phone face down on his thigh.\n\nLivia saw it too.\n\n“You sent your father a conciliatory email,” she said.\n\nEthan’s fingers tightened around the phone.\n\n“Yesterday,” Livia continued. “You removed the apology before sending because you wanted the fact of reaching out without letting him think he’d won. He replied this afternoon. You haven’t opened it.”\n\nEthan gave a short laugh with no amusement in it. “That’s specific.”\n\n“So is the way you keep checking the first line of the notification without touching the screen.”\n\nHe turned the phone over. A preview glowed there. He put his thumb on it, then took his thumb away.\n\nThe room held still around him.\n\nFrom a workstation near the windows, a man said, “Or he forgot the attachment.”\n\nThe stillness broke in several places at once. Ethan swore. Someone laughed. Livia turned toward the workstation with a strawberry leaf still caught between two fingers.\n\n“Your commitment to bathos is a medical condition, Jonah.”\n\n“I’m hoping for a grant.”\n\n“Read the newcomer.”\n\nJonah looked at Mara. “No.”\n\n“Too difficult?”\n\n“She didn’t ask.”\n\nAdrian’s expression remained pleasant. Jonah bent over the sensor puck again, and nobody gave him back the laugh.\n\nThe opened sensor puck lay beneath his hands, a screwdriver between his fingers. Dark hair fell across his forehead each time he looked down. He did not take a bow for the laugh he had caused. He did look at Mara, once, with quick interest, before returning the screw to its housing.\n\nLivia came back to Mara.\n\n“You stopped twelve minutes from the gate,” she said.\n\nMara’s stomach contracted.\n\nLivia touched the doubled strip of tape on the bakery box. “You opened this, checked whether the glaze had survived, and closed it again. You considered eating one. You decided arriving with nineteen would require an explanation.”\n\n“There are eighteen.”\n\n“You ate one in the church parking lot.”\n\nMara stared at her.\n\nLivia’s eyes brightened. “Didn’t you?”\n\n“Half of one.”\n\n“Ah. Scruples.”\n\n“Quality assurance.”\n\n“Was it good?”\n\n“I brought the other eighteen.”\n\nLivia laughed, delighted rather than triumphant. She laid a finger against the tape and withdrew it. “She can stay.”\n\nAdrian’s gaze moved from Livia to Mara, measuring something that neither woman had offered him. “Let’s give her something harder than pastry.”\n\nAssistants distributed thin sensor bands and paired the circle. Jonah closed the puck, slid it into a charging cradle, and came over at Adrian’s gesture.\n\n“Jonah Reed,” Adrian said. “Hardware security and chronic dissent. He’ll facilitate your first tactile calibration.”\n\n“That sounds consensual when you say it quickly,” Jonah said.\n\nAdrian’s attention moved on before the joke finished costing him anything.\n\nJonah pulled a low chair opposite Mara’s. Between them, a tablet displayed two red traces and a blank field labeled OBSERVER NOTES. He fastened one sensor loosely around his own wrist, then held out the other.\n\n“May I put this on you?”\n\nThe question was ordinary. In the circle, it was almost disruptive.\n\nMara offered her left arm. “Yes.”\n\nHe fitted the band without pinching her skin and rotated the clasp away from the tender inside of her wrist. A green light appeared. Her pulse assembled itself on the tablet in steep little peaks.\n\n“Contact protocol,” Livia said from behind Jonah. “Receiver puts two fingers below the signal’s pulse. Signal recalls an event and holds the bodily state. Receiver reports observation before interpretation.”\n\n“They really say that last part?” Mara asked.\n\nJonah glanced up. “On the first day.”\n\n“And after?”\n\n“People get promoted.”\n\nLivia nudged his chair with her bare foot. “Try not to poison the controls before we have any.”\n\nJonah turned his palm upward between them. “You can receive first. If you’d rather stop, stop.”\n\nMara placed two fingers against his wrist.\n\nHis pulse was slower than hers. The skin there was warm, the tendons shifting when he settled his hand on his knee. She had expected contact to simplify him into signals. Instead it made every available fact compete: the nick beside his thumbnail, the faint vibration of a laugh he had not made, the deliberate stillness of his forearm.\n\n“Ready,” Adrian said.\n\nJonah looked at a prompt on his tablet. His pulse altered by four beats, then steadied.\n\nMara closed her eyes. There was a tightening under her fingertips that did not match fear. His breathing remained easy. The stillness in his arm required effort; she could feel the effort arriving and being corrected.\n\n“You’re waiting for something to fail,” she said.\n\nThe muscles beneath her fingers changed.\n\n“Not hoping,” Mara added. “You think you warned somebody. You’re waiting to learn whether warning them counted.”\n\nJonah drew breath for a joke. She felt it gather in his chest and travel toward his mouth. Then he let the breath out through his nose.\n\nNothing came.\n\nHis silence put heat under Mara’s skin more efficiently than a clever answer would have. He could have taken the room back. He let her keep what she had found.\n\nLivia clapped once.\n\n“There she is,” she said to the circle. “First pass, no training, and she catches the moral defense under the target state.”\n\nHeads turned. Someone behind Mara asked what the assigned state had been. Jonah removed his wrist from beneath her fingers.\n\n“Relief,” he said.\n\nThe word changed the shape of her answer. Mara looked at him. He had offered the room only the prompt, not the thing she had touched underneath it.\n\nLivia leaned over his shoulder to study Mara’s trace. “Her pulse jumped before the second inference.”\n\n“You’re watching the wrong wrist,” Jonah said.\n\n“I’m watching the interesting one.”\n\nMara’s pulse rose again. The tablet displayed it faithfully.\n\nLivia smiled at the screen. “Exhibit B.”\n\nThe group laughed. It was friendly laughter. That made its claim on the moment harder to refuse.\n\n“Switch,” Adrian said.\n\nJonah moved his chair six inches closer so Mara’s wrist could rest comfortably in his hand. Before he touched her, he waited.\n\nShe turned her arm palm-up.\n\nHis first two fingers settled below the sensor band. His thumb rested along the side of her wrist, not pressing. The contact was light and exact. Mara became aware of the air at her throat, the seam of her sleeve, the space between his knee and hers. Livia stood just beyond him, close enough that Mara could smell the strawberry on her fingers.\n\nThe tablet assigned Mara a state privately.\n\nLOCKED DOOR.\n\nShe nearly laughed. Fulcrum had built a machine to request metaphors one at a time.\n\n“Hold the sensation,” Livia said. “Don’t illustrate it. Let him find the event in the body.”\n\nMara summoned the moment after a church meeting when the last person had left and the old brass latch dropped into place. A finished room. A duty completed. Quiet on the other side of the door.\n\nJonah’s thumb pressed once.\n\nOn the tablet, her pulse climbed.\n\n“She’s closing something,” Livia said. Her gaze was not on Mara’s face. It moved between Jonah’s hand, the red trace, and Mara’s response to his nearness. “Not keeping danger out. Keeping herself unobserved while she decides what version of the truth will be admissible.”\n\nThe first part was good. The second part landed near a fear Mara had not placed in the memory.\n\nShe took one breath. The three seconds were not long enough to become holy, which made them useful.\n\nJonah’s thumb pressed again, exactly as the next peak rose on the screen.\n\nLivia watched Mara notice.\n\nThere it was: not a thought traveling from one body to another, but a loop. Pulse on glass. Pressure at the wrist. Mara’s response to Jonah. Livia’s appetite for the response. Each fact ordinary enough by itself.\n\nMara could have named the loop. The room would have admired her for naming it, and the loop would have learned her name.\n\nInstead she slid her wrist farther into Jonah’s hand.\n\nHis fingers opened to accommodate her. More skin met skin. Heat moved up her arm, unwelcome only in how much she welcomed it.\n\nMara changed the memory.\n\nShe pictured the church kitchen before dawn: flour on the steel counter, the proofing cloth lifted over a bowl, dough rising because warmth had entered it and been allowed to remain. She let the locked door go. She kept her face, shoulders, and breath where Livia expected them. Beneath Jonah’s hand her pulse began to settle.\n\nLivia tilted her head.\n\n“The bolt is almost home,” she said. “There’s resistance at the last—”\n\nMara slowed her exhale and brought back the sharp private pleasure of Livia guessing wrong. Her pulse kicked. She gave the kick no posture, no glance, no held breath to explain it.\n\nJonah’s thumb moved before the red peak appeared.\n\nThe pressure was firmer this time. A question, perhaps. Or a correction. Mara did not answer it.\n\nLivia looked at Jonah. “When does it click?”\n\nHe watched Mara for one second too long to be neutral.\n\n“It didn’t,” he said. “It went quiet.”\n\nThe circle lost its rhythm. A chair creaked. Somebody’s sensor band chimed because its wearer had stopped holding still.\n\nLivia’s smile remained, but surprise parted her lips. “No. There was a closure response.”\n\n“There was a pulse response.” Jonah did not release Mara’s wrist. “You supplied the closure.”\n\nAdrian stepped nearer the tablet. “Run it again.”\n\n“No,” Livia said.\n\nShe crouched beside Mara instead. At this height her face was level with Mara’s, her green dress pooling around her feet. She looked tired for the first time. It made her beauty less orderly and more dangerous.\n\n“You changed something after the first peak,” Livia said.\n\nMara waited.\n\n“You liked being accurately read. Then you noticed you liked it, and you punished the channel.”\n\nThat was not wholly wrong. Mara’s mouth went dry.\n\nLivia saw that too. Her expression softened by a degree. “What did you substitute?”\n\nThe request was quiet. The circle leaned toward it.\n\nMara could have answered with the kitchen, the cloth, the living rise under her hands. She wanted Livia to know she had not made herself empty. She wanted Jonah to know it too.\n\n“Another state,” Mara said.\n\nHurt crossed Livia’s face without lowering her chin. She sat back on her heels.\n\nAdrian studied the other fellows rather than Mara. Three were watching Livia. Two were looking at Jonah’s hand around Mara’s wrist. Ethan had opened his father’s email at last.\n\n“A deviation,” Adrian said. “Potentially a useful one.”\n\nNo one applauded.\n\nJonah loosened his hand. Before his thumb lifted, it gave one small pressure against Mara’s pulse.\n\nThis one did not correspond to anything on the tablet. The trace stayed level. Mara had not changed her breath or posture. She looked at him.\n\nHis attention was already on the sensor band, brows drawn as though the hardware had said something rude. Interested, certainly. Innocent, not demonstrably.\n\nMara withdrew her arm.\n\nThe room broke apart unevenly. Adrian called two fellows over to review the traces. Livia stood and reclaimed the bakery box from the center table.\n\n“We have neglected the control condition,” she said.\n\nShe peeled back the tape. Honey and cardamom entered the room without asking permission. Several people turned before Livia lifted the lid.\n\n“Eighteen,” she said.\n\n“Seventeen and a half,” Mara corrected.\n\nLivia chose one from the center and bit into it. Her eyes closed. The gesture was neither private nor entirely performed.\n\n“The orange-peel faction was right,” she said.\n\n“They usually are. They have equipment.”\n\nAdrian came to stand beside Mara, holding a small brass key on a cedar tag. “The guest room is available if you’d prefer to decide in the morning. This key is for the fellows’ house.”\n\nHe offered both possibilities in one hand.\n\nMara looked past him. Livia was tearing buns in half and distributing them according to an order only she knew. Jonah had returned to the opened sensor puck. He turned the screwdriver once, stopped, and glanced toward Mara’s wrist. At the side console, the calibration trace remained visible: one pale mark for each pressure event, one red line for her pulse.\n\nThe final pale mark sat alone. No peak beneath it. No observer note beside it.\n\n“The fellows’ house,” Mara said.\n\nAdrian placed the cedar tag in her palm.\n\nMara set her suitcase beside the bench and took the bakery box from Livia before it could become hers entirely.\n\n“Napkins,” Mara said. “If you’re going to eat church food, we have rubrics.”\n\nThe circle obeyed badly. Honey stuck to fingers and a crumb fell into the sensor cradle. Livia laughed with her mouth full. Jonah came over for the last half of a bun but did not explain the unmatched mark.\n\nNeither did Mara.",
+      "prose_hash": "d19e39aa8158ea0e8c11bfa4e72459549ea2a8479373fda88131e96ebc65b668",
+      "provenance": {
+        "packet_hash": "a951f35b418bb925f4f5d83af4cee3dcbc0b0015b4101fc032b3d08fdcd9cf34",
+        "packet_path": "03_scene_lab/runs/s01-atom-rewrite-v1/novelist_packets/s01-bundle-a-gift-status.novelist_packet.v1.json",
+        "prose_hash": "7db2afa282d90117b24d193c0cac66e23aa1483086a6dcd9962f9ab6d504eb36",
+        "prose_path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-a-gift-status.codex.v1.md"
+      }
+    },
+    {
+      "demonstration_id": "s01-somatic-control",
+      "ledger": "Phase: arrival status\n1. Given: Mara arrives alone at sunset with everything she brought in one suitcase.\n   Action (Mara): She carries a hard-sided suitcase and a bakery box from her church.\n   Visible response: The homemade food looks conspicuous against the compound's controlled welcome.\n   What changes: Her attempt at hospitality becomes the first object available for public interpretation.\n2. Given: Mara offers the bakery box on arrival.\n   Action (Adrian, Mara): Adrian takes it with conspicuous care instead of reaching for her suitcase.\n   Visible response: Mara follows him inside still carrying her own luggage.\n   What changes: The welcome flatters her values while quietly establishing who performs service.\n3. Given: Livia watches Mara brace under the room's attention.\n   Action (Livia, Mara): Livia names Mara's fear that being seen will reveal she is wanting.\n   Visible response: Mara's prepared explanation dies before she can deliver it.\n   What changes: The read lands accurately enough to make public resistance costly.\n4. Given: Livia asks Jonah to give the room a read of Mara.\n   Action (Jonah, Livia, Mara): Jonah explicitly refuses to read or perform Mara for the group.\n   Visible response: He creates a silence in which Mara is not required to explain herself.\n   What changes: His refusal costs him participation in the room's central status display and makes him legible to Mara.\nPhase: calibration contact\n5. Given: Adrian assigns Jonah to facilitate Mara's tactile calibration.\n   Action (Jonah, Mara): Jonah asks Mara's permission before touching her wrist.\n   Visible response: Mara notices that a routine question changes the quality of the whole exercise.\n   What changes: Contact begins as her choice rather than the room's entitlement.\n6. Given: Mara closes her eyes with Jonah's hand around her wrist.\n   Action (Jonah, Mara): She notices his skin's scent, the room's low sound, and his thumb over her artery.\n   Visible response: Her pulse accelerates beneath the steady pressure.\n   What changes: Attraction narrows and sharpens attention before it threatens judgment.\n7. Given: Jonah offers a steady tactile rhythm.\n   Action (Mara, Jonah): Mara feels an urge to lean closer and surrender to it.\n   Visible response: She recognizes the urge before acting on it.\n   What changes: Desire becomes evidence she must include without allowing it to decide the experiment.\n8. Given: Livia calls the pair synchronized while Jonah holds Mara's wrist.\n   Action (Mara, Jonah, Livia): Mara notices Jonah's thumb tracing a tiny arc and Livia nodding in time.\n   Visible response: She watches the timing repeat before drawing a conclusion.\n   What changes: A possible side channel becomes testable instead of merely suspicious.\nPhase: counter test mystery\n9. Given: Mara has identified at least one cue channel.\n   Action (Mara): She changes posture and breath while keeping her hand in place.\n   Visible response: The expected relationship between her felt state and visible signal breaks.\n   What changes: Livia must either revise the read or overclaim beyond the available observation.\n10. Given: The room has witnessed the miss and Livia's recovery attempt.\n   Action (Adrian, Mara, Livia): Adrian calls the result a deviation and watches the group's reaction.\n   Visible response: Nobody knows whether Mara has failed or produced a more interesting result.\n   What changes: Mara's status becomes uncertain rather than simply victorious.\n11. Given: The observable cue channel has failed and Livia turns away.\n   Action (Livia, Mara): Livia looks back at Mara with genuine startled recognition.\n   Visible response: Mara cannot locate a cue that explains the reaction.\n   What changes: A smaller anomaly survives the partial collapse without confirming its cause.\n12. Given: The room remains unsure whether Mara failed the exercise.\n   Action (Jonah, Mara): Jonah gives Mara a private acknowledgment that he recognized her control.\n   Visible response: He does not explain her aloud or claim alliance in front of the room.\n   What changes: Their first romantic progress is shared perception plus restraint, not confession or touch after the task.\nLocal stopping state: Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+      "ledger_hash": "0492e9983f89cbe57f0b242042a8341b8ec3f43709bff3538ba9db784d401a61",
+      "prose": "# The Calibration Game\n\nThe suitcase made a competent sound on the paved road and a humiliating one on gravel.\n\nMara dragged it up the last twenty yards to Fulcrum while the wheels bucked and complained behind her. Sunset had caught in the upper branches of the redwoods, too high to warm the ground. At eye level there were trunks, fern beds, dark glass, and people who had already learned where to stand.\n\nThe bakery box rode on her forearm. Twenty-four cardamom buns, less one surrendered to quality control in the church parking lot. The box had acquired a thumbprint of icing near the string. She kept turning that side toward her skirt.\n\nA man in shirtsleeves came down from the cedar deck to meet her. Mara knew Adrian Voss from conference streams: the deliberate pauses, the useful cheekbones, the habit of making a question sound like a promotion.\n\n“You found us.”\n\n“The driver found you. I supplied morale.”\n\nHis glance touched the box. “May I?”\n\nShe handed it over. Adrian received it with both hands, as though she had brought a minor relic. Her suitcase remained in the gravel.\n\n“Cardamom,” he said. “Already an intervention.”\n\n“They’re buns.”\n\n“You’ll cure us of metaphor by the end of the term.”\n\nHe turned toward the pavilion. Mara hoisted the suitcase after him.\n\nThe building was lower than it had looked in photographs. Most of its expense lay in absences: no visible vents, no cords, no hard transitions between the cedar floor and the glass. A dozen fellows occupied the main room in loose groups. Two people shared the couch nearest the hearth; four others had arranged themselves around them without appearing to. A thin man stood to refill the seated woman’s water while continuing his own sentence.\n\nAlong the far wall, beneath a rack of sensor modules, someone had opened the back of a silver terminal and left its green boards exposed. The man working there held a screwdriver between his teeth.\n\nAdrian carried the buns into the center of the room.\n\n“Our missing variable,” he said.\n\nFaces turned. Mara’s free hand found the handle of her suitcase and stayed there.\n\n“Mara Vale. Distributed control, infrastructure security, and an inconvenient interest in what our models do to the people inside them.” Adrian looked at her as if he had discovered the last quality himself. “She has agreed to let us court her for a place in the cohort.”\n\nThat was more accurate than the welcome packet had been.\n\nA woman at a side console entered something on a tablet. DR. MIRIAM HOLT, said the badge clipped to her jacket. Underneath, in smaller letters: COHORT OBSERVER. She did not look up again.\n\n“Do we get the pastry before or after the courtship?” asked a woman by the hearth.\n\nShe uncrossed her legs and stood. Mara had expected Livia Sloane to be beautiful. She had not expected the beauty to be so mobile. Amusement changed her face completely; attention changed it back. Her dress was dark green and plain enough to make every other green thing in the room look badly chosen.\n\nAdrian surrendered the box. Livia loosened the string, lifted the lid, and breathed in.\n\n“You browned the butter.”\n\n“A woman named Celia browned the butter. I transported it under adverse conditions.”\n\n“And took one.” Livia touched the empty patch in the sugar where the missing bun had rested.\n\nMara looked down at the icing print on the box.\n\nLivia laughed. It was a quick, delighted sound, and Mara wished she had caused it on purpose.\n\n“Later,” Adrian said, rescuing the buns from immediate distribution. “We’re halfway through an exercise.”\n\n“Then she should see the good part.” Livia took the box to a side table and selected a place for it among three untouched carafes. She moved another tray six inches so the bakery box stood alone.\n\nThe man at the open terminal had removed the screwdriver from his mouth. He met Mara’s eyes, then glanced at her suitcase.\n\n“It’s a rigorous hospitality protocol,” he said. “Adrian carries the carbohydrates. Guests retain all structural loads.”\n\n“I was told the program valued resilience.”\n\n“Mostly in other people.”\n\n“Jonah,” Adrian said.\n\nJonah lowered his head over the terminal, smiling at something inside it.\n\nAdrian invited Mara into the circle and described the calibration game. The premise had survived several pages of institutional language to become simple in his mouth: people communicated before they spoke; groups built decisions out of those signals; anyone serious about alignment should learn to see the traffic.\n\n“The body has terrible information security,” Livia said.\n\n“A hostile implementation environment,” Jonah said from the wall.\n\n“Only when you’re ashamed of the payload.”\n\nHis hands stopped for half a second over the circuit board. Livia’s gaze had already moved on.\n\nAdrian passed a bowl around the circle. Each person drew a folded strip of paper and, without opening it, handed it to somebody else. The woman on the couch received one and tucked it under her watchband. The man beside her slipped his into his shoe.\n\n“Every person here now knows one fact another person does not,” Adrian said. “Within five minutes, the room will begin organizing around those facts anyway. Someone will protect a pocket. Someone will check a cuff. Someone will avoid the person most likely to guess. Calibration starts before content.”\n\nMara’s paper rested beneath the bakery box where Adrian had placed it. No one had given it to her. She watched the bowl complete the circle without comment.\n\nLivia noticed her noticing.\n\nShe chose a fellow named Elias, who had spent the welcome pretending to read a paper on his tablet. Livia asked him to stand. She did not circle him or demand his eyes. She leaned against the arm of the couch and watched him explain that the paper concerned a scheduling problem.\n\n“Your scheduling problem has called three times,” she said.\n\nElias glanced at the tablet.\n\n“You’ve declined all three because if you answer, your brother will ask whether you sent the money. You did send it. You’re angry he made you necessary again, and much angrier that necessity feels good.”\n\nThe room held still.\n\nElias pressed the tablet to his thigh. “He texted too.”\n\nLivia’s expression softened. “You can call him outside. No one here needs the fourth demonstration.”\n\nHe went. The door closed behind him with a hush.\n\nMara had noticed the three rejected calls reflected in the glass. She had noticed the banking app beneath the paper when Elias changed screens. She had not found the anger, or the pleasure hidden inside it.\n\nLivia turned to her.\n\n“Your turn.”\n\n“I’ve only just arrived.”\n\n“Yes. You haven’t had time to improve the evidence.”\n\nThere was warmth in the room’s laughter. Mara could have joined it. She heard the answer she had prepared in the car—something about observation needing consent and context—and felt it arrange itself neatly behind her teeth.\n\nLivia watched the arrangement happen.\n\n“You planned for us to condescend to you,” she said. “You know how to survive that. You did not plan for us to be impressed.”\n\nMara’s grip tightened on the suitcase handle.\n\n“Because admiration would make the wanting visible. The work, the place, us. You want enough to have frightened yourself.”\n\nThe prepared answer vanished. Mara could feel her pulse in the icing thumbprint she had rubbed tacky against her skirt.\n\nLivia stepped closer, stopping well outside reach. “There. That’s the one.”\n\n“Career ambition,” Mara said. “A rare condition among residential fellows.”\n\n“Career ambition is wanting the place on your résumé.” Livia’s eyes dropped briefly to Mara’s mouth. “You want to know whether we’re as real as you hoped.”\n\n“And if you are?”\n\n“Then you’ll have to become more interesting than your objections.”\n\nMara smiled despite herself. “That sounds expensive.”\n\n“Everything worth acquiring is.”\n\nShe looked pleased, but not solely with herself. The pleasure included Mara, which made refusing it harder.\n\n“Jonah,” Livia said. “Tell her what you see.”\n\nAt the wall, the silver terminal had finished booting. A grid of live traces filled its display. Jonah set the panel he had removed beside the keyboard.\n\n“No.”\n\nLivia raised one eyebrow. “No data?”\n\n“No performance.”\n\n“You’ve never objected to performing when the reviews were flattering.”\n\n“My growth has been extraordinary.”\n\nSeveral people laughed. Adrian did not. Jonah returned to the terminal, and the laugh ended without anyone deciding to end it.\n\nMara’s breathing loosened. She disliked owing him for that.\n\nAdrian checked the time. “Let’s put claims against a channel.”\n\nLow chairs were drawn to either side of a narrow table. Jonah connected a sensor lead to the silver terminal. He did it quickly enough to reveal long practice.\n\n“Mara, if you’re willing, Jonah will facilitate. You’ll receive a private prompt. Livia will report what she observes in the pair.” Adrian showed Mara a small tablet with a privacy hood. “We record breath, pulse, pressure, and room audio. The raw stream remains sealed during the cohort’s first month.”\n\n“Sealed from whom?” Mara asked.\n\n“Participants.”\n\n“Comforting use of the passive voice.”\n\nLivia grinned. “Keep her.”\n\nAdrian’s smile returned. “That remains her decision.”\n\nMara sat. Jonah took the chair opposite and adjusted the pressure sensor between them. Up close, he appeared less effortless. A nick crossed one knuckle, and a red half-moon marked his palm where his thumbnail had pressed.\n\nHe fastened a narrow conductive band around his own forearm, then rejected the first one and reached for another. The discarded band had a hairline split near its clasp.\n\n“Does that affect the reading?” Mara asked.\n\n“It affects the warranty.”\n\n“The reading?”\n\n“Possibly.”\n\n“Reassuring.”\n\n“I can lie more confidently if it helps.”\n\nAt the hearth, Livia made a soft sound of impatience. Jonah’s mouth tilted, but his attention remained on the sensor contacts. Whatever reluctance he had displayed for the room did not extend to running its machinery.\n\n“The contact is wrist only,” he said. “My hand around yours. May I?”\n\nThe question was ordinary. In the listening room it altered the air.\n\nMara set her forearm on the table. “Yes.”\n\nHis fingers closed around her wrist.\n\nHe smelled faintly of unscented soap and the resin used on solder joints. Someone shifted near the hearth; ice settled in a glass. Jonah’s thumb rested over her artery, wide enough that each beat seemed to meet him before it reached the rest of her.\n\nThe pulse trace on the terminal climbed. Livia glanced at it and then, more interested, at Mara’s face.\n\nThe hooded tablet lit.\n\nHOLD: ARRIVAL.\n\nMara thought of the gravel releasing the suitcase wheels onto the cedar deck. She thought of the moment before the pavilion door opened, when she still possessed every possible account of the people inside. Her wrist warmed under Jonah’s hand.\n\nHis thumb began a small motion: up the edge of her pulse, across, back. The arc repeated. Mara could have leaned toward it. The desire arrived as a practical suggestion—reduce the distance, improve the contact, find out how his breathing changed when hers did.\n\nShe kept her shoulders where they were.\n\nLivia moved behind Jonah. “The prompt concerns a threshold,” she said. “Chosen, not imposed.”\n\nJonah’s thumb completed the arc. Livia’s chin dipped at the same point.\n\n“She’s holding arrival. The instant after the journey, before anyone tells her what the destination means.”\n\nThe word under the hood stayed bright.\n\nAdrian exhaled through his nose. Around the table, attention gathered so sharply that Mara could locate each person by the absence of sound.\n\n“Near enough?” Livia asked her.\n\n“Near.”\n\n“Cruel woman.” Livia seemed delighted.\n\n“What did you use?” Mara asked.\n\n“Your breathing changed when the prompt appeared.”\n\n“It would change for any prompt.”\n\n“Your weight moved forward. Your eyes went to the door and returned to the room. Your wrist softened against Jonah’s hand.”\n\n“That gives you approach.”\n\n“Your suitcase is still beside the circle.” Livia pointed with her chin. “If the target were departure, you would have looked at it.”\n\nThe reasoning was clean. It did not account for the word, but it reduced the distance between chance and miracle.\n\n“And the rest?” Mara asked.\n\nLivia’s glance moved to Jonah’s hand. “The rest arrived.”\n\nHis thumb began the arc again, slower this time. Mara felt each millimeter of it. She wondered whether Livia’s answer had changed the touch or merely made the existing motion impossible to ignore.\n\nThe prompt disappeared. A second appeared.\n\nREPEAT: ARRIVAL.\n\nJonah could see only her face; the hood concealed the words. Mara rebuilt the same instant: gravel releasing the wheels, cedar underfoot, the unopened door. Then she reversed the evidence Livia had named. She allowed her upper back to settle against the chair. She shortened her exhale. She turned her left knee three inches toward the room’s exit and let her eyes rest on the dark seam between two floorboards. Her hand remained loose inside Jonah’s.\n\nHis thumb started another arc and stopped halfway.\n\nLivia’s chin did not move.\n\nMara waited. The wanting remained—work, place, Livia’s quick pleasure, Jonah’s palm around her wrist. Her body now offered the room a different story.\n\n“She dropped it,” Livia said.\n\nNo one answered.\n\nLivia came to the side of the table. “The arrival is gone. She’s testing departure now. Not escape. A controlled withdrawal so she can call it discernment.”\n\nThe private word still read ARRIVAL.\n\nJonah looked at Mara. His hand did not tighten. His attention felt less soothing now that she had found a possible use for it.\n\n“Are you leaving the content unchanged?” Adrian asked.\n\nMara lifted the hood so he could see the screen.\n\nTwo people rose from their chairs. Miriam remained at the side console, writing.\n\nLivia read the prompt. A flush moved across her cheekbones and disappeared. “Again.”\n\nIt was not an apology. It sounded hungry.\n\n“The pressure trace changed,” Jonah said.\n\nEvery face turned toward him.\n\nLivia’s gaze sharpened. “Because you changed it.”\n\n“Maybe.”\n\n“Did you?” Mara asked.\n\nHe looked down at his thumb, still resting above her pulse. “I stopped a movement.”\n\n“Why were you making it?”\n\nThe terminal fan rose. Jonah glanced toward the live traces, and Mara saw that he knew where each one entered the machine.\n\n“Baseline regulation,” he said.\n\nLivia gave a quiet laugh without amusement. “Of course.”\n\nMara could not tell whether the arc had calmed her, informed Livia, contaminated the trial, or accomplished all three. The room waited for her to choose an accusation.\n\nShe did not.\n\n“The channel is testable,” she said. “That’s enough for tonight.”\n\nAdrian studied the others rather than her. Some looked disappointed; two looked newly alert. “A deviation,” he said. “A useful one. We preserve the run.”\n\n“And repeat it,” Livia said.\n\n“After we specify the control.”\n\n“She specified it.”\n\n“She improvised it.” Adrian’s tone remained cordial. The distinction still placed the discovery inside his institution. “Tomorrow we determine what she actually changed.”\n\nLivia looked at Mara. “You know what you changed.”\n\nMara looked through the hood at the fading word. “Some of it.”\n\nThat answer pleased Livia more than certainty would have.\n\nJonah removed his hand. Cool air reached the damp place beneath his thumb. He capped the sensor and returned to the terminal before Mara could decide whether she wanted him to remain seated.\n\nLivia had gone to the side table. She stood over the bakery box with one hand on the lid.\n\nMara rose. The blood returning evenly to her fingers made them prickle. Behind Livia, the glass wall held a dim reflection of the room: Adrian among the chairs, Jonah bending over the silver terminal, Miriam’s observer badge catching the console light.\n\nLivia looked at Mara in the glass. For the first time that evening, her face held no prepared use for what she saw.\n\nMara thought, without moving her mouth, *Jesus, what did she see?*\n\nAt the name, Livia turned.\n\nThe lid slipped from her fingers and struck the box. Her eyes had widened. She stared at Mara’s left hand, then at her face.\n\nMara looked down. Her hand hung empty beside her skirt. No gesture, no altered grip, no icing now. Her breathing had not changed until Livia turned.\n\n“What?” Mara asked.\n\nLivia pressed her lips together. A second later the social ease returned, slightly misbuttoned.\n\n“I was hoping you had another one hidden.” She opened the box. “Apparently I’m having a blood-sugar event.”\n\nShe took a bun and tore it in half. One piece she kept. The other she held toward Mara.\n\nMara accepted it.\n\nAdrian came beside them with a tablet. The fellowship agreement waited on the screen, her name at the top and two choices at the bottom. ACCEPT PLACE. DEFER.\n\n“You can sleep on it,” he said.\n\n“In housing I don’t yet have?”\n\n“We enjoy a manageable paradox.”\n\nMara ate the offered half. The cardamom had bloomed during the drive. Across the room, Jonah was replaying the pressure trace. He enlarged one segment, checked who was watching, and closed it.\n\nLivia saw him do it. She bit into her half of the bun and smiled at Mara with her mouth closed.\n\nMara touched ACCEPT PLACE.\n\nThe tablet chimed. Adrian handed her a room credential and finally reached for the suitcase.\n\n“Absolutely not,” Mara said. “You’ve carried your allotted weight.”\n\nShe pulled the bakery box into the center of the table and lifted the lid all the way. Chairs moved. Someone fetched plates. Livia claimed the second bun before the first had made it around the room.\n\n“Tomorrow,” Livia said, peeling a strip of browned sugar from the paper, “you do it again without the prompt telling you to be clever.”\n\n“Tomorrow you show me the stream.”\n\n“First month is sealed.”\n\n“Then ask me again in a month.”\n\nLivia ate the sugar and considered her. “You bargain very hard for someone who arrived bearing tribute.”\n\n“You ate the evidence.”\n\n“I preserve what matters.”\n\nAt the side console, Miriam turned a page in her notes.\n\nJonah stayed at the terminal, one hand braced beside the darkened trace. When Mara looked over, he tapped two fingers once against the metal case and stopped.\n\nShe could not tell whether it was an answer.",
+      "prose_hash": "3343f11ec30420ee4fda1be06eea55a07d3c2a921c57cc11b459f54677a75fad",
+      "provenance": {
+        "packet_hash": "9eca383d2bebc49ee2e416f72ee56309fcd80cec548941852fda840d97aa4463",
+        "packet_path": "03_scene_lab/runs/s01-atom-rewrite-v1/novelist_packets/s01-bundle-b-somatic-control.novelist_packet.v1.json",
+        "prose_hash": "8c60ef85984b5b08ebe765bde4b533c839e15bc51492b6fdf1ca1c825e80a691",
+        "prose_path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-b-somatic-control.codex.v1.md"
+      }
+    },
+    {
+      "demonstration_id": "s01-method-audit",
+      "ledger": "Phase: arrival status\n1. Given: Adrian praises Mara's punctual arrival.\n   Action (Mara, Adrian): Mara raises the box and jokes that she brought something not synthesized.\n   Visible response: Adrian calls authenticity rare and immediately folds the gift into Fulcrum's vocabulary.\n   What changes: Her joke earns attention but shows how quickly the institution can appropriate her terms.\n2. Given: The fellows are already seated around the fire.\n   Action (Mara, Fulcrum fellows): Mara notices relaxed bodies near the center and rigid bodies at the edge.\n   Visible response: Several people track her while others lower their eyes to tablets or the floor.\n   What changes: Before introductions, she can see that attention itself allocates rank.\n3. Given: Adrian brings Mara into the ongoing welcome circle.\n   Action (Adrian, Fulcrum fellows): He says alignment begins with what people communicate before speech.\n   Visible response: The room treats the claim as the premise of the evening's game.\n   What changes: Ordinary observation is placed inside a high-status experimental frame.\n4. Given: Livia asks Jonah to give the room a read of Mara.\n   Action (Jonah, Livia, Mara): Jonah explicitly refuses to read or perform Mara for the group.\n   Visible response: He creates a silence in which Mara is not required to explain herself.\n   What changes: His refusal costs him participation in the room's central status display and makes him legible to Mara.\nPhase: calibration contact\n5. Given: The pairs are choosing who sends and who receives.\n   Action (Jonah, Mara): Jonah quietly asks whether Mara wants to be the signal.\n   Visible response: She must choose a role while the room waits.\n   What changes: His private question gives her a sliver of control inside a public task.\n6. Given: Mara closes her eyes with Jonah's hand around her wrist.\n   Action (Jonah, Mara): She notices his skin's scent, the room's low sound, and his thumb over her artery.\n   Visible response: Her pulse accelerates beneath the steady pressure.\n   What changes: Attraction narrows and sharpens attention before it threatens judgment.\n7. Given: Mara attends to small changes beneath Jonah's elbow.\n   Action (Mara, Jonah): She identifies fatigue and the strain of someone holding a door shut.\n   Visible response: Jonah's public ease drops for a moment when she says enough to show she noticed.\n   What changes: Mara demonstrates real perceptual skill, making the exercise more than a fraud exposure.\n8. Given: Livia calls the pair synchronized while Jonah holds Mara's wrist.\n   Action (Mara, Jonah, Livia): Mara notices Jonah's thumb tracing a tiny arc and Livia nodding in time.\n   Visible response: She watches the timing repeat before drawing a conclusion.\n   What changes: A possible side channel becomes testable instead of merely suspicious.\nPhase: counter test mystery\n9. Given: Mara has identified at least one cue channel.\n   Action (Mara): She changes posture and breath while keeping her hand in place.\n   Visible response: The expected relationship between her felt state and visible signal breaks.\n   What changes: Livia must either revise the read or overclaim beyond the available observation.\n10. Given: The read has failed publicly.\n   Action (Livia, Mara): Livia reframes the miss as Mara blocking or refusing to be seen.\n   Visible response: Mara does not defend herself or supply the missing explanation.\n   What changes: The exercise reveals how interpretation can protect itself from disconfirmation.\n11. Given: The room remains unsure whether Mara failed the exercise.\n   Action (Jonah, Mara): Jonah gives Mara a private acknowledgment that he recognized her control.\n   Visible response: He does not explain her aloud or claim alliance in front of the room.\n   What changes: Their first romantic progress is shared perception plus restraint, not confession or touch after the task.\n12. Given: The calibration circle is breaking up around the unopened church gift.\n   Action (Mara, Fulcrum fellows): Mara chooses to stay and redirects the room toward opening and eating what she brought.\n   Visible response: The bakery box becomes shared food instead of a symbol the room can keep interpreting.\n   What changes: She enters the fellowship through one concrete act she authors, with her curiosity about Jonah and the method unresolved.\nLocal stopping state: Introduce Miriam once as the cohort observer logging from a side console, with an observer badge, without making her central. End the arrival night with Mara freely accepting her fellowship place, the bakery box opened, Jonah's role in Fulcrum still unknown, no kiss or private walk, and the calibration's ordinary mechanism partially explained while one concrete observation remains unresolved. The next chapter begins four nights later.",
+      "ledger_hash": "e8b4c06c5e3013c0b312e81a373bb7093ef3ceaeea741f642574cb125a1ab51d",
+      "prose": "Mara arrived at Fulcrum with one suitcase, twelve cardamom buns, and no useful way to carry both up a gravel path.\n\nThe suitcase kept clipping her ankle. The bakery box required two hands whenever the path tilted. By the third switchback she had developed a method—kick, catch, lift, apologize to the buns—that would have embarrassed her mother and delighted the women who had packed the box after church.\n\nAt the top of the hill, glass doors stood open on a room full of people who had mastered luggage by not having any.\n\n“Mara Vale.”\n\nAdrian Voss waited on the terrace in rolled sleeves and spotless shoes. His photograph had made him look severe. In person he had the restful face of a man whose delays occurred to other people.\n\nMara shifted the box onto one hip. “I brought something that wasn’t synthesized.”\n\n“Perfect.” Adrian relieved her of the buns. The suitcase remained where it was. “We’ve been discussing the value of unmanufactured signals.”\n\n“They’re mostly butter.”\n\n“Even better.”\n\nHe carried her offering through the doors as though she had brought a missing piece of apparatus. Mara followed, bumping her suitcase over the threshold.\n\nThe room arranged itself around a circular fire sunk into the concrete floor. Four people occupied the broad cushions nearest it, shoes off, legs extended. At the edge, three others sat upright with tablets on their knees. A man at a workbench had a silver sensor open beneath a magnifying lamp. He kept one hand inside its plastic case while he watched Adrian cross the room.\n\nNobody had assigned the seats. Nobody needed to.\n\nAdrian put the bakery box on the central table. Several faces turned toward it, then toward Mara. A woman in a green dress reached for the ribbon and stopped one finger short.\n\n“Is there a liturgy?” she asked.\n\nMara recognized Livia Sloane from the fellowship interviews. On video Livia’s attention had been flattering because it arrived through a screen. Here it had temperature. Her eyes moved once over Mara’s damp hair, scraped suitcase, empty ring finger, and the bakery label taped crookedly over an older label for communion wafers.\n\n“You wait until the person who brought them offers,” Mara said.\n\nLivia’s finger curled back. “Excellent. I almost failed the first test.”\n\nShe smiled as if failure might be something she collected. Mara liked her immediately and resented the speed of it.\n\nAdrian brought her to the empty cushion between Livia and the workbench. The man with the sensor slid a screw into a magnetic dish. Up close, his hands were broad and nicked across the knuckles. He wore a faded black shirt among acres of linen.\n\n“Jonah Reed,” Adrian said. “Hardware and systems security. Jonah, this is Mara.”\n\n“I heard the suitcase.” Jonah fitted the sensor’s casing together. “Strong opening argument.”\n\n“Against wheels that size.”\n\n“Against optimism.”\n\nLivia opened the bakery box at last. Warm cardamom escaped into the room. She inhaled, closed her eyes, and chose the largest bun without consulting anyone.\n\n“I waited,” she said.\n\n“You did.”\n\n“Please note my growth.”\n\nAt the side console, a short-haired woman wearing an OBSERVER badge wrote something on a paper log. Livia leaned around Mara.\n\n“Miriam, you’re not actually noting my bun compliance.”\n\nMiriam did not look up. “No.”\n\n“Her cruelty keeps us rigorous,” Livia told Mara.\n\nMiriam capped her pen. “Welcome to cohort seven.”\n\nThe attention around the fire loosened by a degree. Someone tore a bun in half. Jonah took none. He set the repaired sensor beside Miriam’s console, signed a line on her log, and returned to the edge of the circle.\n\nAdrian remained standing. “Alignment begins before agreement. We say one thing, our breathing says another, and a hand resting on a table submits a third report. Most conflict lives in the lag between those reports.”\n\n“That sounds useful,” Mara said, “and terrible for poker.”\n\n“Livia has funded three retreats with poker.”\n\n“Two,” Livia said through cardamom. “The third was baccarat, and correlation is not causation.”\n\nAdrian’s laugh cued the room’s. The people nearest the fire laughed first.\n\nHe asked Livia for a baseline demonstration. She wiped sugar from her thumb and turned toward a fellow named Silas. He agreed too quickly, which Mara filed alongside the lifted heel of his left foot.\n\nLivia studied him for perhaps five seconds.\n\n“You sent your father an email today,” she said. “You removed the paragraph that explained why you were angry. Now you’re afraid the shorter version made you crueler.”\n\nSilas’s glass clicked against his tooth.\n\nThe group became still enough for the fire to sound mechanical. Mara saw the pieces after Livia named them: the phone facedown by Silas’s knee, the mail icon burned faintly into its screen, the thumb worrying the glass, the effort in his jaw. None of that supplied a father. None supplied a deleted paragraph.\n\nLivia looked pleased, though not surprised. Silas looked grateful and robbed.\n\n“Or,” Jonah said from the workbench, “he forgot the attachment.”\n\nSilas laughed with too much relief. So did Mara.\n\nLivia pointed her half-eaten bun at Jonah. “Alternative hypotheses are not personality.”\n\n“I keep submitting the paperwork.”\n\n“Then give us a read of Mara.”\n\nThe remaining laughter disappeared. Mara had a sharp awareness of butter cooling on her fingertips.\n\nJonah glanced at Adrian. The founder neither rescued nor insisted. That was another form of insistence.\n\n“No,” Jonah said.\n\nLivia tilted her head. “You haven’t looked at her?”\n\n“I’ve looked.”\n\n“Then tell us what you saw.”\n\n“Ask her.”\n\nHe returned to the sensor, though it was already closed. Livia’s face held interest before annoyance reached it. Adrian watched Jonah for one beat longer than anyone else did.\n\nMara could have thanked him. Gratitude would have made his refusal hers, a little alliance formed without her consent. She licked sugar from her thumb instead.\n\nLivia saw that too. Her smile came back crooked.\n\n“You want me to be wrong,” she told Mara.\n\n“I don’t know you well enough to want that.”\n\n“You want me to be excellent and still wrong about you.”\n\nThat landed. Mara’s first answer—something about falsifiability—rose cleanly and found no exit.\n\nLivia leaned back on one palm. “You worked very hard to arrive with nothing accidental. One suitcase. Food from the people who formed you. No jewelry anyone can mistake for a promise. You want this place to discover that discipline made you unusual.” Her gaze dropped to Mara’s hands. “And you’re afraid we’ll discover it only made you tidy.”\n\nHeat reached Mara’s face. The impulse to explain her ring finger was so strong she nearly obeyed it. Livia had made six observations, built one elegant trespass, and found a locked door by rattling every handle.\n\nShe had also found it.\n\n“How long have you been practicing?” Mara asked.\n\nLivia’s expression warmed. Mara had answered the compliment beneath the theft.\n\n“Long enough to know when somebody asks for the method instead of comfort.” She looked at Adrian. “Let her try the wrist protocol.”\n\n“Before that,” Mara said. “Silas.”\n\nHe looked up from his glass.\n\n“Phone facedown, mail icon on the screen, left heel ready to leave. The glass gave you the physical constriction after you named it. Where did his father come from?”\n\nLivia sat straighter. Around the fire, people who had begun reaching for second buns left their hands in the box.\n\n“His mother texts,” Livia said. “His father sends mail with subject lines that sound like committee reports. Silas checks those on a laptop. He checked his phone when I said father because he wanted to know whether I’d seen the message.”\n\n“So prior knowledge.”\n\n“Context.”\n\n“A larger cue channel.”\n\n“You say that as if widening the channel is cheating.”\n\n“I say it as if the width belongs in the result.”\n\nSilas lifted his glass in Mara’s direction. “For the record, the subject line was ‘Follow-up regarding our prior exchange.’”\n\n“That man needs prayer,” Jonah said.\n\nSilas laughed. Livia did too, although she kept her eyes on Mara.\n\n“The paragraph?” Mara asked.\n\n“His draft was twice as long when he opened it this morning.”\n\n“You saw the screen.”\n\n“Its reflection.” Livia pointed toward the dark window behind Silas. “For six seconds. The deleted section is inference. His father is observation. His stomach is feedback after the claim.”\n\nShe offered the distinctions without embarrassment. That was more compelling than any insistence on magic would have been. Mara could feel the group listening for her verdict, which irritated her into honesty.\n\n“That’s extremely good,” she said.\n\n“Thank you.”\n\n“You still presented the inference with the confidence of the observation.”\n\n“Confidence is how an observation gets enough time to become useful.”\n\n“Or too expensive to question.”\n\nLivia tore a strip from the bun in her hand and held it out. She kept hold of one end until Mara tugged. They smiled at each other over the torn bread.\n\n“Now,” Livia said, “you may audit my expenses.”\n\nMiriam drew a small monitor from beneath the console and clipped two leads to a fabric cuff. Adrian explained the exercise while she worked. One partner held an image or bodily intention. The other received through light contact at the wrist. Pulse and pressure would appear on the monitor; the stream would be recorded for later cohort review.\n\n“Which role?” Jonah asked Mara under Adrian’s explanation. “Signal or receiver?”\n\nHe offered the question quietly, with no effort to make quietness attractive.\n\n“Receiver first.”\n\n“Brave.”\n\n“Less chance you’ll accuse me of optimism.”\n\nThe chairs faced each other close enough that Mara had to decide where to put her knees. Jonah solved it by angling one leg aside. The accommodation made her more conscious of the remaining distance.\n\nMiriam fastened the cuff around Jonah’s forearm, then placed his left hand palm-up between them.\n\n“Wrist to wrist,” Adrian said. “Receiver’s fingers above the pulse. Jonah, choose a contained image. Don’t help her.”\n\nMara laid two fingers against Jonah’s skin.\n\nHe was warmer than she expected. Beneath her fingertips, his pulse pushed with calm authority; farther up, a tendon shifted when he adjusted his hand. She smelled solder on his cuff and cardamom on her own skin. The room’s conversation had vanished, leaving the soft fan of Miriam’s monitor and the small wet sound of Livia finishing the last bite of her bun.\n\nMara closed her eyes.\n\nAt first there was only the embarrassment of touching a man while twelve people watched her detect meaning in it. She let embarrassment be a sensation instead of a verdict. Jonah’s breathing shortened. The muscle beneath her middle finger held, released, and held again. His pulse did not hurry. Something in his forearm did.\n\nShe pictured resistance because the muscle resisted. A door came next, heavy and badly hung. The image might have been supplied by Adrian’s language or by the entrance behind Jonah. Fatigue arrived with it: the exhaustion of holding a thing shut after forgetting why it needed holding.\n\nMara opened her eyes. Jonah was watching her mouth.\n\n“You picked a door,” she said.\n\nHis gaze moved to hers.\n\n“You’re holding it closed. You’re tired of the handle.”\n\nThe line on Miriam’s monitor jumped. Jonah’s easy expression failed, then returned without the ease.\n\nLivia made a delighted sound. “There she is.”\n\nThe circle leaned toward them. Jonah’s hand changed under Mara’s fingers. The private accuracy had become a result.\n\n“Was she right?” Adrian asked.\n\nJonah looked at Mara. A joke gathered in one corner of his mouth. He could have made the door into a server cabinet or a bathroom emergency and restored the room’s preferred temperature.\n\n“Close enough,” he said.\n\nIt cost him the laugh. Mara wanted him more for declining it, which made her distrust the wanting.\n\nThey switched roles. Miriam moved the cuff to Mara’s arm. A green trace found her pulse on the monitor. Jonah held out his hand, then stopped before contact.\n\n“May I?”\n\nMara nodded.\n\nHis fingers closed around her wrist. His thumb rested just below the cuff. The contact carried less surface than hers had and far more information: the dry pad of his thumb, a shallow nick near his forefinger, the exact pressure required to keep her from mistaking steadiness for possession.\n\nLivia came to stand beside Miriam’s monitor.\n\n“Your target,” Adrian told Mara, “is the sensation of a bolt sliding into a door.”\n\nMara formed the brass weight of it, the scrape before the bolt seated. Her pulse climbed on the screen. Jonah’s thumb moved in a small arc below it.\n\nLivia nodded.\n\nMara watched the movement repeat. Pulse spike, thumb arc, Livia’s fractional nod. Jonah’s face held concentration; whether he knew what his hand was reporting was another question.\n\n“Pressure rising,” Livia said. “Containment. There’s pleasure in the containment, which she dislikes me noticing.”\n\nThe room laughed softly. The pleasure was real. So was Mara’s irritation. Jonah’s thumb made the arc again, and her attention collapsed onto the place it touched. She wanted to lean forward. She wanted to learn how his mouth changed when he stopped managing it.\n\nJesus, she thought, with neither eloquence nor alarm.\n\nThe prayer did not remove the desire. It returned the rest of the room.\n\nMiriam’s screen showed pulse, not meaning. Livia watched both screen and hand. Jonah watched Mara. Adrian watched the watchers.\n\nMara kept the bolt in mind. She drew one deeper breath, dropped her shoulders, and let the pleasure remain where it was instead of arranging her body around it. Then she increased the contact, turning her wrist until more of it rested in Jonah’s palm.\n\nHis breath caught. His thumb stopped.\n\nThe bolt scraped home in Mara’s imagination.\n\n“She’s withdrawing,” Livia said. “No—she’s making the signal harder. There’s a wall now.”\n\nMara held Jonah’s gaze. He searched for the rhythm under his hand and found her pulse calm enough to be unhelpful.\n\n“Jonah?” Adrian prompted.\n\nHis fingers tightened once. Desire moved visibly through his face before he put it away.\n\n“It didn’t click,” he said. “It went quiet.”\n\nLivia’s eyes flicked to him, then back to Mara. “Because she blocked the channel.”\n\nMara could have explained the breath, the shoulder drop, the altered surface area. Livia’s error tasted bright. For perhaps half a minute, she enjoyed it without qualification.\n\nAdrian stepped closer to Miriam’s monitor. “Mark the deviation at the pressure interruption.”\n\nMiriam wrote the time. Her pen did not speed up for anyone’s discomfort.\n\n“You changed something,” Livia said.\n\nMara eased her wrist from Jonah’s hand. Cool air found the damp place beneath his thumb.\n\n“Several things.”\n\n“That isn’t the same as receiving.”\n\n“No. It’s a control.”\n\nLivia stared at her, anger and appetite arriving together. Then her attention shifted to Mara’s left shoulder.\n\n“You kept the door,” she said. “Blue paint. Opens inward.”\n\nThe card had contained no color. Adrian had supplied only the bolt. Yet the door Mara had pictured was the blue side entrance of her childhood church, opening inward against a swollen frame.\n\nHer shoulder moved before she could stop it.\n\nLivia laughed, low and pleased. “There you are again.”\n\nMara looked at the monitor, at Jonah’s hand, at Miriam’s precise time mark. Livia might have seen her glance toward the blue dusk in the windows. She might know the common architecture of churches. She might have followed a cue Mara had not found. None of those explanations required magic. None had yet earned dismissal.\n\n“The channel can be tested,” Mara said.\n\n“I know.” Livia’s hurt was brief and clean. “I was hoping you’d ask me to help.”\n\nAdrian picked up Miriam’s log. “Tomorrow, we repeat with masked observers and randomized targets.”\n\n“Tomorrow?” Mara asked.\n\n“If you’re staying.”\n\nHer suitcase waited beside the door, one wheel turned sideways. Jonah had returned to the workbench. He did not look at her until Adrian looked away. Then he touched two fingers to the inside of his own wrist, once, and let his hand fall.\n\nRecognition, or warning. She could not tell which. His repaired sensor sat beside Miriam’s log with his signature beneath it.\n\nMara went to the central table and opened the bakery box all the way.\n\n“Before anyone schedules my autonomic nervous system,” she said, “we should eat. I brought something.”\n\nLivia was first to reach in. This time she waited until Mara nodded.\n\nAdrian gave Miriam a room key to add to the log. Miriam slid it across the table. Mara took it with cardamom on her fingers.\n\nJonah chose the smallest bun and leaned against the workbench to eat it. Livia stole a piece from his without asking. He objected too late. The room broke into three conversations, and Mara’s failed suitcase stood among their shoes.\n\nOutside, the redwoods had gone black against the remaining sky. Inside, the pulse trace continued to glow on Miriam’s monitor until she closed the file and wrote Mara’s name on the label.",
+      "prose_hash": "542503f44c8b9c4d2e95e08a82141a7d3c521a998961847a19f398d41ff82e96",
+      "provenance": {
+        "packet_hash": "dcf5be9a40122f7d7a641fee88cf8bfc0a4d76bde09e80320b7ff5e2b155c721",
+        "packet_path": "03_scene_lab/runs/s01-atom-rewrite-v1/novelist_packets/s01-bundle-c-method-audit.novelist_packet.v1.json",
+        "prose_hash": "cba075af0240d896ba890d8247e4826dfafaec0703071f9cfcd684e8d009dfbd",
+        "prose_path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-c-method-audit.codex.v1.md"
+      }
+    }
+  ],
+  "library_sources": [
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-017.txt",
+      "source_id": "sense_and_sensibility.chapter-017",
+      "text_hash": "19a6a98d9968c0fc3ec8ca8a52931c04208f38b5c91470d90f8cd360847d4df5",
+      "words": 1628
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-001.txt",
+      "source_id": "pride_and_prejudice.chapter-001",
+      "text_hash": "7c84fa368e9cb2bc46075a609004a0096ba6b0979f799445cfa7495331f4d605",
+      "words": 810
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-004.txt",
+      "source_id": "pride_and_prejudice.chapter-004",
+      "text_hash": "53ebb4d2e896a8c72a121ca267695750e74dd8595a02989e6281ef9731a416d5",
+      "words": 969
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-054.txt",
+      "source_id": "pride_and_prejudice.chapter-054",
+      "text_hash": "cb2e1794311d6d7b3f106dcf6ad723b90b97321e4375c9316cf246f0a25b44ea",
+      "words": 2745
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-047.txt",
+      "source_id": "pride_and_prejudice.chapter-047",
+      "text_hash": "15aae0acaf3c1157775cb08c463b660a16006a492a59f15dcb598a7db6edae04",
+      "words": 2269
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-007.txt",
+      "source_id": "pride_and_prejudice.chapter-007",
+      "text_hash": "a4feb8ff969142e6558da928bf8817abe63dd664874deb7c7d3b68dbd1fab58a",
+      "words": 1946
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-013.txt",
+      "source_id": "sense_and_sensibility.chapter-013",
+      "text_hash": "c28b7f5811432df34a340f0dfa5a27a1fbeee1992b9b62c3f27f5324e334f941",
+      "words": 2104
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-008.txt",
+      "source_id": "pride_and_prejudice.chapter-008",
+      "text_hash": "98f38d04019e5fc61b69d87aec14ab8efb891a46776a8d7a70ea24b45e554a6d",
+      "words": 1731
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-020.txt",
+      "source_id": "sense_and_sensibility.chapter-020",
+      "text_hash": "d7af6323cb1c03886f7a3b5b84a4e35bc717dc58253b4989a670e3ff29ad4832",
+      "words": 2445
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-005.txt",
+      "source_id": "pride_and_prejudice.chapter-005",
+      "text_hash": "f433a0f9ed0252be065e28e53f5d7a0cab2c7bb081103c672ee44c6a47007e80",
+      "words": 2370
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/emma.chapter-046.txt",
+      "source_id": "emma.chapter-046",
+      "text_hash": "189a1c0adffe463be7f0823c05896d8861da97856a1449da625685c5a14bb6da",
+      "words": 3176
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-032.txt",
+      "source_id": "pride_and_prejudice.chapter-032",
+      "text_hash": "5c7e03ae93911b4a0975ef8920247a7e8deee6f8db26e860d45d2dbcd428889f",
+      "words": 1860
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-010.txt",
+      "source_id": "pride_and_prejudice.chapter-010",
+      "text_hash": "c3c666dc323aa817cd453f8676642d11f5687183a86932a35d3c6deb802586e7",
+      "words": 1601
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-009.txt",
+      "source_id": "pride_and_prejudice.chapter-009",
+      "text_hash": "d195b111babc7b4031ee02bbbc5f419cf403430a12db87eafc73f4cb8d8d0e5b",
+      "words": 2233
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-002.txt",
+      "source_id": "pride_and_prejudice.chapter-002",
+      "text_hash": "704eefdd339135efb22baf8eae7e2d9676e016f472906f49161009e2df3f1642",
+      "words": 1723
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-019.txt",
+      "source_id": "pride_and_prejudice.chapter-019",
+      "text_hash": "12f7156a169beaf0330ed40de16f079dcd1314d02331ae6ec4db28eee346e219",
+      "words": 1653
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/emma.chapter-007.txt",
+      "source_id": "emma.chapter-007",
+      "text_hash": "6e8be81039381127501783a6c2abd3e9fed79660fd787e471cbc3f16f689cc82",
+      "words": 2416
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-024.txt",
+      "source_id": "sense_and_sensibility.chapter-024",
+      "text_hash": "2a416ba0f9e76bed5d1e5e977b5010a4557b813af647bba73d385dbbf55e901c",
+      "words": 2114
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-030.txt",
+      "source_id": "pride_and_prejudice.chapter-030",
+      "text_hash": "b13d0ea6d90c51f2ec5fd894d6b530087f0e6eed6dfa367a46cd70945cf52066",
+      "words": 1556
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-057.txt",
+      "source_id": "pride_and_prejudice.chapter-057",
+      "text_hash": "f8dcc1195e219768bf4330d44b5cf1d4d99234dd6d33a7c2f6b991b9f6c30513",
+      "words": 2481
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-058.txt",
+      "source_id": "pride_and_prejudice.chapter-058",
+      "text_hash": "90e36639fd4dd7a8c05aa478dde237cc7032e133e1015b56eeb9739422563233",
+      "words": 1588
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-018.txt",
+      "source_id": "sense_and_sensibility.chapter-018",
+      "text_hash": "e1e3fcc89ee71c4399cd90b0457d37f4ca066764ee98180f9be0bf8a4aa69acc",
+      "words": 1515
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-003.txt",
+      "source_id": "sense_and_sensibility.chapter-003",
+      "text_hash": "e982ede82a12392244ac4d43892012216b25e5f11ed2378a79bcb904a2dec948",
+      "words": 1534
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-015.txt",
+      "source_id": "sense_and_sensibility.chapter-015",
+      "text_hash": "6f9b44662e1254cc75853db341dd1e53190b83e8662df18aeb72ced4a7a017b7",
+      "words": 2522
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-022.txt",
+      "source_id": "sense_and_sensibility.chapter-022",
+      "text_hash": "667f847f158c496cc59fff7ee7fac790e818a6bcf1b060a2184521f7f34f75eb",
+      "words": 2826
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/mansfield_park.chapter-030.txt",
+      "source_id": "mansfield_park.chapter-030",
+      "text_hash": "748df34a30cb1aa51a606d0a0f0b0bb79d20956e844e73266814ea0566c4f6d0",
+      "words": 2490
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-006.txt",
+      "source_id": "pride_and_prejudice.chapter-006",
+      "text_hash": "509e0bc24eb70e3522f0c1759a526258773e80b5635c0d6930b93f803f8880be",
+      "words": 2000
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/mansfield_park.chapter-012.txt",
+      "source_id": "mansfield_park.chapter-012",
+      "text_hash": "5f9b9bcedfc57aa9186832205cb1c9a9f7e4574178e057eae7e46da4e776195c",
+      "words": 2261
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/emma.chapter-028.txt",
+      "source_id": "emma.chapter-028",
+      "text_hash": "bf132f11bbb89a46b2a8228e2b69777a02fbc683987f4f340d3fe10bd6b5d2f2",
+      "words": 2016
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/mansfield_park.chapter-015.txt",
+      "source_id": "mansfield_park.chapter-015",
+      "text_hash": "1a69713e4d9b1a6bcf08247c216029e5f41b779e6da6cbbf3fc38598a2a73c30",
+      "words": 3933
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/emma.chapter-029.txt",
+      "source_id": "emma.chapter-029",
+      "text_hash": "8035df166da2379896383c99f424cf47776771cf4173cc052f2c98459eb0ff3d",
+      "words": 3267
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-024.txt",
+      "source_id": "pride_and_prejudice.chapter-024",
+      "text_hash": "e599f2b93904b3fc39778dab8e8f2c607adac3a7c101b054e0946cb97f7f2b9f",
+      "words": 1537
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/sense_and_sensibility.chapter-014.txt",
+      "source_id": "sense_and_sensibility.chapter-014",
+      "text_hash": "cf286c489fa8906fe5037b212fbead21fe1347b596f94369d9303429d2507b09",
+      "words": 1508
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-039.txt",
+      "source_id": "pride_and_prejudice.chapter-039",
+      "text_hash": "4a93f0cffb9e32777b9dc4cd2c1a19ca384b67319d1150378adbba002fdd37c1",
+      "words": 1702
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/mansfield_park.chapter-023.txt",
+      "source_id": "mansfield_park.chapter-023",
+      "text_hash": "54d4467b5c4124d45f6db8e2c9afadec2748c49ae0a75cd9c926e5cbeaa6a50e",
+      "words": 4024
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/pride_and_prejudice.chapter-026.txt",
+      "source_id": "pride_and_prejudice.chapter-026",
+      "text_hash": "8e1b8d8f1f5e87610eb7afabf1339252fd3822798f43765f88d0990c62482934",
+      "words": 1261
+    },
+    {
+      "category": "public-domain-reference",
+      "path": "03_scene_lab/runs/s02-base-meta-prompt-v2/sources/emma.chapter-040.txt",
+      "source_id": "emma.chapter-040",
+      "text_hash": "cf22268e70833feb0d7013deb65183477b3e3bf8713a6eaea866f7dbec6a27c3",
+      "words": 2106
+    }
+  ],
+  "record_type": "BaseMetaPromptExperiment",
+  "sampling": {
+    "maximum_new_tokens": 1500,
+    "min_p": 0.02,
+    "repair": "none before literary triage",
+    "reserved_context_tokens": 2048,
+    "seeds": [
+      881003,
+      881019,
+      881041,
+      881063
+    ],
+    "server_context_tokens": 262144,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.08
+  },
+  "selection": {
+    "advance": "hard-gate eligibility, literary proxy, structural diversity, then cold read",
+    "no_reference_leak": "accepted S02 is excluded from every prompt",
+    "screen": "paired seeds and exact target across all arms"
+  },
+  "target": {
+    "heldout_reference": {
+      "path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/s02.codex.v1.md",
+      "prompt_overlap_check": "zero exact 12-word matches in every arm",
+      "sha256": "8561c609388e564f2d35edcffafec3f60969b96e003c0024241dcb3b5c5cf06e"
+    },
+    "opening_runway": "Four nights after the calibration game, the alignment session had run twenty-three minutes past its promised end.",
+    "packet_hash_without_superseded_tail": "88173f4e4e8011b14d941a1e6c21badcec98cf3452412cf89c872252c4d3f63f",
+    "packet_path": "03_scene_lab/runs/s02-compute-v4.3-a4b/verbalized_to_instruction/novelist_packet.seq1.v1.json",
+    "scene": "S02",
+    "sequence": "s02-seq-1-trap"
+  },
+  "version": "base-meta-prompt.v2"
+}

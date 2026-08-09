@@ -1,0 +1,27 @@
+{
+  "campaign_hash": "c672c028c3c969aa988061321a5208108295bb1cd98d6a271c7471b901f727b0",
+  "context_tokens": 8000,
+  "encoding": "documentary",
+  "graph_granularity": "scene",
+  "mutated_axis": "initial",
+  "parent_recipe_hash": "",
+  "recipe_hash": "dccf430fc6eb36604a34e93582f79891f713abde4e83b934154b86d77f7885a1",
+  "recipe_id": "v4-minimal",
+  "record_type": "LoomPromptRecipe",
+  "runway_type": "generated-opening",
+  "sampler": {
+    "dry_allowed_length": 3,
+    "dry_base": 1.75,
+    "dry_multiplier": 0.0,
+    "min_p": 0.02,
+    "repeat_penalty": 1.02,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.1
+  },
+  "source_count": 0,
+  "source_order": "broad-to-near",
+  "target_density": "compact",
+  "topology": "minimal-card",
+  "version": "gemma-fiction-autoresearch.v4"
+}

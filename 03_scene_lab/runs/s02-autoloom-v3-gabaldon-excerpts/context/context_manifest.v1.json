@@ -1,0 +1,155 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "author_conditioning": {
+    "author_profile_hash": "07ae193a0baa72577b5afb86f442516ba29fb65dc3bf09441f21e6afc6530157",
+    "author_profile_id": "diana-gabaldon.excerpt-control.v1",
+    "conditioning_variant": "profile-sparse-exemplars",
+    "context_hash": "dfc1157c1405b94b1f5e782ebe7a42c509564274eb94306563b11219f670cc4a",
+    "control_density": "light",
+    "corpus_manifest_hash": "19f426ece391c2ac9042e8c30f2309b7ed32f5004a7095c71c96f0652bd0534a",
+    "prompt_encoding": "xml",
+    "transformation_map_hash": "9e83a92d111eb20c7e356282ecf07d945450d1267cc83d0753724557696bd398"
+  },
+  "comparison_arms": {
+    "base31_plan_to_instruction": {
+      "backtranslation": "requires an explicit corpus-derived author context and nonempty transformation-map hash; the accepted S01 prose is represented by a factual state bridge",
+      "compiler": "none; full selected plan is immutable and the writer sees a deterministic concrete-event projection",
+      "planner_transport": "native raw continuation; no chat tokens",
+      "proposal_source": "gemma-4-31B-base-Q8_0",
+      "writer": "gemma-4-31B-it-Q8_0",
+      "writer_transport": "raw-completion-with-explicit-turn-envelope"
+    },
+    "base_program_to_instruction": {
+      "compiler": "gemma-4-31B-it-Q8_0",
+      "proposal_source": "gemma-4-E2B-base-Q8_0",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "chat_direct": {
+      "proposal_source": "none",
+      "transport": "chat-completion",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "chat_with_base31_plan": {
+      "comparison": "paired transport ablation",
+      "proposal_source": "same locked 31B-base plan set used by the raw instruction writer",
+      "transport": "chat-completion",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "instruction_raw": {
+      "proposal_source": "none",
+      "transport": "raw-completion-with-explicit-turn-envelope",
+      "writer": "gemma-4-31B-it-Q8_0"
+    },
+    "native_base": {
+      "proposal_source": "none",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-base-Q8_0"
+    },
+    "native_base_with_base31_plan": {
+      "comparison": "paired writer-checkpoint ablation",
+      "proposal_source": "same locked 31B-base plan set used by the instruction writer",
+      "transport": "native raw continuation; no chat tokens",
+      "writer": "gemma-4-31B-base-Q8_0"
+    },
+    "verbalized_to_instruction": {
+      "compiler": "none; sampled JSON remains immutable in provenance and the writer sees a deterministic concrete-event projection",
+      "proposal_source": "31B-it verbalized-sampling tail distribution",
+      "selection": "two reversed-order blind plan judgments followed by quality-first causal-diversity selection",
+      "writer": "gemma-4-31B-it-Q8_0"
+    }
+  },
+  "comparison_version": "s02-compute-comparison.v4.1",
+  "diagnostic_ablations": [
+    "base31_plan_to_instruction",
+    "chat_with_base31_plan",
+    "chat_direct",
+    "native_base",
+    "base_program_to_instruction"
+  ],
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "feedback_source_kind": "bootstrap-codex",
+  "generation_prompt_words": 1776,
+  "macro_sequences": [
+    {
+      "beat_numbers": [
+        1,
+        2,
+        3
+      ],
+      "ending_visible": false,
+      "endpoint": "End with Mara less able to act because her initially plausible coping policy has narrowed her choices. Livia must have perceived one difficult thing accurately while overclaiming what that accuracy entitles her to do. Do not resolve the session or preview the walk home.",
+      "maximum_words": 1100,
+      "minimum_words": 875,
+      "sequence_id": "s02-seq-1-trap",
+      "target_words": 950,
+      "title": "Care becomes a trap"
+    },
+    {
+      "beat_numbers": [
+        4,
+        5,
+        6
+      ],
+      "ending_visible": false,
+      "endpoint": "End after Mara herself has changed the room's available choices through a refusal, question, or concrete action. The exit must now be possible because of what Mara did; stop before anyone ratifies it.",
+      "maximum_words": 1100,
+      "minimum_words": 875,
+      "sequence_id": "s02-seq-2-refusal",
+      "target_words": 950,
+      "title": "The room discovers it has no category for no"
+    },
+    {
+      "beat_numbers": [
+        7,
+        8,
+        9
+      ],
+      "ending_visible": true,
+      "endpoint": "Resolve the local boundary crisis with romantic hope-for-now: one mutually chosen kiss stops while still desired, the pair creates a shared stopping practice in their own character-specific language, and Mara freely chooses continued engagement. Jonah's restraint must cost or expose him, and a concrete unresolved Fulcrum observation must create the next story question.",
+      "maximum_words": 1400,
+      "minimum_words": 1100,
+      "sequence_id": "s02-seq-3-doorway",
+      "target_words": 1250,
+      "title": "Exit, restraint, and the doorway rule"
+    }
+  ],
+  "packet_hash": "1e0a78f2656990ef83a530c4f2e255b7131cc9c290ceb6909515657c7b9e2604",
+  "packet_words": 5853,
+  "primary_pipelines": [
+    {
+      "hypothesis": "native stochastic instruction-model baseline",
+      "mode": "instruction_raw"
+    },
+    {
+      "hypothesis": "instruction-model long-tail planning before realization",
+      "mode": "verbalized_to_instruction"
+    },
+    {
+      "hypothesis": "genuine 31B-base causal planning and native prose continuation",
+      "mode": "native_base_with_base31_plan"
+    }
+  ],
+  "record_type": "ContinuationContextManifest",
+  "rendered_prompt_hash": "77034ebe431cc14d881b0c78e4fcadb9c6f033df341c5e6c55a99a768d563292",
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "scene_id": "S02",
+  "shared_controls": {
+    "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+    "compact_packet_hash": "77034ebe431cc14d881b0c78e4fcadb9c6f033df341c5e6c55a99a768d563292",
+    "generation_context": "factual accepted-prefix state, character invariants, observable mechanisms, and hard limits; evaluator ontology omitted",
+    "length_controller": "measured-sequence-floor-and-local-overflow-repair",
+    "macro_sequence_count": 3,
+    "seeds": [
+      22011,
+      22023,
+      22037,
+      22051,
+      22063,
+      22079,
+      22091,
+      22109
+    ]
+  },
+  "version": "s02-continuation.v4.1"
+}

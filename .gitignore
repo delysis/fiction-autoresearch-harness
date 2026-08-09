@@ -1,0 +1,9 @@
+.DS_Store
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.sqlite-shm
+*.sqlite-wal
+.venv/
+build/
+dist/

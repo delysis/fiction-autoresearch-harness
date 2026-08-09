@@ -1,0 +1,27 @@
+{
+  "campaign_hash": "db06de5e1bcd3d963b5d1963a889f60dfa0b32182f498b207e0bc57747dd33b4",
+  "context_tokens": 8000,
+  "encoding": "documentary",
+  "graph_granularity": "scene",
+  "mutated_axis": "source_order",
+  "parent_recipe_hash": "372ba5891766b7bf7e94505f053e9b413002a313f55ea50c3e9b1f40f7a7f6f3",
+  "recipe_hash": "c4646dc2247356eda7e2740b7db12029ed390d8e443222685d3c1febfb8c8be7",
+  "recipe_id": "v4-dwell.movement-local-excerpt",
+  "record_type": "LoomPromptRecipe",
+  "runway_type": "generated-opening",
+  "sampler": {
+    "dry_allowed_length": 3,
+    "dry_base": 1.75,
+    "dry_multiplier": 0.0,
+    "min_p": 0.02,
+    "repeat_penalty": 1.02,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.1
+  },
+  "source_count": 4,
+  "source_order": "movement-local-excerpt",
+  "target_density": "compact",
+  "topology": "dwell-paired",
+  "version": "gemma-fiction-autoresearch.v4"
+}

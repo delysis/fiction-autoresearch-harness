@@ -1,0 +1,44 @@
+{
+  "actor_novelist": {
+    "candidate_count": 8,
+    "candidate_ids": [
+      "s01-comparison-v1-actor_novelist-actor-novelist-01",
+      "s01-comparison-v1-actor_novelist-actor-novelist-02",
+      "s01-comparison-v1-actor_novelist-actor-novelist-03",
+      "s01-comparison-v1-actor_novelist-actor-novelist-04",
+      "s01-comparison-v1-actor_novelist-actor-novelist-05",
+      "s01-comparison-v1-actor_novelist-actor-novelist-06",
+      "s01-comparison-v1-actor_novelist-actor-novelist-07",
+      "s01-comparison-v1-actor_novelist-actor-novelist-08"
+    ],
+    "run_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/actor_novelist"
+  },
+  "direct": {
+    "candidate_count": 8,
+    "candidate_ids": [
+      "s01-comparison-v1-direct-direct-01",
+      "s01-comparison-v1-direct-direct-02",
+      "s01-comparison-v1-direct-direct-03",
+      "s01-comparison-v1-direct-direct-04",
+      "s01-comparison-v1-direct-direct-05",
+      "s01-comparison-v1-direct-direct-06",
+      "s01-comparison-v1-direct-direct-07",
+      "s01-comparison-v1-direct-direct-08"
+    ],
+    "run_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/direct"
+  },
+  "verbalized_sampling": {
+    "candidate_count": 8,
+    "candidate_ids": [
+      "s01-comparison-v1-verbalized_sampling-verbalized-01",
+      "s01-comparison-v1-verbalized_sampling-verbalized-02",
+      "s01-comparison-v1-verbalized_sampling-verbalized-03",
+      "s01-comparison-v1-verbalized_sampling-verbalized-04",
+      "s01-comparison-v1-verbalized_sampling-verbalized-05",
+      "s01-comparison-v1-verbalized_sampling-verbalized-06",
+      "s01-comparison-v1-verbalized_sampling-verbalized-07",
+      "s01-comparison-v1-verbalized_sampling-verbalized-08"
+    ],
+    "run_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/s01-comparison-v1/verbalized_sampling"
+  }
+}

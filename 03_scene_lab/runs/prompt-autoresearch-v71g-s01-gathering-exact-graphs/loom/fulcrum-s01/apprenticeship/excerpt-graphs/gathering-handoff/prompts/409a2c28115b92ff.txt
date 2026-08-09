@@ -1,0 +1,36 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+“Come then,” said Ursula. “Let us go before mother comes.”
+
+“Who’ll hear us say our prayers?” asked Billy anxiously.
+
+“Whom you like.”
+
+“Yes, I will.”
+
+“Is it _whom_ you like?”
+
+“Well what is _whom_?”
+
+“It’s the accusative of who.”
+
+There was a moment’s contemplative silence, then the confiding:
+
+Birkin smiled to himself as he sat by the fire. When Ursula came down
+he sat motionless, with his arms on his knees. She saw him, how he was
+motionless and ageless, like some crouching idol, some image of a
+deathly religion. He looked round at her, and his face, very pale and
+unreal, seemed to gleam with a whiteness almost phosphorescent.
+
+“Don’t you feel well?” she asked, in indefinable repulsion.
+
+“I hadn’t thought about it.”
+
+“But don’t you know without thinking about it?”
+
+He looked at her, his eyes dark and swift, and he saw her revulsion. He
+did not answer her question.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

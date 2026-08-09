@@ -1,0 +1,202 @@
+{
+  "index_hash": "ae61b5e554131366ead566053cba053b72ec6b466f541329368669af61aeaf57",
+  "query": {
+    "desired_features": {
+      "agency_density": 0.016,
+      "conflict_density": 0.008,
+      "dialogue_ratio": 0.12,
+      "explicit_intimacy_density": 0.0,
+      "interiority_density": 0.016,
+      "intimacy_action_density": 0.0,
+      "romance_density": 0.004,
+      "sensory_channels": 2,
+      "sentence_length_mean": 17,
+      "sentence_length_variation": 11
+    },
+    "excluded_facets": [
+      "explicit-intimacy"
+    ],
+    "included_authors": [
+      "L. M. Montgomery"
+    ],
+    "maximum_per_work": 4,
+    "maximum_scenes": 4,
+    "minimum_stage_heat": 0.0,
+    "mmr_lambda": 0.82,
+    "preferred_facets": [
+      "dry-humor",
+      "romantic-comedy",
+      "social-constraint",
+      "choice-and-agency",
+      "interior"
+    ],
+    "query_id": "s01-dry-female-defiance.v1",
+    "query_text": "An adult woman reads a small social ritual with dry intelligence, notices the hierarchy beneath respectable manners, and makes a concrete choice that quietly refuses the assigned role.",
+    "required_facets": [
+      "adult"
+    ],
+    "source_token_budget": 6000,
+    "stage": "dry-social-inference"
+  },
+  "record_type": "LiteraryRetrievalResult",
+  "retrieval_hash": "315cdb2e36ce49ef7ad406fcde7a79639826f9d3b0a559fa5dc4756e9b1d5a0c",
+  "selected": [
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.596572,
+      "facets": [
+        "adult",
+        "interior",
+        "marriage",
+        "plot-coupled",
+        "romantic-comedy",
+        "sensory-dense",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.003198,
+        "conflict_density": 0.002132,
+        "dialogue_ratio": 0.079957,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.008529,
+        "intimacy_action_density": 0.002132,
+        "romance_density": 0.008529,
+        "sensory_channels": 4,
+        "sentence_length_mean": 12.342105,
+        "sentence_length_variation": 8.40982
+      },
+      "mmr_score": 0.549189,
+      "rank": 1,
+      "scene_id": "montgomery.blue-castle.c010.s001",
+      "score_components": {
+        "craft_geometry": 0.889793,
+        "facet": 0.6,
+        "lexical": 0.5945,
+        "size": 0.778824,
+        "stage_heat": 0.08528
+      },
+      "text_hash": "265e8021fde509dc1a3ca45b2f88867b0363a9383d076f1fbc43ebbd42a27916",
+      "title": "The Blue Castle",
+      "token_estimate": 1276,
+      "word_count": 938,
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.59128,
+      "facets": [
+        "adult",
+        "plot-coupled",
+        "romantic-comedy",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.004161,
+        "conflict_density": 0.004161,
+        "dialogue_ratio": 0.098474,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.006935,
+        "intimacy_action_density": 0.0,
+        "romance_density": 0.0,
+        "sensory_channels": 3,
+        "sentence_length_mean": 12.016667,
+        "sentence_length_variation": 8.993501
+      },
+      "mmr_score": 0.454031,
+      "rank": 2,
+      "scene_id": "montgomery.blue-castle.c009.s002",
+      "score_components": {
+        "craft_geometry": 0.949697,
+        "facet": 0.4,
+        "lexical": 0.66875,
+        "size": 0.965882,
+        "stage_heat": 0.0
+      },
+      "text_hash": "6ccdf8c43233a68fd5f2e8a704ae02d206462cf2c2fb7a9b4effe7f27378692d",
+      "title": "The Blue Castle",
+      "token_estimate": 981,
+      "word_count": 721,
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.58532,
+      "facets": [
+        "adult",
+        "interior",
+        "marriage",
+        "romantic-comedy",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.007439,
+        "conflict_density": 0.003188,
+        "dialogue_ratio": 0.155154,
+        "explicit_intimacy_density": 0.0,
+        "interiority_density": 0.009564,
+        "intimacy_action_density": 0.002125,
+        "romance_density": 0.005313,
+        "sensory_channels": 3,
+        "sentence_length_mean": 13.253521,
+        "sentence_length_variation": 10.721465
+      },
+      "mmr_score": 0.445456,
+      "rank": 3,
+      "scene_id": "montgomery.blue-castle.c024.s001",
+      "score_components": {
+        "craft_geometry": 0.963701,
+        "facet": 0.6,
+        "lexical": 0.484108,
+        "size": 0.775294,
+        "stage_heat": 0.085
+      },
+      "text_hash": "a32f02e9e163ef29fbdf9126480b8a43aabe63c543b2f87c4b1a2748a27a85a2",
+      "title": "The Blue Castle",
+      "token_estimate": 1280,
+      "word_count": 941,
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "L. M. Montgomery",
+      "base_score": 0.544375,
+      "facets": [
+        "adult",
+        "interior",
+        "romantic-comedy",
+        "sensory-dense",
+        "social-constraint"
+      ],
+      "features": {
+        "agency_density": 0.003243,
+        "conflict_density": 0.001081,
+        "dialogue_ratio": 0.163243,
+        "explicit_intimacy_density": 0.001081,
+        "interiority_density": 0.00973,
+        "intimacy_action_density": 0.005405,
+        "romance_density": 0.005405,
+        "sensory_channels": 5,
+        "sentence_length_mean": 14.015152,
+        "sentence_length_variation": 10.58371
+      },
+      "mmr_score": 0.409745,
+      "rank": 4,
+      "scene_id": "montgomery.blue-castle.c018.s002",
+      "score_components": {
+        "craft_geometry": 0.872497,
+        "facet": 0.6,
+        "lexical": 0.336772,
+        "size": 0.794118,
+        "stage_heat": 0.2162
+      },
+      "text_hash": "ae7643e4e92abc974a352d990a88d03435049bab5834d27c1fe7dea90d8357ae",
+      "title": "The Blue Castle",
+      "token_estimate": 1258,
+      "word_count": 925,
+      "work_id": "montgomery.blue-castle"
+    }
+  ],
+  "selected_token_estimate": 4795,
+  "selection_method": "fts5-bm25+craft-geometry+facets+mmr+work-cap",
+  "unused_source_tokens": 1205,
+  "version": "literary-apprenticeship.v1"
+}

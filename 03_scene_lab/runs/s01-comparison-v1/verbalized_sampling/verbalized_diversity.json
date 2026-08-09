@@ -1,0 +1,20 @@
+{
+  "across_call_mean_jaccard_distance": 0.8115278602225389,
+  "selected_ids": [
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-2:strategy-6",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-2:strategy-4",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-1:strategy-6",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-2:strategy-7",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-1:strategy-3",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-2:strategy-1",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-2:strategy-3",
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-1:strategy-4"
+  ],
+  "selection_seed": 147,
+  "strategy_count": 16,
+  "unique_after_deduplication": 16,
+  "within_call_mean_jaccard_distance": {
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-1": 0.773072020874215,
+    "s01-comparison-v1-verbalized_sampling-vs-distribution-2": 0.8038801577193149
+  }
+}

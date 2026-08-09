@@ -1,0 +1,154 @@
+{
+  "record_type": "HumanCloseReadEditorialOverrides",
+  "version": "1.0",
+  "candidate_defects": {
+    "s02-proof-v1-bootstrap-raw_organic-raw_organic-02": [
+      {
+        "axis": "character_truth",
+        "passage": "The tone remained one of profound care, a soft-spoken insistence that Mara’s own perception of her internal state was flawed, and that Livia was the only one capable of reading the map correctly.",
+        "named_defects": [
+          "Livia is flattened into immaculate coercion. Preserve her real controlling error, but dramatize genuine care or genuine skill through a concrete, self-costly action or a partially valid perception; do not absolve her or explain this abstractly."
+        ]
+      },
+      {
+        "axis": "instructional_fidelity",
+        "passage": "But a practice that cannot survive a refusal cannot discover truth. If we mistake a boundary for a symptom, we aren't practicing alignment; we are practicing coercion.",
+        "named_defects": [
+          "Miriam states the detachable thesis too neatly. Let her physical act of opening the door and protecting Mara's refusal carry most of the meaning; shorten the speech and preserve authority without sounding like the rubric."
+        ]
+      },
+      {
+        "axis": "character_truth",
+        "passage": "The machinery is designed to find flaws, Mara. That's why you're here. The question is whether you're going to let the machine define the flaw, or if you're going to own it.",
+        "named_defects": [
+          "Jonah sounds frictionlessly wise and therapeutic. Replace this polished aphorism with character-specific behavior or dialogue that costs him something, leaves room for error, and lets Mara infer his restraint rather than receiving a diagnosis."
+        ]
+      },
+      {
+        "axis": "heat_with_agency",
+        "passage": "The kiss was an explosion of everything they had been suppressing—the intellectual rivalry, the shared secrets, the quiet alliance against the pavilion's transparency. It tasted of cold air and hidden things.",
+        "named_defects": [
+          "The kiss is generic abstraction. Keep the same consensual action and stopping point, but make the heat character-specific through selective physical sensation, involuntary response, awkwardness or dialogue; avoid explosion/electricity/hidden-things shorthand."
+        ]
+      },
+      {
+        "axis": "prose_and_voice",
+        "passage": "She had found a way to be seen without being captured. She had found a boundary that didn't feel like a wall, but like a bridge.",
+        "named_defects": [
+          "The ending explains its own symbol and repeats the shared model register. Replace the abstract seen/captured and wall/bridge summary with an earned concrete choice or image while retaining Mara's explicit free decision to stay and the open institutional mystery."
+        ]
+      }
+    ],
+    "s02-proof-v1-bootstrap-hybrid_base_program-hybrid_base_program-04": [
+      {
+        "axis": "character_truth",
+        "passage": "You aren't just resisting the room, Mara. You're resisting the truth of your own longing. When you look at Jonah, there is a specific frequency of fear\u2014a tremor of *unworthiness*\u2014that flashes across your face before you can mask it with a smile.",
+        "named_defects": [
+          "Livia is too conveniently wrong and villain-coded. Let this read contain one precise truth about Mara's longing that Mara privately recognizes, while making Livia's error the attempt to own its meaning; add one concrete sign of genuine care or personal cost without absolving the coercion."
+        ]
+      },
+      {
+        "axis": "instructional_fidelity",
+        "passage": "If the truth requires a closed door and a captive audience to be discovered, then it isn't truth,",
+        "named_defects": [
+          "Miriam sounds like the rubric speaking. Keep her opening the door and ending the session, but cut the polished thesis: let timing, authority, and a concrete protective act carry the principle."
+        ]
+      },
+      {
+        "axis": "character_truth",
+        "passage": "Most people spend their whole lives looking back to see if the person they just left is still watching,",
+        "named_defects": [
+          "Jonah is frictionlessly profound. Replace this aphorism with idiosyncratic dialogue or behavior that reveals effort, uncertainty, humor, or a small mistake; Mara should infer the attractive restraint rather than be handed its meaning."
+        ]
+      },
+      {
+        "axis": "heat_with_agency",
+        "passage": "When his lips met hers, it wasn't the fusion Livia might have predicted\u2014a collapse of boundaries\u2014but a conversation. It was a slow, searching pressure, a mutual recognition of the boundaries they were choosing to cross.",
+        "named_defects": [
+          "The kiss is thematic abstraction in place of erotic specificity. Preserve Mara's initiative and the stopping point, but use three selective, character-specific sensory channels, an involuntary response, and some awkward or surprising human detail; avoid conversation/electricity/recognition shorthand."
+        ]
+      },
+      {
+        "axis": "narrative_force",
+        "passage": "The compound was still a place of shadows and hidden agendas, and the mystery of Fulcrum remained an unsolved equation. But as she watched Jonah walk away into the darkness, she knew she wasn't afraid of the room anymore.",
+        "named_defects": [
+          "The ending merely announces an open mystery and internal resolution, and it does not mechanically establish continued engagement. End on Mara making a concrete free choice about tomorrow at Fulcrum, paired with one specific anomalous observation or object that cannot yet be explained; do not summarize 'the mystery remains.'"
+        ]
+      }
+    ],
+    "s02-proof-v1-bootstrap-chat_direct-chat_direct-04": [
+      {
+        "axis": "character_truth",
+        "passage": "A translation error. That\u2019s a very sophisticated way to describe resistance. But why the need to translate? Why not simply exist in the truth of the moment?",
+        "named_defects": [
+          "Livia is too conveniently wrong and villain-coded. Give her one exact perception about Mara's desire or divided loyalties that Mara recognizes as true, then locate the violation in Livia claiming interpretive authority; add one concrete sign of genuine care or personal cost without absolution."
+        ]
+      },
+      {
+        "axis": "instructional_fidelity",
+        "passage": "A practice that cannot survive a refusal cannot discover the truth, Livia. If the only way to reach the center is to break the door down, you aren't finding a soul; you're raiding a fortress.",
+        "named_defects": [
+          "Miriam delivers a detachable lesson. Shorten this radically and let her open door, bodily placement, attention to exhaustion, and enforcement of the stop do the theological and moral work."
+        ]
+      },
+      {
+        "axis": "character_truth",
+        "passage": "That's usually when people actually start to swim.",
+        "named_defects": [
+          "Jonah answers with a frictionless therapeutic aphorism. Replace it with character-specific behavior or dialogue containing effort, uncertainty, humor, or a small social error; Mara should discover his restraint through what he does."
+        ]
+      },
+      {
+        "axis": "heat_with_agency",
+        "passage": "When their lips finally met, it wasn't a collision but a slow, deliberate discovery. The kiss tasted of salt and the cool night air, a sudden release of the tension that had built since the first touch of their wrists.",
+        "named_defects": [
+          "The kiss uses stock contrast and summary. Preserve Mara's initiative and the immediate stop, but use three selective, character-specific sensory channels, a surprising involuntary response, and an imperfect human beat; avoid collision/discovery/electric-current language."
+        ]
+      },
+      {
+        "axis": "narrative_force",
+        "passage": "He stepped back, granting her space, his expression one of profound respect. Mara smiled, stepped inside her door, and closed it\u2014not to hide, but to hold the moment.",
+        "named_defects": [
+          "This closes on an explained symbol and misses both a concrete tomorrow-choice and the residual mystery. End on Mara freely choosing a specific next engagement with Fulcrum while noticing one concrete anomaly whose mechanism remains genuinely open."
+        ]
+      }
+    ],
+    "s02-proof-v1-bootstrap-raw_organic-raw_organic-03": [
+      {
+        "axis": "character_truth",
+        "passage": "For a split second, the sheer accuracy of the sentiment\u2014the deep, ancestral longing to be known without effort\u2014triggered a genuine visceral response.",
+        "named_defects": [
+          "This is the right complication, but the scene then flattens Livia into pure coercive function. Preserve Livia being genuinely right about this longing while wrong to own its meaning, and add one concrete sign that her care or skill costs her something without absolving her."
+        ]
+      },
+      {
+        "axis": "instructional_fidelity",
+        "passage": "A practice that cannot survive a refusal cannot discover the truth,",
+        "named_defects": [
+          "Miriam states the rubric. Keep the interruption and opened doorway, but replace most of the thesis with a concrete protective action, a brief command, and a consequence for Livia."
+        ]
+      },
+      {
+        "axis": "character_truth",
+        "passage": "Most people think the work is about finding the right words. They don't realize the real work is knowing when the words are being used as a leash.",
+        "named_defects": [
+          "Jonah is implausibly composed and maxim-ready. Replace the aphorism with idiosyncratic dialogue or behavior showing effort, uncertainty, humor, or a small failure; retain attraction to restraint without naming its moral."
+        ]
+      },
+      {
+        "axis": "heat_with_agency",
+        "passage": "When he finally kissed her, it wasn't the sudden, desperate collision she had expected. It was a slow exploration, a conversation of breath and pressure. It tasted of tea and the cold night air.",
+        "named_defects": [
+          "The kiss is generic romance-model shorthand. Preserve the chosen contact and stop, but make it particular to Mara and Jonah through three selective sensory channels, involuntary response, and one awkward or surprising beat; avoid collision/exploration/conversation/electric language."
+        ]
+      },
+      {
+        "axis": "narrative_force",
+        "passage": "She knew that the mysteries of the compound remained\u2014that Livia was still a rival, that Adrian Voss was still a shadow over the project, and that the truth of Fulcrum was still hidden.",
+        "named_defects": [
+          "The ending summarizes sequels and Mara's lesson. Replace it with a concrete, freely chosen action committing Mara to tomorrow at Fulcrum and one specific anomalous remainder that survived her explanation of the cold-reading mechanism."
+        ]
+      }
+    ]
+  }
+}

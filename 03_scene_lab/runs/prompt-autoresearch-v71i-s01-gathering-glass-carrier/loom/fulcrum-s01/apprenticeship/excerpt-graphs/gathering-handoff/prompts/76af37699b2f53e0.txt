@@ -1,0 +1,28 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+All this time Gerald had been completely ignored. And yet he felt that
+the girl was physically aware of his proximity. He waited, listened,
+and tried to piece together the conversation.
+
+“Are you staying at the flat?” the girl asked, of Birkin.
+
+“For three days,” replied Birkin. “And you?”
+
+“I don’t know yet. I can always go to Bertha’s.” There was a silence.
+
+Suddenly the girl turned to Gerald, and said, in a rather formal,
+polite voice, with the distant manner of a woman who accepts her
+position as a social inferior, yet assumes intimate _camaraderie_ with
+the male she addresses:
+
+“Do you know London well?”
+
+“I can hardly say,” he laughed. “I’ve been up a good many times, but I
+was never in this place before.”
+
+“You’re not an artist, then?” she said, in a tone that placed him an
+outsider.
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

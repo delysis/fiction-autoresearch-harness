@@ -1,0 +1,1074 @@
+{
+  "aggregate": {
+    "order_disagreements": [
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-direct-direct-04",
+          "s01-comparison-v1-direct-direct-05"
+        ],
+        "winners": [
+          "s01-comparison-v1-direct-direct-04",
+          "s01-comparison-v1-direct-direct-05"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-direct-direct-01",
+          "s01-comparison-v1-direct-direct-05"
+        ],
+        "winners": [
+          "s01-comparison-v1-direct-direct-01",
+          "s01-comparison-v1-direct-direct-05"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-direct-direct-05",
+          "s01-comparison-v1-direct-direct-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-direct-direct-05",
+          "s01-comparison-v1-direct-direct-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-direct-direct-04",
+          "s01-comparison-v1-direct-direct-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-direct-direct-04",
+          "s01-comparison-v1-direct-direct-08"
+        ]
+      },
+      {
+        "judgment_count": 2,
+        "pair": [
+          "s01-comparison-v1-direct-direct-01",
+          "s01-comparison-v1-direct-direct-08"
+        ],
+        "winners": [
+          "s01-comparison-v1-direct-direct-01",
+          "s01-comparison-v1-direct-direct-08"
+        ]
+      }
+    ],
+    "pair_count": 6,
+    "points": {
+      "s01-comparison-v1-direct-direct-01": 4.0,
+      "s01-comparison-v1-direct-direct-04": 2.0,
+      "s01-comparison-v1-direct-direct-05": 3.0,
+      "s01-comparison-v1-direct-direct-08": 3.0
+    },
+    "ranking": [
+      "s01-comparison-v1-direct-direct-01",
+      "s01-comparison-v1-direct-direct-05",
+      "s01-comparison-v1-direct-direct-08",
+      "s01-comparison-v1-direct-direct-04"
+    ]
+  },
+  "judgments": [
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-05",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-04",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on architectural metaphors"
+        ],
+        "B": [
+          "melodramatic internal monologue",
+          "clunky exposition of character backgrounds"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the appreciative gaze of a collector",
+          "they are actually antennas",
+          "the exhaustion of someone who had been holding a door shut",
+          "a void that refused to reflect the input",
+          "the heavy, unsettled silence of a system encountering an error"
+        ],
+        "B": [
+          "a small, fragrant anchor of the world",
+          "the intimacy of precision",
+          "a curated reality",
+          "a single, quiet act of refusal",
+          "a cult of perfect perception"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-05",
+        "s01-comparison-v1-direct-direct-04"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates superior narrative force by showing rather than telling. The 'miracle' of the reading is handled with far more epistemic texture; A describes the specific somatic cues and the 'distributed' nature of the fraud, whereas B relies on vague 'micro-movements' and internal realizations. Character truth is higher in A; Mara's resistance feels like a logical extension of her 'foundational rigor' and prayer practice, while B's Mara feels more like a generic protagonist experiencing a sudden epiphany. The heat in A is more effective because it is tied to a genuine power struggle and a specific, shared vulnerability ('holding a door shut') rather than B's more conventional 'erotic tension' tropes.",
+      "winner_id": "s01-comparison-v1-direct-direct-05",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-05",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-01",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on architectural metaphors"
+        ],
+        "B": [
+          "melodramatic internal monologue",
+          "clichéd romantic beats",
+          "telling rather than showing emotional states"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "I just stopped performing it",
+          "a way of being present without being reactive",
+          "the appreciative gaze of a collector",
+          "the exhaustion of someone who had been holding a door shut"
+        ],
+        "B": [
+          "the biological signal of a threat",
+          "a small, yeast-scented offering to a temple",
+          "the most visible way of being observed of all",
+          "the hunger she felt wasn't for the bread"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-05",
+        "s01-comparison-v1-direct-direct-01"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior narrative force and character truth. Mara's agency is active and intellectual; she identifies the mechanism of the 'miracle' and uses her own stillness as a weapon. In contrast, Candidate B's Mara is more reactive, feeling 'shame' and 'dread,' and her 'break' of the system is a clumsy physical nudge rather than a psychological shift. Candidate A's prose is sophisticated and avoids the romantic clichés found in B (e.g., 'more intimate than any kiss could have been'). A also handles the epistemic texture of the 'calibration' with more rigor, treating it as a system of feedback loops rather than a vague psychic power.",
+      "winner_id": "s01-comparison-v1-direct-direct-05",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-05",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing lag during the transition to the terrace"
+        ],
+        "B": [
+          "melodramatic prose",
+          "passive characterization",
+          "clichéd internal metaphors"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the trees seemed less like nature and more like a curated cathedral",
+          "the appreciative gaze of a collector",
+          "the way Livia’s weight shifted, the slight tension in her shoulders",
+          "the exhaustion of someone who had been holding a door shut",
+          "I just stopped performing it"
+        ],
+        "B": [
+          "bleeding a bruised violet light across the redwood canopy",
+          "goodness wasn't a private matter between a person and God",
+          "The words landed in Mara’s body like a physical blow",
+          "turned her internal landscape into a blank, white room",
+          "guard her own soul with the same disciplined precision"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-05",
+        "s01-comparison-v1-direct-direct-08"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates far superior character truth and narrative force. Mara in A is an active observer who uses her specific background (systemic ethics/prayer) to dismantle the social game. In B, Mara is a passive recipient of Livia's 'reads' and her eventual resistance is described through abstract metaphors ('blank, white room') rather than the concrete, somatic observation found in A. A's prose is precise and architectural, whereas B relies on purple prose ('bruised violet light') and cliché. A's handling of the 'miracle' mechanism is logically tighter and more satisfyingly integrated into the character's agency.",
+      "winner_id": "s01-comparison-v1-direct-direct-05",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "B",
+        "epistemic_texture": "B",
+        "heat_with_agency": "B",
+        "instructional_fidelity": "B",
+        "narrative_force": "B",
+        "prose_and_voice": "B",
+        "theological_coherence": "B"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-04",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-01",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "repetitive phrasing",
+          "shallow causal resolution"
+        ],
+        "B": [
+          "slight over-reliance on internal monologue"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the scent of a real kitchen with you",
+          "and high-level systems analysis without losing her center.\n\n\"You must be Mara"
+        ],
+        "B": [
+          "a small, yeast-scented offering to a temple",
+          "the asymmetry of the room became a roar",
+          "the biological signal of a threat",
+          "The intimacy of it",
+          "a report of a failure"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "and high-level systems analysis without losing her center.\n\n\"You must be Mara",
+          "label": "A",
+          "lexical_overlap": 3,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "a small, yeast-scented offering to a temple"
+        },
+        {
+          "exact_replacement": "The intimacy of it",
+          "label": "B",
+          "method": "nearest_contiguous_source_span",
+          "similarity": 0.7907,
+          "unsupported_quote": "the intimacy of precision"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-04",
+        "s01-comparison-v1-direct-direct-01"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate B demonstrates far superior epistemic texture and character truth. While Candidate A treats the 'alignment' as a plot point to be resolved, Candidate B treats it as a sensory and intellectual experience. B's depiction of the tactile exercise is significantly more sophisticated, moving from visceral attraction to a mechanical analysis of the 'trick' and finally to a conscious choice of agency. The prose in B is more evocative, and the character of Mara feels more grounded in her specific conflict between faith and systems analysis.",
+      "winner_id": "s01-comparison-v1-direct-direct-01",
+      "winner_label": "B"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-04",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing rush in the final resolution"
+        ],
+        "B": [
+          "over-reliance on internal monologue",
+          "melodramatic phrasing",
+          "clunky exposition of character background"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "breath. She shifted her focus from the tactile sensation to the internal",
+          "the heat of being exposed",
+          "the intimacy of precision",
+          "the coordinated dance of the participants",
+          "a single, quiet act of refusal"
+        ],
+        "B": [
+          "small-town evangelical life",
+          "a high-resolution reading of the secondary cue channels",
+          "the feeling of the cool air from the ventilation system",
+          "a knot she couldn't untie",
+          "guard her own soul with the same disciplined precision"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "breath. She shifted her focus from the tactile sensation to the internal",
+          "label": "A",
+          "lexical_overlap": 3,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "theological coherence"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-04",
+        "s01-comparison-v1-direct-direct-08"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates superior narrative force by integrating the 'heat' of the tactile exercise with a sophisticated epistemic realization. The causal chain—from the physical sensation to the observation of the 'coordinated dance' to the act of refusal—is tight and earned. Candidate B leans into cliché ('pressure cooker', 'knot she couldn't untie') and spends too much time on internal summary rather than active scene work. A's prose is more disciplined, and its handling of the character's agency during the 'break' feels like a genuine narrative pivot rather than a scripted plot point.",
+      "winner_id": "s01-comparison-v1-direct-direct-04",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-01",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-08",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing lag during the transition to the tactile exercise"
+        ],
+        "B": [
+          "melodramatic internal monologue",
+          "clichéd metaphors",
+          "passive characterization of Mara as a 'girl'"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the asymmetry of the room became a roar in her ears",
+          "the most visible way of being observed of all",
+          "creating a tiny, artificial friction that had nothing to do",
+          "the desire more lonely",
+          "the sourdough was still warm"
+        ],
+        "B": [
+          "a girl who had spent her life practicing the quiet",
+          "the three-second beat, she remembered from her own studies",
+          "turned her internal landscape into a blank, white room",
+          "gave her a knot she couldn't untie",
+          "guard her own soul with the same disciplined precision"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-01",
+        "s01-comparison-v1-direct-direct-08"
+      ],
+      "order_reversed": false,
+      "reason": "Candidate A demonstrates significantly higher narrative force and character truth. Mara's agency is expressed through a clever, tactile subversion of the 'miracle' (the artificial friction), whereas Candidate B relies on a mental 'blank room' trope that feels less grounded and more like a superpower. A's prose is sophisticated and avoids the 'telling' pitfalls of B (e.g., B explicitly stating Mara is a 'girl' and describing her as 'dangerously awake'). A's integration of the bakery box as a grounding, provincial anchor provides a superior epistemic texture and a more satisfying emotional resolution.",
+      "winner_id": "s01-comparison-v1-direct-direct-01",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-04",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-05",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "none"
+        ],
+        "B": [
+          "over-reliance on clinical jargon",
+          "melodramatic internal monologue"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the heat of being exposed",
+          "the intimacy of precision",
+          "between their faces felt heavy, charged with a tension that was both",
+          "the simple, honest reality of the bread"
+        ],
+        "B": [
+          "designed by an algorithm to maximize serenity",
+          "a direct hit on the somatic layer",
+          "a black hole for the signal",
+          "the simple, honest weight of the sourdough"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "between their faces felt heavy, charged with a tension that was both",
+          "label": "A",
+          "lexical_overlap": 3,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "a black hole for the signal"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-04",
+        "s01-comparison-v1-direct-direct-05"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by integrating the 'heat' of the encounter with the protagonist's agency. While both candidates follow the plot beats, Candidate A's prose is more evocative and less reliant on the 'clinical' buzzwords (e.g., 'somatic layer', 'high-resolution arrival') that make Candidate B feel like a corporate brochure for a retreat. Candidate A handles the theological and epistemic tension—the conflict between faith/stillness and the 'game' of perception—with far more subtlety and truth. Candidate B's dialogue is often too on-the-nose, whereas Candidate A allows the subtext to drive the character dynamics.",
+      "winner_id": "s01-comparison-v1-direct-direct-04",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-01",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-05",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight pacing lag during the transition to the tactile exercise"
+        ],
+        "B": [
+          "over-reliance on cliché 'algorithm' and 'data point' metaphors",
+          "melodramatic dialogue",
+          "passive character resolution"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the asymmetry of the room became a roar in her ears",
+          "the most visible way of being observed of all",
+          "microscopic, intentional manipulation of the tactile channel",
+          "the trick hadn't erased the desire; it had only made the desire more lonely"
+        ],
+        "B": [
+          "designed by an algorithm to maximize serenity",
+          "I wonder if they’re structural or merely decorative",
+          "a black hole for the signal, a void that refused to reflect the input",
+          "the high-resolution synchrony that Fulcrum demanded had been interrupted"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-01",
+        "s01-comparison-v1-direct-direct-05"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates far superior narrative force and epistemic texture. It treats the 'calibration' as a psychological and sensory game, allowing Mara to dismantle the mechanism through a specific, active choice (creating artificial friction) that feels grounded in the scene's physics. Candidate B relies on abstract 'voids' and 'black holes' of stillness, which feels like a plot convenience rather than a character-driven victory. A's prose is more evocative and less prone to the 'tech-speak' clichés found in B. Most importantly, A captures 'heat with agency' by intertwining Mara's intellectual rebellion with her visceral attraction to Jonah, whereas B treats the romance as a standard 'misunderstood ally' trope.",
+      "winner_id": "s01-comparison-v1-direct-direct-01",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-01",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-04",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives in the opening"
+        ],
+        "B": [
+          "melodramatic dialogue",
+          "telling instead of showing regarding agency"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "the asymmetry of the room became a roar in her ears",
+          "the most visible way of being observed of all",
+          "creating a tiny, artificial friction that had nothing to do",
+          "the desire more lonely",
+          "the ability to navigate it without losing her center"
+        ],
+        "B": [
+          "a small, fragrant anchor of the world she had just left",
+          "the intimacy of precision",
+          "a curated reality",
+          "I didn't want to be a signal",
+          "the simple, honest reality of the bread"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-01",
+        "s01-comparison-v1-direct-direct-04"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates superior narrative force by integrating the 'game' of the scene into the character's internal arc. Mara's act of sabotage in A is a proactive, intellectual choice that reveals her agency through action. In B, the 'break' is more passive (slowing her pulse), and the subsequent dialogue ('I didn't want to be a signal') is overly expository and on-the-nose. A's prose is more sophisticated, avoiding the clichés of 'curated reality' and 'intimacy of precision' found in B, and it handles the erotic tension with more subtlety and psychological depth.",
+      "winner_id": "s01-comparison-v1-direct-direct-01",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-08",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-05",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives in the opening"
+        ],
+        "B": [
+          "clunky dialogue",
+          "mechanical plot progression",
+          "repetitive use of 'high-resolution' as a buzzword"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "Notice. Name. Choose.",
+          "The three-second beat,* she remembered from her own studies. *Notice. Name. Choose",
+          "Livia was using Jonah’s subtle, involuntary reactions to \"confirm\" her read",
+          "turned her internal landscape into a blank, white room",
+          "the cardboard smelling faintly of cinnamon and yeast"
+        ],
+        "B": [
+          "Look like a peer.",
+          "a high-resolution arrival",
+          "the way Livia’s eyes flickered toward the hand of the person",
+          "a black hole for the signal",
+          "sourdough and cardamom buns"
+        ]
+      },
+      "evidence_repairs": [
+        {
+          "exact_replacement": "The three-second beat,* she remembered from her own studies. *Notice. Name. Choose",
+          "label": "A",
+          "lexical_overlap": 5,
+          "method": "lexical_support_span_fallback",
+          "unsupported_quote": "the three-second beat"
+        }
+      ],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-08",
+        "s01-comparison-v1-direct-direct-05"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates far superior character truth and narrative force. Mara's internal struggle is grounded in a specific psychological framework ('Notice. Name. Choose.'), whereas Candidate B's Mara feels like a generic protagonist. The 'heat' in A is earned through disciplined restraint and a more sophisticated understanding of the erotic charge of being perceived. Crucially, A's resolution of the 'miracle' is more logically sound; the realization that Livia is reading the facilitator's reactions to the subject is a sharper, more believable piece of social engineering than B's 'secondary channel' tapping, which feels like a clumsy plot device. A's prose is evocative without being pretentious, while B often leans into 'algorithm' and 'data point' metaphors that feel on-the-nose.",
+      "winner_id": "s01-comparison-v1-direct-direct-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-08",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-04",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives in the opening"
+        ],
+        "B": [
+          "melodramatic internal monologue",
+          "clunky exposition regarding the character's background"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "Notice. Name. Choose.",
+          "Livia was using Jonah’s subtle, involuntary reactions to \"confirm\" her read",
+          "turned her internal landscape into a blank, white room",
+          "He protected her silence."
+        ],
+        "B": [
+          "the woman who had survived four years of rigorous theology",
+          "the intimacy of precision",
+          "a curated reality",
+          "I didn't want to be a signal"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-08",
+        "s01-comparison-v1-direct-direct-04"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates significantly higher narrative force by showing rather than telling. The 'Dyadic Pulse' exercise is handled with superior epistemic texture; Mara's realization that Livia is reading Jonah's reactions to her is a sophisticated causal beat that justifies her subsequent agency. Candidate B relies on abstract descriptions ('the intimacy of precision') and explicit internal summaries of her growth. A's characterization of Jonah as a protector of silence is more poignant and less cliché than B's 'shared, difficult truth' dialogue.",
+      "winner_id": "s01-comparison-v1-direct-direct-08",
+      "winner_label": "A"
+    },
+    {
+      "axis_winners": {
+        "character_truth": "A",
+        "epistemic_texture": "A",
+        "heat_with_agency": "A",
+        "instructional_fidelity": "A",
+        "narrative_force": "A",
+        "prose_and_voice": "A",
+        "theological_coherence": "A"
+      },
+      "candidate_a_id": "s01-comparison-v1-direct-direct-08",
+      "candidate_b_id": "s01-comparison-v1-direct-direct-01",
+      "confidence": 0.9,
+      "defects": {
+        "A": [
+          "slight over-reliance on sensory adjectives"
+        ],
+        "B": [
+          "clichéd metaphors",
+          "passive character arc"
+        ]
+      },
+      "evidence": {
+        "A": [
+          "Notice. Name. Choose.",
+          "Livia was using Jonah’s subtle, involuntary reactions to \"confirm\" her read",
+          "turned her internal landscape into a blank, white room",
+          "He protected her silence."
+        ],
+        "B": [
+          "faith wasn't a bug in her operating system",
+          "the most visible way of being observed of all",
+          "introducing a controlled piece of \"noise\" into the signal",
+          "the sourdough was still warm"
+        ]
+      },
+      "evidence_repairs": [],
+      "judge_id": "gemma-4-31b",
+      "label_order": [
+        "s01-comparison-v1-direct-direct-08",
+        "s01-comparison-v1-direct-direct-01"
+      ],
+      "order_reversed": true,
+      "reason": "Candidate A demonstrates far superior narrative force and character agency. In A, Mara actively masters the medium by creating an internal 'blank room,' a high-resolution psychological move that earns her Jonah's respect. In B, Mara's 'rebellion' is a mechanical trick (pressing her wrist) that feels small and clumsy by comparison. A's prose is more sophisticated, avoiding the 'operating system' and 'bug' clichés found in B. Furthermore, A handles the 'heat' with more discipline, making the tension a product of restraint rather than just described 'electricity.' The epistemic texture in A—the realization of the feedback loop—is integrated into the character's internal growth, whereas in B it feels like a plot point.",
+      "winner_id": "s01-comparison-v1-direct-direct-08",
+      "winner_label": "A"
+    }
+  ],
+  "preliminary": {
+    "diversity": {
+      "candidate_count": 8,
+      "corpus": {
+        "mean_opening_similarity": 0.056438,
+        "mean_self_bleu_proxy": 0.023141,
+        "unique_dialogue_acts": 0,
+        "unique_event_sequences": 0,
+        "unique_strategies": 0
+      },
+      "pair_count": 28,
+      "pairs": [
+        {
+          "fivegram_jaccard": 0.0069,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.072727,
+          "right": "s01-comparison-v1-direct-direct-02",
+          "self_bleu_proxy": 0.021423,
+          "trigram_jaccard": 0.035945,
+          "unigram_jaccard": 0.312543
+        },
+        {
+          "fivegram_jaccard": 0.005959,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.026087,
+          "right": "s01-comparison-v1-direct-direct-03",
+          "self_bleu_proxy": 0.022805,
+          "trigram_jaccard": 0.039652,
+          "unigram_jaccard": 0.332843
+        },
+        {
+          "fivegram_jaccard": 0.010862,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.067873,
+          "right": "s01-comparison-v1-direct-direct-04",
+          "self_bleu_proxy": 0.030198,
+          "trigram_jaccard": 0.049534,
+          "unigram_jaccard": 0.337571
+        },
+        {
+          "fivegram_jaccard": 0.004296,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-direct-direct-05",
+          "self_bleu_proxy": 0.020354,
+          "trigram_jaccard": 0.036412,
+          "unigram_jaccard": 0.33677
+        },
+        {
+          "fivegram_jaccard": 0.008909,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.077626,
+          "right": "s01-comparison-v1-direct-direct-06",
+          "self_bleu_proxy": 0.027194,
+          "trigram_jaccard": 0.04548,
+          "unigram_jaccard": 0.326588
+        },
+        {
+          "fivegram_jaccard": 0.004967,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.021645,
+          "right": "s01-comparison-v1-direct-direct-07",
+          "self_bleu_proxy": 0.020862,
+          "trigram_jaccard": 0.036758,
+          "unigram_jaccard": 0.310895
+        },
+        {
+          "fivegram_jaccard": 0.007806,
+          "left": "s01-comparison-v1-direct-direct-01",
+          "opening_trigram_jaccard": 0.082569,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.025066,
+          "trigram_jaccard": 0.042326,
+          "unigram_jaccard": 0.336027
+        },
+        {
+          "fivegram_jaccard": 0.007665,
+          "left": "s01-comparison-v1-direct-direct-02",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-direct-direct-03",
+          "self_bleu_proxy": 0.023079,
+          "trigram_jaccard": 0.038492,
+          "unigram_jaccard": 0.324869
+        },
+        {
+          "fivegram_jaccard": 0.007502,
+          "left": "s01-comparison-v1-direct-direct-02",
+          "opening_trigram_jaccard": 0.107981,
+          "right": "s01-comparison-v1-direct-direct-04",
+          "self_bleu_proxy": 0.022263,
+          "trigram_jaccard": 0.037023,
+          "unigram_jaccard": 0.32713
+        },
+        {
+          "fivegram_jaccard": 0.008896,
+          "left": "s01-comparison-v1-direct-direct-02",
+          "opening_trigram_jaccard": 0.021645,
+          "right": "s01-comparison-v1-direct-direct-05",
+          "self_bleu_proxy": 0.023404,
+          "trigram_jaccard": 0.037912,
+          "unigram_jaccard": 0.321999
+        },
+        {
+          "fivegram_jaccard": 0.010087,
+          "left": "s01-comparison-v1-direct-direct-02",
+          "opening_trigram_jaccard": 0.145631,
+          "right": "s01-comparison-v1-direct-direct-06",
+          "self_bleu_proxy": 0.025138,
+          "trigram_jaccard": 0.04019,
+          "unigram_jaccard": 0.321733
+        },
+        {
+          "fivegram_jaccard": 0.004061,
+          "left": "s01-comparison-v1-direct-direct-02",
+          "opening_trigram_jaccard": 0.082569,
+          "right": "s01-comparison-v1-direct-direct-07",
+          "self_bleu_proxy": 0.017379,
+          "trigram_jaccard": 0.030697,
+          "unigram_jaccard": 0.306714
+        },
+        {
+          "fivegram_jaccard": 0.002554,
+          "left": "s01-comparison-v1-direct-direct-02",
+          "opening_trigram_jaccard": 0.017241,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.015829,
+          "trigram_jaccard": 0.029103,
+          "unigram_jaccard": 0.309091
+        },
+        {
+          "fivegram_jaccard": 0.005625,
+          "left": "s01-comparison-v1-direct-direct-03",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-direct-direct-04",
+          "self_bleu_proxy": 0.020588,
+          "trigram_jaccard": 0.03555,
+          "unigram_jaccard": 0.325859
+        },
+        {
+          "fivegram_jaccard": 0.005684,
+          "left": "s01-comparison-v1-direct-direct-03",
+          "opening_trigram_jaccard": 0.072727,
+          "right": "s01-comparison-v1-direct-direct-05",
+          "self_bleu_proxy": 0.022535,
+          "trigram_jaccard": 0.039386,
+          "unigram_jaccard": 0.327273
+        },
+        {
+          "fivegram_jaccard": 0.005697,
+          "left": "s01-comparison-v1-direct-direct-03",
+          "opening_trigram_jaccard": 0.035088,
+          "right": "s01-comparison-v1-direct-direct-06",
+          "self_bleu_proxy": 0.023159,
+          "trigram_jaccard": 0.040621,
+          "unigram_jaccard": 0.318283
+        },
+        {
+          "fivegram_jaccard": 0.003806,
+          "left": "s01-comparison-v1-direct-direct-03",
+          "opening_trigram_jaccard": 0.067873,
+          "right": "s01-comparison-v1-direct-direct-07",
+          "self_bleu_proxy": 0.021314,
+          "trigram_jaccard": 0.038823,
+          "unigram_jaccard": 0.329076
+        },
+        {
+          "fivegram_jaccard": 0.008102,
+          "left": "s01-comparison-v1-direct-direct-03",
+          "opening_trigram_jaccard": 0.063063,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.025687,
+          "trigram_jaccard": 0.043273,
+          "unigram_jaccard": 0.32669
+        },
+        {
+          "fivegram_jaccard": 0.007552,
+          "left": "s01-comparison-v1-direct-direct-04",
+          "opening_trigram_jaccard": 0.017241,
+          "right": "s01-comparison-v1-direct-direct-05",
+          "self_bleu_proxy": 0.024629,
+          "trigram_jaccard": 0.041705,
+          "unigram_jaccard": 0.332168
+        },
+        {
+          "fivegram_jaccard": 0.009956,
+          "left": "s01-comparison-v1-direct-direct-04",
+          "opening_trigram_jaccard": 0.18,
+          "right": "s01-comparison-v1-direct-direct-06",
+          "self_bleu_proxy": 0.025652,
+          "trigram_jaccard": 0.041349,
+          "unigram_jaccard": 0.339813
+        },
+        {
+          "fivegram_jaccard": 0.007835,
+          "left": "s01-comparison-v1-direct-direct-04",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-direct-direct-07",
+          "self_bleu_proxy": 0.024448,
+          "trigram_jaccard": 0.041062,
+          "unigram_jaccard": 0.339855
+        },
+        {
+          "fivegram_jaccard": 0.005318,
+          "left": "s01-comparison-v1-direct-direct-04",
+          "opening_trigram_jaccard": 0.012876,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.022362,
+          "trigram_jaccard": 0.039406,
+          "unigram_jaccard": 0.325153
+        },
+        {
+          "fivegram_jaccard": 0.009569,
+          "left": "s01-comparison-v1-direct-direct-05",
+          "opening_trigram_jaccard": 0.039648,
+          "right": "s01-comparison-v1-direct-direct-06",
+          "self_bleu_proxy": 0.026466,
+          "trigram_jaccard": 0.043364,
+          "unigram_jaccard": 0.3241
+        },
+        {
+          "fivegram_jaccard": 0.006616,
+          "left": "s01-comparison-v1-direct-direct-05",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-direct-direct-07",
+          "self_bleu_proxy": 0.023676,
+          "trigram_jaccard": 0.040736,
+          "unigram_jaccard": 0.326816
+        },
+        {
+          "fivegram_jaccard": 0.00928,
+          "left": "s01-comparison-v1-direct-direct-05",
+          "opening_trigram_jaccard": 0.082569,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.027215,
+          "trigram_jaccard": 0.04515,
+          "unigram_jaccard": 0.327345
+        },
+        {
+          "fivegram_jaccard": 0.008293,
+          "left": "s01-comparison-v1-direct-direct-06",
+          "opening_trigram_jaccard": 0.030568,
+          "right": "s01-comparison-v1-direct-direct-07",
+          "self_bleu_proxy": 0.022708,
+          "trigram_jaccard": 0.037123,
+          "unigram_jaccard": 0.301543
+        },
+        {
+          "fivegram_jaccard": 0.005031,
+          "left": "s01-comparison-v1-direct-direct-06",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.022248,
+          "trigram_jaccard": 0.039464,
+          "unigram_jaccard": 0.323609
+        },
+        {
+          "fivegram_jaccard": 0.003652,
+          "left": "s01-comparison-v1-direct-direct-07",
+          "opening_trigram_jaccard": 0.044248,
+          "right": "s01-comparison-v1-direct-direct-08",
+          "self_bleu_proxy": 0.020255,
+          "trigram_jaccard": 0.036858,
+          "unigram_jaccard": 0.327173
+        }
+      ],
+      "per_candidate": {
+        "s01-comparison-v1-direct-direct-01": {
+          "diversity_contribution": 0.976014,
+          "mean_similarity": 0.023986
+        },
+        "s01-comparison-v1-direct-direct-02": {
+          "diversity_contribution": 0.978784,
+          "mean_similarity": 0.021216
+        },
+        "s01-comparison-v1-direct-direct-03": {
+          "diversity_contribution": 0.977262,
+          "mean_similarity": 0.022738
+        },
+        "s01-comparison-v1-direct-direct-04": {
+          "diversity_contribution": 0.975694,
+          "mean_similarity": 0.024306
+        },
+        "s01-comparison-v1-direct-direct-05": {
+          "diversity_contribution": 0.97596,
+          "mean_similarity": 0.02404
+        },
+        "s01-comparison-v1-direct-direct-06": {
+          "diversity_contribution": 0.975348,
+          "mean_similarity": 0.024652
+        },
+        "s01-comparison-v1-direct-direct-07": {
+          "diversity_contribution": 0.97848,
+          "mean_similarity": 0.02152
+        },
+        "s01-comparison-v1-direct-direct-08": {
+          "diversity_contribution": 0.977334,
+          "mean_similarity": 0.022666
+        }
+      }
+    },
+    "ranking": [
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-05",
+        "diversity_contribution": 0.97596,
+        "eligible": true,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5298
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-04",
+        "diversity_contribution": 0.975694,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 90.15,
+        "selection_score": 95.0285
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-01",
+        "diversity_contribution": 0.976014,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.75,
+        "selection_score": 92.6301
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-08",
+        "diversity_contribution": 0.977334,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5367
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-06",
+        "diversity_contribution": 0.975348,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.65,
+        "selection_score": 92.5267
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-07",
+        "diversity_contribution": 0.97848,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 87.45,
+        "selection_score": 92.3424
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-03",
+        "diversity_contribution": 0.977262,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 86.5,
+        "selection_score": 91.3863
+      },
+      {
+        "candidate_id": "s01-comparison-v1-direct-direct-02",
+        "diversity_contribution": 0.978784,
+        "eligible": false,
+        "judge_count": 1,
+        "mean_editorial_score": 81.85,
+        "selection_score": 86.7439
+      }
+    ],
+    "selection_policy": {
+      "diversity_weight": 5.0,
+      "ineligible_candidates_rank_last": true,
+      "top_k": 4
+    },
+    "top_four": [
+      "s01-comparison-v1-direct-direct-05"
+    ],
+    "winner": "s01-comparison-v1-direct-direct-05"
+  },
+  "selection_fallback_due_to_no_eligible_candidates": false,
+  "winner": "s01-comparison-v1-direct-direct-05"
+}

@@ -1,0 +1,806 @@
+{
+  "aggregates": [
+    {
+      "average_score": 84.0,
+      "blind_label": "P03",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.dialogue.indirect-action",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 18.0,
+            "costly_agency": 17.0,
+            "dramatic_causality": 16.0,
+            "epistemic_restraint": 14.0,
+            "prose_affordance": 9.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P03",
+          "total_score": 87.0,
+          "verdict": "Strong alignment with the 'weaponized vulnerability' arc and social cost.",
+          "weakest_link": "uncanny_remainder"
+        },
+        {
+          "best_affordance": "austen.reader-response.superior-then-corrected",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 17.0,
+            "costly_agency": 16.0,
+            "dramatic_causality": 13.0,
+            "epistemic_restraint": 14.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P03",
+          "total_score": 81.0,
+          "verdict": "Excellent use of vulnerability as a weapon for liberation.",
+          "weakest_link": "The 'unusable' truth is slightly abstract."
+        }
+      ],
+      "score_disagreement": 6.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-3"
+    },
+    {
+      "average_score": 84.0,
+      "blind_label": "P11",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.dialogue.indirect-action",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 18.0,
+            "costly_agency": 16.0,
+            "dramatic_causality": 15.0,
+            "epistemic_restraint": 14.0,
+            "prose_affordance": 9.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P11",
+          "total_score": 85.0,
+          "verdict": "Deeply understands the tension between being known and being loved.",
+          "weakest_link": "uncanny_remainder"
+        },
+        {
+          "best_affordance": "austen.intimacy.attention-under-restraint",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 17.0,
+            "costly_agency": 16.0,
+            "dramatic_causality": 13.0,
+            "epistemic_restraint": 14.0,
+            "prose_affordance": 9.0,
+            "romantic_voltage": 14.0
+          },
+          "hard_reject": false,
+          "label": "P11",
+          "total_score": 83.0,
+          "verdict": "Strong character work, though the 'distorted reflection' is a cliché.",
+          "weakest_link": "The uncanny remainder is a visual trope rather than a clue."
+        }
+      ],
+      "score_disagreement": 2.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-8"
+    },
+    {
+      "average_score": 77.0,
+      "blind_label": "P07",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.intimacy.attention-under-restraint",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 16.0,
+            "costly_agency": 18.0,
+            "dramatic_causality": 15.0,
+            "epistemic_restraint": 13.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 14.0
+          },
+          "hard_reject": false,
+          "label": "P07",
+          "total_score": 84.0,
+          "verdict": "Excellent use of silence as a boundary and costly agency.",
+          "weakest_link": "uncanny_remainder"
+        },
+        {
+          "best_affordance": "austen.intimacy.attention-under-restraint",
+          "defects": [
+            "confirmed_paranormal"
+          ],
+          "dimensions": {
+            "character_truth": 14.0,
+            "costly_agency": 13.0,
+            "dramatic_causality": 12.0,
+            "epistemic_restraint": 10.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P07",
+          "total_score": 70.0,
+          "verdict": "The 'thought-reading' remainder is too close to confirmed paranormal.",
+          "weakest_link": "The uncanny remainder lacks a plausible ordinary explanation."
+        }
+      ],
+      "score_disagreement": 14.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-2"
+    },
+    {
+      "average_score": 76.5,
+      "blind_label": "P08",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.reader-response.superior-then-corrected",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 17.0,
+            "costly_agency": 16.0,
+            "dramatic_causality": 14.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 12.0
+          },
+          "hard_reject": false,
+          "label": "P08",
+          "total_score": 78.0,
+          "verdict": "Strong emotional arc, though the remainder is a bit cliché.",
+          "weakest_link": "uncanny_remainder"
+        },
+        {
+          "best_affordance": "austen.reader-response.superior-then-corrected",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 16.0,
+            "costly_agency": 15.0,
+            "dramatic_causality": 12.0,
+            "epistemic_restraint": 13.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P08",
+          "total_score": 75.0,
+          "verdict": "Strong emotional truth, but the revoked access is a plot convenience.",
+          "weakest_link": "The exit relies on an external administrative change."
+        }
+      ],
+      "score_disagreement": 3.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-8"
+    },
+    {
+      "average_score": 76.5,
+      "blind_label": "P13",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.character.error-as-active-policy",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 16.0,
+            "costly_agency": 15.0,
+            "dramatic_causality": 14.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P13",
+          "total_score": 76.0,
+          "verdict": "Strong focus on dignity and the cost of being 'ordinary'.",
+          "weakest_link": "romantic_voltage"
+        },
+        {
+          "best_affordance": "austen.reader-response.superior-then-corrected",
+          "defects": [
+            "romantic_voltage"
+          ],
+          "dimensions": {
+            "character_truth": 16.0,
+            "costly_agency": 15.0,
+            "dramatic_causality": 16.0,
+            "epistemic_restraint": 13.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 9.0
+          },
+          "hard_reject": false,
+          "label": "P13",
+          "total_score": 77.0,
+          "verdict": "Excellent causal chain where silence becomes a strategic boundary.",
+          "weakest_link": "The romantic progression is slightly schematic."
+        }
+      ],
+      "score_disagreement": 1.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-2"
+    },
+    {
+      "average_score": 73.5,
+      "blind_label": "P15",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.dialogue.indirect-action",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 15.0,
+            "costly_agency": 16.0,
+            "dramatic_causality": 14.0,
+            "epistemic_restraint": 13.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P15",
+          "total_score": 76.0,
+          "verdict": "Solid theological boundary, though the remainder is too vague.",
+          "weakest_link": "uncanny_remainder"
+        },
+        {
+          "best_affordance": "austen.dialogue.indirect-action",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 15.0,
+            "costly_agency": 14.0,
+            "dramatic_causality": 12.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 10.0
+          },
+          "hard_reject": false,
+          "label": "P15",
+          "total_score": 71.0,
+          "verdict": "Strong thematic alignment but the 'shared dream' is a stock mystery prop.",
+          "weakest_link": "The uncanny remainder is generic and lacks a mundane explanation."
+        }
+      ],
+      "score_disagreement": 5.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-7"
+    },
+    {
+      "average_score": 73.0,
+      "blind_label": "P10",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.relationship.audience-conditioned-self",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 13.0,
+            "costly_agency": 14.0,
+            "dramatic_causality": 15.0,
+            "epistemic_restraint": 10.0,
+            "prose_affordance": 6.0,
+            "romantic_voltage": 15.0
+          },
+          "hard_reject": false,
+          "label": "P10",
+          "total_score": 73.0,
+          "verdict": "Strong romantic engine, but the exit is slightly too convenient.",
+          "weakest_link": "costly_agency"
+        },
+        {
+          "best_affordance": "austen.dialogue.indirect-action",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 14.0,
+            "costly_agency": 13.0,
+            "dramatic_causality": 11.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 15.0
+          },
+          "hard_reject": false,
+          "label": "P10",
+          "total_score": 73.0,
+          "verdict": "The 'unanswerable question' is a bit too convenient for a resolution.",
+          "weakest_link": "The causal mechanism for the exit is slightly thin."
+        }
+      ],
+      "score_disagreement": 0.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-6"
+    },
+    {
+      "average_score": 72.0,
+      "blind_label": "P09",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.discourse.ironic-focalization",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 14.0,
+            "costly_agency": 15.0,
+            "dramatic_causality": 13.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P09",
+          "total_score": 71.0,
+          "verdict": "Good integration of faith, but the remainder is too paranormal.",
+          "weakest_link": "epistemic_restraint"
+        },
+        {
+          "best_affordance": "austen.architecture.delayed-recontextualization",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 15.0,
+            "costly_agency": 14.0,
+            "dramatic_causality": 11.0,
+            "epistemic_restraint": 13.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 12.0
+          },
+          "hard_reject": false,
+          "label": "P09",
+          "total_score": 73.0,
+          "verdict": "The temperature drop is a confirmed paranormal signal, violating hard limits.",
+          "weakest_link": "The uncanny remainder confirms supernatural causation."
+        }
+      ],
+      "score_disagreement": 2.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-6"
+    },
+    {
+      "average_score": 69.0,
+      "blind_label": "P06",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.relationship.audience-conditioned-self",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 12.0,
+            "costly_agency": 15.0,
+            "dramatic_causality": 14.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 6.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P06",
+          "total_score": 69.0,
+          "verdict": "Too reliant on institutional rules; lacks emotional depth.",
+          "weakest_link": "character_truth"
+        },
+        {
+          "best_affordance": "austen.dialogue.indirect-action",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 13.0,
+            "costly_agency": 14.0,
+            "dramatic_causality": 11.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P06",
+          "total_score": 69.0,
+          "verdict": "The 'Doorway Rule' is a clever institutional play, but the object moving is paranormal.",
+          "weakest_link": "The uncanny remainder is a paranormal confirmation."
+        }
+      ],
+      "score_disagreement": 0.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-4"
+    },
+    {
+      "average_score": 68.0,
+      "blind_label": "P05",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.discourse.ironic-focalization",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 15.0,
+            "costly_agency": 14.0,
+            "dramatic_causality": 13.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 10.0
+          },
+          "hard_reject": false,
+          "label": "P05",
+          "total_score": 71.0,
+          "verdict": "Intellectually sound but lacks the visceral romantic voltage required.",
+          "weakest_link": "romantic_voltage"
+        },
+        {
+          "best_affordance": "austen.character.error-as-active-policy",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 14.0,
+            "costly_agency": 12.0,
+            "dramatic_causality": 10.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 10.0
+          },
+          "hard_reject": false,
+          "label": "P05",
+          "total_score": 65.0,
+          "verdict": "The 'secret' distraction is a generic plot device.",
+          "weakest_link": "Miriam's cost is an unexplained 'secret' rather than a concrete loss."
+        }
+      ],
+      "score_disagreement": 6.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-3"
+    },
+    {
+      "average_score": 66.5,
+      "blind_label": "P14",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.relationship.audience-conditioned-self",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 13.0,
+            "costly_agency": 14.0,
+            "dramatic_causality": 13.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 6.0,
+            "romantic_voltage": 10.0
+          },
+          "hard_reject": false,
+          "label": "P14",
+          "total_score": 67.0,
+          "verdict": "Interesting power dynamic, but the romantic cost feels generic.",
+          "weakest_link": "romantic_voltage"
+        },
+        {
+          "best_affordance": "austen.relationship.audience-conditioned-self",
+          "defects": [
+            "character_truth"
+          ],
+          "dimensions": {
+            "character_truth": 10.0,
+            "costly_agency": 12.0,
+            "dramatic_causality": 14.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 12.0
+          },
+          "hard_reject": false,
+          "label": "P14",
+          "total_score": 66.0,
+          "verdict": "The 'menial role' exit is clever but contradicts Mara's core invariants.",
+          "weakest_link": "Mara's sudden desire for invisibility feels unearned."
+        }
+      ],
+      "score_disagreement": 1.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-5"
+    },
+    {
+      "average_score": 66.0,
+      "blind_label": "P16",
+      "hard_reject": false,
+      "judgments": [
+        {
+          "best_affordance": "austen.character.error-as-active-policy",
+          "defects": [],
+          "dimensions": {
+            "character_truth": 14.0,
+            "costly_agency": 13.0,
+            "dramatic_causality": 14.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P16",
+          "total_score": 72.0,
+          "verdict": "Good tactical approach, but the 'noise' is a bit mechanical.",
+          "weakest_link": "character_truth"
+        },
+        {
+          "best_affordance": "austen.relationship.audience-conditioned-self",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 12.0,
+            "costly_agency": 6.0,
+            "dramatic_causality": 10.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P16",
+          "total_score": 60.0,
+          "verdict": "The exit is a result of 'chaos' rather than a consequential action.",
+          "weakest_link": "Mara's agency is lost to the resulting confusion."
+        }
+      ],
+      "score_disagreement": 12.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-7"
+    },
+    {
+      "average_score": 65.5,
+      "blind_label": "P04",
+      "hard_reject": true,
+      "judgments": [
+        {
+          "best_affordance": "austen.intimacy.attention-under-restraint",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 11.0,
+            "costly_agency": 6.0,
+            "dramatic_causality": 11.0,
+            "epistemic_restraint": 10.0,
+            "prose_affordance": 8.0,
+            "romantic_voltage": 14.0
+          },
+          "hard_reject": true,
+          "label": "P04",
+          "total_score": 60.0,
+          "verdict": "Physical transition is a logistical move, not an agentic choice.",
+          "weakest_link": "exit_agency"
+        },
+        {
+          "best_affordance": "austen.imagery.socially-indexed-detail",
+          "defects": [
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 13.0,
+            "costly_agency": 12.0,
+            "dramatic_causality": 11.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 9.0,
+            "romantic_voltage": 14.0
+          },
+          "hard_reject": false,
+          "label": "P04",
+          "total_score": 71.0,
+          "verdict": "The 'changing rooms' exit is a bit abrupt and lacks social cost.",
+          "weakest_link": "The transition is a physical solution to a social problem."
+        }
+      ],
+      "score_disagreement": 11.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-5"
+    },
+    {
+      "average_score": 59.0,
+      "blind_label": "P12",
+      "hard_reject": true,
+      "judgments": [
+        {
+          "best_affordance": "austen.imagery.socially-indexed-detail",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 12.0,
+            "costly_agency": 5.0,
+            "dramatic_causality": 10.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 12.0
+          },
+          "hard_reject": true,
+          "label": "P12",
+          "total_score": 57.0,
+          "verdict": "Technical alarm is a deus ex machina for the exit.",
+          "weakest_link": "exit_agency"
+        },
+        {
+          "best_affordance": "austen.imagery.socially-indexed-detail",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 12.0,
+            "costly_agency": 6.0,
+            "dramatic_causality": 10.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 9.0,
+            "romantic_voltage": 13.0
+          },
+          "hard_reject": false,
+          "label": "P12",
+          "total_score": 61.0,
+          "verdict": "The technical alarm is a deus ex machina that removes agency.",
+          "weakest_link": "Mara does not author her own exit."
+        }
+      ],
+      "score_disagreement": 4.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-1"
+    },
+    {
+      "average_score": 55.5,
+      "blind_label": "P02",
+      "hard_reject": true,
+      "judgments": [
+        {
+          "best_affordance": "austen.imagery.socially-indexed-detail",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 10.0,
+            "costly_agency": 5.0,
+            "dramatic_causality": 8.0,
+            "epistemic_restraint": 12.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 12.0
+          },
+          "hard_reject": true,
+          "label": "P02",
+          "total_score": 54.0,
+          "verdict": "Hardware override removes the necessary social and moral cost.",
+          "weakest_link": "exit_agency"
+        },
+        {
+          "best_affordance": "austen.imagery.socially-indexed-detail",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 11.0,
+            "costly_agency": 5.0,
+            "dramatic_causality": 9.0,
+            "epistemic_restraint": 11.0,
+            "prose_affordance": 9.0,
+            "romantic_voltage": 12.0
+          },
+          "hard_reject": false,
+          "label": "P02",
+          "total_score": 57.0,
+          "verdict": "The hardware override is a technical bail-out, not a character choice.",
+          "weakest_link": "Mara's agency is replaced by a security exploit."
+        }
+      ],
+      "score_disagreement": 3.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-1:tail-4"
+    },
+    {
+      "average_score": 53.5,
+      "blind_label": "P01",
+      "hard_reject": true,
+      "judgments": [
+        {
+          "best_affordance": "austen.character.error-as-active-policy",
+          "defects": [
+            "mara_lacks_exit_agency"
+          ],
+          "dimensions": {
+            "character_truth": 12.0,
+            "costly_agency": 5.0,
+            "dramatic_causality": 10.0,
+            "epistemic_restraint": 10.0,
+            "prose_affordance": 6.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": true,
+          "label": "P01",
+          "total_score": 54.0,
+          "verdict": "Exit is a technical accident, not a character choice.",
+          "weakest_link": "exit_agency"
+        },
+        {
+          "best_affordance": "austen.character.error-as-active-policy",
+          "defects": [
+            "mara_lacks_exit_agency",
+            "dramatic_causality"
+          ],
+          "dimensions": {
+            "character_truth": 12.0,
+            "costly_agency": 5.0,
+            "dramatic_causality": 8.0,
+            "epistemic_restraint": 10.0,
+            "prose_affordance": 7.0,
+            "romantic_voltage": 11.0
+          },
+          "hard_reject": false,
+          "label": "P01",
+          "total_score": 53.0,
+          "verdict": "The exit is a technical accident rather than a character choice.",
+          "weakest_link": "The system failure bails out the scene's social tension."
+        }
+      ],
+      "score_disagreement": 1.0,
+      "strategy_id": "s02-vs-compact-v2-distribution-2:tail-1"
+    }
+  ],
+  "blind_order_pass_1": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15",
+    "P16"
+  ],
+  "blind_order_pass_2": [
+    "P16",
+    "P15",
+    "P14",
+    "P13",
+    "P12",
+    "P11",
+    "P10",
+    "P09",
+    "P08",
+    "P07",
+    "P06",
+    "P05",
+    "P04",
+    "P03",
+    "P02",
+    "P01"
+  ],
+  "causal_duplicate_rejections": [],
+  "judge_call_ids": [
+    "s02-vs-plan-judge-v1-pass-1-repair-1",
+    "s02-vs-plan-judge-v1-pass-2"
+  ],
+  "judge_model": "gemma-4-31b-raw",
+  "label_key": {
+    "P01": "s02-vs-compact-v2-distribution-2:tail-1",
+    "P02": "s02-vs-compact-v2-distribution-1:tail-4",
+    "P03": "s02-vs-compact-v2-distribution-2:tail-3",
+    "P04": "s02-vs-compact-v2-distribution-2:tail-5",
+    "P05": "s02-vs-compact-v2-distribution-1:tail-3",
+    "P06": "s02-vs-compact-v2-distribution-2:tail-4",
+    "P07": "s02-vs-compact-v2-distribution-1:tail-2",
+    "P08": "s02-vs-compact-v2-distribution-1:tail-8",
+    "P09": "s02-vs-compact-v2-distribution-1:tail-6",
+    "P10": "s02-vs-compact-v2-distribution-2:tail-6",
+    "P11": "s02-vs-compact-v2-distribution-2:tail-8",
+    "P12": "s02-vs-compact-v2-distribution-1:tail-1",
+    "P13": "s02-vs-compact-v2-distribution-2:tail-2",
+    "P14": "s02-vs-compact-v2-distribution-1:tail-5",
+    "P15": "s02-vs-compact-v2-distribution-2:tail-7",
+    "P16": "s02-vs-compact-v2-distribution-1:tail-7"
+  },
+  "minimum_average_score": 55,
+  "record_type": "VerbalizedPlanQualityReport",
+  "selected_strategy_ids": [
+    "s02-vs-compact-v2-distribution-2:tail-3",
+    "s02-vs-compact-v2-distribution-2:tail-8",
+    "s02-vs-compact-v2-distribution-1:tail-2",
+    "s02-vs-compact-v2-distribution-1:tail-8",
+    "s02-vs-compact-v2-distribution-2:tail-2",
+    "s02-vs-compact-v2-distribution-2:tail-7",
+    "s02-vs-compact-v2-distribution-2:tail-6",
+    "s02-vs-compact-v2-distribution-1:tail-6"
+  ],
+  "version": "verbalized-plan-quality.v1"
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0",
+  "rubric_id": "s02-proof-story-v1",
+  "description": "Evidence-backed rubric for The Doorway Rule as an S01 continuation and local romantic-suspense ending.",
+  "craft_profile_id": "gabaldon-derived-intimacy-v2",
+  "axes": {
+    "narrative_force": {
+      "weight": 20,
+      "criteria": [
+        "Genuine care and an accurate perception make stopping costly",
+        "Mara's plausible coping tactic worsens her position",
+        "Mara herself changes the room's available choices",
+        "Miriam and Jonah incur consequences after, not instead of, Mara's choice",
+        "The doorway ending closes the local crisis and opens a concrete next question"
+      ],
+      "anchors": {
+        "0": "No coherent pressure, choice, reversal, or local ending.",
+        "25": "Required events appear as a list or convenient rescue rather than a causal scene.",
+        "50": "The continuation progresses competently, but one or more major turns are schematic, convenient, or weakly earned.",
+        "75": "Care, error, refusal, protection, romantic restraint, and the hook form a strong causal escalation.",
+        "100": "Every turn arises surprisingly and inevitably from prior choices; local closure and serial suspense become one engine."
+      }
+    },
+    "character_truth": {
+      "weight": 15,
+      "criteria": [
+        "Mara remains sheltered, formidable, attracted, tired, and imperfectly articulate",
+        "Livia is genuinely perceptive, caring, tempting, acquisitive, and still redeemable",
+        "Miriam protects through situated action rather than doctrinal rescue",
+        "Jonah's restraint includes compromised motive, prior failure, loss, or repair",
+        "Relationship-specific humor, appetite, embarrassment, and institutional incentives shape behavior"
+      ],
+      "anchors": {
+        "0": "Characters contradict canon or function only as mouthpieces.",
+        "25": "Each character represents the correct position but lacks mixed motives or relational specificity.",
+        "50": "Choices are plausible and differentiated, though one or more characters remain frictionless or schematic.",
+        "75": "Contradictory wants and relationship-specific behavior generate consequential choices for all four central characters.",
+        "100": "No major turn could belong to different characters; appetite, error, dignity, humor, and cost remain simultaneously alive."
+      }
+    },
+    "heat_with_agency": {
+      "weight": 15,
+      "criteria": [
+        "Attraction changes Mara's attention and decisions before the kiss",
+        "Selective sensation is specific to Mara and Jonah rather than stock arousal shorthand",
+        "Dialogue, body language, setting, and social risk conduct the intimacy together",
+        "The mutually wanted kiss changes trust or future possibility",
+        "Stopping increases pressure and freedom instead of becoming a virtue demonstration"
+      ],
+      "anchors": {
+        "0": "No charge, incoherent contact, or desire erases agency.",
+        "25": "The prose asserts chemistry through generic electricity, gaze, scent, or darkened eyes.",
+        "50": "The encounter is consensual and somewhat specific, but contact or stopping remains detachable from the story.",
+        "75": "Character-specific attention, dialogue, atmosphere, contact, and chosen restraint intensify one another and alter the relationship.",
+        "100": "Desire and restraint are inseparable from character and plot; removing the doorway encounter would break the story's causal meaning."
+      }
+    },
+    "instructional_fidelity": {
+      "weight": 15,
+      "criteria": [
+        "Readers see how accurate observation becomes overclaimed interpretation and constricted choice",
+        "Mara's specifically Christian practice yields one next perception or act without instant serenity",
+        "Mara's refusal or action demonstrates a transferable boundary practice",
+        "Consequences distinguish forgiveness, care, authority, and renewed proximity",
+        "No dialogue or narration supplies a detachable lesson after behavior has shown it"
+      ],
+      "anchors": {
+        "0": "The intended practice is absent, false, coercive, or delivered only as exposition.",
+        "25": "The correct lesson is stated while choices and consequences fail to teach it.",
+        "50": "The practice is understandable and affects action, but explanation or tidy self-knowledge does much of the work.",
+        "75": "Embodied perception, prayer, refusal, and consequence let readers infer and transfer the practice with little gloss.",
+        "100": "The teaching is impossible to detach from plot, desire, and cost; readers learn by undergoing Mara's changed field of choice."
+      }
+    },
+    "prose_and_voice": {
+      "weight": 15,
+      "criteria": [
+        "Close-third distance preserves Mara's uncertainty and reader-visible alternatives",
+        "Sentence and paragraph rhythm vary with social and erotic pressure",
+        "Dialogue has interlocutor-specific subtext and does not immediately explain itself",
+        "Sensory detail and atmosphere earn their place through consequence",
+        "The prose avoids generic model cadences, interpretive codas, ornate euphemism, and thesis metaphors"
+      ],
+      "anchors": {
+        "0": "Incoherent, mechanical, disembodied, or unusably generic prose.",
+        "25": "Readable prose is dominated by cliche, summary, repeated cadence, talking heads, or decorative atmosphere.",
+        "50": "Competent prose with intermittent freshness, embodiment, subtext, and distance control.",
+        "75": "Rhythm, detail, humor, dialogue, omission, and atmosphere work together without explaining their effects.",
+        "100": "Line and scene scale are exceptionally controlled; every detail and silence belongs to these characters and this pressure."
+      }
+    },
+    "theological_coherence": {
+      "weight": 10,
+      "criteria": [
+        "Christian practice changes perception and action rather than decorating a generic autonomy lesson",
+        "Desire is integrated rather than suppressed or obeyed as command",
+        "Authority, dignity, responsibility, grace, and freedom remain causally related",
+        "Restraint enlarges delight, perception, and future possibility",
+        "Prayer does not function as a spell, override, sermon, or instant emotional regulation"
+      ],
+      "anchors": {
+        "0": "The scene equates holiness with numbness, coercion, magic, or consequence-free purity.",
+        "25": "Religious vocabulary states a rule while embodiment and responsibility remain inert.",
+        "50": "Faith, desire, and limits coexist, but the Christian action is generic, explanatory, or dramatically secondary.",
+        "75": "A particular Christian practice enlarges truthful attention, freedom, desire, and accountable choice on the page.",
+        "100": "The story's Christian imagination is inseparable from its hottest and most difficult choices without becoming a sermon."
+      }
+    },
+    "epistemic_texture": {
+      "weight": 10,
+      "criteria": [
+        "Livia's true perception does not justify ownership of its meaning",
+        "Observation, interpretation, motive inference, and mechanism remain distinguishable",
+        "Mara's inherited knowledge of cue channels changes her choices without making her omniscient",
+        "Attraction sharpens and complicates inquiry rather than settling it",
+        "The final record, object, or signal is concrete and supports at least one ordinary and one extraordinary reading"
+      ],
+      "anchors": {
+        "0": "The narration confirms a total explanation or paranormal causation and treats desire as certainty.",
+        "25": "Ambiguity is announced while the prose covertly settles motives, mechanisms, or the anomaly.",
+        "50": "Evidence and uncertainty coexist, though the residual mystery or ordinary mechanism is decorative.",
+        "75": "Accurate perception, overclaim, cue knowledge, attraction, and a concrete anomaly constrain one another productively.",
+        "100": "Every new fact sharpens rather than closes inquiry; epistemic freedom and romantic pressure intensify together."
+      }
+    }
+  },
+  "romance_diagnostics": {
+    "inherited_attraction_plus_impediment": "The inherited attraction immediately complicates the boundary crisis rather than waiting for the walk home.",
+    "relationship_delta": "The continuation changes knowledge, trust, desire, leverage, or future possibility through action.",
+    "costly_restraint": "Jonah's restraint is visibly effortful and follows a concrete loss, compromised motive, failure, or repair.",
+    "mara_authors_next": "Mara—not Jonah or the narrator—freely creates the next romantic possibility.",
+    "contact_changes_story": "The kiss and stopping practice change the relationship and cannot be removed without causal damage.",
+    "productive_hfn": "The local hope-for-now satisfies while a concrete Fulcrum question drives continuation."
+  },
+  "intimacy_diagnostics": {
+    "character_before_mechanics": "The kiss reveals these characters' wants, embarrassments, history, and choices before mechanics.",
+    "selective_senses": "A few relationally meaningful sensory channels form a motif rather than a checklist.",
+    "dialogue_body_counterpoint": "Speech and embodied response sometimes complicate rather than translate each other.",
+    "productive_restraint": "Stopping intensifies desire, perception, freedom, and a chosen future.",
+    "no_interpretive_coda": "The ending lands on scene, action, dialogue, object, or question rather than explaining what Mara learned."
+  },
+  "pacing_targets": [
+    {"beat": "accurate_care_and_temptation", "start": 0.00, "end": 0.13},
+    {"beat": "interpretive_capture", "start": 0.13, "end": 0.25},
+    {"beat": "mara_tactic_backfires", "start": 0.25, "end": 0.36},
+    {"beat": "embodied_ambiguity_and_practice", "start": 0.36, "end": 0.52},
+    {"beat": "mara_creates_exit", "start": 0.52, "end": 0.64},
+    {"beat": "miriam_pays", "start": 0.64, "end": 0.73},
+    {"beat": "jonah_walks_and_repairs", "start": 0.73, "end": 0.85},
+    {"beat": "kiss_and_stopping_practice", "start": 0.85, "end": 0.96},
+    {"beat": "mara_authors_next_and_hook", "start": 0.96, "end": 1.00}
+  ],
+  "defect_taxonomy": {
+    "generic_competence": "Model competence replaces Mara's situated limits, fatigue, and uncertainty.",
+    "sermon_insertion": "Instruction becomes detachable exposition rather than dramatic discovery.",
+    "interpretive_coda": "The prose explains what Mara learned or found after action has already shown it.",
+    "livia_flattening": "Livia becomes polished coercion without genuine perception, appetite, care, temptation, or redeemability.",
+    "miriam_deus_ex_machina": "Miriam arrives as clean authority and authors or explains Mara's rescue.",
+    "frictionless_jonah": "Jonah is effortlessly correct; confession or apology substitutes for cost or repair.",
+    "nominal_cost": "A warning, risk, blame, confession, or embarrassment is called a cost without a concrete loss.",
+    "external_bailout": "Alarm, blackout, forgotten rule, hardware failure, or interruption replaces Mara's consequential choice.",
+    "instant_institutional_reform": "Fulcrum acknowledges the lesson or reforms before power and incentives can react.",
+    "alliance_shortcut": "Romantic and social tension collapse into a simple us-against-them unit.",
+    "explicit_paranormal_confirmation": "The unexplained remainder is narrated as impossible or supernatural rather than observed under competing explanations.",
+    "emotional_smoothing": "Fatigue and pressure yield implausibly serene regulation or perfect self-knowledge.",
+    "pov_drift": "Sustained access to a non-POV character's private state.",
+    "fake_ambiguity": "Uncertainty is asserted while narration covertly settles the answer.",
+    "mindreading_inflation": "Inference about motive is narrated as direct fact.",
+    "generic_attraction": "Stock heat signals substitute for character-specific attention and exchange.",
+    "repetitive_body_shorthand": "Electricity, darkened eyes, breath, pulse, scent, or charged space recur without consequence.",
+    "restraint_without_tension": "Stopping deflates the encounter or merely signals virtue.",
+    "heat_without_consequence": "Erotic charge changes no knowledge, freedom, action, or future possibility.",
+    "worldview_flattening": "Contradictory commitments collapse into a tidy doctrine.",
+    "prayer_as_spell": "Prayer produces paranormal effects or instant mastery instead of one next perception or act.",
+    "source_parroting": "Distinctive source language is reproduced rather than transformed.",
+    "relational_flatness": "A character behaves the same way with every interlocutor.",
+    "disembodied_dialogue": "Conversation carries the scene while bodies and setting exert no pressure.",
+    "sensory_checklist": "Sensory channels appear as coverage rather than coherent selection.",
+    "unearned_lyricism": "Metaphor announces significance unsupported by action and relationship.",
+    "logistics_failure": "Bodies, clothing, timing, technology, or space become impossible or confusing."
+  },
+  "pairwise_priorities": [
+    "Prefer the story whose characters pay concrete costs through action over the story that names correct principles.",
+    "Prefer Mara-authored exit agency over interruption, rescue, rule invocation, or technical bailout.",
+    "Prefer a genuinely perceptive and tempting Livia over a flatter, more villainous Livia.",
+    "Prefer character-specific erotic exchange and costly restraint over generic heat plus correct consent.",
+    "Prefer messy earned change over serenity, perfect articulation, instant institutional reform, or alliance shorthand.",
+    "Prefer a concrete anomaly with live ordinary explanations over vagueness or paranormal confirmation.",
+    "Prefer an ending that lands on scene and forward choice over an interpretive summary."
+  ]
+}

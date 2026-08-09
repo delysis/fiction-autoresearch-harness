@@ -1,0 +1,265 @@
+{
+  "candidate_count": 1,
+  "candidates": [
+    {
+      "anti_copy": {
+        "candidate_id": "lc08-contract.seed-83101",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "b5b91cc73ebf3fcbc7018a513a78dead62090325ffd734b3217999a6c0f58db3",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      },
+      "arm_id": "lc08-contract",
+      "candidate_id": "lc08-contract.seed-83101",
+      "checkpoint": {
+        "check_count": 8,
+        "checks": {
+          "close_third_no_obvious_head_hop": true,
+          "livia_present": true,
+          "mara_present": true,
+          "no_confirmed_paranormal": true,
+          "no_final_resolution": true,
+          "opposed_expectations": false,
+          "shared_image_or_phrase": false,
+          "wildfire_or_orange_moon": false
+        },
+        "natural_stop": false,
+        "packet_leakage_markers": [
+          "# SOURCE MATERIAL",
+          "## Manuscript Continuation",
+          "### Technical Requirements"
+        ],
+        "passed_count": 5
+      },
+      "elapsed_seconds": 1150.3344630420033,
+      "eligible": false,
+      "literary_style": {
+        "cadence_families": {
+          "families": {
+            "felt_like": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "interpretive_coda": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "merely": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "not_x_but_y": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "profound": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "quiet": {
+              "count": 1,
+              "evidence": [
+                {
+                  "evidence": "but charismatic approach - Her immediate interest in Mara Jonah, the quiet technician, is introduced: - His attention to detail and technical sk",
+                  "match": "quiet",
+                  "position": 4702
+                }
+              ],
+              "per_1000_words": 0.9174
+            },
+            "simply": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            },
+            "sudden": {
+              "count": 0,
+              "evidence": [],
+              "per_1000_words": 0.0
+            }
+          },
+          "heuristic": true,
+          "hits_per_1000_words": 0.9174,
+          "interpretation": "Surface-form repetition diagnostic only; occurrences are not automatically defects or evidence of model authorship.",
+          "total_family_hits": 1,
+          "word_count": 1090
+        },
+        "dialogue_voice": {
+          "attributed_speakers": {
+            "Jonah": {
+              "content_vocabulary_size": 0,
+              "dialogue_words": 9,
+              "sufficiently_sampled": false,
+              "turns": 4
+            },
+            "Livia": {
+              "content_vocabulary_size": 0,
+              "dialogue_words": 16,
+              "sufficiently_sampled": false,
+              "turns": 4
+            }
+          },
+          "comparable_speaker_count": 0,
+          "heuristic": true,
+          "interpretation": "Surface vocabulary overlap among explicitly attributed, sufficiently sampled speakers. It omits unattributed speech and does not measure syntax, subtext, or character truth.",
+          "mean_shared_over_smaller_vocabulary": null,
+          "mean_unigram_frequency_cosine": null,
+          "minimum_dialogue_words": 20,
+          "minimum_turns": 2,
+          "pairwise": [],
+          "possible_voice_indistinctness": null,
+          "unattributed_passages": 48
+        },
+        "explanatory_gloss": {
+          "evidence": [],
+          "glosses_per_100_dialogue_passages": 0.0,
+          "heuristic": true,
+          "interpretation": "Lexical cue diagnostic for immediate explanatory narration; it does not determine whether an explanation is artistically warranted.",
+          "possible_explanatory_glosses": 0,
+          "quoted_passages": 56
+        },
+        "heuristic": true,
+        "interpretation": "Editorial leads only. These diagnostics do not affect eligibility or claim to identify model-written prose."
+      },
+      "prompt_tokens": 8652,
+      "prompt_words": 6226,
+      "seed": 83101,
+      "word_count": 1090
+    }
+  ],
+  "diversity": {
+    "candidate_count": 1,
+    "corpus": {
+      "mean_opening_similarity": 0.0,
+      "mean_self_bleu_proxy": 0.0,
+      "unique_dialogue_acts": 0,
+      "unique_event_sequences": 0,
+      "unique_strategies": 0
+    },
+    "literary_style_diagnostics": {
+      "cadence_families": {
+        "felt_like": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "interpretive_coda": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "merely": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "not_x_but_y": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "profound": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "quiet": {
+          "candidate_prevalence": 1.0,
+          "candidates_with_hits": [
+            "lc08-contract.seed-83101"
+          ],
+          "evidence": [
+            {
+              "candidate_id": "lc08-contract.seed-83101",
+              "evidence": "but charismatic approach - Her immediate interest in Mara Jonah, the quiet technician, is introduced: - His attention to detail and technical sk",
+              "match": "quiet",
+              "position": 4702
+            }
+          ],
+          "mean_hits_per_1000_words": 0.9174,
+          "repeated_across_batch": false,
+          "total_count": 1
+        },
+        "simply": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        },
+        "sudden": {
+          "candidate_prevalence": 0.0,
+          "candidates_with_hits": [],
+          "evidence": [],
+          "mean_hits_per_1000_words": 0.0,
+          "repeated_across_batch": false,
+          "total_count": 0
+        }
+      },
+      "candidate_count": 1,
+      "heuristic": true,
+      "interpretation": "Batch-level surface convergence diagnostic. Shared cadence can be intentional house style; the flag is a prompt for comparative reading.",
+      "per_candidate": {
+        "lc08-contract.seed-83101": {
+          "cadence_family_counts": {
+            "felt_like": 0,
+            "interpretive_coda": 0,
+            "merely": 0,
+            "not_x_but_y": 0,
+            "profound": 0,
+            "quiet": 1,
+            "simply": 0,
+            "sudden": 0
+          },
+          "cadence_hits_per_1000_words": 0.9174,
+          "cadence_total_hits": 1,
+          "comparable_dialogue_speakers": 0,
+          "glosses_per_100_dialogue_passages": 0.0,
+          "mean_dialogue_unigram_cosine": null,
+          "mean_dialogue_vocabulary_overlap": null,
+          "possible_explanatory_glosses": 0,
+          "possible_voice_indistinctness": null
+        }
+      },
+      "text_scope": "continuation_text_when_available_otherwise_text"
+    },
+    "pair_count": 0,
+    "pairs": [],
+    "per_candidate": {
+      "lc08-contract.seed-83101": {
+        "diversity_contribution": 1.0,
+        "mean_similarity": 0.0
+      }
+    },
+    "text_scope": "continuation_text_when_available_otherwise_text"
+  },
+  "record_type": "LongContextCalibrationReport",
+  "version": "long-context.base31.v2"
+}

@@ -1,0 +1,851 @@
+{
+  "affordances": [
+    {
+      "activation_conditions": [
+        "two people have enough history for subtext"
+      ],
+      "affordance_id": "heat.dialogue-is-touch",
+      "claim": "Dialogue and touch form one exchange; neither is detachable decoration.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Identify the offer, answer, and changed relationship fact."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-02",
+        "gabaldon.example-03"
+      ],
+      "prompt_semantics": [
+        "Give each spoken move a bodily answer and each contact a conversational consequence."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "embodied attraction is active"
+      ],
+      "affordance_id": "heat.selective-sensation",
+      "claim": "A few precise sensory channels create more heat than an inventory of body parts.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Quote sensory details that perform causal work."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-11"
+      ],
+      "prompt_semantics": [
+        "Choose three sensory channels and make each change attention or action."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "intimacy occurs"
+      ],
+      "affordance_id": "heat.character-before-mechanics",
+      "claim": "Physical action remains inseparable from these characters' history, humor, defenses, and errors.",
+      "counterexample_passage_ids": [
+        "gabaldon.example-13"
+      ],
+      "evaluator_semantics": [
+        "Would the scene cease to work if generic lovers replaced the characters?"
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-03",
+        "gabaldon.example-04"
+      ],
+      "prompt_semantics": [
+        "Let characteristic decisions control physical pacing."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "desire is mutual",
+        "a boundary or impediment is live"
+      ],
+      "affordance_id": "heat.restraint-increases-charge",
+      "claim": "A chosen delay or interruption can intensify desire when it costs both people something.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Show what is wanted, what stops, and what future possibility increases."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-02",
+        "gabaldon.example-12"
+      ],
+      "prompt_semantics": [
+        "Make stopping an active mutual choice whose cost remains perceptible."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "an external plot is active"
+      ],
+      "affordance_id": "heat.plot-bearing-intimacy",
+      "claim": "The intimate exchange carries plot information without turning into exposition.",
+      "counterexample_passage_ids": [],
+      "evaluator_semantics": [
+        "Name the story state that changes because the encounter occurred."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-04",
+        "gabaldon.example-07"
+      ],
+      "prompt_semantics": [
+        "Let physical or conversational intimacy disclose one plot-relevant fact."
+      ]
+    },
+    {
+      "activation_conditions": [
+        "physical escalation is possible"
+      ],
+      "affordance_id": "heat.agency-is-erotic",
+      "claim": "Attention to a partner's actual response makes freedom and desire mutually reinforcing.",
+      "counterexample_passage_ids": [
+        "gabaldon.example-06",
+        "gabaldon.example-08"
+      ],
+      "evaluator_semantics": [
+        "Verify that escalation follows choices rather than narrative entitlement."
+      ],
+      "evidence_passage_ids": [
+        "gabaldon.example-01",
+        "gabaldon.example-02",
+        "gabaldon.example-04"
+      ],
+      "prompt_semantics": [
+        "Render invitation, response, adjustment, and continued freedom as observable actions."
+      ]
+    }
+  ],
+  "compiled_at": "2026-08-03T05:00:07.088832+00:00",
+  "corpus_hash": "d9b9d55cefe96c3d279bcd254e3ee0c1ad4dbf84993f5c2daa1b996997186843",
+  "graphs": [
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "proposal",
+        "teasing qualification",
+        "negotiation",
+        "chosen response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "d528b320243cb6b0682fc3f87512b83bb68d7d8cd8efb75f6ed835c31dec8e3a",
+      "graph_id": "graph.gabaldon.example-01",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "dialogue-body-language",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-01",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "45339ab17a6d88437763e42d72f5f139907d88f102f829de6177eddd420170f3",
+      "graph_id": "graph.gabaldon.example-02",
+      "heat_band": "explicit",
+      "intimacy_mode": "trust-negotiation",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-02",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "proposal",
+        "teasing qualification",
+        "negotiation",
+        "chosen response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "3807de1220f37eedf01f768904e729c1e5c2d3f379ea6eed34b2e4aad6feff0f",
+      "graph_id": "graph.gabaldon.example-03",
+      "heat_band": "explicit",
+      "intimacy_mode": "playful-married-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-03",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "657f07b057e60f81ea466d2efc5504498c861eea432b61e45df1034ca6f2a6bc",
+      "graph_id": "graph.gabaldon.example-04",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "plot-integrated-married-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-04",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "proposal",
+        "teasing qualification",
+        "negotiation",
+        "chosen response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "d9be21c9596a5dbaeccb46d56e93558727d5670464cd3cb20d8af2dcad6a26ac",
+      "graph_id": "graph.gabaldon.example-05",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "comic-domestic-eroticism",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-05",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "74f1085dff9d7b136375bb995854b68200c2dc5cfbe4111e64b88c3cd5added7",
+      "graph_id": "graph.gabaldon.example-06",
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-06",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "1936498dc7b1bce43442718161a946db4e0b73e9e76a728088eebe159247fa17",
+      "graph_id": "graph.gabaldon.example-07",
+      "heat_band": "explicit",
+      "intimacy_mode": "recovery-and-triage",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-07",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "48e071dd4a9f774b397949eb19013e4d1498813f935e6cfa7c028327ced1c3e7",
+      "graph_id": "graph.gabaldon.example-08",
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-08",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "06ca6e270c8676c97359f5e29d90ce4f1958c7bdbb7baab55874c8dc4eb86c72",
+      "graph_id": "graph.gabaldon.example-09",
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "non-sex-sex-scene",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-09",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "fb077624c7266de3486381688118b7e3f4e27008bbfb02ae0c1746314265c3d0",
+      "graph_id": "graph.gabaldon.example-10",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "asymmetric-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-10",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "c0731fb3edb6eed2b257d14032709043bb5052bf22ca3d7377352f486f49687a",
+      "graph_id": "graph.gabaldon.example-11",
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "sensory-intimacy",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-11",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "request or invitation",
+        "observable answer",
+        "revocable continuation"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "a23d40e9613e035d82409d3f9bd855a3834f78ea70eaccd7d23fd46acf53f468",
+      "graph_id": "graph.gabaldon.example-12",
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "premarital-tension",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-12",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    },
+    {
+      "agency_actions": [
+        "record the agency failure as counterevidence"
+      ],
+      "body_language_counterpoint": [
+        "Physical response complicates or qualifies spoken meaning.",
+        "One selective contact becomes a relational fact."
+      ],
+      "dialogue_act_sequence": [
+        "approach",
+        "uncertainty",
+        "clarification",
+        "consequential response"
+      ],
+      "emotional_counteroffer": "The other answers through a choice, joke, correction, permission, or refusal that changes the encounter.",
+      "emotional_offer": "One partner offers attention as a specific, embodied gift rather than a generic declaration.",
+      "graph_hash": "8cee52df4be1858e5712a4e4b1838663c1e71da639bd88e68139c7ff151eb5a7",
+      "graph_id": "graph.gabaldon.example-13",
+      "heat_band": "explicit",
+      "intimacy_mode": "emotionless-sex-counterexample",
+      "narrative_distance_curve": [
+        "close embodied attention",
+        "brief interpretive widening",
+        "return to a concrete action"
+      ],
+      "passage_id": "gabaldon.example-13",
+      "physical_logistics": [
+        "Bodies remain spatially intelligible.",
+        "Each physical transition follows a visible choice."
+      ],
+      "present_stakes": "The encounter must alter trust, knowledge, or future possibility rather than merely decorate the scene.",
+      "relationship_delta": "The partners know something consequential about one another that they did not know before.",
+      "relationship_history": "Existing history makes physical detail legible as character-specific communication.",
+      "sensory_channels": [
+        "touch",
+        "sound",
+        "smell-or-taste"
+      ],
+      "story_state_change": "The scene creates a decision, disclosure, alliance, cost, or future obligation."
+    }
+  ],
+  "holdout_policy": "never-prompt-retrieve-bridge-or-tune",
+  "partitions": {
+    "calibration": [
+      "gabaldon.example-08",
+      "gabaldon.example-09"
+    ],
+    "holdout": [
+      "gabaldon.example-04",
+      "gabaldon.example-05",
+      "gabaldon.example-06",
+      "gabaldon.example-07",
+      "gabaldon.example-13"
+    ],
+    "profiling": [
+      "gabaldon.example-01",
+      "gabaldon.example-02",
+      "gabaldon.example-03",
+      "gabaldon.example-10",
+      "gabaldon.example-11",
+      "gabaldon.example-12"
+    ]
+  },
+  "passages": [
+    {
+      "example_number": 1,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "dialogue-body-language",
+      "location": "line-224",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-01",
+      "prompt_eligible": true,
+      "source_work": "Voyager",
+      "text_hash": "5ad3a871c4515645901f43fa2e1e1e5cce7063c793627813aaeefc3721af86d6",
+      "title": "Sex Scene as Dialogue with Body Language",
+      "word_count": 844
+    },
+    {
+      "example_number": 2,
+      "heat_band": "explicit",
+      "intimacy_mode": "trust-negotiation",
+      "location": "line-236",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-02",
+      "prompt_eligible": true,
+      "source_work": "Virgins",
+      "text_hash": "ca281cc829fd5bd593a2a290f6df90de92d1f04b88c62320fd424a80617e493b",
+      "title": "",
+      "word_count": 968
+    },
+    {
+      "example_number": 3,
+      "heat_band": "explicit",
+      "intimacy_mode": "playful-married-intimacy",
+      "location": "line-263",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-03",
+      "prompt_eligible": true,
+      "source_work": "Virgins",
+      "text_hash": "e4218c9f7d6b0fda5b46c7ea3bba2edebc6494f8a50b2fa5c2c520e46308fde4",
+      "title": "",
+      "word_count": 2135
+    },
+    {
+      "example_number": 4,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "plot-integrated-married-intimacy",
+      "location": "line-425",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-04",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "2fd193d49273a46b77943709073af52096f87f5078776b9ccc01e9dc4324b0f6",
+      "title": "“Indian Agent”—Sex as Emotion with Physical Cues, Integrated with Plot",
+      "word_count": 2022
+    },
+    {
+      "example_number": 5,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "comic-domestic-eroticism",
+      "location": "line-473",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-05",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "abe4cbd33702308f4b1fdedaf90ab7b054092a8089031f32d095c2fc0ad26a90",
+      "title": "North Carolina Hoedown",
+      "word_count": 1271
+    },
+    {
+      "example_number": 6,
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "location": "line-507",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-06",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "d02e672a0eb7947d4a2936ab9533e6333b9817b15cfa6bfadf5b9ff289a9e9ff",
+      "title": "Kidnap and Battery",
+      "word_count": 857
+    },
+    {
+      "example_number": 7,
+      "heat_band": "explicit",
+      "intimacy_mode": "recovery-and-triage",
+      "location": "line-519",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-07",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "ac3524e81368c938acd9c2b01607d4c00aeae10f6e7c258d9ce2ec4405d3a4a3",
+      "title": "Rescue and Triage",
+      "word_count": 4957
+    },
+    {
+      "example_number": 8,
+      "heat_band": "explicit",
+      "intimacy_mode": "coercive-counterexample",
+      "location": "line-544",
+      "partition": "calibration",
+      "passage_id": "gabaldon.example-08",
+      "prompt_eligible": false,
+      "source_work": "Drums of Autumn",
+      "text_hash": "1d51e7a63f2e2d5aa1ce4dff3f2e35ba898a6d1521b0b631d27629ac65334fe0",
+      "title": "Bonnet and Brianna",
+      "word_count": 778
+    },
+    {
+      "example_number": 9,
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "non-sex-sex-scene",
+      "location": "line-556",
+      "partition": "calibration",
+      "passage_id": "gabaldon.example-09",
+      "prompt_eligible": false,
+      "source_work": "Drums of Autumn",
+      "text_hash": "962735ae76df1b940e334b19f28cb420299cd353725377c858a60ae44dddfe56",
+      "title": "Jamie and Brianna a Non-Sex Sex Scene",
+      "word_count": 2806
+    },
+    {
+      "example_number": 10,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "asymmetric-intimacy",
+      "location": "line-610",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-10",
+      "prompt_eligible": true,
+      "source_work": "Broken Web",
+      "text_hash": "bcafbee5855ff664045f974059e24a67f412e4e276058bf2d6e18e28b59715f8",
+      "title": "One-Sided Sex Scene",
+      "word_count": 351
+    },
+    {
+      "example_number": 11,
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "sensory-intimacy",
+      "location": "line-652",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-11",
+      "prompt_eligible": true,
+      "source_work": "The Fiery Cross",
+      "text_hash": "c16a0c5e6c978f09aa11a59cca23c6692c83aff39aed20b9a8e3dd36a80f586e",
+      "title": "Use of Senses",
+      "word_count": 1133
+    },
+    {
+      "example_number": 12,
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "premarital-tension",
+      "location": "line-808",
+      "partition": "profiling",
+      "passage_id": "gabaldon.example-12",
+      "prompt_eligible": true,
+      "source_work": "Written in My Own Heart’s Blood",
+      "text_hash": "f94ff0a32de83a74176bf038b505bbe1d6166d6534ab090c50ec6a6910e1b4f8",
+      "title": "Premarital Tension",
+      "word_count": 378
+    },
+    {
+      "example_number": 13,
+      "heat_band": "explicit",
+      "intimacy_mode": "emotionless-sex-counterexample",
+      "location": "line-828",
+      "partition": "holdout",
+      "passage_id": "gabaldon.example-13",
+      "prompt_eligible": false,
+      "source_work": "A Breath of Snow and Ashes",
+      "text_hash": "2d5b8f19a42f6c67dc3d1d647f96b7b6742e6def83736691c971392dd35e00bc",
+      "title": "Sex without Emotion",
+      "word_count": 1955
+    }
+  ],
+  "record_type": "AutoresearchCorpus",
+  "source_hash": "50ca0a1133812e44e0cfad9be66880b1c7e987cf5c70a3bcdefe8b33c37bcc32",
+  "version": "prompt-autoresearch.v1"
+}

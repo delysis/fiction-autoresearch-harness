@@ -1,0 +1,28 @@
+{
+  "emotional_offer": "Apology and social constraint",
+  "emotional_counteroffer": "Desire for normalcy and emotional escape",
+  "relationship_history": "Established social connections",
+  "present_stakes": "Social expectation versus personal feeling",
+  "dialogue_act_sequence": [
+    "Apology",
+    "Assertion of social context",
+    "Statement of internal conflict",
+    "Suggestion of social action"
+  ],
+  "body_language_counterpoint": "Stasis despite social pressure",
+  "sensory_channels": [
+    "Sight",
+    "Auditory"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Crowded drawing-room setting",
+  "agency_actions": [
+    "He speaks",
+    "She remains stationary",
+    "Archer observes"
+  ],
+  "relationship_delta": "Tension increase",
+  "story_state_change": "Shift in focus to arrival",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

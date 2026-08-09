@@ -1,0 +1,232 @@
+{
+  "benchmark_hash": "2bdde66c48539f9a384a20b4e40e2eef1524c2e7399f1a98c61bdf8738d1a034",
+  "benchmarks_path": "/Users/george/mpc/juicy_chastity_fiction_lab/04_review_governance/prompt_autoresearch/compiled-v14-cleanroom/benchmarks.v1.json",
+  "bridge_dir": "/Users/george/mpc/juicy_chastity_fiction_lab/fixtures/autoresearch/bridges",
+  "bridge_hashes": {},
+  "campaign_hash": "c643cbfe10925fef072bd8cbfca65cac36d12d2b8207ccff3a5393e6d7ddd525",
+  "campaign_id": "prompt-autoresearch-v84-dramatic-dwell-spark",
+  "clean_room_policy": {
+    "codex_frontier_prose_in_prompts": false,
+    "frontier_role": "critic_only",
+    "literary_source_apprenticeship": true,
+    "project_bridge_prose_in_prompts": false
+  },
+  "corpus_hash": "d9afcc19141cd98e264afacd6a8d5e813833fc321e0b99aaf95f805629ca4a50",
+  "corpus_path": "/Users/george/mpc/juicy_chastity_fiction_lab/04_review_governance/prompt_autoresearch/compiled-v51-s01-calibration-game/corpus.private.v11.calibration-game-curated.json",
+  "created_at": "2026-08-08T23:26:42.154358+00:00",
+  "generation_policy": {
+    "completion_policy": "natural model stop or declared token cap; never silent truncation",
+    "max_completion_tokens": 2000,
+    "target_words_max": 1000,
+    "target_words_min": 800
+  },
+  "harness_hashes": {
+    "anti_copy.py": "a4590da137da00acd85d17a7f0d286634005c3098b0f29b756ddbe0002803de0",
+    "autoresearch.py": "a9a787afcfc8038a071683357c2ed7e074a1e5fdb47314bddb8020e09e546e1b",
+    "model_client.py": "bec113209561935f3d410ec9929c034b9ebbbed1b0b3be704bcad95b2b65c72e",
+    "shared_endpoint.py": "42c372e12b068155d0fc8e560acf5c6c2ed52a6b36fc9e1122ee66374ad8c324"
+  },
+  "project_prose_hashes": {
+    "project.s01-finalist.actor_novelist": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+    "project.s01-finalist.direct": "2e63b717f78698204e00aa469c922d894ca462a6d9229df59ddfdf388a0bf0da",
+    "project.s01-finalist.verbalized_sampling": "42f8b11883b298b95a75206792a4ad6df625f9f574fd9ad72124d47199273f3f"
+  },
+  "project_root": "/Users/george/mpc/juicy_chastity_fiction_lab",
+  "recipes": [
+    {
+      "block_ids": [],
+      "control_density": "rgo-canon-only",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "4ca96b35a9048da7a301a6edd10b3b8e01b8d77d91b4ece829c01515e9292d11",
+      "recipe_id": "r1-control",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 6000,
+      "topology": "control"
+    },
+    {
+      "block_ids": [],
+      "control_density": "six-affordance",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "a2ee405f79bcbd43d4f001c5ee6b1d5e03e1188733e6c56760138becffe338a1",
+      "recipe_id": "r1-craft-sheet",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 8000,
+      "topology": "craft-sheet"
+    },
+    {
+      "block_ids": [],
+      "control_density": "mode-matched-raw",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "ca4fd1a08e10030792a0d8b0035cfd9ab1d007e2130f11974bad8a28e74e8858",
+      "recipe_id": "r1-raw-spice",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 12000,
+      "topology": "raw-spice"
+    },
+    {
+      "block_ids": [],
+      "control_density": "graph-prose-pairs",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "e266457ca2d4c30dc6248380547bb8c565194a31b383f3d34f39d9c5593e330e",
+      "recipe_id": "r1-paired",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 16000,
+      "topology": "paired"
+    },
+    {
+      "block_ids": [],
+      "control_density": "named-graph-prose-pairs",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": true,
+      "parent_recipe_hash": "",
+      "recipe_hash": "7298ec0009b555c2ce198d663c9e3c66c32e54caedfd0941f01275270da23c56",
+      "recipe_id": "r1-paired-named",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 16000,
+      "topology": "paired-named"
+    },
+    {
+      "block_ids": [],
+      "control_density": "contrastive-delta",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "2e252ccdb44639768158fc5916c0eebbd1708697e7fb6405d92d844cd52d39b9",
+      "recipe_id": "r1-contrastive",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 24000,
+      "topology": "contrastive"
+    },
+    {
+      "block_ids": [],
+      "control_density": "curated-long",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": false,
+      "parent_recipe_hash": "",
+      "recipe_hash": "bead1ec520b4210b8c20d78799f9489976bcef1639e7016d925a424364475ccd",
+      "recipe_id": "r1-curated-long",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 24000,
+      "topology": "curated-long"
+    },
+    {
+      "block_ids": [],
+      "control_density": "named-curated-long",
+      "encoding": "headings",
+      "include_bridge": false,
+      "mutated_axis": "initial",
+      "named_author": true,
+      "parent_recipe_hash": "",
+      "recipe_hash": "8190e91ae8910acfff16811453b58d50a336afe6bfb0eae54fe0bd54f8561151",
+      "recipe_id": "r1-curated-long-named",
+      "round_number": 1,
+      "runway_policy": "target-program-then-plain-manuscript-prose",
+      "sampling": {
+        "min_p": 0.02,
+        "temperature": 0.95,
+        "top_p": 0.97,
+        "xtc_probability": 0.08
+      },
+      "token_target": 24000,
+      "topology": "curated-long-named"
+    }
+  ],
+  "record_type": "AutoresearchCampaign",
+  "round_seeds": {
+    "1": [
+      931001,
+      931037,
+      931079
+    ],
+    "2": [
+      932003,
+      932041,
+      932083,
+      932129
+    ],
+    "3": [
+      933007,
+      933053,
+      933101,
+      933151
+    ]
+  },
+  "sampling": {
+    "min_p": 0.02,
+    "temperature": 0.95,
+    "top_p": 0.97,
+    "xtc_probability": 0.08
+  },
+  "version": "prompt-autoresearch.v2-cleanroom"
+}

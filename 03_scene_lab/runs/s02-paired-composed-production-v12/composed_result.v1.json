@@ -1,0 +1,22 @@
+{
+  "candidate_hash": "82d4e339f88b080d5f1461694fea724d8828a62eb5c32317e62cda03d2c7f4c7",
+  "candidate_path": "03_scene_lab/runs/s02-paired-composed-production-v12/composed/s02-seq1.md",
+  "gate": {
+    "all_target_atoms": true,
+    "eligible": true,
+    "forbidden_future": false,
+    "self_repetition": {
+      "duplicate_paragraph_count": 0,
+      "duplicate_paragraphs": [],
+      "duplicate_window_count": 0,
+      "duplicate_windows": [],
+      "hard_fail": false,
+      "window_words": 50
+    },
+    "target_coverage": 1.0,
+    "word_band": true,
+    "words": 875
+  },
+  "record_type": "ComposedPairedResult",
+  "version": "paired-composed.v12"
+}

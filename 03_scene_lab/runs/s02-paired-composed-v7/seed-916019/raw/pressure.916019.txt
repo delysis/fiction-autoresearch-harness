@@ -1,0 +1,82 @@
+Livia poured amber tea from a ceramic carafe and slid the cup to Mara. The porcelain warmed her fingertips. She did not refuse it or comment. Livia smiled.
+
+“How do you like your tea?”
+
+“With honey.”
+
+Livia held up a jar. “You’ll fit in beautifully.”
+
+Mara stirred the honey until the tea stopped darkening. The warmth entered her body before she could stop it.
+
+“This is the part,” Livia said, “where you explain why you’ve been quiet since the first hour.”
+
+“I’m waiting for someone else to try the coffee.”
+
+“I’m serious, Mara.”
+
+Mara raised the cup to her lips and did not drink.
+
+“Your silence isn’t a statement,” Livia said. “It’s the absence of one. You’re afraid close inspection will find something you can’t afford.”
+
+The tremor returned. Mara put the cup back on the table before it showed.
+
+“Maybe it’ll find something,” she said.
+
+Livia nodded once. “Maybe it will. But you’ll stay until you know.”
+
+She gave the word know the shape of a promise.
+
+Mara stirred the honey again, this time with intention. “It’s the data density.”
+
+“It’s fear of what the data might say. What if it finds nothing exceptional?”
+
+The remark cut closer to the true shape of the fear than any theological reasoning would. Livia’s insight was not a kindness, but it was not cruelty either. Mara recognized the difference.
+
+“The data isn’t exceptional,” she said.
+
+“It doesn’t know that yet.”
+
+“The data doesn’t care.”
+
+“But you do.”
+
+Livia’s fingers grazed Mara’s wrist. The touch was light and gone before it could be named.
+
+Mara lifted the cup to her lips again and drank.
+
+The tea tasted of chamomile and lemon. The steam rose between them, sweet and warm. The room felt quieter for a moment, as if the air itself had decided to listen.
+
+END CASE 2
+
+CASE 3: EDITORIAL EVENT LEDGER
+Phase: s02 access request
+1. Given: Mara's fear of the data remains unresolved.
+   Action (Livia, Mara): Livia invites Mara to access the raw telemetry with Livia's credentials.
+   Visible response: Mara hesitates but accepts the offer.
+   What changes: Mara gains access but remains unsure if her competence will be exposed.
+Local stopping state: Livia leaves with her phone to check the room for anyone listening. Mara has the telemetry access open but has not yet seen the raw data.
+Case length band: 240-270 words; the scaffold selects only a complete paragraph boundary.
+
+CASE 3: FINISHED MANUSCRIPT
+
+CHAPTER TWO (cont.)
+
+Livia reached across the table for her phone, the green dress pooling around her ankles.
+
+“The others are leaving,” she said, tapping the screen.
+
+Mara heard the front door close, but Livia kept listening.
+
+“Check,” Mara said. “The lab’s not secure.”
+
+Livia looked at her with interest. “You noticed.”
+
+“It took twelve minutes to break the gate.”
+
+Livia nodded once. “You’ll be fine here.”
+
+The compliment sat between them. Mara finished her tea and set the cup aside.
+
+Livia stood, pulling the chair closer with her foot. “Wait here. I’ll check the room.”
+
+Mara

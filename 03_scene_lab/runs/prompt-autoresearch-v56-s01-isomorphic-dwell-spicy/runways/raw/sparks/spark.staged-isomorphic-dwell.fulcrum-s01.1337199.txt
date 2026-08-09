@@ -1,0 +1,7 @@
+* * *
+
+EXAMPLE 6
+
+Dramatic design
+Viewpoint and approach (20%): First person, female, protagonist: a young, ambitious, self-involved, over-educated, highly driven, deeply insecure, first-time business manager of a big software development department at a large, prestigious, international company. Her team is stuck on a major project that they can’t complete in time to meet a hard deadline imposed by her boss, the VP of the company. She has no experience with this type of project. It’s her first managerial job and she’s terrified she’ll fail spectacularly.
+Concrete status transaction (45%): Her manager gives her a set of impossible instructions and doesn’t say anything about the work of his team. He seems to think that she needs to micromanage her team to get them to complete their work on time,

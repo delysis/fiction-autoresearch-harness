@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.openai.codex.fiction.prompt-autoresearch-r1</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>/Users/george/mpc/juicy_chastity_fiction_lab/scripts/run_autoresearch_campaign.py</string>
+    <string>--campaign-dir</string>
+    <string>/Users/george/mpc/juicy_chastity_fiction_lab/03_scene_lab/runs/prompt-autoresearch-v11</string>
+    <string>--round</string>
+    <string>1</string>
+    <string>--workers</string>
+    <string>1</string>
+    <string>--max-tokens</string>
+    <string>2000</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/george/mpc/juicy_chastity_fiction_lab</string>
+  <key>ProcessType</key>
+  <string>Interactive</string>
+  <key>StandardOutPath</key>
+  <string>/private/tmp/prompt-autoresearch-r1.out</string>
+  <key>StandardErrorPath</key>
+  <string>/private/tmp/prompt-autoresearch-r1.err</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <false/>
+</dict>
+</plist>

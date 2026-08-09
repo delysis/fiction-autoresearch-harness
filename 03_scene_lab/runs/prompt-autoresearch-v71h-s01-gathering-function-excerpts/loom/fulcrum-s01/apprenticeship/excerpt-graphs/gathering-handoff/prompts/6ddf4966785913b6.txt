@@ -1,0 +1,26 @@
+Analyze this existing fiction passage for retrieval. Do not rewrite it, continue it, or imitate it. Return one compact JSON object only. Use short content-neutral descriptions, not quotations. intimacy_mode must be one of nonsexual-pressure, charged-contact, non-sex-sex-scene, married-intimacy, consummation, aftermath, reconciliation. heat_band must be one of none, charged-restraint, open-door-nongraphic, explicit. Arrays contain 1-5 terse items. Describe what actually occurs, including failed or absent agency turns.
+
+PASSAGE
+She turned to ring the bell. "I shall not go out this evening; tell the
+carriage to go and fetch the Signora Marchesa," she said when the maid
+came.
+
+After the door had closed again Archer continued to look at her with
+bitter eyes. "Why this sacrifice? Since you tell me that you're lonely
+I've no right to keep you from your friends."
+
+She smiled a little under her wet lashes. "I shan't be lonely now. I
+_was_ lonely; I _was_ afraid. But the emptiness and the darkness are gone;
+when I turn back into myself now I'm like a child going at night into a
+room where there's always a light."
+
+Her tone and her look still enveloped her in a soft inaccessibility,
+and Archer groaned out again: "I don't understand you!"
+
+"Yet you understand May!"
+
+He reddened under the retort, but kept his eyes on her. "May is ready
+to give me up."
+
+JSON FIELDS
+emotional_offer, emotional_counteroffer, relationship_history, present_stakes, dialogue_act_sequence, body_language_counterpoint, sensory_channels, narrative_distance_curve, physical_logistics, agency_actions, relationship_delta, story_state_change, intimacy_mode, heat_band

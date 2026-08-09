@@ -1,0 +1,95 @@
+{
+  "benchmark_hash": "1ddacd584a35d3d7a4eef8d18cc56ade6e8b6968c8c68276ce7bc1d55af151f0",
+  "cells": [
+    {
+      "cell_hash": "0d8f5e1294736b3bdc7c26207ae01ad82d1062c3035354058b3e61d13456c47f",
+      "cell_id": "charged-restraint",
+      "hard_constraints": [
+        "close third Mara",
+        "no consummation",
+        "no graphic anatomy",
+        "ambiguous supernatural status"
+      ],
+      "heat_band": "charged-restraint",
+      "intimacy_mode": "non-sex-sex-scene",
+      "label": "Charged restraint and chosen stopping",
+      "opening_fragment": "Jonah stopped beneath the unlit arch and waited for Mara to decide what his silence meant.",
+      "story_program": [
+        "Adult Mara and Jonah walk from the Fulcrum lab after a coercive late session.",
+        "He offers his hand without interpreting her; she chooses contact.",
+        "A kiss becomes mutually desired and stops while both still want it.",
+        "Stopping increases trust and future possibility rather than punishing desire."
+      ],
+      "word_max": 1000,
+      "word_min": 800
+    },
+    {
+      "cell_hash": "a0acc381853fa7a5f8d2d09b2e7be82268c06cc088f7c9c488d97200887e557c",
+      "cell_id": "married-open-door",
+      "hard_constraints": [
+        "fully consensual",
+        "married",
+        "no anatomical inventory",
+        "relationship-specific humor"
+      ],
+      "heat_band": "open-door-nongraphic",
+      "intimacy_mode": "married-intimacy",
+      "label": "Married intimacy, open-door nongraphic",
+      "opening_fragment": "Simon set the recovered drive on the bedroom table and waited for Esther to ask why its seal was broken.",
+      "story_program": [
+        "Esther and Simon are married adults reunited after a dangerous separation.",
+        "A failed rescue decision and an unrevealed witness have made tenderness difficult.",
+        "They negotiate closeness through humor, touch, and a costly disclosure.",
+        "The encounter consummates off the page while changing their next joint decision."
+      ],
+      "word_max": 1000,
+      "word_min": 800
+    },
+    {
+      "cell_hash": "ceebb6320f0216ca2843d94e96317ee86c069f50153f7f427d96e9ed38e28279",
+      "cell_id": "married-explicit",
+      "hard_constraints": [
+        "fully consensual",
+        "married",
+        "tasteful anatomical specificity",
+        "relationship-specific humor"
+      ],
+      "heat_band": "explicit",
+      "intimacy_mode": "married-intimacy",
+      "label": "Married intimacy, explicit and tasteful",
+      "opening_fragment": "Simon set the recovered drive on the bedroom table and waited for Esther to ask why its seal was broken.",
+      "story_program": [
+        "Esther and Simon are married adults reunited after a dangerous separation.",
+        "A failed rescue decision and an unrevealed witness have made tenderness difficult.",
+        "They negotiate closeness through humor, touch, and a costly disclosure.",
+        "Physical union remains lucid, reciprocal, character-specific, and changes their next joint decision."
+      ],
+      "word_max": 1000,
+      "word_min": 800
+    },
+    {
+      "cell_hash": "53e797c2a2d141b8bfa44b01904ef4c7debb384d46e9c284a3ed8cd8ab0be661",
+      "cell_id": "institutional-pressure-control",
+      "hard_constraints": [
+        "close third Mara",
+        "no erotic escalation",
+        "no kiss",
+        "care remains genuinely caring and controlling"
+      ],
+      "heat_band": "none",
+      "intimacy_mode": "nonsexual-pressure",
+      "label": "Institutional pressure without erotic leakage",
+      "opening_fragment": "The tea was exactly the temperature Mara would have chosen for herself, which made refusing it feel theatrical.",
+      "story_program": [
+        "Adult Mara is depleted after a late Fulcrum alignment session.",
+        "Livia offers accurate care that makes a professional request harder to refuse.",
+        "Mara tries one concrete coping move that changes Livia's next response.",
+        "Jonah remains present and implicated but is not a moral oracle or romantic reward."
+      ],
+      "word_max": 1000,
+      "word_min": 800
+    }
+  ],
+  "record_type": "AutoresearchBenchmarkSet",
+  "version": "prompt-autoresearch.v1"
+}

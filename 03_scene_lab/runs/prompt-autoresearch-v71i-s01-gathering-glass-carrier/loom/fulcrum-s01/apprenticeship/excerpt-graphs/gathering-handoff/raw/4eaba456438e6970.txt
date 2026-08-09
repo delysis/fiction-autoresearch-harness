@@ -1,0 +1,26 @@
+{
+  "emotional_offer": "Admiration",
+  "emotional_counteroffer": "Detachment",
+  "relationship_history": "Unspecified",
+  "present_stakes": "Emotional distance between characters",
+  "dialogue_act_sequence": [
+    "Inquiry",
+    "Minimal response"
+  ],
+  "body_language_counterpoint": "Observation versus separation",
+  "sensory_channels": [
+    "Sight",
+    "Sound"
+  ],
+  "narrative_distance_curve": "Close to moderate",
+  "physical_logistics": "Seated near a low fire",
+  "agency_actions": [
+    "Observation",
+    "Questioning",
+    "Inability to move"
+  ],
+  "relationship_delta": "Stagnation",
+  "story_state_change": "Interruption by external voices",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

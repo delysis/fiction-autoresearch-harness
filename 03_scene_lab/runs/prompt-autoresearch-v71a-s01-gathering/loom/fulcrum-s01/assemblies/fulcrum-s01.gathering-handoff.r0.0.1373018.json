@@ -1,0 +1,42 @@
+{
+  "artifact_id": "fulcrum-s01.gathering-handoff.r0.0.1373018",
+  "manuscript_hash": "925e9df5dce8189b3d8d0707dcb028d5e47efa763a3271a1c521e6bfc1c744ab",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n",
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+      "raw_char_end": 556,
+      "raw_char_start": 0,
+      "raw_hash": "52c1edfd57c5be88b280e362eb4ca3e1d25e04bb6c3a76f609feb08725b50d16",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v60-s01-party-runway/runways/raw/sparks/spark.staged-natural-anthology.fulcrum-s01.1340109.txt",
+      "role": "opening-spark",
+      "span_id": "spark.staged-natural-anthology.fulcrum-s01.1340109",
+      "text_hash": "755a315da9a0287a678ba8d0e312d8503e73c3cf8bdb9a2f656d5c42ee341ccd"
+    },
+    {
+      "call_id": "fulcrum-s01.dyadic-contact.r0.0.1362035",
+      "raw_char_end": 1018,
+      "raw_char_start": 1,
+      "raw_hash": "4de51fbae7df46223ddef6d9b1fd84c23f5520c421cd480ed704252db7d80125",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v70-s01-seven-movement/loom/fulcrum-s01/raw/dyadic-contact/fulcrum-s01.dyadic-contact.r0.0.1362035.txt",
+      "role": "dyadic-contact",
+      "span_id": "fulcrum-s01.dyadic-contact.r0.0.1362035.span",
+      "text_hash": "63ff1be43aa706344013ee4856bd1ade6bb8cecf63cb4ceb7cc773336bab099c"
+    },
+    {
+      "call_id": "fulcrum-s01.gathering-handoff.r0.0.1373018",
+      "raw_char_end": 838,
+      "raw_char_start": 2,
+      "raw_hash": "8e13ff60e0c5e1ae6baf8e416b67b6ab1eff52bda81fa44df6416934eec9fe92",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v71a-s01-gathering/loom/fulcrum-s01/raw/gathering-handoff/fulcrum-s01.gathering-handoff.r0.0.1373018.txt",
+      "role": "gathering-handoff",
+      "span_id": "fulcrum-s01.gathering-handoff.r0.0.1373018.span",
+      "text_hash": "ec5e5b4f54c5a886b669858f97805f00e230d7a53c614261b1077fccd1cf04c7"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

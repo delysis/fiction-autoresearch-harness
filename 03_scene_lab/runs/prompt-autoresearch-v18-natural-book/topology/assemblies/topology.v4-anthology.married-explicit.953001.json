@@ -1,0 +1,31 @@
+{
+  "artifact_id": "topology.v4-anthology.married-explicit.953001",
+  "manuscript_hash": "5c31e47dd5540356c534be9c3c21bf03b7155ae3c402ae32505c7009207ff7a3",
+  "record_type": "ManuscriptAssembly",
+  "separators": [
+    "\n\n"
+  ],
+  "spans": [
+    {
+      "call_id": "runway.married-explicit.952073",
+      "raw_char_end": 788,
+      "raw_char_start": 0,
+      "raw_hash": "7b18c4072b56103f1e86598de67e8919fc353b39f1693aeda8ea739367af0f98",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v17-boundary-clean/runways/raw/runway.married-explicit.952073.txt",
+      "role": "opening-runway",
+      "span_id": "runway.married-explicit.952073",
+      "text_hash": "921975ebc1373fe23ba617e9cff2f1ea430d77e53851885860e6687eb80d50d9"
+    },
+    {
+      "call_id": "topology.v4-anthology.married-explicit.953001",
+      "raw_char_end": 2779,
+      "raw_char_start": 1,
+      "raw_hash": "065184971f92258e2dbef8cac4e560d8100dc7a5a5b4f411f43213c2f8f2e368",
+      "raw_path": "03_scene_lab/runs/prompt-autoresearch-v18-natural-book/topology/raw/topology.v4-anthology.married-explicit.953001.txt",
+      "role": "topology-movement",
+      "span_id": "topology.v4-anthology.married-explicit.953001.segment",
+      "text_hash": "701913976610dbcd1c5a604cc5fd173bdeeb1b78bb05905777ef4441d4668b62"
+    }
+  ],
+  "version": "model-span-assembly.v1"
+}

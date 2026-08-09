@@ -1,0 +1,65 @@
+{
+  "corpus_hash": "cc4c32ad4bc42864e0b856a248960e8f91f55ccaadb1102b1d8ff3ec8a3a7f2b",
+  "corpus_id": "public-domain-contemporary-romance-and-occult.v1",
+  "created_at": "2026-08-08T14:28:17.548261+00:00",
+  "record_type": "LiteraryApprenticeshipCorpus",
+  "source_spec": "/Users/george/mpc/juicy_chastity_fiction_lab/fixtures/apprenticeship/public_domain_contemporary_source.v1.json",
+  "source_spec_hash": "0d64ac54c5f02a2ca1a4f0847d1511c0b0510a19c81389107875ada4c9877022",
+  "version": "literary-apprenticeship.v1",
+  "works": [
+    {
+      "author": "L. M. Montgomery",
+      "facets": [
+        "adult",
+        "romantic-comedy",
+        "dry-humor",
+        "choice-and-agency",
+        "social-constraint"
+      ],
+      "local_path": "books/montgomery.blue-castle.txt",
+      "partition": "profiling",
+      "publication_year": 1926,
+      "source_note": "Project Gutenberg ebook 67979.",
+      "source_url": "https://www.gutenberg.org/ebooks/67979.txt.utf-8",
+      "text_hash": "b418e6dae92794a0a79cb160f29d88c5e7169d342f9128f005d91905e9023636",
+      "title": "The Blue Castle",
+      "work_id": "montgomery.blue-castle"
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "facets": [
+        "adult",
+        "psychological-romance",
+        "charismatic-manipulation",
+        "occult-ambiguity",
+        "social-threat"
+      ],
+      "local_path": "books/maugham.magician.txt",
+      "partition": "profiling",
+      "publication_year": 1908,
+      "source_note": "Project Gutenberg ebook 14257.",
+      "source_url": "https://www.gutenberg.org/ebooks/14257.txt.utf-8",
+      "text_hash": "6c116f8abaa4921ee3288c6eab4b1486ea50e18af08a0aa5e2c409680f90bf8a",
+      "title": "The Magician",
+      "work_id": "maugham.magician"
+    },
+    {
+      "author": "Elizabeth von Arnim",
+      "facets": [
+        "adult",
+        "arrival",
+        "female-friendship",
+        "social-comedy",
+        "sensory-setting"
+      ],
+      "local_path": "books/von-arnim.enchanted-april.txt",
+      "partition": "profiling",
+      "publication_year": 1922,
+      "source_note": "Project Gutenberg ebook 16389.",
+      "source_url": "https://www.gutenberg.org/ebooks/16389.txt.utf-8",
+      "text_hash": "d2d5a31f295361fb742f44729d3de6082cd7bff742a0484cd178731d66ef8370",
+      "title": "The Enchanted April",
+      "work_id": "von-arnim.enchanted-april"
+    }
+  ]
+}

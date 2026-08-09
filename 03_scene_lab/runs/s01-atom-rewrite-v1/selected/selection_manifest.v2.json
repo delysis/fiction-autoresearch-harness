@@ -1,0 +1,41 @@
+{
+  "bounded_revisions": [
+    {
+      "after_hash": "fabb1c2dc67dd55633fd0347afb0705d0188422e43adaad2278e6b73d662e54c",
+      "before_hash": "9b10540ce6228adaaa8ac2da976c13a4969a5dc22d501fbbd1e6ffad3d519dd6",
+      "label": "show Jonah's implication"
+    },
+    {
+      "after_hash": "fbdbe5ea3bc20343d64138b64341c745488a55c093988e74c15e332bf0638410",
+      "before_hash": "887aa1ab122f57ff8e3da095c2e7f4cffd518505e2f9804adba64f0b17022ae6",
+      "label": "make prayer causal during the control"
+    },
+    {
+      "after_hash": "11e4fe7930d1f91d5da733ebac782abbe2033e25bf5b9711357ad12a91057f05",
+      "before_hash": "351cebd333486a87edc960f3e66faa1843fa5c0d431bb79d25c34f6c302b893e",
+      "label": "show institutional appropriation"
+    },
+    {
+      "after_hash": "57dd48d38d972a9dbba42ce0022d94e34f08e61807d46a4a441b1e89dd6dcdf8",
+      "before_hash": "a4cf46135b7d1fd8b42cd4141101067ac847c343353f5a061fd51cbb9738602e",
+      "label": "replace psi-forward coincidence with delayed pressure evidence"
+    }
+  ],
+  "immutable_s02_path": "03_scene_lab/runs/s02-compute-v4.3-a4b/frontier_novelist/s02.codex.v1.md",
+  "immutable_s02_sha256": "8561c609388e564f2d35edcffafec3f60969b96e003c0024241dcb3b5c5cf06e",
+  "integrated_style_diagnostics_path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/integrated_style_diagnostics.v2.json",
+  "merged_path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-s02.codex.v2.md",
+  "merged_sha256": "d4bb6004702ee51924ad1e9c5809839b31ddd0fc03c104cf4318f9afc5f9dd51",
+  "merged_words": 5866,
+  "raw_s01_path": "03_scene_lab/runs/s01-atom-rewrite-v1/candidates/s01-b-somatic-control.codex.v1.md",
+  "raw_s01_sha256": "8c60ef85984b5b08ebe765bde4b533c839e15bc51492b6fdf1ca1c825e80a691",
+  "record_type": "S01S02SelectedManuscript",
+  "release_status": "human-appraisal-candidate-not-release",
+  "revised_s01_path": "03_scene_lab/runs/s01-atom-rewrite-v1/selected/s01-b-somatic-control.codex.v2.md",
+  "revised_s01_sha256": "44b123c0f6fa57b101edd553b9d36e3ed7c2c767f17aaad77f3b2837d47583ce",
+  "s01_words": 3009,
+  "s02_words": 2857,
+  "selection": "s01-b-somatic-control",
+  "selection_basis": "two independent accept judgments; strongest repeated-target control; best sealed-telemetry and Jonah-complicity seam into immutable S02",
+  "version": "s01-s02-selected.v2"
+}

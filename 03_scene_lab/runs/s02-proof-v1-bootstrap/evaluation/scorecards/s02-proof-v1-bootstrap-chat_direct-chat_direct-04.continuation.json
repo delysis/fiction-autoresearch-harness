@@ -1,0 +1,343 @@
+{
+  "approved_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+  "approved_prefix_id": "s01-finalist-B:s01-comparison-v1-actor_novelist-actor-novelist-05-polished-r2",
+  "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+  "defects": [],
+  "eligible": false,
+  "feedback_brief_hash": "7b418de917299eda9e9c8c1175abb24db67bf6cd8cee348b0c9c2200466e9fdf",
+  "gate_details": {
+    "anti_copy": {
+      "passed": true,
+      "report": {
+        "candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04",
+        "cross_candidate_matches": [],
+        "exact_matches": [],
+        "fuzzy_matches": [],
+        "hard_fail": false,
+        "index_hash": "9e3f3fe007e1718b1ced8ccd1f5b9e75afc518bf7f74c7e15860874ae75294ef",
+        "policy_version": "anti-copy.v1",
+        "record_type": "OverlapReport",
+        "schema_version": "fiction-harness.v1",
+        "semantic_matches": [],
+        "unresolved_flags": false
+      }
+    },
+    "complete_ending": {
+      "balanced_curly_quotes": true,
+      "passed": true,
+      "terminal_text": "ession one of profound respect. Mara smiled, stepped inside her door, and closed it—not to hide, but to hold the moment."
+    },
+    "continuation_length": {
+      "maximum": 3600,
+      "minimum": 2800,
+      "passed": true,
+      "word_count": 3469
+    },
+    "doorway_rule": {
+      "choice": true,
+      "kiss": true,
+      "passed": true,
+      "stop_after_kiss": true
+    },
+    "heat_ceiling": {
+      "explicit_markers": [],
+      "passed": true
+    },
+    "immutable_prefix": {
+      "expected_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "observed_prefix_hash": "2180b1e2d9ae6a2262742d13c1445bc1e7723e95af362ff23b04e9ce8978e691",
+      "passed": true
+    },
+    "local_hfn": {
+      "larger_mystery_open": true,
+      "passed": false,
+      "romantic_future": false
+    },
+    "mara_pov": {
+      "passed": true,
+      "suspicious_other_mind_phrases": []
+    },
+    "merged_length": {
+      "maximum": 7200,
+      "minimum": 5800,
+      "passed": true,
+      "word_count": 6444
+    },
+    "profile_provenance": {
+      "passed": true
+    },
+    "s02_beats_ordered": {
+      "beats": [
+        {
+          "beat": "care_becomes_tribunal",
+          "found": true,
+          "position": 444
+        },
+        {
+          "beat": "observation_to_command",
+          "found": true,
+          "position": 1552
+        },
+        {
+          "beat": "explanations_multiply",
+          "found": true,
+          "position": 3208
+        },
+        {
+          "beat": "loaded_phrase_bodily_clash",
+          "found": true,
+          "position": 6626
+        },
+        {
+          "beat": "three_second_silence",
+          "found": true,
+          "position": 9180
+        },
+        {
+          "beat": "clean_question",
+          "found": true,
+          "position": 9977
+        },
+        {
+          "beat": "miriam_opens_exit",
+          "found": true,
+          "position": 13840
+        },
+        {
+          "beat": "jonah_walks_without_extraction",
+          "found": true,
+          "position": 15840
+        },
+        {
+          "beat": "kiss_stops_and_doorway_rule",
+          "found": true,
+          "position": 18517
+        }
+      ],
+      "passed": true
+    }
+  },
+  "generation_mode": "chat_direct",
+  "hard_gates": {
+    "anti_copy": true,
+    "complete_ending": true,
+    "continuation_length": true,
+    "doorway_rule": true,
+    "heat_ceiling": true,
+    "immutable_prefix": true,
+    "local_hfn": false,
+    "mara_pov": true,
+    "merged_length": true,
+    "profile_provenance": true,
+    "s02_beats_ordered": true
+  },
+  "judge_id": "gemma-4-31b-absolute-p1-repair",
+  "label_order": [
+    "X649"
+  ],
+  "ontology_version": "rgo.v1",
+  "passage_evidence": {
+    "character_truth": [
+      "The care had become a perimeter"
+    ],
+    "epistemic_texture": [
+      "the body has just confessed what the tongue is too proud"
+    ],
+    "heat_with_agency": [
+      "stopped while they both still desperately wanted it"
+    ],
+    "instructional_fidelity": [
+      "She remembered the three-second beat"
+    ],
+    "narrative_force": [
+      "is there a category for a final no"
+    ],
+    "prose_and_voice": [
+      "the rhythmic flow of her narration interrupted by the unexpected void"
+    ],
+    "theological_coherence": [
+      "A practice that cannot survive a refusal cannot discover the truth"
+    ]
+  },
+  "resolved_profile_hash": "86c65248d31f8b05a7f679010df260ffb8f32467c39f3e448d64dcba2e78bb2c",
+  "romance_diagnostics": {
+    "atmospheric_participation": {
+      "evidence": "the cool, damp air of the redwood forest rushing in",
+      "note": "The shift from amber room to night air signals the shift in power.",
+      "passed": true
+    },
+    "attraction_and_impediment": {
+      "evidence": "his restraint acting as a catalyst, heightening the desire",
+      "note": "Jonah's refusal to move creates the erotic charge.",
+      "passed": true
+    },
+    "character_before_mechanics": {
+      "evidence": "not as a reader searching for a cue, but as a man",
+      "note": "The kiss is a result of Jonah's character (witnessing) rather than just physical proximity.",
+      "passed": true
+    },
+    "character_specific_desire": {
+      "evidence": "He had seen her be dissected and had chosen to remain",
+      "note": "Mara's attraction is specifically tied to Jonah's role as a non-coercive witness.",
+      "passed": true
+    },
+    "competence_and_restraint": {
+      "evidence": "protected her freedom by refusing to help her align",
+      "note": "Jonah's attraction is rooted in his refusal to participate in Livia's coercion.",
+      "passed": true
+    },
+    "consequential_contact": {
+      "evidence": "recognizing the architecture of the request",
+      "note": "The kiss validates the attraction, allowing the doorway rule to be a meaningful boundary.",
+      "passed": true
+    },
+    "contact_changes_story": {
+      "evidence": "recognizing the architecture of the request",
+      "note": "The kiss leads directly to the negotiation of the doorway rule.",
+      "passed": true
+    },
+    "dialogue_and_atmosphere": {
+      "evidence": "stifling amber heat of the room",
+      "note": "The amber light and humidity mirror the psychological pressure.",
+      "passed": true
+    },
+    "dialogue_body_counterpoint": {
+      "evidence": "voice quiet and devoid of the previous franticness",
+      "note": "Mara's steady voice contrasts with her previous somatic 'clash'.",
+      "passed": true
+    },
+    "distance_control": {
+      "evidence": "leaning back in the shadows, his expression unreadable",
+      "note": "Effective use of distance to maintain Jonah's mystery during the tribunal.",
+      "passed": true
+    },
+    "emotional_transaction": {
+      "evidence": "reclaiming the right to be unknown",
+      "note": "Mara moves from fragmented/exposed to self-possessed; Jonah moves from witness to partner.",
+      "passed": true
+    },
+    "heat_consent_darkness": {
+      "evidence": "I want to kiss you",
+      "note": "Matches high-tension target and open-door-nongraphic ceiling.",
+      "passed": true
+    },
+    "physical_intelligibility": {
+      "evidence": "planted both feet flat on the floor",
+      "note": "The physical movements of the three-second beat are clear.",
+      "passed": true
+    },
+    "productive_restraint": {
+      "evidence": "granting her space, his expression one of profound respect",
+      "note": "Costs immediate gratification; creates a foundation of trust and respect.",
+      "passed": true
+    },
+    "profile_faith_causality": {
+      "evidence": "A practice that cannot survive a refusal cannot discover the truth",
+      "note": "Faith is expressed as the protection of human will/agency.",
+      "passed": true
+    },
+    "profile_intimacy_mode": {
+      "evidence": "stopped while they both still desperately wanted it",
+      "note": "Follows interrupted-escalation mode.",
+      "passed": true
+    },
+    "profile_relationship_delta": {
+      "evidence": "A doorway rule",
+      "note": "Ends exactly as specified in the relationship_result.",
+      "passed": true
+    },
+    "profile_world_status": {
+      "evidence": "the body has just confessed what the tongue is too proud",
+      "note": "Preserves the ambiguity of the body-reading mechanism.",
+      "passed": true
+    },
+    "relationship_delta": {
+      "evidence": "only when both of us would still be glad",
+      "note": "Moves from mutual observation to an explicit, shared boundary of intimacy.",
+      "passed": true
+    },
+    "required_coordinates": {
+      "evidence": "only when both of us would still be glad",
+      "note": "Explicitly implements consent.explicit-revocable and trope.charged-restraint.",
+      "passed": true
+    },
+    "romance_turn": {
+      "evidence": "The kiss had stopped while they both still desperately wanted",
+      "note": "Recognition of desire, chosen interruption, and the establishment of the doorway rule.",
+      "passed": true
+    },
+    "selective_senses": {
+      "evidence": "scent of cedar and something metallic—solder or ozone",
+      "note": "Uses scent, temperature, and tactile pressure effectively.",
+      "passed": true
+    },
+    "sensory_triage": {
+      "evidence": "scent of cedar and something metallic—solder or ozone",
+      "note": "Scent, temperature, and tactile pressure form a coherent triad.",
+      "passed": true
+    },
+    "trope_engines": {
+      "evidence": "protected her freedom by refusing to help her align",
+      "note": "The mysterious protector trope drives Mara's trust in Jonah.",
+      "passed": true
+    },
+    "trope_execution": {
+      "evidence": "his restraint acting as a catalyst, heightening the desire",
+      "note": "Charged restraint is used to build agency rather than just delay.",
+      "passed": true
+    }
+  },
+  "rubric_breakdown": {
+    "character_truth": {
+      "raw_0_100": 95.0,
+      "weight": 15.0,
+      "weighted_points": 14.25
+    },
+    "epistemic_texture": {
+      "raw_0_100": 92.0,
+      "weight": 10.0,
+      "weighted_points": 9.2
+    },
+    "heat_with_agency": {
+      "raw_0_100": 98.0,
+      "weight": 15.0,
+      "weighted_points": 14.7
+    },
+    "instructional_fidelity": {
+      "raw_0_100": 90.0,
+      "weight": 15.0,
+      "weighted_points": 13.5
+    },
+    "narrative_force": {
+      "raw_0_100": 92.0,
+      "weight": 20.0,
+      "weighted_points": 18.4
+    },
+    "prose_and_voice": {
+      "raw_0_100": 88.0,
+      "weight": 15.0,
+      "weighted_points": 13.2
+    },
+    "theological_coherence": {
+      "raw_0_100": 95.0,
+      "weight": 10.0,
+      "weighted_points": 9.5
+    }
+  },
+  "rubric_scores": {
+    "character_truth": 14.25,
+    "epistemic_texture": 9.2,
+    "heat_with_agency": 14.7,
+    "instructional_fidelity": 13.5,
+    "narrative_force": 18.4,
+    "prose_and_voice": 13.2,
+    "theological_coherence": 9.5
+  },
+  "scene_profile_id": "fulcrum-s02.v1",
+  "schema_version": "1.0",
+  "scope": "continuation",
+  "scope_candidate_id": "s02-proof-v1-bootstrap-chat_direct-chat_direct-04:continuation",
+  "story_profile_id": "fulcrum-pilot.v1",
+  "summary": "X649 is an exceptional execution of the scene spec. It perfectly balances the psychological horror of the 'alignment' tribunal with the high-tension romantic payoff. The 'three-second beat' and 'one clean question' are dramatized as active tools of liberation rather than mere plot points. The romantic resolution—the doorway rule—is handled with precise agency and restraint, converting erotic charge into a durable relationship foundation without violating the heat ceiling.",
+  "total_score": 92.75
+}

@@ -1,0 +1,82 @@
+{
+  "artifact_type": "CompilationManifest",
+  "artifacts": [
+    {
+      "path": "corpus/pilot_scenes.v1.json",
+      "sha256": "9b9bc02f7777dce216de807dc688851c793cd0359858ab11b0c97a839c52ea70"
+    },
+    {
+      "path": "corpus/project_brief.v1.json",
+      "sha256": "fa411f5c548c801c9536561916a942e3b77d7bb96e500de2385f0d0a6ca1888f"
+    },
+    {
+      "path": "corpus/source_deck.v1.json",
+      "sha256": "6272e41a5bb1ff15c1c9a9b16d8fd788e96db2de27f0cbf8d5319311216930e9"
+    },
+    {
+      "path": "corpus/story_canon.v1.json",
+      "sha256": "8b0e64640003c63e2d2c2d866cf66169cfd565b204c0e7b1fc5045c8e9b0b482"
+    },
+    {
+      "path": "scene_specs/s01.v1.json",
+      "sha256": "0f70de2655c216a5d0d4bc5249186812fa0fdfdce00c95f52b5785c4bcf5e074"
+    },
+    {
+      "path": "personas/fulcrum_pilot.v1.json",
+      "sha256": "5947d09298a13af76adde97f034d2dfaa761f4657eb48b385c6af23b1e106398"
+    },
+    {
+      "path": "sources/s01_source_packet.v1.json",
+      "sha256": "5be5aa63ea1ff69c4134c5b9b25f42e457e21f326c869118ee2abb5770cec553"
+    },
+    {
+      "path": "stable_prefix.txt",
+      "sha256": "ee552d7a3e7b95c927ceec6fd5ee7483d2167a6beaf7022d954b0a034ddbfe28"
+    },
+    {
+      "path": "profiles/resolved_profile.v1.json",
+      "sha256": "75c5395d6de39640f405edfd3b8d1987b5056c113bb35a31d0f02d0fbdd89971"
+    }
+  ],
+  "compiler_version": "trusted-read-compiler.v1",
+  "config_path": "config/compilation.v1.json",
+  "config_sha256": "20bd45b7de2a5e68ce62f036cdb91a0f44099f3a45bc4dd34cd3ba7f6f06a4d3",
+  "creative_profile": {
+    "ontology_hash": "6390aa12a7ce0dc348c08a8af2a16c2df70256c542d6da5882b7aa61bc9c2779",
+    "ontology_version": "rgo.v1",
+    "resolved_profile_hash": "93dae57e723b4b49b4d9c8f5a5aaaeee6510d4eb641bf5a5c4fe9fe43e469d52",
+    "resolved_profile_path": "profiles/resolved_profile.v1.json",
+    "scene_profile_id": "fulcrum-s01.v1",
+    "story_profile_id": "fulcrum-pilot.v1"
+  },
+  "manifest_hash": "c57b36b3d67e1cee56066be48a09c6c7cea16830ec3f05d3117e852736cfb06d",
+  "scene_id": "S01",
+  "schema_version": "fiction-harness.v1",
+  "sources": [
+    {
+      "key": "pilot_scenes",
+      "path": "bridge/trusted-read-scenes-v01/document-text.md",
+      "raw_sha256": "43bd0e10c5a86789bc31036c67896ecd745ec962d31f4f150f0f3902d64a8330",
+      "text_sha256": "3d84c6e159167c0720c44fdb38f1588608c955b1334300011fc8aacb14fbffe0"
+    },
+    {
+      "key": "project_brief",
+      "path": "00_project_brief/Juicy Chastity Fiction Lab — Project Brief v0.3.docx",
+      "raw_sha256": "75bf3aa7e3023a7ced5b6c80c35d9cf8a4057f23ceaf1cf1484d7740c6d4792b",
+      "text_sha256": "b953575add09e968c4a1d413af34b52fabeb72c21d9044d26543dad3eb39dcba"
+    },
+    {
+      "key": "source_deck",
+      "path": "bridge/trusted-read-source-v01/document-text.md",
+      "raw_sha256": "e99afbd8b4efffc326fbd277221e0046978067661b99576b36d3b717a71254b8",
+      "text_sha256": "865d0fc0ccc6008b4b7fbba20b3a3b97cedf9124aa4a8d2441e46a6ab0b7cd1f"
+    },
+    {
+      "key": "story_canon",
+      "path": "bridge/trusted-read-canon-v01/document-text.md",
+      "raw_sha256": "4f0f4a552e389616be9b6d26676ebf5794a166cfc5ef77b6235a7a577bd50c38",
+      "text_sha256": "9aa836f7b105f9362c2cbc169d11d6bf60d2236b5cb1157280382a9b26add9c5"
+    }
+  ],
+  "stable_prefix_sha256": "ee552d7a3e7b95c927ceec6fd5ee7483d2167a6beaf7022d954b0a034ddbfe28"
+}

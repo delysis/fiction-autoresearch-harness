@@ -1,0 +1,1313 @@
+{
+  "index_hash": "ac8de9be03c66fe8621622647be89c46cf57577b30ed02ba40365e7c20706622",
+  "policy": {
+    "containment_ngram": 8,
+    "containment_threshold": 0.1,
+    "cross_candidate_exact_words": 16,
+    "exact_words": 12,
+    "fuzzy_min_chars": 80,
+    "fuzzy_ratio": 0.9,
+    "minhash_size": 32,
+    "version": "anti-copy.v1",
+    "window_words": 200
+  },
+  "record_type": "AntiCopyIndexManifest",
+  "sources": [
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0001",
+      "text_hash": "d8c07fbf31b38d5898b842926b602c52c74f522b513a255ac22a08c4e505a2b0",
+      "word_count": 2
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0002",
+      "text_hash": "45441165c28f117bb0d4aca71cbb6d3cd9924e1e13cbbbf776e8528c48fc85e7",
+      "word_count": 3309
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0003",
+      "text_hash": "bbdb23a2901f3d94e98b189159a6d6a2a24030eb066b7614d54b77c14aad9bcc",
+      "word_count": 1760
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0004",
+      "text_hash": "cc11c899b264f6ab8292bf63a146fc362b85c54e139e057c407fb85882885443",
+      "word_count": 1859
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0005",
+      "text_hash": "693b911ed89112681b990ce97bced39933cd36ddb2747bc0e0ddcd0ea27adc9a",
+      "word_count": 3520
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0006",
+      "text_hash": "1859b08539a465a3d70bc7a3da98f743cd93a44bc6bcc7fcdf90a26a41bc0894",
+      "word_count": 1989
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0007",
+      "text_hash": "76217b93edf30a6a4d316e92b2090c9b2d39fb7e297a135abb8bb3d6e715698f",
+      "word_count": 2768
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0008",
+      "text_hash": "6e8be81039381127501783a6c2abd3e9fed79660fd787e471cbc3f16f689cc82",
+      "word_count": 2416
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0009",
+      "text_hash": "d29a05af319b372659a2513c6f13f05304f092a08f67272976b2ebb279dbd366",
+      "word_count": 4297
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0010",
+      "text_hash": "2ab3dfb7f0ac98c037501a263b76c4dc6d3cc1d00baf4289d4c13188736e4962",
+      "word_count": 4766
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0011",
+      "text_hash": "31198be97a7e3b8a40288fbc16b6cda87d43abfac17f6f283b6bb3136e1340c9",
+      "word_count": 2623
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0012",
+      "text_hash": "c594c423eb7397a0442a128fb67a90b2c6da077cbc76f901d5d9c9a5f03104b0",
+      "word_count": 2151
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0013",
+      "text_hash": "935275cd8aaf478f5092aa17725b8ca4b2749da0a70f6155680ee996bddf17ef",
+      "word_count": 3251
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0014",
+      "text_hash": "8a64fd070ff503d03185abcd13173c87424278ae0a846d5d99eeb22141abef5f",
+      "word_count": 3003
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0015",
+      "text_hash": "c092434844e2fe2d9eae89819e143fdb687afe7153dcc5a660caf78809da3f6f",
+      "word_count": 2431
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0016",
+      "text_hash": "c5d5960a963b1e0277a080aa8137c2dc36df71e30150adefc238e3b959233605",
+      "word_count": 3328
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0017",
+      "text_hash": "1f4d864fa3937b22b7b9cbf699d7afee0c36b439335a3f03ac7db81d6eb4438d",
+      "word_count": 1890
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0018",
+      "text_hash": "ae94291444c072284de4e64ee27e1cbea67ebd39c2e50bd12e2098dc562177e1",
+      "word_count": 1172
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0019",
+      "text_hash": "37d7e722c498dd58457f5041094792b99ff2d87b16c7f1f8cca24582a01d6d2d",
+      "word_count": 2542
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0020",
+      "text_hash": "2198221827808f94617e2e9fe91ac140a5de2e9f7d1abdb1c6fbe341a4f3c73b",
+      "word_count": 2
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0021",
+      "text_hash": "cd0ea54e61ff70f68700ba955fc7165f49e9f1b0f59c455f5ef9c0200488017b",
+      "word_count": 3043
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0022",
+      "text_hash": "c9fada3c55aeca9622dcefb1ffaacc4082854b25136fd51bd2cd2766f9be2156",
+      "word_count": 2380
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0023",
+      "text_hash": "c08fbfd9c0887b004aaa98b87a342674e83ff13f14ec863ece647bf8fdd87b91",
+      "word_count": 3956
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0024",
+      "text_hash": "670159e5506260671a65810f32bc8920820ad20515d7ebda3f78c1df408489fe",
+      "word_count": 1650
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0025",
+      "text_hash": "9787320784853cc803501494f0b6884d1f51005aa6f2b92b7f95cf64071e7ab2",
+      "word_count": 3314
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0026",
+      "text_hash": "38bb6acd9c21470bd620e5d229d11ced044364201d29419df7804b51ee0aba1b",
+      "word_count": 3012
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0027",
+      "text_hash": "ada97dc3ff3b51470fe9b4470cc45ed8f7c544489ef5742810e26f786c09e021",
+      "word_count": 2338
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0028",
+      "text_hash": "1a20b66a449388f035c52476000e34a2192a0a70f4e3d955755b1fabc547eea5",
+      "word_count": 6509
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0029",
+      "text_hash": "04dc9869e62598d622ea3ba7b03501707cc6d91a991ec9de8b5661e1770b195b",
+      "word_count": 3207
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0030",
+      "text_hash": "bf132f11bbb89a46b2a8228e2b69777a02fbc683987f4f340d3fe10bd6b5d2f2",
+      "word_count": 2016
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0031",
+      "text_hash": "8035df166da2379896383c99f424cf47776771cf4173cc052f2c98459eb0ff3d",
+      "word_count": 3267
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0032",
+      "text_hash": "6a156a6f2d5271177439b9a82948ecc8a543425b726ecc422300ca9ea52ca1ce",
+      "word_count": 2156
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0033",
+      "text_hash": "ccf87430cae8be70e730e395bebb38808106d7971184ee33f1600b1e472cda84",
+      "word_count": 1971
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0034",
+      "text_hash": "d1a35d89046ba4e2feb0a75a83f1bdedf669f1a07e0b92bc85b32a165a3229ce",
+      "word_count": 3812
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0035",
+      "text_hash": "685ccb6adcf716a3788ef167c1b2f87520848cfd7abb037ddc92bec36fb65510",
+      "word_count": 2972
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0036",
+      "text_hash": "16bc87ee52bb4b6b9ddc7c8831c0c0942977b1f7e646ca08f4e32d3e1f312dfc",
+      "word_count": 3107
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0037",
+      "text_hash": "eccf44922bd02743d6474381eee8edd82ebdaedc934534431608dbd02ed39943",
+      "word_count": 2223
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0038",
+      "text_hash": "e8627da7e219e8d656859e984f2c1ac2e2f60eda8d189ca837406fc59f21eaf3",
+      "word_count": 2830
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0039",
+      "text_hash": "06a152e2dc8b5cb211894937d443562a2e58856b2534335a9f227a6a72044ce5",
+      "word_count": 2
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0040",
+      "text_hash": "1089a71dab85f540d36b2bbfefe97b891890d8655f955c90cb398b9dd2a1ef08",
+      "word_count": 1278
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0041",
+      "text_hash": "0ade4d40dccc04634295100e0ac48851d296c7957695c1bd3ce4ce57d726d107",
+      "word_count": 4475
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0042",
+      "text_hash": "2659a2eecdffa4c23ee8a9b7d66d75b82a64c4af01a4e78d199b6f317dff195f",
+      "word_count": 1715
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0043",
+      "text_hash": "cf22268e70833feb0d7013deb65183477b3e3bf8713a6eaea866f7dbec6a27c3",
+      "word_count": 2106
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0044",
+      "text_hash": "a2aaf3a431ba8ca2b5f1b5b512443f85bed2d7ba2aa73aa2eff7409b61f1e6b7",
+      "word_count": 2970
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0045",
+      "text_hash": "46116b88bc6c0a3f2ba42e09053cce2567e3aa4b578c08838321f548043a2b3d",
+      "word_count": 5166
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0046",
+      "text_hash": "71d2ee326f0073d73e05d9261a86dc93f0517b004cb86b751bc77f5435d35951",
+      "word_count": 3331
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0047",
+      "text_hash": "2f59c2512e6b2031d4fa99ecde02667c37583a7d1624152185703227cd7a1824",
+      "word_count": 2788
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0048",
+      "text_hash": "ba954a6acdf29ab3586bdc557fad04d75b0d39e2ae13ca7e26d6edc977b9f0a3",
+      "word_count": 2493
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0049",
+      "text_hash": "189a1c0adffe463be7f0823c05896d8861da97856a1449da625685c5a14bb6da",
+      "word_count": 3176
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0050",
+      "text_hash": "a3524358e6c65977e87e4367d83751c44924877b59e0dd3e61a6d343ca6ce097",
+      "word_count": 4259
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0051",
+      "text_hash": "fc8cc2197ba57ee56deaa40479d6a8e8265c7c4c4d0c16ca15bc82d90dea9530",
+      "word_count": 2982
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0052",
+      "text_hash": "e9910cef3ddf3326ee04c7072ad094a241a8e50817d8b3cdccd751df92d46a04",
+      "word_count": 3426
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0053",
+      "text_hash": "251454ac0d6cb0998610a200466e305b2fd8fbe9dc2aeee6bf7aa2a822a6d3de",
+      "word_count": 3670
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0054",
+      "text_hash": "ab6ec3f34e70ee186f639ae8190297bf318ec1c69b3525396466a0f3daab9e4e",
+      "word_count": 2367
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0055",
+      "text_hash": "2c68de8e1fae0bec5469246c38f40dabcee2af2c016e047d385a47e7245b2ff2",
+      "word_count": 3302
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0056",
+      "text_hash": "64ec1fb6582edabc84a45e6dbe5111a3bb0ad186da8249469ef67be877081339",
+      "word_count": 3158
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0057",
+      "text_hash": "ee3ac286517c850042805f41afdbda2c9db3ab0e516868d20ca510e780a9ffd3",
+      "word_count": 3702
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.emma.segment-0058",
+      "text_hash": "d1eba116dd273f67a5aa6b602ec9387d45c0d972f0dcc1bfae18a31c2fd2e562",
+      "word_count": 4209
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0001",
+      "text_hash": "5cf480a63182a80fc2793447aab07073cf668af565ca136fca5c4127db3ca787",
+      "word_count": 3113
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0002",
+      "text_hash": "0ae414d885511e99fa30e99ff8f3a13eab4065f5f7450499e02b5d7d27193a18",
+      "word_count": 3681
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0003",
+      "text_hash": "036d8b2ad02c7b58a4400bf8f9f18288b9de35ebd1a205c589ac18d1348625c2",
+      "word_count": 3751
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0004",
+      "text_hash": "cf1e4b8e5532f644700505b805cc4a0670b5303f314a70a0451824e9a6cf66e3",
+      "word_count": 3449
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0005",
+      "text_hash": "0e211d5cd7d1a00086252aff1018c26c8767902d029672ed2ab3053e789b5be3",
+      "word_count": 2866
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0006",
+      "text_hash": "99f5d3c0a0e42379677ea6de3895144edb48fdbd1a0db3ab168d5d52d2c8ee4e",
+      "word_count": 3837
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0007",
+      "text_hash": "c88f8f9c3551c4f0b5e39ec53c2f283cab46567a25f96d3c91c9ff8cf8601374",
+      "word_count": 4255
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0008",
+      "text_hash": "ad9cf109c0c25ac7d40751991ec9aac06cd161a6718b3ed996d5637fd94d0c0f",
+      "word_count": 2825
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0009",
+      "text_hash": "0e087d58093851ff517976f15b329101e64a2d8ea4d0ff86671eaad01964c513",
+      "word_count": 4477
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0010",
+      "text_hash": "8ac9aefa336eb90d344842049478933ff0f8feaef8e9930a1d02ec8c73c49833",
+      "word_count": 3340
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0011",
+      "text_hash": "211f595e9b64ed192663bc412d87b930142fc73af2798001f265261f2e2d37b6",
+      "word_count": 2413
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0012",
+      "text_hash": "5f9b9bcedfc57aa9186832205cb1c9a9f7e4574178e057eae7e46da4e776195c",
+      "word_count": 2261
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0013",
+      "text_hash": "f0cbb8de46b8534d707793d58f87d2d202075139c6c3b1a8db7a19e1b3964b36",
+      "word_count": 3155
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0014",
+      "text_hash": "6e93a49467d286f71b2dc7df3fb60ee879b91ea7fbf0b9cb6985a784ead696e8",
+      "word_count": 2634
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0015",
+      "text_hash": "1a69713e4d9b1a6bcf08247c216029e5f41b779e6da6cbbf3fc38598a2a73c30",
+      "word_count": 3933
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0016",
+      "text_hash": "2ae89e20f856ec699d31d398b1924e915ef091d58f9f0801679c9bb1c8dad877",
+      "word_count": 2491
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0017",
+      "text_hash": "486408fbe5a61fc86ffad746cfaeb48aa741286c7fd23021d4ff545ee63441af",
+      "word_count": 1926
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0018",
+      "text_hash": "6c5e95ed6821c2d8820a2d3366e1e450aed9348defb2211892b9eebc05ac5fbe",
+      "word_count": 3123
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0019",
+      "text_hash": "16ef6d7bb911e2e30127c37cca3b043cf96dc862f46e799f2ebabe87ed5969ff",
+      "word_count": 4175
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0020",
+      "text_hash": "ffa7d6aece2c7e692c8f46ee767ce0576923e94d9ecc8f42bd1a36aa528c000a",
+      "word_count": 2924
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0021",
+      "text_hash": "ef392c80c4e017fb9df573c21ab3344f812b4fb3da81b54b72cc470ce0944f69",
+      "word_count": 2977
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0022",
+      "text_hash": "6c537a21c8ac8b92c27620050d8a609c4ccef934d16db54fca1ee3f626d23c5f",
+      "word_count": 4037
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0023",
+      "text_hash": "54d4467b5c4124d45f6db8e2c9afadec2748c49ae0a75cd9c926e5cbeaa6a50e",
+      "word_count": 4024
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0024",
+      "text_hash": "ce273544e886dbb271f7911ba47a7859c140b412bfa5b9b3e9bf585ac72a8d5c",
+      "word_count": 3166
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0025",
+      "text_hash": "fed481bdd22822c15e9e1875b9228ab0a76e5263b91cf634326bf4ec6348b7a9",
+      "word_count": 4889
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0026",
+      "text_hash": "a072a7e4bb5996109b4533dd4379194364951afae9f4ff114f595f8e54a086c5",
+      "word_count": 3097
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0027",
+      "text_hash": "b9b77ad1bbcfa59e36c70a73094b8e6113bb05406bedf9ad03e12ac74131b5f5",
+      "word_count": 3921
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0028",
+      "text_hash": "82a3063eaa8645d135880aec921fab47dd3bafa1cdbf7c95812a417982c0e2d4",
+      "word_count": 3339
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0029",
+      "text_hash": "869536980dc3d0084cb2825be9428acb82b1f1f415617b7d2ab8505590c99a97",
+      "word_count": 2913
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0030",
+      "text_hash": "748df34a30cb1aa51a606d0a0f0b0bb79d20956e844e73266814ea0566c4f6d0",
+      "word_count": 2490
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0031",
+      "text_hash": "ed3083ce916548dd477d5754cc12f7d17f40f675d5801d0994f640c8dae7e05d",
+      "word_count": 3725
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0032",
+      "text_hash": "1378dd879bd606dce09a35a1a28983310d942b5c9ac89752381c3bed153133b5",
+      "word_count": 5133
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0033",
+      "text_hash": "0a14f732141cadd524c647fa9907312cb99581c384671249537fcc933bcc9698",
+      "word_count": 2812
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0034",
+      "text_hash": "79e1536158a91bd078171780897004f54e6248dd1d3ecdc3e4d67985a339acfa",
+      "word_count": 3919
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0035",
+      "text_hash": "3d1a2734b512fb4a7863e792e8a8bbb4cefa4ef58346b44c7d9b79a8e41acf45",
+      "word_count": 3733
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0036",
+      "text_hash": "473e00d502090303250a5c258abf581dfd7048b4b6ba96b20a25902063e5bc0c",
+      "word_count": 3537
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0037",
+      "text_hash": "429e3fb3607fb870511aa5a8803e7e6abcd565137566970711120f351226b41e",
+      "word_count": 3196
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0038",
+      "text_hash": "c9461e805fd209b8097fe7585c3147395b53ccaadd6e3cb3fb7a439cc644d5cf",
+      "word_count": 4772
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0039",
+      "text_hash": "2beb643464e5efc6f132538b68421f432e5e65a484a401b1609841e963590f15",
+      "word_count": 1592
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0040",
+      "text_hash": "2f4397f7aaae76708c348d195646c5ee0f498a33cac51c9553791115d0dacf0c",
+      "word_count": 2228
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0041",
+      "text_hash": "d53c68ce5ccfb1dee0420c022dfaa7be28ddd6417fab23d04b7428bb01d73778",
+      "word_count": 2978
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0042",
+      "text_hash": "a82a74c644f200278e929e49265f1c041f3b50f00418678b19ba7df2721f2415",
+      "word_count": 2215
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0043",
+      "text_hash": "03f38f1a764e26d60ea85994336e28ea0808de4066cc3ba4ad21a2dbdcd5fb57",
+      "word_count": 1779
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0044",
+      "text_hash": "8894b0d398fb2e52e80ca4653fa3ff8264a052fa0b0fc47b73a8bb7a9dae1be0",
+      "word_count": 3252
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0045",
+      "text_hash": "8fb6288468e2ba408124519e8e446a4392e1cc9a083be2c411e64db1d27032f2",
+      "word_count": 2913
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0046",
+      "text_hash": "5230e72f1a6077cd44cccf80ed856e5226863d65bf4290dd2a7e7ff7c00e0fb5",
+      "word_count": 3671
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0047",
+      "text_hash": "1cdffe160517edb4e1d541df5c1bce500c775c35bbf75237912e42e2094716a7",
+      "word_count": 4546
+    },
+    {
+      "category": "author-calibration",
+      "source_id": "austen.mansfield-park.segment-0048",
+      "text_hash": "6a7239d9fddd0818ed932ea8155e5b3021266abd59f5f919b64b8471630b89db",
+      "word_count": 7505
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0001",
+      "text_hash": "7c84fa368e9cb2bc46075a609004a0096ba6b0979f799445cfa7495331f4d605",
+      "word_count": 810
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0002",
+      "text_hash": "704eefdd339135efb22baf8eae7e2d9676e016f472906f49161009e2df3f1642",
+      "word_count": 1723
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0003",
+      "text_hash": "77fca4645c3260c0fa11f100990a8a0fe27f1b4ae3c21e802ddf578719771c65",
+      "word_count": 1071
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0004",
+      "text_hash": "53ebb4d2e896a8c72a121ca267695750e74dd8595a02989e6281ef9731a416d5",
+      "word_count": 969
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0005",
+      "text_hash": "f433a0f9ed0252be065e28e53f5d7a0cab2c7bb081103c672ee44c6a47007e80",
+      "word_count": 2370
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0006",
+      "text_hash": "509e0bc24eb70e3522f0c1759a526258773e80b5635c0d6930b93f803f8880be",
+      "word_count": 2000
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0007",
+      "text_hash": "a4feb8ff969142e6558da928bf8817abe63dd664874deb7c7d3b68dbd1fab58a",
+      "word_count": 1946
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0008",
+      "text_hash": "98f38d04019e5fc61b69d87aec14ab8efb891a46776a8d7a70ea24b45e554a6d",
+      "word_count": 1731
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0009",
+      "text_hash": "d195b111babc7b4031ee02bbbc5f419cf403430a12db87eafc73f4cb8d8d0e5b",
+      "word_count": 2233
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0010",
+      "text_hash": "c3c666dc323aa817cd453f8676642d11f5687183a86932a35d3c6deb802586e7",
+      "word_count": 1601
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0011",
+      "text_hash": "4e0d249a68a223dc48d23d518ff8a76ed91e431e79cecfd4d6f21e9e8c8d8ec4",
+      "word_count": 677
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0012",
+      "text_hash": "85aa025435bc6008fc6f4dc35eaf665932042554659f911b2b3581f73b9af42c",
+      "word_count": 1695
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0013",
+      "text_hash": "c44678c57b44f4640ba6e79fb07c1c54e3e17094565b1f743ef2886543ca4835",
+      "word_count": 1131
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0014",
+      "text_hash": "4d31b2b84171600cf1095b548b204a411d688327584a565894b385025ff7f01c",
+      "word_count": 1694
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0015",
+      "text_hash": "72b0cfd4ea9daff1e2627a9add4d050a5e46e53530b43f43e462d4e4902a0a49",
+      "word_count": 3388
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0016",
+      "text_hash": "da1b66a0b7f058768025eb45a7e38189e06b3401ece10ca4149b0c26b1ea46dd",
+      "word_count": 1282
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0017",
+      "text_hash": "6839220f78802df1292bc04104e3b2d520dba42597f79efa78cc2f35f6b16cc5",
+      "word_count": 5198
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0018",
+      "text_hash": "fb873750da77414f12713e1eb860560faf5344b7811a8b793f3151ba4fd118f0",
+      "word_count": 1917
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0019",
+      "text_hash": "12f7156a169beaf0330ed40de16f079dcd1314d02331ae6ec4db28eee346e219",
+      "word_count": 1653
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0020",
+      "text_hash": "3d127d66f49cf4f7678e347bdc339ec4e9d834cd5c3229adaca4a81b58b72cf6",
+      "word_count": 2016
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0021",
+      "text_hash": "8c1c4f0668cdc0067a269caacc2e6bbdd373a0136bf68a0014b0a040c147a783",
+      "word_count": 1759
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0022",
+      "text_hash": "d13caff7ad956b8d90bc2506ef146dc3b45e0b9b652143eb04c92df56157ecbf",
+      "word_count": 1622
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0023",
+      "text_hash": "d816d9e6c7225ccbf5ea55ef46863249ee21a2eefc14e59163c735987448b7a9",
+      "word_count": 1930
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0024",
+      "text_hash": "e599f2b93904b3fc39778dab8e8f2c607adac3a7c101b054e0946cb97f7f2b9f",
+      "word_count": 1537
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0025",
+      "text_hash": "ea5335733811ce2c0cfc7240d1673841c2abd4eaa044063c26c382e81f78db79",
+      "word_count": 2337
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0026",
+      "text_hash": "8e1b8d8f1f5e87610eb7afabf1339252fd3822798f43765f88d0990c62482934",
+      "word_count": 1261
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0027",
+      "text_hash": "b92a4a1e8701bc45938f55a045c18fe8f781aafd69bf7ef7490dbba34f378fea",
+      "word_count": 1479
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0028",
+      "text_hash": "054df4d71fb12d7960e0af1447f472f008da1be173fd1fe1cc5ba300ef3aaf56",
+      "word_count": 2384
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0029",
+      "text_hash": "78013b8c44279d90e37ba517405d9eb4f71c0554051ff40241ea456eebed3282",
+      "word_count": 1252
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0030",
+      "text_hash": "b13d0ea6d90c51f2ec5fd894d6b530087f0e6eed6dfa367a46cd70945cf52066",
+      "word_count": 1556
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0031",
+      "text_hash": "850aff045b90bbd939113013501094447aba478ef7f918ff7bf51dc25f792b37",
+      "word_count": 1510
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0032",
+      "text_hash": "5c7e03ae93911b4a0975ef8920247a7e8deee6f8db26e860d45d2dbcd428889f",
+      "word_count": 1860
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0033",
+      "text_hash": "eda7db2673c0b0b27ff581582aad777d24bf8b9bdf8e68e4394825822eed3a34",
+      "word_count": 2106
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0034",
+      "text_hash": "2e8abf00f014e02088f814100599b717be1e49ea0533479a640e52b62733466f",
+      "word_count": 3001
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0035",
+      "text_hash": "8a610ce87bf4f50f0621dbb96545e2ca42ba3e7bc6959ab4978bd8194b8f3ddb",
+      "word_count": 2020
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0036",
+      "text_hash": "95d5f4b083dd2a301916574d41cc4ee6eb3737bb89da297807d6b4c578a43364",
+      "word_count": 1385
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0037",
+      "text_hash": "210656fccae770034ca7a33bb4d0290fd2d5c150160287ca2017291bb0d239c3",
+      "word_count": 1055
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0038",
+      "text_hash": "5d1406b50b9f713b5a6fb812d4108ee8d73af71718a1fd61f6a4a5ff18377206",
+      "word_count": 1633
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0039",
+      "text_hash": "4a93f0cffb9e32777b9dc4cd2c1a19ca384b67319d1150378adbba002fdd37c1",
+      "word_count": 1702
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0040",
+      "text_hash": "aa951976fbe1a04cb39baa92ce966c9a86f6524c06a15c3d19100478a15d2771",
+      "word_count": 2285
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0041",
+      "text_hash": "cec8e2ada73afab26f76b3a786d1012cca20816e6b5076c8194f841b4daed5b8",
+      "word_count": 1833
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0042",
+      "text_hash": "0fb615e76880e4114d3e77f80665e40b32ab3bb1ba90cc6eead942f64bac3135",
+      "word_count": 4853
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0043",
+      "text_hash": "e5fb26288dd123cd9420ceb9042b48ee108a08636f8a278989c4be69505c2449",
+      "word_count": 2354
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0044",
+      "text_hash": "9242143dd88a2c4c286e6c885ff6088eb1f01fc6e497f205afb6dd49680f58fd",
+      "word_count": 1734
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0045",
+      "text_hash": "96c7cd41a39e64be4ea3cbde78c431280334e856788d9e04553d541494c0ab4d",
+      "word_count": 3030
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0046",
+      "text_hash": "6f1d1cc3e205955203123965a1716a8a75b5a73f392174b96e7534262d302888",
+      "word_count": 4085
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0047",
+      "text_hash": "3ca576c5fdb2a234ea086b08dcaafb108aff7c5eef841bcf1ad42641d56ec73e",
+      "word_count": 2270
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0048",
+      "text_hash": "15aae0acaf3c1157775cb08c463b660a16006a492a59f15dcb598a7db6edae04",
+      "word_count": 2269
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0049",
+      "text_hash": "9794b0ffecc36605fbe5697946790d2b9f5c7c00555f4d27d2a484bd566d8239",
+      "word_count": 2213
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0050",
+      "text_hash": "a3bbd8f49238687a05e8fdf1abd67d241a64d91d5cc100340d60e6e349544e77",
+      "word_count": 2080
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0051",
+      "text_hash": "0d30414a6aa9753ba5ca9c531fa0e4aaa7dc0cd0d269f2d5a2bb5f1aab34ef9e",
+      "word_count": 3033
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0052",
+      "text_hash": "2fd8ea472082f59c24a147ae1607741472a84a31c6e92145500290f53f60b4d6",
+      "word_count": 2943
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0053",
+      "text_hash": "b071be3963e6178439cb8ad3da61b5c76ca7dddc1c256d05468bcf220aea26f9",
+      "word_count": 1612
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0054",
+      "text_hash": "642ac9ecfbd93afd6eaf61396bc567305ce0beb9650ea2a4633a339cf887db54",
+      "word_count": 2328
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0055",
+      "text_hash": "cb2e1794311d6d7b3f106dcf6ad723b90b97321e4375c9316cf246f0a25b44ea",
+      "word_count": 2745
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0056",
+      "text_hash": "6705d9199d5943f4ebbb14f59c6af30429bdd7e0eb79f04517c6c79725c045b4",
+      "word_count": 1668
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0057",
+      "text_hash": "72fb391ca126bcecf3a65a81b4ed6dc8b17c06c518d5aa295e9c57f1a591f593",
+      "word_count": 2447
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0058",
+      "text_hash": "f8dcc1195e219768bf4330d44b5cf1d4d99234dd6d33a7c2f6b991b9f6c30513",
+      "word_count": 2481
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0059",
+      "text_hash": "90e36639fd4dd7a8c05aa478dde237cc7032e133e1015b56eeb9739422563233",
+      "word_count": 1588
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.pride-and-prejudice.segment-0060",
+      "text_hash": "83c2207fcd82a183311aac8f87e1dfa737deea984c6146eb1e3fc4928736fbe2",
+      "word_count": 4252
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0001",
+      "text_hash": "3cf7b3eb43c10d3983f23fd2c6427d68cf69da8f42ca01b98141517ea90ce16d",
+      "word_count": 1554
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0002",
+      "text_hash": "40e11c5b0fb9646e8d9ec919cf45908df19df1664aa5c0185391ec0a220d3366",
+      "word_count": 1962
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0003",
+      "text_hash": "e982ede82a12392244ac4d43892012216b25e5f11ed2378a79bcb904a2dec948",
+      "word_count": 1534
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0004",
+      "text_hash": "6a3a16359d7d8ce9babba178e45610f3dad79487b45b826f735f35f87f4b5d3e",
+      "word_count": 1946
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0005",
+      "text_hash": "733089e3c8db4b98a57da5a68b23d214b48132a3859aa969668430faad3cffb8",
+      "word_count": 1021
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0006",
+      "text_hash": "db77f294c2b24c023560edd281cc9449a1b82340f8d11e338de6ab43c4417137",
+      "word_count": 1346
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0007",
+      "text_hash": "ad6ba980336cbdda26597327bc05aafe28f865d299746da36ae509319cde3141",
+      "word_count": 1284
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0008",
+      "text_hash": "98b1df31d823ade472202b187e760eafb2b94ef6825d2d11be367ebeec4bdadf",
+      "word_count": 1250
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0009",
+      "text_hash": "ddc78a36a84197443ee788a44a5b7c2e20648b12a22dfd35bb3c5322a72cda14",
+      "word_count": 1861
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0010",
+      "text_hash": "58bb682770e5b761751ffc49f9c226d6b8d960e744802db6db7108de30ea0ebc",
+      "word_count": 2049
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0011",
+      "text_hash": "819f272d972aa2dd0c9525a126712b6ec26642eed798ae681971014ad9e9d2c2",
+      "word_count": 1435
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0012",
+      "text_hash": "33a889ff730b3cc0ed08b204a6429007b7698d7a201c03f9ae639f813eaca4c4",
+      "word_count": 1675
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0013",
+      "text_hash": "c28b7f5811432df34a340f0dfa5a27a1fbeee1992b9b62c3f27f5324e334f941",
+      "word_count": 2104
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0014",
+      "text_hash": "cf286c489fa8906fe5037b212fbead21fe1347b596f94369d9303429d2507b09",
+      "word_count": 1508
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0015",
+      "text_hash": "6f9b44662e1254cc75853db341dd1e53190b83e8662df18aeb72ced4a7a017b7",
+      "word_count": 2522
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0016",
+      "text_hash": "27cd25b64962d09c5d8ed7fae1dbac2263909e7fbe60dcd086793dc754daaffa",
+      "word_count": 1983
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0017",
+      "text_hash": "19a6a98d9968c0fc3ec8ca8a52931c04208f38b5c91470d90f8cd360847d4df5",
+      "word_count": 1628
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0018",
+      "text_hash": "e1e3fcc89ee71c4399cd90b0457d37f4ca066764ee98180f9be0bf8a4aa69acc",
+      "word_count": 1515
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0019",
+      "text_hash": "6f2d435d391baa76db28742b5d2278b5bfffee43279f61835aac4ffed535b94b",
+      "word_count": 2935
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0020",
+      "text_hash": "d7af6323cb1c03886f7a3b5b84a4e35bc717dc58253b4989a670e3ff29ad4832",
+      "word_count": 2445
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0021",
+      "text_hash": "eab15bd83f6f897ed5736648dbbee2543c51718f2716e38c5f65a6dd1a830187",
+      "word_count": 2940
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0022",
+      "text_hash": "667f847f158c496cc59fff7ee7fac790e818a6bcf1b060a2184521f7f34f75eb",
+      "word_count": 2826
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0023",
+      "text_hash": "712b97d4e2c0922f8f6993932cb34e8f8d01f2db6dfb3459f831848945cf4d5c",
+      "word_count": 2381
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0024",
+      "text_hash": "2a416ba0f9e76bed5d1e5e977b5010a4557b813af647bba73d385dbbf55e901c",
+      "word_count": 2114
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0025",
+      "text_hash": "3585193bce327aa3b06e6a3aba93c0ead991d78616490fdfdd9aaf6e45fa54fd",
+      "word_count": 1940
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0026",
+      "text_hash": "6f12776aa0daff1ce8d763c9b6cdb9ac6868834067f0b7f17667600ac1c5fccb",
+      "word_count": 2532
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0027",
+      "text_hash": "1b18186819b45e441aada07214d17ff31cf0c9b307f71b05203347b425821b66",
+      "word_count": 2483
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0028",
+      "text_hash": "3f76d0e9a766af5dd25c4fb0ecc8fbb1c2ab5b7b80f65b12816a0dbf3693178c",
+      "word_count": 1449
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0029",
+      "text_hash": "62c8eb4959489335d61e17816ac39a682f8b87bc660b350e525346c38180664b",
+      "word_count": 3833
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0030",
+      "text_hash": "72292d06db6dca17bd656043b975d385af2e79268a4d27bee3ec5a53fc59c5a3",
+      "word_count": 3076
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0031",
+      "text_hash": "2bd04d5f174d69814142f208997f21fd1404ee52b618489da836637f0e47730d",
+      "word_count": 3802
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0032",
+      "text_hash": "32bd8ad9f60bc764763ef5a4b7eaa6cf52c5231a0b59b18f8ea7839bcdf31380",
+      "word_count": 2591
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0033",
+      "text_hash": "8e262d4bba6cf47319c26ad31dfbb04bd54c3240eb43cc551f8cffd844af4b06",
+      "word_count": 3045
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0034",
+      "text_hash": "90169683cd000def1b60d5ade52b34d1b0e02c7f02b74b7b1be8b173973ef8ab",
+      "word_count": 2632
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0035",
+      "text_hash": "0eee452c634fe10a7d66d0c20ba6ba0566f7b6cc7a12ae104df8f0daca8335ab",
+      "word_count": 2342
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0036",
+      "text_hash": "58d1c2de8259b1f3686c22a405f17de11a41570a02708e0c49033d08eb6d4e11",
+      "word_count": 3088
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0037",
+      "text_hash": "ffb30429a0d72db89955ff17d2fbed692763dfe0605ade216111abb742171218",
+      "word_count": 4493
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0038",
+      "text_hash": "92e98790ffbc68b046637d4e3e0252d07473fbbe66082b508c64163464c6870c",
+      "word_count": 3164
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0039",
+      "text_hash": "8014a5233c8f9622904b065a9e9ffa5264036ba086ff4e7bd608b54000fdec90",
+      "word_count": 1994
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0040",
+      "text_hash": "54d0b914874366fbe6a7804fcc72054f6de5b8d6ed89dad7bc40552808e9c95a",
+      "word_count": 2633
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0041",
+      "text_hash": "038405293ee76d2da6ad0d1e625bea75672780efd5a529ceba90df6662c2e35f",
+      "word_count": 2625
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0042",
+      "text_hash": "46d419cddd341e9dd660b78f618174fd85c49f482c83d2542caf2a393fbf1932",
+      "word_count": 1802
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0043",
+      "text_hash": "456219c927f2e184b3bc18bf7808edea50e19c80dffe8f607bfbf40ec7ebd17f",
+      "word_count": 3398
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0044",
+      "text_hash": "d2a060b1f39b49f8b67ca1e8400061426fdee255d0ded3e82ab7f74b7d3b32a1",
+      "word_count": 5508
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0045",
+      "text_hash": "c79dd0af8ac32adbd7f03e85c6480f31455961723a3fd2886b3c11702f45a584",
+      "word_count": 2116
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0046",
+      "text_hash": "033e1a572b4ec8bf643d5bda20df7998718bb386184146463a40784f3fa71064",
+      "word_count": 2876
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0047",
+      "text_hash": "6882e4b4c4a68c001c86de0692833702bd8d1125cd52b8958ac8fd218c26d79e",
+      "word_count": 2341
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0048",
+      "text_hash": "5f473467ceabdaf65bc461d12cfb3244cb57e2dd26b0ea629e239ecdde5a796d",
+      "word_count": 1302
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0049",
+      "text_hash": "5d14a693c295f3e3b4e1bb16fcbdd1a170627b68486756fd35bcb8d84318c88a",
+      "word_count": 4234
+    },
+    {
+      "category": "author-profiling",
+      "source_id": "austen.sense-and-sensibility.segment-0050",
+      "text_hash": "1c1f69636d4742c124030ad4b07c987ad7cde7a97c0a842c0722f53b4e462e59",
+      "word_count": 5475
+    }
+  ]
+}

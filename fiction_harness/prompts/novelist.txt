@@ -1,0 +1,17 @@
+Write one complete scene of {target_min}–{target_max} words from the chosen Actor trace.
+
+Aim for roughly 3,250 words. Budget about one eighth of the scene for each
+binding beat, with room for the wrist exercise and Mara's control; do not
+compress the final three beats or end below 2,800 words.
+
+Do not improve, simplify, or replace the simulated decisions. Realize them as close-third fiction from Mara's point of view. Preserve all eight beats, causal pressure, reciprocal attraction, selective sensory detail, experimental control, residual mystery, Jonah's recognition, and Mara's decision. Return fiction only.
+
+Honor the trace's intimacy design exactly: emotional transaction, Mara-specific
+attraction filter, dialogue/body-language counterpoint, coherent sensory triad,
+active atmosphere, narrative-distance changes, productive restraint, and
+relationship delta. The wrist contact is not a procedural demonstration; it is
+the physical form of a negotiation over knowledge, authority, desire, and
+freedom. Spend detail where meaning changes and leave the rest to implication.
+
+CHOSEN ACTOR TRACE
+{trace_json}

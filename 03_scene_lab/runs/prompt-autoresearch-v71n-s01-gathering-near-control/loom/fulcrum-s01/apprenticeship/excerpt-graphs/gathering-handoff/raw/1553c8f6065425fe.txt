@@ -1,0 +1,22 @@
+{
+  "emotional_offer": "Isolation",
+  "emotional_counteroffer": "Fear",
+  "relationship_history": "Implied prior connection",
+  "present_stakes": "Clifford's change and Connie's unease",
+  "dialogue_act_sequence": [],
+  "body_language_counterpoint": "Blank entranced expression",
+  "sensory_channels": [
+    "Radio sound",
+    "Visual observation"
+  ],
+  "narrative_distance_curve": "Close third-person",
+  "physical_logistics": "Connie moving away from Clifford",
+  "agency_actions": [
+    "Connie fleeing",
+    "Clifford listening"
+  ],
+  "relationship_delta": "Deterioration",
+  "story_state_change": "Shift in Clifford's behavior",
+  "intimacy_mode": "nonsexual-pressure",
+  "heat_band": "none"
+}

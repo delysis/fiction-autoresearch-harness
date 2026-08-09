@@ -1,0 +1,32 @@
+{
+  "campaign_hash": "6a23652450acefce75cf0d92b363404b51e173bd0dcd24626c114d0b2ce1da4e",
+  "cell_id": "fulcrum-s01",
+  "complete_story": false,
+  "completed_through_movement": "dyadic-contact",
+  "created_at": "2026-08-08T17:03:30.731628+00:00",
+  "finalist_set_hash": "2c11797b3a22ac76f46fb91fb9f15482ddf53308727f97c9c4eccb66c04ff100",
+  "finalists": [
+    {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v70-s01-seven-movement/loom/fulcrum-s01/assemblies/fulcrum-s01.dyadic-contact.r0.0.1362035.json",
+      "assembly_verified": true,
+      "candidate_id": "fulcrum-s01.dyadic-contact.r0.0.1362035",
+      "selection_score": 6.358441558441558,
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.\n\nA man, it turned out. Maybe twenty-four or twenty-five? In the same gray cotton T-shirt as the welcome pack that she’d carried in her backpack to the gate, with blue-green eyes and a faint smile that seemed to mean nothing at all. She watched his gaze fall past her head to the entryway, then back.\n“Welcome, Mara.”\nHis voice was low and musical. “Hi.” She tried to steady her breathing, to not look so stiffly out of place. She dropped her pack by the door, then took a slow step inside, hands hanging loose and empty.\n“I’m glad you came,” he continued, as though the first words hadn’t been enough.\nShe waited for him to continue, to introduce himself or say something more; she wanted to know who he was and what he did here. But when he didn’t, she cleared her throat and ventured, “Who are you?”\nA faint smile quirked his lips. “That’s not a name,” he said softly.\n“What’s yours, then?”\nHe laughed a little, shaking his head. “Mine?” he asked quietly. “Oh, I guess it depends on what you’d like me to be called.”",
+      "text_hash": "704159e7927a7bb2b11afe1c3a89cfbca2b2052977fc289e6217213c157fa7a6",
+      "word_count": 287
+    },
+    {
+      "assembly_path": "03_scene_lab/runs/prompt-autoresearch-v70-s01-seven-movement/loom/fulcrum-s01/assemblies/fulcrum-s01.dyadic-contact.r0.0.1362069.json",
+      "assembly_verified": true,
+      "candidate_id": "fulcrum-s01.dyadic-contact.r0.0.1362069",
+      "selection_score": 6.329541047188106,
+      "text": "When Mara walked into the common room at six fifteen, someone was already there. Someone younger, it seemed.\nShe couldn’t make out the face behind the blond hair. But the body was fine enough, leaning back on the couch with bare legs crossed and arms flung in opposite directions, one palm pressing the padded wall and the other wrist resting on the low table beside him.\nShe stood stock-still by the doorway for a moment, aware of her breath and of his awareness that she was here. He stirred and tilted his head; a face turned toward her, expressionless.\n\n“I was expecting someone else,” Mara said, still holding her ground, “someone more like a teacher.”\n“A teacher of what?” the blond man asked.\n“Of reading faces or something like that. She’s called Livia Sloane.”\n“Yes.”\n“I don’t think you are Livia.”\nHe smiled at her, slightly, like a cat with an open box. She had seen that expression in online videos.\nShe had studied dozens of those videos over the last week. None of them had actually prepared her for this.\n“Well,” she said, “I’m glad that it’s not her. I don’t know about you, but if I’m going to be stuck in here all night, I’d rather look at you.”\nThe blond man let the smile play a little longer, then glanced away.\n“I’m glad that I’m not the object of your attention.”\nShe realized suddenly how she was standing there in the doorway, so unselfconsciously watchful; how she had been watching him all along with this cold, frank stare, as though he were a display animal in a zoo or a criminal on the witness stand.\nHe was probably used to being stared at that way; it came with the territory. She felt a sudden tenderness and anger toward him for this, an urge to do something kind for him, and also an urge to hurt him.",
+      "text_hash": "2ca3e0c9552918abca520a44ca0458594c62d1c6c8608b572db66a5bf0f5d564",
+      "word_count": 319
+    }
+  ],
+  "recipe_id": "v4-anthology.movement-local-excerpt",
+  "record_type": "LoomFinalists",
+  "trajectory_id": "",
+  "version": "gemma-fiction-autoresearch.v4"
+}
