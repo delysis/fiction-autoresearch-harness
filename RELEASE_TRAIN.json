@@ -1,0 +1,8 @@
+{
+  "active": false,
+  "audited_base_sha": "67b6222347e8ddc675f2bfde68ea260bc78764a4",
+  "promotion_authority": "none",
+  "reason": "archived_quarantine",
+  "repository": "delysis/fiction-autoresearch-harness",
+  "schema_version": "delysis-release-train-membership.v1"
+}

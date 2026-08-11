@@ -1,4 +1,4 @@
-"""Local, reproducible fiction-generation and appraisal harness."""
+"""Archived fiction research records; no active generation authority."""
 
 from .author_schemas import (
     AuthorAffordance,

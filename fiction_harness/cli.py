@@ -4402,13 +4402,10 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: Sequence[str] | None = None) -> int:
-    parser = build_parser()
-    args = parser.parse_args(argv)
-    try:
-        return int(args.func(args))
-    except KeyboardInterrupt:
-        print("Interrupted; completed JSONL records remain resumable.", file=sys.stderr)
-        return 130
-    except Exception as exc:
-        print(f"{type(exc).__name__}: {exc}", file=sys.stderr)
-        return 1
+    del argv
+    print(
+        "ArchivedQuarantine: the legacy generation and promotion CLI is disabled; "
+        "use `python3 -m fiction_harness --help` for diagnostic export commands.",
+        file=sys.stderr,
+    )
+    return 78

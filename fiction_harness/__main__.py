@@ -1,6 +1,6 @@
-"""Run the fiction harness as ``python -m fiction_harness``."""
+"""Diagnostic-only entrypoint for the archived fiction harness."""
 
-from .cli import main
+from .archive_quarantine import main
 
 
 if __name__ == "__main__":
