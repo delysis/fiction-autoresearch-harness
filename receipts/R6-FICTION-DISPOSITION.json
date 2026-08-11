@@ -1,5 +1,6 @@
 {
   "audited_base_sha": "67b6222347e8ddc675f2bfde68ea260bc78764a4",
+  "quarantine_commit_sha": "717a87aef2c17b6d8088b404348cef333e83fca3",
   "decision": "archive",
   "evidence": {
     "baseline_model_free_tests": {
@@ -25,7 +26,7 @@
     }
   },
   "limits": {
-    "commit_created": false,
+    "commit_created": true,
     "github_repository_archived": false,
     "historical_tag_created": true,
     "historical_tag_pushed": false,
