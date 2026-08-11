@@ -30,10 +30,10 @@ bytes, and bind every relative file ID to its size and SHA-256 digest. The Loom
 adapter verifies the export envelope and every copied byte before producing a
 one-way manifest marked `diagnostic_only` and `promotion_eligible: false`.
 
-The legacy generation CLI, direct run scripts, promotion functions, runtime
-launch agents, and historical README instructions are retained only in Git
-history and the audited base. They are unsupported and must not be executed as
-an active release path.
+The legacy direct scripts, promotion functions, runtime launch agents, and
+historical implementation remain in this quarantined tree as evidence. The
+public module CLI exposes only the diagnostic commands above; legacy generation
+is unsupported and must not be executed as an active release path.
 
 ## Steward state and remaining remote actions
 
