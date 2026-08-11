@@ -25,6 +25,12 @@
       "result": "pass"
     }
   },
+  "independent_review": {
+    "documentation_correction_sha": "3a9f2675439f480dd69b059980379881244588b4",
+    "local_archive_acceptance": "approved",
+    "reviewed_revision": "d4da544148677347a020b858c3cc3639f3bbb62d",
+    "remote_archive_acceptance": "open"
+  },
   "limits": {
     "commit_created": true,
     "github_repository_archived": false,
