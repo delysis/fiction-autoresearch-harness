@@ -37,9 +37,11 @@ is unsupported and must not be executed as an active release path.
 
 ## Steward state and remaining remote actions
 
-- The local annotated tag `archive/pre-quarantine-67b6222` now binds the exact
-  audited pre-quarantine commit. It has not been pushed.
-- Mark the GitHub repository archived/read-only.
+- The pushed annotated tag `archive/pre-quarantine-67b6222` binds the exact
+  audited pre-quarantine commit.
+- Merge the draft quarantine PR, then mark the GitHub repository
+  archived/read-only. Archiving before merge would freeze the pre-quarantine
+  default branch.
 - Confirm that every organization-level release manifest excludes this
   repository.
 

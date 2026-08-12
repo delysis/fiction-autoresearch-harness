@@ -35,10 +35,10 @@
     "commit_created": true,
     "github_repository_archived": false,
     "historical_tag_created": true,
-    "historical_tag_pushed": false,
+    "historical_tag_pushed": true,
     "model_runtime_exercised": false,
-    "pull_request_created": false,
-    "push_performed": false
+    "pull_request_created": true,
+    "push_performed": true
   },
   "micro_goal": "R6-FICTION-DISPOSITION",
   "promotion_eligible": false,

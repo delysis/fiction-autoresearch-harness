@@ -14,14 +14,14 @@
   "historical_tag": {
     "created": true,
     "name": "archive/pre-quarantine-67b6222",
-    "pushed": false,
+    "pushed": true,
     "target_sha": "67b6222347e8ddc675f2bfde68ea260bc78764a4"
   },
   "promotion_eligible": false,
   "reason": "The audited harness cannot satisfy every repair gate without a broad security redesign; partial repair would preserve an unsafe active-looking path.",
   "remote_repository": {
     "archived_read_only": false,
-    "reason": "Remote archival is outside this remediation worker's authority; steward action required."
+    "reason": "Draft quarantine PR #1 must merge before archival; archiving the current default branch would freeze the pre-quarantine state."
   },
   "schema_version": "fiction-harness-archive-status.v1",
   "status": "archived_quarantine"
