@@ -1,0 +1,28 @@
+{
+  "active_release_train": false,
+  "audited_base_sha": "67b6222347e8ddc675f2bfde68ea260bc78764a4",
+  "disposition_date": "2026-08-11",
+  "historical_datasets": {
+    "apprenticeship_data": "data/apprenticeship",
+    "project_brief": "00_project_brief",
+    "review_governance": "04_review_governance",
+    "scene_lab_history": "03_scene_lab",
+    "source_library": "01_source_library",
+    "storyworld_canon": "02_storyworld_canon",
+    "trusted_read_bridges": "bridge"
+  },
+  "historical_tag": {
+    "created": true,
+    "name": "archive/pre-quarantine-67b6222",
+    "pushed": true,
+    "target_sha": "67b6222347e8ddc675f2bfde68ea260bc78764a4"
+  },
+  "promotion_eligible": false,
+  "reason": "The audited harness cannot satisfy every repair gate without a broad security redesign; partial repair would preserve an unsafe active-looking path.",
+  "remote_repository": {
+    "archived_read_only": false,
+    "reason": "Draft quarantine PR #1 must merge before archival; archiving the current default branch would freeze the pre-quarantine state."
+  },
+  "schema_version": "fiction-harness-archive-status.v1",
+  "status": "archived_quarantine"
+}

@@ -1,0 +1,49 @@
+{
+  "audited_base_sha": "67b6222347e8ddc675f2bfde68ea260bc78764a4",
+  "quarantine_commit_sha": "717a87aef2c17b6d8088b404348cef333e83fca3",
+  "decision": "archive",
+  "evidence": {
+    "baseline_model_free_tests": {
+      "passed": 441,
+      "result": "pass"
+    },
+    "historical_export": {
+      "bytes": 96606698,
+      "files": 3237,
+      "path": "/Users/george/.codex/worktrees/phase1-r6-fiction-historical-export",
+      "payload_sha256": "d5210cfabac2946a6c078bdd2c638138e52047cc18df68cff2c559e27eb9005d"
+    },
+    "legacy_cli_exit_code": 78,
+    "loom_diagnostic_import": {
+      "files_verified": 3237,
+      "path": "/Users/george/.codex/worktrees/phase1-r6-fiction-loom-diagnostic.json",
+      "promotion_eligible": false,
+      "sha256": "74a08ddf2b43e4cab7e744719265296424a1e3738ee4d7314d6354acbeb682f1"
+    },
+    "post_change_model_free_tests": {
+      "passed": 448,
+      "result": "pass"
+    }
+  },
+  "independent_review": {
+    "documentation_correction_sha": "3a9f2675439f480dd69b059980379881244588b4",
+    "local_archive_acceptance": "approved",
+    "reviewed_revision": "d4da544148677347a020b858c3cc3639f3bbb62d",
+    "remote_archive_acceptance": "open"
+  },
+  "limits": {
+    "commit_created": true,
+    "github_repository_archived": false,
+    "historical_tag_created": true,
+    "historical_tag_pushed": true,
+    "model_runtime_exercised": false,
+    "pull_request_created": true,
+    "push_performed": true
+  },
+  "micro_goal": "R6-FICTION-DISPOSITION",
+  "promotion_eligible": false,
+  "receipt_schema": "delysis-remediation-receipt.v1",
+  "recorded_on": "2026-08-11",
+  "repository": "delysis/fiction-autoresearch-harness",
+  "worktree": "/Users/george/.codex/worktrees/phase1-r6-fiction"
+}
